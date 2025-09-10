@@ -19,10 +19,10 @@ module.exports = {
             max_restarts: 5,
             min_uptime: '10s',
 
-            // Logging
-            log_file: './logs/pm2.log',
-            out_file: './logs/pm2-out.log',
-            error_file: './logs/pm2-error.log',
+            // Logging - separate from triva-server
+            log_file: './logs/botan-pm2.log',
+            out_file: './logs/botan-pm2-out.log',
+            error_file: './logs/botan-pm2-error.log',
             log_date_format: 'YYYY-MM-DD HH:mm:ss Z',
 
             // Process monitoring
