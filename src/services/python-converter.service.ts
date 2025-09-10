@@ -20,9 +20,21 @@ export class PythonConverterService {
     private readonly workingDir: string;
 
     constructor(options: PythonConverterConfig = {}) {
-        this.pythonPath = options.pythonPath || 'python';
+        this.pythonPath = options.pythonPath || this.getDefaultPythonPath();
         this.scriptPath = options.scriptPath || path.join(process.cwd(), 'convert.py');
         this.workingDir = options.workingDir || process.cwd();
+    }
+
+    /**
+     * Get default Python executable based on platform
+     */
+    private getDefaultPythonPath(): string {
+        // On Linux/Unix systems, use python3
+        if (process.platform === 'linux' || process.platform === 'darwin') {
+            return 'python3';
+        }
+        // On Windows, python usually works
+        return 'python';
     }
 
     /**
