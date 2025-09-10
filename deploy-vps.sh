@@ -86,11 +86,17 @@ print_success "Application source code ready from GitHub"
 
 # Install dependencies
 print_status "Installing Node.js dependencies..."
-npm install --production
+npm install
+
+# Install TypeScript globally if not present
+if ! command -v tsc &> /dev/null; then
+    print_status "Installing TypeScript globally..."
+    npm install -g typescript
+fi
 
 # Build the application
 print_status "Building TypeScript application..."
-npm run build
+npx tsc
 
 # Create required directories
 print_status "Creating required directories..."
