@@ -1,0 +1,79 @@
+{
+  "metadata": {
+    "generated_at": "2025-09-10T23:17:04.848563",
+    "client_number": "11788",
+    "data_source": "BotanBot XML Export"
+  },
+  "client_profile": {
+    "client_number": "11788",
+    "search_term": "GRIGORI IVANIAN SAMVEL AK",
+    "status": "Kunde",
+    "tax_number": "",
+    "vat_id": "DK27597467",
+    "is_blocked": false,
+    "price_group": "(Std.-Preis)",
+    "billing_address": {
+      "salutation": "Firma",
+      "name": "Grigori Ivanian / Samvel Akopian",
+      "name3": "",
+      "street": "Norre Voldgade 46",
+      "city": "Kopenhagen",
+      "postal_code": "1358",
+      "country": "Dänemark",
+      "phone": "",
+      "fax": "",
+      "email": ""
+    },
+    "delivery_address": {
+      "salutation": "Firma",
+      "name": "Grigori Ivanian / Samvel Akopian",
+      "name3": "",
+      "street": "Norre Voldgade 46",
+      "city": "Kopenhagen",
+      "postal_code": "1358",
+      "country": "Dänemark",
+      "phone": "",
+      "fax": "",
+      "email": ""
+    },
+    "delivery_schedule": {
+      "monday": "",
+      "tuesday": "",
+      "wednesday": "",
+      "thursday": "",
+      "friday": "",
+      "saturday": ""
+    },
+    "settings": {
+      "webshop_enabled": false,
+      "ds_addresses": false,
+      "no_pickup_app": false,
+      "minimum_order_value": null,
+      "articles_not_in_history": ""
+    },
+    "additional_addresses": [
+      {
+        "address_number": "0",
+        "salutation": "Firma",
+        "name": "Grigori Ivanian / Samvel Akopian",
+        "name3": "",
+        "street": "Norre Voldgade 46",
+        "city": "Kopenhagen",
+        "postal_code": "1358",
+        "country": "Dänemark",
+        "phone": "",
+        "fax": "",
+        "email": "",
+        "is_default_billing": true,
+        "is_default_delivery": true
+      }
+    ]
+  },
+  "order_statistics": {
+    "total_orders": 0,
+    "unique_articles_ordered": 0,
+    "recent_orders_count": 0,
+    "last_order_date": null
+  },
+  "order_history": []
+}

@@ -1,0 +1,79 @@
+{
+  "metadata": {
+    "generated_at": "2025-09-10T23:17:06.860243",
+    "client_number": "76205",
+    "data_source": "BotanBot XML Export"
+  },
+  "client_profile": {
+    "client_number": "76205",
+    "search_term": "THE EXOTICA",
+    "status": "Lieferant",
+    "tax_number": "",
+    "vat_id": "",
+    "is_blocked": false,
+    "price_group": "(Std.-Preis)",
+    "billing_address": {
+      "salutation": "Firma",
+      "name": "The Exotica Company GmbH",
+      "name3": "",
+      "street": "Fischerhof 17",
+      "city": "Hannover",
+      "postal_code": "30449",
+      "country": "Deutschland",
+      "phone": "(05 11) 89 76 55 12",
+      "fax": "(05 11) 89 76 55 35",
+      "email": "info@drink-exotica.de"
+    },
+    "delivery_address": {
+      "salutation": "Firma",
+      "name": "The Exotica Company GmbH",
+      "name3": "",
+      "street": "Fischerhof 17",
+      "city": "Hannover",
+      "postal_code": "30449",
+      "country": "Deutschland",
+      "phone": "(05 11) 89 76 55 12",
+      "fax": "(05 11) 89 76 55 35",
+      "email": "info@drink-exotica.de"
+    },
+    "delivery_schedule": {
+      "monday": "",
+      "tuesday": "",
+      "wednesday": "",
+      "thursday": "",
+      "friday": "",
+      "saturday": ""
+    },
+    "settings": {
+      "webshop_enabled": false,
+      "ds_addresses": false,
+      "no_pickup_app": false,
+      "minimum_order_value": null,
+      "articles_not_in_history": ""
+    },
+    "additional_addresses": [
+      {
+        "address_number": "0",
+        "salutation": "Firma",
+        "name": "The Exotica Company GmbH",
+        "name3": "",
+        "street": "Fischerhof 17",
+        "city": "Hannover",
+        "postal_code": "30449",
+        "country": "Deutschland",
+        "phone": "(05 11) 89 76 55 12",
+        "fax": "(05 11) 89 76 55 35",
+        "email": "info@drink-exotica.de",
+        "is_default_billing": true,
+        "is_default_delivery": true
+      }
+    ]
+  },
+  "order_statistics": {
+    "total_orders": 0,
+    "unique_articles_ordered": 0,
+    "recent_orders_count": 0,
+    "last_order_date": null
+  },
+  "order_history": []
+}

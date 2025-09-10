@@ -1,0 +1,79 @@
+{
+  "metadata": {
+    "generated_at": "2025-09-10T23:17:06.657451",
+    "client_number": "17679",
+    "data_source": "BotanBot XML Export"
+  },
+  "client_profile": {
+    "client_number": "17679",
+    "search_term": "HYPE BITE",
+    "status": "Kunde",
+    "tax_number": "",
+    "vat_id": "",
+    "is_blocked": false,
+    "price_group": "(Std.-Preis)",
+    "billing_address": {
+      "salutation": "",
+      "name": "Hype Bite",
+      "name3": "Ramezan Hassan",
+      "street": "Hansering 35",
+      "city": "Lübeck",
+      "postal_code": "23558",
+      "country": "Deutschland",
+      "phone": "(01 76) 20 40 70 33",
+      "fax": "",
+      "email": "info@hype-bite.de"
+    },
+    "delivery_address": {
+      "salutation": "",
+      "name": "Hype Bite",
+      "name3": "Ramezan Hassan",
+      "street": "Hansering 35",
+      "city": "Lübeck",
+      "postal_code": "23558",
+      "country": "Deutschland",
+      "phone": "(01 76) 20 40 70 33",
+      "fax": "",
+      "email": "info@hype-bite.de"
+    },
+    "delivery_schedule": {
+      "monday": "",
+      "tuesday": "",
+      "wednesday": "7",
+      "thursday": "",
+      "friday": "",
+      "saturday": ""
+    },
+    "settings": {
+      "webshop_enabled": false,
+      "ds_addresses": false,
+      "no_pickup_app": false,
+      "minimum_order_value": null,
+      "articles_not_in_history": ""
+    },
+    "additional_addresses": [
+      {
+        "address_number": "0",
+        "salutation": "",
+        "name": "Hype Bite",
+        "name3": "Ramezan Hassan",
+        "street": "Hansering 35",
+        "city": "Lübeck",
+        "postal_code": "23558",
+        "country": "Deutschland",
+        "phone": "(01 76) 20 40 70 33",
+        "fax": "",
+        "email": "info@hype-bite.de",
+        "is_default_billing": true,
+        "is_default_delivery": true
+      }
+    ]
+  },
+  "order_statistics": {
+    "total_orders": 0,
+    "unique_articles_ordered": 0,
+    "recent_orders_count": 0,
+    "last_order_date": null
+  },
+  "order_history": []
+}

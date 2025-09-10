@@ -1,0 +1,94 @@
+{
+  "metadata": {
+    "generated_at": "2025-09-10T23:17:06.060172",
+    "client_number": "16083",
+    "data_source": "BotanBot XML Export"
+  },
+  "client_profile": {
+    "client_number": "16083",
+    "search_term": "NORTHLAND POWER EUROPE",
+    "status": "Kunde",
+    "tax_number": "HRB 141712",
+    "vat_id": "DE311661169",
+    "is_blocked": false,
+    "price_group": "(Std.-Preis)",
+    "billing_address": {
+      "salutation": "",
+      "name": "Northland Power Europe GmbH",
+      "name3": "Tower am Michel",
+      "street": "Ludwig-Erhard-Strasse 22",
+      "city": "Hamburg",
+      "postal_code": "20459",
+      "country": "Deutschland",
+      "phone": "(0 40) 4 66 66 62 25",
+      "fax": "",
+      "email": "petra.roll@northlandpower.com"
+    },
+    "delivery_address": {
+      "salutation": "Firma",
+      "name": "Northland Power Europe GmbH",
+      "name3": "",
+      "street": "Stegen 1",
+      "city": "Rendsburg",
+      "postal_code": "24768",
+      "country": "Deutschland",
+      "phone": "(0 40) 4 66 66 62 25",
+      "fax": "",
+      "email": "petra.roll@northlandpower.com"
+    },
+    "delivery_schedule": {
+      "monday": "",
+      "tuesday": "",
+      "wednesday": "",
+      "thursday": "",
+      "friday": "4",
+      "saturday": ""
+    },
+    "settings": {
+      "webshop_enabled": false,
+      "ds_addresses": false,
+      "no_pickup_app": false,
+      "minimum_order_value": null,
+      "articles_not_in_history": ""
+    },
+    "additional_addresses": [
+      {
+        "address_number": "0",
+        "salutation": "",
+        "name": "Northland Power Europe GmbH",
+        "name3": "Tower am Michel",
+        "street": "Ludwig-Erhard-Strasse 22",
+        "city": "Hamburg",
+        "postal_code": "20459",
+        "country": "Deutschland",
+        "phone": "(0 40) 4 66 66 62 25",
+        "fax": "",
+        "email": "petra.roll@northlandpower.com",
+        "is_default_billing": true,
+        "is_default_delivery": false
+      },
+      {
+        "address_number": "1",
+        "salutation": "Firma",
+        "name": "Northland Power Europe GmbH",
+        "name3": "",
+        "street": "Stegen 1",
+        "city": "Rendsburg",
+        "postal_code": "24768",
+        "country": "Deutschland",
+        "phone": "(0 40) 4 66 66 62 25",
+        "fax": "",
+        "email": "petra.roll@northlandpower.com",
+        "is_default_billing": false,
+        "is_default_delivery": true
+      }
+    ]
+  },
+  "order_statistics": {
+    "total_orders": 0,
+    "unique_articles_ordered": 0,
+    "recent_orders_count": 0,
+    "last_order_date": null
+  },
+  "order_history": []
+}

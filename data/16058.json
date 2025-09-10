@@ -1,0 +1,94 @@
+{
+  "metadata": {
+    "generated_at": "2025-09-10T23:17:06.053167",
+    "client_number": "16058",
+    "data_source": "BotanBot XML Export"
+  },
+  "client_profile": {
+    "client_number": "16058",
+    "search_term": "TANDOORI",
+    "status": "Kunde",
+    "tax_number": "",
+    "vat_id": "",
+    "is_blocked": false,
+    "price_group": "(Std.-Preis)",
+    "billing_address": {
+      "salutation": "",
+      "name": "N&Y Concepte GmbH",
+      "name3": "",
+      "street": "Hans Bredow Str. 19",
+      "city": "Bremen",
+      "postal_code": "28307",
+      "country": "Deutschland",
+      "phone": "(01 76) 57 79 08 54",
+      "fax": "",
+      "email": "yaser_arbabi@yahoo.com"
+    },
+    "delivery_address": {
+      "salutation": "",
+      "name": "Tandoori",
+      "name3": "Inh. Yari",
+      "street": "Gänsemarkt 1",
+      "city": "Neumünster",
+      "postal_code": "24534",
+      "country": "Deutschland",
+      "phone": "(01 76) 57 79 08 54",
+      "fax": "",
+      "email": ""
+    },
+    "delivery_schedule": {
+      "monday": "",
+      "tuesday": "",
+      "wednesday": "",
+      "thursday": "",
+      "friday": "",
+      "saturday": ""
+    },
+    "settings": {
+      "webshop_enabled": false,
+      "ds_addresses": false,
+      "no_pickup_app": false,
+      "minimum_order_value": null,
+      "articles_not_in_history": ""
+    },
+    "additional_addresses": [
+      {
+        "address_number": "0",
+        "salutation": "",
+        "name": "N&Y Concepte GmbH",
+        "name3": "",
+        "street": "Hans Bredow Str. 19",
+        "city": "Bremen",
+        "postal_code": "28307",
+        "country": "Deutschland",
+        "phone": "(01 76) 57 79 08 54",
+        "fax": "",
+        "email": "yaser_arbabi@yahoo.com",
+        "is_default_billing": true,
+        "is_default_delivery": false
+      },
+      {
+        "address_number": "1",
+        "salutation": "",
+        "name": "Tandoori",
+        "name3": "Inh. Yari",
+        "street": "Gänsemarkt 1",
+        "city": "Neumünster",
+        "postal_code": "24534",
+        "country": "Deutschland",
+        "phone": "(01 76) 57 79 08 54",
+        "fax": "",
+        "email": "",
+        "is_default_billing": false,
+        "is_default_delivery": true
+      }
+    ]
+  },
+  "order_statistics": {
+    "total_orders": 0,
+    "unique_articles_ordered": 0,
+    "recent_orders_count": 0,
+    "last_order_date": null
+  },
+  "order_history": []
+}

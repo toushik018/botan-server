@@ -1,0 +1,483 @@
+{
+  "metadata": {
+    "generated_at": "2025-09-10T23:17:05.980594",
+    "client_number": "15831",
+    "data_source": "BotanBot XML Export"
+  },
+  "client_profile": {
+    "client_number": "15831",
+    "search_term": "DOMUNDO RESTAURANTE",
+    "status": "Kunde",
+    "tax_number": "",
+    "vat_id": "",
+    "is_blocked": false,
+    "price_group": "(Std.-Preis)",
+    "billing_address": {
+      "salutation": "",
+      "name": "Burger Bro",
+      "name3": "Ilyas Sala",
+      "street": "Hannoversche Strasse 86 (Phönix Center)",
+      "city": "Hamburg",
+      "postal_code": "21079",
+      "country": "Deutschland",
+      "phone": "(01 70) 8 78 50 00",
+      "fax": "",
+      "email": "ilyas-sala@hotmail.com"
+    },
+    "delivery_address": {
+      "salutation": "",
+      "name": "Burger Bro",
+      "name3": "Ilyas Sala",
+      "street": "Hannoversche Strasse 86 (Phönix Center)",
+      "city": "Hamburg",
+      "postal_code": "21079",
+      "country": "Deutschland",
+      "phone": "(01 70) 8 78 50 00",
+      "fax": "",
+      "email": "ilyas-sala@hotmail.com"
+    },
+    "delivery_schedule": {
+      "monday": "",
+      "tuesday": "",
+      "wednesday": "",
+      "thursday": "8",
+      "friday": "",
+      "saturday": ""
+    },
+    "settings": {
+      "webshop_enabled": true,
+      "ds_addresses": false,
+      "no_pickup_app": false,
+      "minimum_order_value": null,
+      "articles_not_in_history": ""
+    },
+    "additional_addresses": [
+      {
+        "address_number": "0",
+        "salutation": "",
+        "name": "Burger Bro",
+        "name3": "Ilyas Sala",
+        "street": "Hannoversche Strasse 86 (Phönix Center)",
+        "city": "Hamburg",
+        "postal_code": "21079",
+        "country": "Deutschland",
+        "phone": "(01 70) 8 78 50 00",
+        "fax": "",
+        "email": "ilyas-sala@hotmail.com",
+        "is_default_billing": true,
+        "is_default_delivery": true
+      }
+    ]
+  },
+  "order_statistics": {
+    "total_orders": 31,
+    "unique_articles_ordered": 31,
+    "recent_orders_count": 31,
+    "last_order_date": "2025-08-21"
+  },
+  "order_history": [
+    {
+      "article_number": "2208",
+      "date": "2025-08-21",
+      "booking_quantity": 95.0,
+      "quantity": 95.0,
+      "unit": "Beutel 1",
+      "article_info": {
+        "short_description": "Crunchy Chicken Patties Cornflakes 950g/Beutel",
+        "long_description": "Crunchy Chicken Patties mit Cornflakes 950g/BT",
+        "product_group": "05.05.20.05 TK",
+        "unit": "BT"
+      }
+    },
+    {
+      "article_number": "1882",
+      "date": "2025-08-21",
+      "booking_quantity": 136.0,
+      "quantity": 136.0,
+      "unit": "Pack 1",
+      "article_info": {
+        "short_description": "Schmelzkäse Cheddar in Scheiben  1,082 kg",
+        "long_description": "Schmelzkäse Cheddar in Scheiben 1,082 kg",
+        "product_group": "05.15.05.10.20 Frisch- und Schmelzkäse",
+        "unit": "PK"
+      }
+    },
+    {
+      "article_number": "23342",
+      "date": "2025-08-21",
+      "booking_quantity": 58.0,
+      "quantity": 58.0,
+      "unit": "Kiste",
+      "article_info": {
+        "short_description": "Pfand = 3,42 € 24er  0,33l (24x0,08+1,50)",
+        "long_description": "Pfand = 3,42 € 24er 0,33l (24 x 0,08 + 1,50)",
+        "product_group": "90.05 Pfand",
+        "unit": "ST"
+      }
+    },
+    {
+      "article_number": "8916",
+      "date": "2025-08-21",
+      "booking_quantity": 96.0,
+      "quantity": 4.0,
+      "unit": "KI 24",
+      "article_info": {
+        "short_description": "Fritz Orange 24 x 0,33 l  Flaschen",
+        "long_description": "Fritz Orange 24 x 0,33 l Flasche",
+        "product_group": "15.05.10 0,3 l und 0,33 l Flasche MWK",
+        "unit": "FL"
+      }
+    },
+    {
+      "article_number": "8910",
+      "date": "2025-08-21",
+      "booking_quantity": 144.0,
+      "quantity": 6.0,
+      "unit": "KI 24",
+      "article_info": {
+        "short_description": "Fritz Apfel Kirsch Holunder 24 x 0,33 l  Flaschen",
+        "long_description": "Fritz Apfel Kirsch Holunder 24 x 0,33 l  Flaschen",
+        "product_group": "15.05.10 0,3 l und 0,33 l Flasche MWK",
+        "unit": "FL"
+      }
+    },
+    {
+      "article_number": "8912",
+      "date": "2025-08-21",
+      "booking_quantity": 432.0,
+      "quantity": 18.0,
+      "unit": "KI 24",
+      "article_info": {
+        "short_description": "Fritz Kola 24 x 0,33 l  Flaschen",
+        "long_description": "Fritz Kola 24 x 0,33 l Flasche",
+        "product_group": "15.05.10 0,3 l und 0,33 l Flasche MWK",
+        "unit": "FL"
+      }
+    },
+    {
+      "article_number": "1343",
+      "date": "2025-08-21",
+      "booking_quantity": 190.0,
+      "quantity": 19.0,
+      "unit": "Eimer 10 kg",
+      "article_info": {
+        "short_description": "Tomatenketchup \"Gold\"  10 Kg",
+        "long_description": "Gold Tomaten-Ketchup 10 kg",
+        "product_group": "05.45.10 Ketchup",
+        "unit": "KG"
+      }
+    },
+    {
+      "article_number": "9057",
+      "date": "2025-08-21",
+      "booking_quantity": 490.0,
+      "quantity": 49.0,
+      "unit": "Eimer 10 kg",
+      "article_info": {
+        "short_description": "Spezial Mayonaise 50 %  10 KG Eimer",
+        "long_description": "Spezial Mayonnaise 50 % 10 kg Eimer",
+        "product_group": "05.45.05 Mayonnaise",
+        "unit": "KG"
+      }
+    },
+    {
+      "article_number": "2601",
+      "date": "2025-08-21",
+      "booking_quantity": 192.0,
+      "quantity": 8.0,
+      "unit": "KI 24",
+      "article_info": {
+        "short_description": "Viva con Agua \"leise\" 24 x 0,33 l FL ohne Kohlens.",
+        "long_description": "Viva con Agua \"leise\" 24 x 0,33 l FL ohne Kohlens.",
+        "product_group": "15.05.10 0,3 l und 0,33 l Flasche MWK",
+        "unit": "FL"
+      }
+    },
+    {
+      "article_number": "8930",
+      "date": "2025-08-21",
+      "booking_quantity": 192.0,
+      "quantity": 8.0,
+      "unit": "KI 24",
+      "article_info": {
+        "short_description": "Fritz Superzero 24x0,33 l  Fl.",
+        "long_description": "Fritz Superzero  24x0,33 l Flasche",
+        "product_group": "15.05.10 0,3 l und 0,33 l Flasche MWK",
+        "unit": "FL"
+      }
+    },
+    {
+      "article_number": "8917",
+      "date": "2025-08-21",
+      "booking_quantity": 120.0,
+      "quantity": 5.0,
+      "unit": "KI 24",
+      "article_info": {
+        "short_description": "Fritz Zitrone trüb 24 x 0,33 l  Flaschen",
+        "long_description": "Fritz Zitrone trüb 24 x 0,33 l Flasche",
+        "product_group": "15.05.10 0,3 l und 0,33 l Flasche MWK",
+        "unit": "FL"
+      }
+    },
+    {
+      "article_number": "8915",
+      "date": "2025-08-21",
+      "booking_quantity": 192.0,
+      "quantity": 8.0,
+      "unit": "KI 24",
+      "article_info": {
+        "short_description": "Fritz Honigmelone 24 x 0,33 l  Flaschen",
+        "long_description": "Fritz Honigmelone 24 x 0,33 l Flasche",
+        "product_group": "15.05.10 0,3 l und 0,33 l Flasche MWK",
+        "unit": "FL"
+      }
+    },
+    {
+      "article_number": "1390",
+      "date": "2025-08-21",
+      "booking_quantity": 70.0,
+      "quantity": 7.0,
+      "unit": "Sack 10 kg",
+      "article_info": {
+        "short_description": "Rote Zwiebeln 10 kg Sack",
+        "long_description": "Rote Zwiebeln 10 kg Sack",
+        "product_group": "05.35.05 Frischgemüse",
+        "unit": "KG"
+      }
+    },
+    {
+      "article_number": "230150",
+      "date": "2025-08-15",
+      "booking_quantity": -26.0,
+      "quantity": -26.0,
+      "unit": "KI 1",
+      "article_info": {
+        "short_description": "Rücknahme Pfand Kiste",
+        "long_description": "Rücknahme Pfand Kiste",
+        "product_group": "90.05 Pfand",
+        "unit": "ST"
+      }
+    },
+    {
+      "article_number": "230342",
+      "date": "2025-08-15",
+      "booking_quantity": -4.0,
+      "quantity": -4.0,
+      "unit": "ST",
+      "article_info": {
+        "short_description": "Rücknahme Pfand=3,42 €(24x0,33 l Bier)",
+        "long_description": "Rücknahme Pfand=3,42 €(24x0,33 l Bier)",
+        "product_group": "90.05 Pfand",
+        "unit": "ST"
+      }
+    },
+    {
+      "article_number": "2037",
+      "date": "2025-08-14",
+      "booking_quantity": 39.0,
+      "quantity": 13.0,
+      "unit": "Karton 3 kg",
+      "article_info": {
+        "short_description": "Chicken-Burger paniert  70g  3kg  KT",
+        "long_description": "Chicken Burger paniert 70 g",
+        "product_group": "05.05.20.05 TK",
+        "unit": "KG"
+      }
+    },
+    {
+      "article_number": "1589",
+      "date": "2025-08-14",
+      "booking_quantity": 23.0,
+      "quantity": 23.0,
+      "unit": "Dose 1 Stk.",
+      "article_info": {
+        "short_description": "Jalapeno Scheiben  3/1 Dose",
+        "long_description": "Jalapenos in Scheiben 3/1 Dose",
+        "product_group": "05.25.30 Konserven",
+        "unit": "DS"
+      }
+    },
+    {
+      "article_number": "1864",
+      "date": "2025-08-14",
+      "booking_quantity": 15.0,
+      "quantity": 6.0,
+      "unit": "Beutel 2,5 kg",
+      "article_info": {
+        "short_description": "Twister, gewürzt 2,5 Kg  BT TK",
+        "long_description": "Twister gewürzt 4 x 2,5 kg/Beutel TK",
+        "product_group": "05.30.10 weitere",
+        "unit": "KG"
+      }
+    },
+    {
+      "article_number": "2472",
+      "date": "2025-08-14",
+      "booking_quantity": 0.5,
+      "quantity": 1.0,
+      "unit": "Pack 0,5 kg",
+      "article_info": {
+        "short_description": "Rinderbacon geschnitten 0,5 Kg",
+        "long_description": "Rinderbacon geschnitten 0,5 Kg",
+        "product_group": "05.05.05.10 Frisch",
+        "unit": "KG"
+      }
+    },
+    {
+      "article_number": "1435",
+      "date": "2025-08-14",
+      "booking_quantity": 1.0,
+      "quantity": 1.0,
+      "unit": "Pack 1",
+      "article_info": {
+        "short_description": "Knoblauchgranulat 1 kg",
+        "long_description": "Knoblauchgranulat 1 kg",
+        "product_group": "05.25.35 Gewürze",
+        "unit": "KG"
+      }
+    },
+    {
+      "article_number": "1403",
+      "date": "2025-08-14",
+      "booking_quantity": 2.0,
+      "quantity": 2.0,
+      "unit": "Pack 1",
+      "article_info": {
+        "short_description": "Röst Zwiebeln 500g",
+        "long_description": "Röstzwiebeln 500 g",
+        "product_group": "05.25.35 Gewürze",
+        "unit": "PK"
+      }
+    },
+    {
+      "article_number": "1115",
+      "date": "2025-08-07",
+      "booking_quantity": 1.0,
+      "quantity": 1.0,
+      "unit": "Karton 1",
+      "article_info": {
+        "short_description": "Präge-Servietten,1/4-Falz weiß 33x33cm 4000 Stk.",
+        "long_description": "Präge-Servietten,1/4-Falz weiß 33x33cm 4000 Stk.",
+        "product_group": "10.05.55 Servietten",
+        "unit": "KT"
+      }
+    },
+    {
+      "article_number": "1842",
+      "date": "2025-07-31",
+      "booking_quantity": 2.0,
+      "quantity": 2.0,
+      "unit": "Karton",
+      "article_info": {
+        "short_description": "Strauchtomaten  5 kg Kiste",
+        "long_description": "Strauchtomaten  5 kg Kiste",
+        "product_group": "05.35.05 Frischgemüse",
+        "unit": "KT"
+      }
+    },
+    {
+      "article_number": "3081",
+      "date": "2025-07-24",
+      "booking_quantity": 25.0,
+      "quantity": 10.0,
+      "unit": "Beutel 2,5 kg",
+      "article_info": {
+        "short_description": "Criss Cuts, gewürzt  2,5 Kg  BT TK",
+        "long_description": "Criss Cuts, gewürzt  2,5 Kg  BT TK",
+        "product_group": "05.30.10 weitere",
+        "unit": "KG"
+      }
+    },
+    {
+      "article_number": "1258",
+      "date": "2025-07-24",
+      "booking_quantity": 1.0,
+      "quantity": 1.0,
+      "unit": "Flasche 1",
+      "article_info": {
+        "short_description": "Sriracha Chilisauce extra scharf 730 ml Flasche",
+        "long_description": "Sriracha Chilisauce extra scharf 730 ml Flasche",
+        "product_group": "05.20.05 ASIA-Produkte",
+        "unit": "FL"
+      }
+    },
+    {
+      "article_number": "1093",
+      "date": "2025-06-26",
+      "booking_quantity": 1.0,
+      "quantity": 1.0,
+      "unit": "Flasche 1",
+      "article_info": {
+        "short_description": "Sriracha Chilisauce 730 ml Flasche \"Flying Goose\"",
+        "long_description": "Sriracha Chilisauce 730 ml Flasche \"Flying Goose\"",
+        "product_group": "05.20.05 ASIA-Produkte",
+        "unit": "FL"
+      }
+    },
+    {
+      "article_number": "1972",
+      "date": "2025-06-12",
+      "booking_quantity": 20.0,
+      "quantity": 2.0,
+      "unit": "Pack 10 Stk.",
+      "article_info": {
+        "short_description": "Sunny Veggie Gemüse Burger 10x130g / Beutel",
+        "long_description": "Sunny Veggie Gemüseburger 10 x 130 g/Beutel",
+        "product_group": "05.40.15 Convenience Food",
+        "unit": "ST"
+      }
+    },
+    {
+      "article_number": "1375",
+      "date": "2025-06-05",
+      "booking_quantity": 20.0,
+      "quantity": 8.0,
+      "unit": "Beutel 2,5 kg",
+      "article_info": {
+        "short_description": "Potato Wedges TK gewür. 2,5 kg",
+        "long_description": "Potato Wedges gewürzt  2,5 kg TK",
+        "product_group": "05.30.10 weitere",
+        "unit": "KG"
+      }
+    },
+    {
+      "article_number": "2536",
+      "date": "2025-06-05",
+      "booking_quantity": 2.0,
+      "quantity": 2.0,
+      "unit": "Beutel 1 kg",
+      "article_info": {
+        "short_description": "Helal Chicken Nuggets (Super Chick) 1 kg",
+        "long_description": "Chicken Nuggets (Super Chick) 1 kg halal",
+        "product_group": "05.05.20.05 TK",
+        "unit": "KG"
+      }
+    },
+    {
+      "article_number": "8913",
+      "date": "2025-05-30",
+      "booking_quantity": 24.0,
+      "quantity": 1.0,
+      "unit": "KI 24",
+      "article_info": {
+        "short_description": "Fritz Kola Zuckerfrei  24 x 0,33 l  Flaschen",
+        "long_description": "Fritz Kola Zuckerfrei 24 x 0,33 l Flasche",
+        "product_group": "15.05.10 0,3 l und 0,33 l Flasche MWK",
+        "unit": "FL"
+      }
+    },
+    {
+      "article_number": "9822",
+      "date": "2025-05-30",
+      "booking_quantity": 1.0,
+      "quantity": 1.0,
+      "unit": "Tube 1",
+      "article_info": {
+        "short_description": "Develey Süss Sauer Sauce 875ml Tube",
+        "long_description": "Develey Süss Sauer Sauce 875ml Tube",
+        "product_group": "05.45.15 Dips und Saucen",
+        "unit": "TB"
+      }
+    }
+  ]
+}

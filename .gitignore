@@ -108,13 +108,15 @@ dist
 Thumbs.db
 
 # Project specific
-data/
-*.json
+# Commented out to allow data directories and products.json in repo
+# data/
+# *.json
 !package*.json
 !tsconfig*.json
 !jest.config.js
+!products.json
+!data/**/*.json
 conversion_summary.json
-products.json
 
 # Python
 __pycache__/

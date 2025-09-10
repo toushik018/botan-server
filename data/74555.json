@@ -1,0 +1,79 @@
+{
+  "metadata": {
+    "generated_at": "2025-09-10T23:17:06.781658",
+    "client_number": "74555",
+    "data_source": "BotanBot XML Export"
+  },
+  "client_profile": {
+    "client_number": "74555",
+    "search_term": "AYYO VERTRIEBS",
+    "status": "Lieferant",
+    "tax_number": "11157461064",
+    "vat_id": "DE290897035",
+    "is_blocked": false,
+    "price_group": "(Std.-Preis)",
+    "billing_address": {
+      "salutation": "",
+      "name": "Ayyo Vertriebs GmbH",
+      "name3": "",
+      "street": "Johanniskirchstrasse 100",
+      "city": "Essen",
+      "postal_code": "45329",
+      "country": "Deutschland",
+      "phone": "(02 01) 83 34 60",
+      "fax": "(02 01) 8 33 46 20",
+      "email": "verkauf@ayyo.de"
+    },
+    "delivery_address": {
+      "salutation": "",
+      "name": "Ayyo Vertriebs GmbH",
+      "name3": "",
+      "street": "Johanniskirchstrasse 100",
+      "city": "Essen",
+      "postal_code": "45329",
+      "country": "Deutschland",
+      "phone": "(02 01) 83 34 60",
+      "fax": "(02 01) 8 33 46 20",
+      "email": "verkauf@ayyo.de"
+    },
+    "delivery_schedule": {
+      "monday": "",
+      "tuesday": "",
+      "wednesday": "",
+      "thursday": "",
+      "friday": "",
+      "saturday": ""
+    },
+    "settings": {
+      "webshop_enabled": false,
+      "ds_addresses": false,
+      "no_pickup_app": false,
+      "minimum_order_value": null,
+      "articles_not_in_history": ""
+    },
+    "additional_addresses": [
+      {
+        "address_number": "0",
+        "salutation": "",
+        "name": "Ayyo Vertriebs GmbH",
+        "name3": "",
+        "street": "Johanniskirchstrasse 100",
+        "city": "Essen",
+        "postal_code": "45329",
+        "country": "Deutschland",
+        "phone": "(02 01) 83 34 60",
+        "fax": "(02 01) 8 33 46 20",
+        "email": "verkauf@ayyo.de",
+        "is_default_billing": true,
+        "is_default_delivery": true
+      }
+    ]
+  },
+  "order_statistics": {
+    "total_orders": 0,
+    "unique_articles_ordered": 0,
+    "recent_orders_count": 0,
+    "last_order_date": null
+  },
+  "order_history": []
+}

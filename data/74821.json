@@ -1,0 +1,94 @@
+{
+  "metadata": {
+    "generated_at": "2025-09-10T23:17:06.798190",
+    "client_number": "74821",
+    "data_source": "BotanBot XML Export"
+  },
+  "client_profile": {
+    "client_number": "74821",
+    "search_term": "BELLITALIA",
+    "status": "Lieferant",
+    "tax_number": "",
+    "vat_id": "",
+    "is_blocked": false,
+    "price_group": "(Std.-Preis)",
+    "billing_address": {
+      "salutation": "Firma",
+      "name": "Bellitalia GmbH",
+      "name3": "KD nr 11057",
+      "street": "Röntgenstr. 6",
+      "city": "Erlensee-Gewerbepark",
+      "postal_code": "63526",
+      "country": "Deutschland",
+      "phone": "(0 61 83) 8 00 42 11",
+      "fax": "(0 61 83) 8 00 42 29",
+      "email": ""
+    },
+    "delivery_address": {
+      "salutation": "Firma",
+      "name": "Bellitalia GmbH",
+      "name3": "KD nr 11057",
+      "street": "Röntgenstr. 6",
+      "city": "Erlensee-Gewerbepark",
+      "postal_code": "63526",
+      "country": "Deutschland",
+      "phone": "(0 61 83) 8 00 42 11",
+      "fax": "(0 61 83) 8 00 42 29",
+      "email": ""
+    },
+    "delivery_schedule": {
+      "monday": "",
+      "tuesday": "",
+      "wednesday": "",
+      "thursday": "",
+      "friday": "",
+      "saturday": ""
+    },
+    "settings": {
+      "webshop_enabled": false,
+      "ds_addresses": false,
+      "no_pickup_app": false,
+      "minimum_order_value": null,
+      "articles_not_in_history": ""
+    },
+    "additional_addresses": [
+      {
+        "address_number": "0",
+        "salutation": "Firma",
+        "name": "Bellitalia GmbH",
+        "name3": "KD nr 11057",
+        "street": "Röntgenstr. 6",
+        "city": "Erlensee-Gewerbepark",
+        "postal_code": "63526",
+        "country": "Deutschland",
+        "phone": "(0 61 83) 8 00 42 11",
+        "fax": "(0 61 83) 8 00 42 29",
+        "email": "",
+        "is_default_billing": true,
+        "is_default_delivery": false
+      },
+      {
+        "address_number": "1",
+        "salutation": "Firma",
+        "name": "Bellitalia GmbH",
+        "name3": "KD nr 11057",
+        "street": "Röntgenstr. 6",
+        "city": "Erlensee-Gewerbepark",
+        "postal_code": "63526",
+        "country": "Deutschland",
+        "phone": "(0 61 83) 8 00 42 11",
+        "fax": "(0 61 83) 8 00 42 29",
+        "email": "",
+        "is_default_billing": false,
+        "is_default_delivery": true
+      }
+    ]
+  },
+  "order_statistics": {
+    "total_orders": 0,
+    "unique_articles_ordered": 0,
+    "recent_orders_count": 0,
+    "last_order_date": null
+  },
+  "order_history": []
+}

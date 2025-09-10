@@ -1,0 +1,79 @@
+{
+  "metadata": {
+    "generated_at": "2025-09-10T23:17:06.848735",
+    "client_number": "75905",
+    "data_source": "BotanBot XML Export"
+  },
+  "client_profile": {
+    "client_number": "75905",
+    "search_term": "STRATZ",
+    "status": "Lieferant",
+    "tax_number": "",
+    "vat_id": "",
+    "is_blocked": false,
+    "price_group": "(Std.-Preis)",
+    "billing_address": {
+      "salutation": "Firma",
+      "name": "Carl Stratz GmbH & Co. KG",
+      "name3": "Kd.-Nr. 104479",
+      "street": "Otto-Flath-Strasse 12-14",
+      "city": "Melsdorf",
+      "postal_code": "24109",
+      "country": "Deutschland",
+      "phone": "(0 43 40) 79 29 10",
+      "fax": "",
+      "email": "info@stratz.de"
+    },
+    "delivery_address": {
+      "salutation": "Firma",
+      "name": "Carl Stratz GmbH & Co. KG",
+      "name3": "Kd.-Nr. 104479",
+      "street": "Otto-Flath-Strasse 12-14",
+      "city": "Melsdorf",
+      "postal_code": "24109",
+      "country": "Deutschland",
+      "phone": "(0 43 40) 79 29 10",
+      "fax": "",
+      "email": "info@stratz.de"
+    },
+    "delivery_schedule": {
+      "monday": "",
+      "tuesday": "",
+      "wednesday": "",
+      "thursday": "",
+      "friday": "",
+      "saturday": ""
+    },
+    "settings": {
+      "webshop_enabled": false,
+      "ds_addresses": false,
+      "no_pickup_app": false,
+      "minimum_order_value": null,
+      "articles_not_in_history": ""
+    },
+    "additional_addresses": [
+      {
+        "address_number": "0",
+        "salutation": "Firma",
+        "name": "Carl Stratz GmbH & Co. KG",
+        "name3": "Kd.-Nr. 104479",
+        "street": "Otto-Flath-Strasse 12-14",
+        "city": "Melsdorf",
+        "postal_code": "24109",
+        "country": "Deutschland",
+        "phone": "(0 43 40) 79 29 10",
+        "fax": "",
+        "email": "info@stratz.de",
+        "is_default_billing": true,
+        "is_default_delivery": true
+      }
+    ]
+  },
+  "order_statistics": {
+    "total_orders": 0,
+    "unique_articles_ordered": 0,
+    "recent_orders_count": 0,
+    "last_order_date": null
+  },
+  "order_history": []
+}

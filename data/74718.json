@@ -1,0 +1,79 @@
+{
+  "metadata": {
+    "generated_at": "2025-09-10T23:17:06.791172",
+    "client_number": "74718",
+    "data_source": "BotanBot XML Export"
+  },
+  "client_profile": {
+    "client_number": "74718",
+    "search_term": "GEHRING-BUNTE",
+    "status": "Lieferant",
+    "tax_number": "",
+    "vat_id": "",
+    "is_blocked": false,
+    "price_group": "(Std.-Preis)",
+    "billing_address": {
+      "salutation": "Firma",
+      "name": "Gehring-Bunte",
+      "name3": "Getränkeindustrie GmbH & Co. KG",
+      "street": "Brockenhagener Str. 200",
+      "city": "Bielefeld",
+      "postal_code": "33613",
+      "country": "Deutschland",
+      "phone": "(05 21) 55 61 42 20",
+      "fax": "(05 21) 48 90 15 68",
+      "email": "timo.rohleder@gehring-bunte.de"
+    },
+    "delivery_address": {
+      "salutation": "Firma",
+      "name": "Gehring-Bunte",
+      "name3": "Getränkeindustrie GmbH & Co. KG",
+      "street": "Brockenhagener Str. 200",
+      "city": "Bielefeld",
+      "postal_code": "33613",
+      "country": "Deutschland",
+      "phone": "(05 21) 55 61 42 20",
+      "fax": "(05 21) 48 90 15 68",
+      "email": "timo.rohleder@gehring-bunte.de"
+    },
+    "delivery_schedule": {
+      "monday": "",
+      "tuesday": "",
+      "wednesday": "",
+      "thursday": "",
+      "friday": "",
+      "saturday": ""
+    },
+    "settings": {
+      "webshop_enabled": false,
+      "ds_addresses": false,
+      "no_pickup_app": false,
+      "minimum_order_value": null,
+      "articles_not_in_history": ""
+    },
+    "additional_addresses": [
+      {
+        "address_number": "0",
+        "salutation": "Firma",
+        "name": "Gehring-Bunte",
+        "name3": "Getränkeindustrie GmbH & Co. KG",
+        "street": "Brockenhagener Str. 200",
+        "city": "Bielefeld",
+        "postal_code": "33613",
+        "country": "Deutschland",
+        "phone": "(05 21) 55 61 42 20",
+        "fax": "(05 21) 48 90 15 68",
+        "email": "timo.rohleder@gehring-bunte.de",
+        "is_default_billing": true,
+        "is_default_delivery": true
+      }
+    ]
+  },
+  "order_statistics": {
+    "total_orders": 0,
+    "unique_articles_ordered": 0,
+    "recent_orders_count": 0,
+    "last_order_date": null
+  },
+  "order_history": []
+}

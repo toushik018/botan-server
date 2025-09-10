@@ -1,0 +1,756 @@
+{
+  "metadata": {
+    "generated_at": "2025-09-10T23:17:06.573365",
+    "client_number": "17476",
+    "data_source": "BotanBot XML Export"
+  },
+  "client_profile": {
+    "client_number": "17476",
+    "search_term": "SOFIAS PIZZA LIEFERSERVIC",
+    "status": "Kunde",
+    "tax_number": "",
+    "vat_id": "",
+    "is_blocked": false,
+    "price_group": "(Std.-Preis)",
+    "billing_address": {
+      "salutation": "",
+      "name": "Der Holländer",
+      "name3": "Inh. Abas Mustafa Khaleel, Al-Maqsood",
+      "street": "Eckernförder Str. 59",
+      "city": "Kiel",
+      "postal_code": "24116",
+      "country": "Deutschland",
+      "phone": "(01 76) 63 32 45 39",
+      "fax": "",
+      "email": "derhollander_kiel@yahoo.com"
+    },
+    "delivery_address": {
+      "salutation": "",
+      "name": "Der Holländer",
+      "name3": "Inh. Abas Mustafa Khaleel, Al-Maqsood",
+      "street": "Eckernförder Str. 59",
+      "city": "Kiel",
+      "postal_code": "24116",
+      "country": "Deutschland",
+      "phone": "(01 76) 63 32 45 39",
+      "fax": "",
+      "email": "derhollander_kiel@yahoo.com"
+    },
+    "delivery_schedule": {
+      "monday": "",
+      "tuesday": "",
+      "wednesday": "",
+      "thursday": "",
+      "friday": "",
+      "saturday": ""
+    },
+    "settings": {
+      "webshop_enabled": false,
+      "ds_addresses": false,
+      "no_pickup_app": false,
+      "minimum_order_value": null,
+      "articles_not_in_history": ""
+    },
+    "additional_addresses": [
+      {
+        "address_number": "0",
+        "salutation": "",
+        "name": "Der Holländer",
+        "name3": "Inh. Abas Mustafa Khaleel, Al-Maqsood",
+        "street": "Eckernförder Str. 59",
+        "city": "Kiel",
+        "postal_code": "24116",
+        "country": "Deutschland",
+        "phone": "(01 76) 63 32 45 39",
+        "fax": "",
+        "email": "derhollander_kiel@yahoo.com",
+        "is_default_billing": true,
+        "is_default_delivery": true
+      }
+    ]
+  },
+  "order_statistics": {
+    "total_orders": 52,
+    "unique_articles_ordered": 52,
+    "recent_orders_count": 52,
+    "last_order_date": "2025-08-20"
+  },
+  "order_history": [
+    {
+      "article_number": "3175",
+      "date": "2025-08-20",
+      "booking_quantity": 2560.0,
+      "quantity": 128.0,
+      "unit": "Karton 20 Stk.",
+      "article_info": {
+        "short_description": "Brioche 4-inch Burger Bun  Salomon",
+        "long_description": "Brioche 4-inch Burger Bun  Salomon",
+        "product_group": "05.40.10 Brotwaren",
+        "unit": "ST"
+      }
+    },
+    {
+      "article_number": "1967",
+      "date": "2025-08-20",
+      "booking_quantity": 2043.0,
+      "quantity": 227.0,
+      "unit": "Karton 9 kg",
+      "article_info": {
+        "short_description": "FRESH AVIKO POMMES 11mm Sup. Crunch 2 x 4,5 kg",
+        "long_description": "FRESH AVIKO POMMES 11mm Sup. Crunch 2 x 4,5 kg",
+        "product_group": "05.30.05 Pommes",
+        "unit": "KG"
+      }
+    },
+    {
+      "article_number": "1882",
+      "date": "2025-08-20",
+      "booking_quantity": 20.0,
+      "quantity": 20.0,
+      "unit": "Pack 1",
+      "article_info": {
+        "short_description": "Schmelzkäse Cheddar in Scheiben  1,082 kg",
+        "long_description": "Schmelzkäse Cheddar in Scheiben 1,082 kg",
+        "product_group": "05.15.05.10.20 Frisch- und Schmelzkäse",
+        "unit": "PK"
+      }
+    },
+    {
+      "article_number": "9820",
+      "date": "2025-08-20",
+      "booking_quantity": 23.0,
+      "quantity": 23.0,
+      "unit": "Tube 1",
+      "article_info": {
+        "short_description": "Develey Barbecue Sauce  875ml Tube",
+        "long_description": "Develey Barbecue Sauce  875ml Tube",
+        "product_group": "05.45.15 Dips und Saucen",
+        "unit": "TB"
+      }
+    },
+    {
+      "article_number": "3167",
+      "date": "2025-08-20",
+      "booking_quantity": 9.0,
+      "quantity": 9.0,
+      "unit": "Karton 1",
+      "article_info": {
+        "short_description": "Midi - Handtuchrollen   6 x rollen  2 lg Weiss",
+        "long_description": "Midi-Handtuchrollen 6 Rollen 2-lagig weiß",
+        "product_group": "10.10.15 Rollen und Tücher",
+        "unit": "PK"
+      }
+    },
+    {
+      "article_number": "1223",
+      "date": "2025-08-20",
+      "booking_quantity": 192.0,
+      "quantity": 16.0,
+      "unit": "KI 12",
+      "article_info": {
+        "short_description": "Coca Cola 12 x 0,5 l DPG",
+        "long_description": "Coca Cola 12 x 0,5 l DPG",
+        "product_group": "15.05.20 0,5 l Flasche",
+        "unit": "FL"
+      }
+    },
+    {
+      "article_number": "23000025",
+      "date": "2025-08-20",
+      "booking_quantity": 552.0,
+      "quantity": 46.0,
+      "unit": "KI 12",
+      "article_info": {
+        "short_description": "Pflichtpfand Einwegartikel DPG",
+        "long_description": "Pflichtpfand Einwegartikel DPG",
+        "product_group": "90.05 Pfand",
+        "unit": "ST"
+      }
+    },
+    {
+      "article_number": "9581",
+      "date": "2025-08-20",
+      "booking_quantity": 192.0,
+      "quantity": 16.0,
+      "unit": "KI 12",
+      "article_info": {
+        "short_description": "Coca Cola Zero 12 x 0,5 l DPG",
+        "long_description": "Coca Cola Zero 12 x 0,5 l DPG",
+        "product_group": "15.05.20 0,5 l Flasche",
+        "unit": "FL"
+      }
+    },
+    {
+      "article_number": "2229",
+      "date": "2025-08-16",
+      "booking_quantity": 139.0,
+      "quantity": 139.0,
+      "unit": "Bund 1",
+      "article_info": {
+        "short_description": "Lauchzwiebeln Bund",
+        "long_description": "Lauchzwiebeln Bund",
+        "product_group": "05.35.05 Frischgemüse",
+        "unit": "BD"
+      }
+    },
+    {
+      "article_number": "3021",
+      "date": "2025-08-16",
+      "booking_quantity": 54.0,
+      "quantity": 54.0,
+      "unit": "Pack 1",
+      "article_info": {
+        "short_description": "Dürüm Yufka Tortillas  30 cm 16 ST / PK",
+        "long_description": "Dürüm Yufka Tortillas  30 cm 16 ST / PK",
+        "product_group": "05.25.05 Teigwaren",
+        "unit": "PK"
+      }
+    },
+    {
+      "article_number": "1084",
+      "date": "2025-08-16",
+      "booking_quantity": 5.0,
+      "quantity": 5.0,
+      "unit": "Karton 1",
+      "article_info": {
+        "short_description": "Becher 80 ml  rund mit Deckel 500 Stk.",
+        "long_description": "Becher 80 ml rund mit Deckel 500 Stück",
+        "product_group": "10.05.35 Feinkost- und diverse Becher",
+        "unit": "KT"
+      }
+    },
+    {
+      "article_number": "1225",
+      "date": "2025-08-15",
+      "booking_quantity": 72.0,
+      "quantity": 6.0,
+      "unit": "KI 12",
+      "article_info": {
+        "short_description": "Mezzo Mix 12 x 0,5 l DPG",
+        "long_description": "Mezzo Mix 12 x 0,5 l DPG",
+        "product_group": "15.05.20 0,5 l Flasche",
+        "unit": "FL"
+      }
+    },
+    {
+      "article_number": "1227",
+      "date": "2025-08-15",
+      "booking_quantity": 48.0,
+      "quantity": 4.0,
+      "unit": "KI 12",
+      "article_info": {
+        "short_description": "Sprite 12 x 0,5 l DPG",
+        "long_description": "Sprite 12 x 0,5 l DPG",
+        "product_group": "15.05.20 0,5 l Flasche",
+        "unit": "FL"
+      }
+    },
+    {
+      "article_number": "1688",
+      "date": "2025-08-11",
+      "booking_quantity": 1.0,
+      "quantity": 1.0,
+      "unit": "Pack 1",
+      "article_info": {
+        "short_description": "geschn. Käse Gouda 48% in Scheiben Milram 1 Kg",
+        "long_description": "geschn. Käse Gouda 48% in Scheiben Milram 1 Kg",
+        "product_group": "05.15.05.05.15 Schnitt- und Raspelware",
+        "unit": "KG"
+      }
+    },
+    {
+      "article_number": "1334",
+      "date": "2025-08-09",
+      "booking_quantity": 90.0,
+      "quantity": 9.0,
+      "unit": "Eimer 10 kg",
+      "article_info": {
+        "short_description": "Salatmayonnaise \"GOLD\"   10 Kg",
+        "long_description": "Gold Salatmayonnaise 10 kg",
+        "product_group": "05.45.05 Mayonnaise",
+        "unit": "KG"
+      }
+    },
+    {
+      "article_number": "9558",
+      "date": "2025-08-09",
+      "booking_quantity": 6.0,
+      "quantity": 6.0,
+      "unit": "Kanister 1 Stk.",
+      "article_info": {
+        "short_description": "Chilisauce \"Flying Goose\" (süß) 4.5 l",
+        "long_description": "Chilisauce \"Flying Goose\" (süß) 4.5 l",
+        "product_group": "05.20.05 ASIA-Produkte",
+        "unit": "KN"
+      }
+    },
+    {
+      "article_number": "1910",
+      "date": "2025-08-09",
+      "booking_quantity": 6.0,
+      "quantity": 6.0,
+      "unit": "Karton 1",
+      "article_info": {
+        "short_description": "Papiertragetasche 32 + 22   x 25  braun 250 Stk.",
+        "long_description": "Papiertragetasche braun 32 + 22 x 25 250 Stück",
+        "product_group": "10.05.60 Tragetaschen und Beutel",
+        "unit": "KT"
+      }
+    },
+    {
+      "article_number": "1108",
+      "date": "2025-08-07",
+      "booking_quantity": 3.0,
+      "quantity": 3.0,
+      "unit": "Rolle 1",
+      "article_info": {
+        "short_description": "45 cm Alufolie µ =12   100m",
+        "long_description": "Alufolie µ =12    45 cm x 120 m",
+        "product_group": "10.05.30 Folien",
+        "unit": "RL"
+      }
+    },
+    {
+      "article_number": "9701",
+      "date": "2025-08-02",
+      "booking_quantity": 195.0,
+      "quantity": 13.0,
+      "unit": "Kanister 15 kg",
+      "article_info": {
+        "short_description": "PREP Multi Pflanzenöl Frittieröl 2x7,5 l KN",
+        "long_description": "PREP Multi Pflanzenöl Frittieröl 15 l Kanister",
+        "product_group": "05.25.20.10 Fette",
+        "unit": "LI"
+      }
+    },
+    {
+      "article_number": "9070",
+      "date": "2025-07-30",
+      "booking_quantity": 15.0,
+      "quantity": 3.0,
+      "unit": "Eimer 5 kg",
+      "article_info": {
+        "short_description": "Deutsche Remoulade 5 KG Eimer",
+        "long_description": "Deutsche Remoulade 5 kg Eimer",
+        "product_group": "05.45.20 Spezial-Saucen",
+        "unit": "KG"
+      }
+    },
+    {
+      "article_number": "1958",
+      "date": "2025-07-28",
+      "booking_quantity": 26.0,
+      "quantity": 13.0,
+      "unit": "Beutel 2kg",
+      "article_info": {
+        "short_description": "Gouda Käse 48 %  Gerieben (Milram) 2 Kg Beutel",
+        "long_description": "Milram Gouda gerieben 48 % 2 kg Beutel",
+        "product_group": "05.15.05.05.15 Schnitt- und Raspelware",
+        "unit": "KG"
+      }
+    },
+    {
+      "article_number": "2410",
+      "date": "2025-07-28",
+      "booking_quantity": 12.0,
+      "quantity": 1.0,
+      "unit": "Karton 12 Stk.",
+      "article_info": {
+        "short_description": "Durstlöscher Banane / Kirsch 12 x 0,5 L Tetrapack",
+        "long_description": "Durstlöscher Banane/Kirsch 12 x 0,5 l Tetra Pak",
+        "product_group": "15.05.22 0,5 l Tetra Pack",
+        "unit": "ST"
+      }
+    },
+    {
+      "article_number": "3138",
+      "date": "2025-07-28",
+      "booking_quantity": 12.0,
+      "quantity": 1.0,
+      "unit": "Karton 12 Stk.",
+      "article_info": {
+        "short_description": "Durstlöscher Eistee Pfirsich 12 x 0,5 L Tetrapack",
+        "long_description": "Durstlöscher Eistee Pfirsich 12 x 0,5 l Tetra Pak",
+        "product_group": "15.05.22 0,5 l Tetra Pack",
+        "unit": "ST"
+      }
+    },
+    {
+      "article_number": "2081",
+      "date": "2025-07-28",
+      "booking_quantity": 12.0,
+      "quantity": 1.0,
+      "unit": "Karton 12 Stk.",
+      "article_info": {
+        "short_description": "Durstlöscher Multi 12 x 0,5 L Tetrapack",
+        "long_description": "Durstlöscher Multivitamin 12 x 0,5 l Tetra Pak",
+        "product_group": "15.05.22 0,5 l Tetra Pack",
+        "unit": "ST"
+      }
+    },
+    {
+      "article_number": "1148",
+      "date": "2025-07-25",
+      "booking_quantity": 4.0,
+      "quantity": 4.0,
+      "unit": "Rolle 1",
+      "article_info": {
+        "short_description": "Müllsäcke   120 l   25 Stk./ Rolle",
+        "long_description": "Müllsäcke  25 Stück/Rolle 120 l",
+        "product_group": "10.10.20 Müllbeutel",
+        "unit": "RL"
+      }
+    },
+    {
+      "article_number": "1384",
+      "date": "2025-07-25",
+      "booking_quantity": 9.0,
+      "quantity": 9.0,
+      "unit": "Karton 1",
+      "article_info": {
+        "short_description": "Eisbergsalat  9/10 Kiste Karton",
+        "long_description": "Eisbergsalat 9/10 Kiste Karton",
+        "product_group": "05.35.05 Frischgemüse",
+        "unit": "KT"
+      }
+    },
+    {
+      "article_number": "1226",
+      "date": "2025-07-25",
+      "booking_quantity": 48.0,
+      "quantity": 4.0,
+      "unit": "KI 12",
+      "article_info": {
+        "short_description": "Fanta Orange 12 x 0,5 l DPG",
+        "long_description": "Fanta Orange 12 x 0,5 l DPG",
+        "product_group": "15.05.20 0,5 l Flasche",
+        "unit": "FL"
+      }
+    },
+    {
+      "article_number": "9287",
+      "date": "2025-07-25",
+      "booking_quantity": 1.0,
+      "quantity": 1.0,
+      "unit": "Pack 1",
+      "article_info": {
+        "short_description": "Schwarze Handschuhe Nitrile ungep. \"L\" 100 Stk",
+        "long_description": "Schwarze Handschuhe Nitrile ungep. \"L\" 100 Stk",
+        "product_group": "10.10.10 Handschuhe",
+        "unit": "PK"
+      }
+    },
+    {
+      "article_number": "9582",
+      "date": "2025-07-21",
+      "booking_quantity": 0.0,
+      "quantity": 0.0,
+      "unit": "KI 24",
+      "article_info": {
+        "short_description": "Coca Cola  24 x 0,2 l Kiste",
+        "long_description": "Coca Cola 24 x 0,2 l Kiste",
+        "product_group": "15.05.05 0,2 l  Flasche MWK",
+        "unit": "FL"
+      }
+    },
+    {
+      "article_number": "23510",
+      "date": "2025-07-21",
+      "booking_quantity": 0.0,
+      "quantity": 0.0,
+      "unit": "Kiste",
+      "article_info": {
+        "short_description": "Pfand = 5,10 € 24er Cola & Co 0,33l",
+        "long_description": "Pfand = 5,10 € 24er Cola & Co 0,33 l",
+        "product_group": "90.05 Pfand",
+        "unit": "ST"
+      }
+    },
+    {
+      "article_number": "1653",
+      "date": "2025-07-21",
+      "booking_quantity": 0.0,
+      "quantity": 0.0,
+      "unit": "KI 24",
+      "article_info": {
+        "short_description": "Cola ZERO  24 x 0,2 l  Flaschen",
+        "long_description": "Coca Cola Zero 24 x 0,2 l Flasche",
+        "product_group": "15.05.05 0,2 l  Flasche MWK",
+        "unit": "FL"
+      }
+    },
+    {
+      "article_number": "1390",
+      "date": "2025-07-19",
+      "booking_quantity": 40.0,
+      "quantity": 4.0,
+      "unit": "Sack 10 kg",
+      "article_info": {
+        "short_description": "Rote Zwiebeln 10 kg Sack",
+        "long_description": "Rote Zwiebeln 10 kg Sack",
+        "product_group": "05.35.05 Frischgemüse",
+        "unit": "KG"
+      }
+    },
+    {
+      "article_number": "1562",
+      "date": "2025-07-19",
+      "booking_quantity": 36.0,
+      "quantity": 3.0,
+      "unit": "Karton 12 Stk.",
+      "article_info": {
+        "short_description": "Gemüsemais  Karton 12 x 425 ml Dosen",
+        "long_description": "Gemüsemais Karton 12 x 425 ml Dosen",
+        "product_group": "05.25.30 Konserven",
+        "unit": "DS"
+      }
+    },
+    {
+      "article_number": "3134",
+      "date": "2025-07-19",
+      "booking_quantity": 120.0,
+      "quantity": 5.0,
+      "unit": "Karton 24 Stk.",
+      "article_info": {
+        "short_description": "Hamburgerbrötchen Brioche veg 120mm 110g 24 Stk/KT",
+        "long_description": "Hamburgerbrötchen Brioche veg 120mm 110g 24 Stk/KT",
+        "product_group": "05.40.10 Brotwaren",
+        "unit": "ST"
+      }
+    },
+    {
+      "article_number": "2550",
+      "date": "2025-07-09",
+      "booking_quantity": 13.0,
+      "quantity": 13.0,
+      "unit": "Pack 1",
+      "article_info": {
+        "short_description": "Salatschale braun Pappe rund 1300 ml 50 Stück",
+        "long_description": "Salatschale braun Pappe rund 1300 ml 50 Stück",
+        "product_group": "10.05.15 Salatschalen und Deckel",
+        "unit": "PK"
+      }
+    },
+    {
+      "article_number": "1045",
+      "date": "2025-07-09",
+      "booking_quantity": 13.0,
+      "quantity": 13.0,
+      "unit": "Pack 1",
+      "article_info": {
+        "short_description": "Deckel für Salatschale Pappe braun 1300ml 50 Stk.",
+        "long_description": "Deckel für Salatschale Pappe braun 1300ml 50 Stk.",
+        "product_group": "10.05.15 Salatschalen und Deckel",
+        "unit": "PK"
+      }
+    },
+    {
+      "article_number": "1354",
+      "date": "2025-07-09",
+      "booking_quantity": 20.0,
+      "quantity": 2.0,
+      "unit": "Karton 10 kg",
+      "article_info": {
+        "short_description": "TK Pommes frites 4 x 2,5 Kg",
+        "long_description": "TK Pommes frites 4 x 2,5 kg Beutel",
+        "product_group": "05.30.05 Pommes",
+        "unit": "KG"
+      }
+    },
+    {
+      "article_number": "9019",
+      "date": "2025-07-01",
+      "booking_quantity": 1.0,
+      "quantity": 1.0,
+      "unit": "FL",
+      "article_info": {
+        "short_description": "Cock Chili Sauce (Thai Chili Huhn) 650 ml FL",
+        "long_description": "Cock Chili Sauce (Thai Chili Huhn) 650 ml Flasche",
+        "product_group": "05.45.15 Dips und Saucen",
+        "unit": "FL"
+      }
+    },
+    {
+      "article_number": "9083",
+      "date": "2025-06-28",
+      "booking_quantity": 1.0,
+      "quantity": 1.0,
+      "unit": "Tube 1",
+      "article_info": {
+        "short_description": "American Dressing, 950 ml,",
+        "long_description": "American Dressing 950 ml,",
+        "product_group": "05.45.25 Dressings",
+        "unit": "TB"
+      }
+    },
+    {
+      "article_number": "2591",
+      "date": "2025-06-20",
+      "booking_quantity": 150.0,
+      "quantity": 2.0,
+      "unit": "Pack 75 Stk.",
+      "article_info": {
+        "short_description": "Nature Hamburgerbox Pappe  11x11x8 cm (für 5\")",
+        "long_description": "Nature Hamburgerbox Pappe  11x11x8 cm (für 5\")",
+        "product_group": "10.05.25 Boxen, Tüten, Taschen und Papier",
+        "unit": "ST"
+      }
+    },
+    {
+      "article_number": "1546",
+      "date": "2025-06-18",
+      "booking_quantity": 50.0,
+      "quantity": 2.0,
+      "unit": "Sack 25 kg",
+      "article_info": {
+        "short_description": "Mehl Typ 405 Gloria  25 Kg Sack",
+        "long_description": "Gloria Mehl Typ 405 25 kg Sack",
+        "product_group": "05.25.15.05 Mehl",
+        "unit": "KG"
+      }
+    },
+    {
+      "article_number": "1115",
+      "date": "2025-06-18",
+      "booking_quantity": 1.0,
+      "quantity": 1.0,
+      "unit": "Karton 1",
+      "article_info": {
+        "short_description": "Präge-Servietten,1/4-Falz weiß 33x33cm 4000 Stk.",
+        "long_description": "Präge-Servietten,1/4-Falz weiß 33x33cm 4000 Stk.",
+        "product_group": "10.05.55 Servietten",
+        "unit": "KT"
+      }
+    },
+    {
+      "article_number": "1909",
+      "date": "2025-06-13",
+      "booking_quantity": 1.0,
+      "quantity": 1.0,
+      "unit": "Karton 1",
+      "article_info": {
+        "short_description": "Papier-Tragetasche 22 x10 x 28 cm braun 250st",
+        "long_description": "Papier-Tragetasche 22 x10 x 28 cm braun 250st",
+        "product_group": "10.05.60 Tragetaschen und Beutel",
+        "unit": "KT"
+      }
+    },
+    {
+      "article_number": "2212",
+      "date": "2025-06-11",
+      "booking_quantity": 48.0,
+      "quantity": 1.0,
+      "unit": "Karton 48 Stk.",
+      "article_info": {
+        "short_description": "Sugarbabes miss chocoholic Muffin 48x130g/KT",
+        "long_description": "Sugarbabes Miss Chocoholic Muffin 48x130 g/Karton",
+        "product_group": "05.40.20.10 Desserts",
+        "unit": "ST"
+      }
+    },
+    {
+      "article_number": "2575",
+      "date": "2025-06-05",
+      "booking_quantity": 5.0,
+      "quantity": 1.0,
+      "unit": "Eimer 5 kg",
+      "article_info": {
+        "short_description": "Vegane Mayo 5kg Eimer",
+        "long_description": "Vegane Mayo 5 kg Eimer",
+        "product_group": "05.07 Vegan",
+        "unit": "KG"
+      }
+    },
+    {
+      "article_number": "9215",
+      "date": "2025-06-03",
+      "booking_quantity": 2.5,
+      "quantity": 1.0,
+      "unit": "Beutel 2,5 kg",
+      "article_info": {
+        "short_description": "Crispy Chik'n Wings Gourmet Style 2,5 kg",
+        "long_description": "Crispy Chik'n Wings \"Gourmet Style\" 2,5 kg",
+        "product_group": "05.05.20.05 TK",
+        "unit": "KG"
+      }
+    },
+    {
+      "article_number": "9497",
+      "date": "2025-06-03",
+      "booking_quantity": 1.0,
+      "quantity": 1.0,
+      "unit": "Beutel 1 kg",
+      "article_info": {
+        "short_description": "Chili & Lime Chik´n Bites 1 kg",
+        "long_description": "Chili & Lime Chik´n Bites 1 kg",
+        "product_group": "05.05.20.05 TK",
+        "unit": "BT"
+      }
+    },
+    {
+      "article_number": "9496",
+      "date": "2025-06-03",
+      "booking_quantity": 1.0,
+      "quantity": 1.0,
+      "unit": "Beutel 1 kg",
+      "article_info": {
+        "short_description": "Boneless Chik´n Wings 1 kg",
+        "long_description": "Boneless Chik´n Wings 1 kg",
+        "product_group": "05.05.20.05 TK",
+        "unit": "BT"
+      }
+    },
+    {
+      "article_number": "9084",
+      "date": "2025-05-28",
+      "booking_quantity": 2.0,
+      "quantity": 2.0,
+      "unit": "Tube 1",
+      "article_info": {
+        "short_description": "Joghurt Dressing, 1000 ml,  MÄRKER",
+        "long_description": "Märker Joghurt Dressing 1000 ml",
+        "product_group": "05.45.25 Dressings",
+        "unit": "TB"
+      }
+    },
+    {
+      "article_number": "1583",
+      "date": "2025-05-28",
+      "booking_quantity": 1.0,
+      "quantity": 1.0,
+      "unit": "Dose 1 Stk.",
+      "article_info": {
+        "short_description": "Gurkensalat 5/1 Dose süß-sauer für Hot-Dog usw.",
+        "long_description": "Gurkensalat 5/1 Dose süß-sauer für Hot-Dog usw.",
+        "product_group": "05.25.30 Konserven",
+        "unit": "DS"
+      }
+    },
+    {
+      "article_number": "1463",
+      "date": "2025-05-28",
+      "booking_quantity": 10.0,
+      "quantity": 1.0,
+      "unit": "Karton 10 kg",
+      "article_info": {
+        "short_description": "Raffinade Zucker 10 x 1kg",
+        "long_description": "Raffinade Zucker 10 x 1 kg",
+        "product_group": "05.25.15.10 Backzutaten",
+        "unit": "KG"
+      }
+    },
+    {
+      "article_number": "9179",
+      "date": "2025-05-28",
+      "booking_quantity": 24.0,
+      "quantity": 2.0,
+      "unit": "Karton 12 KG",
+      "article_info": {
+        "short_description": "Thai. Hähnchenbrustfilet unkalibriert 12 KG / KT",
+        "long_description": "Thai. Hähnchenbrustfilet unkalibriert 12 kg/KT",
+        "product_group": "05.05.20.05 TK",
+        "unit": "KG"
+      }
+    }
+  ]
+}

@@ -1,0 +1,639 @@
+{
+  "metadata": {
+    "generated_at": "2025-09-10T23:17:06.441727",
+    "client_number": "17139",
+    "data_source": "BotanBot XML Export"
+  },
+  "client_profile": {
+    "client_number": "17139",
+    "search_term": "KAFFEE GOLDBART",
+    "status": "Kunde",
+    "tax_number": "",
+    "vat_id": "",
+    "is_blocked": false,
+    "price_group": "(Std.-Preis)",
+    "billing_address": {
+      "salutation": "",
+      "name": "Kaffee Goldbart",
+      "name3": "Inh. Rädir Suleiman",
+      "street": "Strandallee 71",
+      "city": "Timmendorfer Strand",
+      "postal_code": "23669",
+      "country": "Deutschland",
+      "phone": "(01 76) 35 74 39 55",
+      "fax": "",
+      "email": "kaffee.goldbart@gmail.com"
+    },
+    "delivery_address": {
+      "salutation": "",
+      "name": "Kaffee Goldbart",
+      "name3": "Inh. Rädir Suleiman",
+      "street": "Strandallee 71",
+      "city": "Timmendorfer Strand",
+      "postal_code": "23669",
+      "country": "Deutschland",
+      "phone": "(01 76) 35 74 39 55",
+      "fax": "",
+      "email": "kaffee.goldbart@gmail.com"
+    },
+    "delivery_schedule": {
+      "monday": "",
+      "tuesday": "",
+      "wednesday": "4",
+      "thursday": "",
+      "friday": "",
+      "saturday": ""
+    },
+    "settings": {
+      "webshop_enabled": true,
+      "ds_addresses": false,
+      "no_pickup_app": false,
+      "minimum_order_value": null,
+      "articles_not_in_history": ""
+    },
+    "additional_addresses": [
+      {
+        "address_number": "0",
+        "salutation": "",
+        "name": "Kaffee Goldbart",
+        "name3": "Inh. Rädir Suleiman",
+        "street": "Strandallee 71",
+        "city": "Timmendorfer Strand",
+        "postal_code": "23669",
+        "country": "Deutschland",
+        "phone": "(01 76) 35 74 39 55",
+        "fax": "",
+        "email": "kaffee.goldbart@gmail.com",
+        "is_default_billing": true,
+        "is_default_delivery": true
+      }
+    ]
+  },
+  "order_statistics": {
+    "total_orders": 43,
+    "unique_articles_ordered": 43,
+    "recent_orders_count": 43,
+    "last_order_date": "2025-08-20"
+  },
+  "order_history": [
+    {
+      "article_number": "2200",
+      "date": "2025-08-20",
+      "booking_quantity": 40.0,
+      "quantity": 8.0,
+      "unit": "Beutel 5",
+      "article_info": {
+        "short_description": "Basmati - Reis 5 Kg",
+        "long_description": "Basmati-Reis 5 kg",
+        "product_group": "05.25.13 Reiswaren",
+        "unit": "KG"
+      }
+    },
+    {
+      "article_number": "2157",
+      "date": "2025-08-20",
+      "booking_quantity": 9.0,
+      "quantity": 3.0,
+      "unit": "Eimer 3 kg",
+      "article_info": {
+        "short_description": "3 Kg Joghurt Dressing Eimer",
+        "long_description": "Joghurt Dressing 3 kg Eimer",
+        "product_group": "05.45.25 Dressings",
+        "unit": "KG"
+      }
+    },
+    {
+      "article_number": "1897",
+      "date": "2025-08-20",
+      "booking_quantity": 350.0,
+      "quantity": 7.0,
+      "unit": "Karton 50 Stk.",
+      "article_info": {
+        "short_description": "Backfisch 50 x 120 g Alaskaseelachsfilet",
+        "long_description": "Backfisch 50 x 120 g Alaskaseelachsfilet",
+        "product_group": "05.10.05.10 TK",
+        "unit": "ST"
+      }
+    },
+    {
+      "article_number": "8913",
+      "date": "2025-08-20",
+      "booking_quantity": 96.0,
+      "quantity": 4.0,
+      "unit": "KI 24",
+      "article_info": {
+        "short_description": "Fritz Kola Zuckerfrei  24 x 0,33 l  Flaschen",
+        "long_description": "Fritz Kola Zuckerfrei 24 x 0,33 l Flasche",
+        "product_group": "15.05.10 0,3 l und 0,33 l Flasche MWK",
+        "unit": "FL"
+      }
+    },
+    {
+      "article_number": "23342",
+      "date": "2025-08-20",
+      "booking_quantity": 23.0,
+      "quantity": 23.0,
+      "unit": "Kiste",
+      "article_info": {
+        "short_description": "Pfand = 3,42 € 24er  0,33l (24x0,08+1,50)",
+        "long_description": "Pfand = 3,42 € 24er 0,33l (24 x 0,08 + 1,50)",
+        "product_group": "90.05 Pfand",
+        "unit": "ST"
+      }
+    },
+    {
+      "article_number": "8912",
+      "date": "2025-08-20",
+      "booking_quantity": 96.0,
+      "quantity": 4.0,
+      "unit": "KI 24",
+      "article_info": {
+        "short_description": "Fritz Kola 24 x 0,33 l  Flaschen",
+        "long_description": "Fritz Kola 24 x 0,33 l Flasche",
+        "product_group": "15.05.10 0,3 l und 0,33 l Flasche MWK",
+        "unit": "FL"
+      }
+    },
+    {
+      "article_number": "8911",
+      "date": "2025-08-20",
+      "booking_quantity": 96.0,
+      "quantity": 4.0,
+      "unit": "KI 24",
+      "article_info": {
+        "short_description": "Fritz Apfelschorle BIO 24 x 0,33 l  Flaschen",
+        "long_description": "Fritz Apfelschorle Bio 24 x 0,33 l Flasche",
+        "product_group": "15.05.10 0,3 l und 0,33 l Flasche MWK",
+        "unit": "FL"
+      }
+    },
+    {
+      "article_number": "9299",
+      "date": "2025-08-20",
+      "booking_quantity": 27.5,
+      "quantity": 11.0,
+      "unit": "Beutel 2,5 kg",
+      "article_info": {
+        "short_description": "Hähnchenbruststreifen gegart Halal 2,5kg Beutel",
+        "long_description": "Hähnchenbruststreifen gegart 2,5 kg Beutel halal",
+        "product_group": "05.05.20.05 TK",
+        "unit": "KG"
+      }
+    },
+    {
+      "article_number": "2651",
+      "date": "2025-08-20",
+      "booking_quantity": 40.0,
+      "quantity": 16.0,
+      "unit": "Beutel 2,5 kg",
+      "article_info": {
+        "short_description": "TK Hähnchen Döner Kebab gesch. 2,5 Kg Beutel Halal",
+        "long_description": "TK Hähnchen Döner Kebab gesch. 2,5 Kg Beutel Halal",
+        "product_group": "05.05.20.05 TK",
+        "unit": "KG"
+      }
+    },
+    {
+      "article_number": "1369",
+      "date": "2025-08-20",
+      "booking_quantity": 1000.0,
+      "quantity": 20.0,
+      "unit": "Beutel 50 Stk.",
+      "article_info": {
+        "short_description": "Falafel 50 Stk. vegan TK",
+        "long_description": "Falafel 50 Stück vegan TK",
+        "product_group": "05.07 Vegan",
+        "unit": "ST"
+      }
+    },
+    {
+      "article_number": "8916",
+      "date": "2025-08-20",
+      "booking_quantity": 72.0,
+      "quantity": 3.0,
+      "unit": "KI 24",
+      "article_info": {
+        "short_description": "Fritz Orange 24 x 0,33 l  Flaschen",
+        "long_description": "Fritz Orange 24 x 0,33 l Flasche",
+        "product_group": "15.05.10 0,3 l und 0,33 l Flasche MWK",
+        "unit": "FL"
+      }
+    },
+    {
+      "article_number": "8917",
+      "date": "2025-08-20",
+      "booking_quantity": 48.0,
+      "quantity": 2.0,
+      "unit": "KI 24",
+      "article_info": {
+        "short_description": "Fritz Zitrone trüb 24 x 0,33 l  Flaschen",
+        "long_description": "Fritz Zitrone trüb 24 x 0,33 l Flasche",
+        "product_group": "15.05.10 0,3 l und 0,33 l Flasche MWK",
+        "unit": "FL"
+      }
+    },
+    {
+      "article_number": "1390",
+      "date": "2025-08-20",
+      "booking_quantity": 10.0,
+      "quantity": 1.0,
+      "unit": "Sack 10 kg",
+      "article_info": {
+        "short_description": "Rote Zwiebeln 10 kg Sack",
+        "long_description": "Rote Zwiebeln 10 kg Sack",
+        "product_group": "05.35.05 Frischgemüse",
+        "unit": "KG"
+      }
+    },
+    {
+      "article_number": "1562",
+      "date": "2025-08-20",
+      "booking_quantity": 24.0,
+      "quantity": 2.0,
+      "unit": "Karton 12 Stk.",
+      "article_info": {
+        "short_description": "Gemüsemais  Karton 12 x 425 ml Dosen",
+        "long_description": "Gemüsemais Karton 12 x 425 ml Dosen",
+        "product_group": "05.25.30 Konserven",
+        "unit": "DS"
+      }
+    },
+    {
+      "article_number": "1942",
+      "date": "2025-08-20",
+      "booking_quantity": 1.0,
+      "quantity": 1.0,
+      "unit": "Dose 1 Stk.",
+      "article_info": {
+        "short_description": "Oliven grün Scheiben  5/1 DS",
+        "long_description": "Oliven grün in Scheiben 5/1 Dose",
+        "product_group": "05.25.30 Konserven",
+        "unit": "DS"
+      }
+    },
+    {
+      "article_number": "1830",
+      "date": "2025-08-20",
+      "booking_quantity": 1.0,
+      "quantity": 1.0,
+      "unit": "Karton 1",
+      "article_info": {
+        "short_description": "Feinzucker Sticks 1000 Stück",
+        "long_description": "Feinzucker-Sticks 1.000 Stück",
+        "product_group": "05.25.15.10 Backzutaten",
+        "unit": "KT"
+      }
+    },
+    {
+      "article_number": "1119",
+      "date": "2025-08-07",
+      "booking_quantity": 0.0,
+      "quantity": 0.0,
+      "unit": "Pack 1",
+      "article_info": {
+        "short_description": "Kaffeebecher (Pappe) 0,4 l / 16 oz",
+        "long_description": "Kaffeebecher (Pappe) 0,4 l / 16 oz",
+        "product_group": "10.05.65 Trinkbecher und Deckel",
+        "unit": "PK"
+      }
+    },
+    {
+      "article_number": "2647",
+      "date": "2025-08-06",
+      "booking_quantity": 96.0,
+      "quantity": 96.0,
+      "unit": "Pack 1",
+      "article_info": {
+        "short_description": "Bio Barista Hafer Drink 1L",
+        "long_description": "Bio Barista Hafer Drink 1L",
+        "product_group": "05.07 Vegan",
+        "unit": "PK"
+      }
+    },
+    {
+      "article_number": "1115",
+      "date": "2025-08-06",
+      "booking_quantity": 3.0,
+      "quantity": 3.0,
+      "unit": "Karton 1",
+      "article_info": {
+        "short_description": "Präge-Servietten,1/4-Falz weiß 33x33cm 4000 Stk.",
+        "long_description": "Präge-Servietten,1/4-Falz weiß 33x33cm 4000 Stk.",
+        "product_group": "10.05.55 Servietten",
+        "unit": "KT"
+      }
+    },
+    {
+      "article_number": "9246",
+      "date": "2025-08-06",
+      "booking_quantity": 40.0,
+      "quantity": 2.0,
+      "unit": "Karton 20 Stk.",
+      "article_info": {
+        "short_description": "Magnum Almond (Mandel) Eis Langnese",
+        "long_description": "Langnese Magnum Almond (Mandel) Eis",
+        "product_group": "05.40.20.05 Eiswaren",
+        "unit": "Stk"
+      }
+    },
+    {
+      "article_number": "9247",
+      "date": "2025-08-06",
+      "booking_quantity": 40.0,
+      "quantity": 2.0,
+      "unit": "Karton 20 Stk.",
+      "article_info": {
+        "short_description": "Magnum Classic Eis Langnese",
+        "long_description": "Langnese Magnum Classic Eis",
+        "product_group": "05.40.20.05 Eiswaren",
+        "unit": "Stk"
+      }
+    },
+    {
+      "article_number": "8915",
+      "date": "2025-08-06",
+      "booking_quantity": 48.0,
+      "quantity": 2.0,
+      "unit": "KI 24",
+      "article_info": {
+        "short_description": "Fritz Honigmelone 24 x 0,33 l  Flaschen",
+        "long_description": "Fritz Honigmelone 24 x 0,33 l Flasche",
+        "product_group": "15.05.10 0,3 l und 0,33 l Flasche MWK",
+        "unit": "FL"
+      }
+    },
+    {
+      "article_number": "4500",
+      "date": "2025-08-06",
+      "booking_quantity": 1.0,
+      "quantity": 1.0,
+      "unit": "Pack 1",
+      "article_info": {
+        "short_description": "Deckel für Kaffeebecher 0,3 l und 0,4 l   100 Stk.",
+        "long_description": "Deckel für Kaffeebecher 0,3 l + 0,4 l 100 Stück",
+        "product_group": "10.05.65 Trinkbecher und Deckel",
+        "unit": "PK"
+      }
+    },
+    {
+      "article_number": "3037",
+      "date": "2025-08-06",
+      "booking_quantity": 10.0,
+      "quantity": 1.0,
+      "unit": "Pack 10 Stk.",
+      "article_info": {
+        "short_description": "TK Döner Brot",
+        "long_description": "Dönerbrot TK",
+        "product_group": "05.40.10 Brotwaren",
+        "unit": "ST"
+      }
+    },
+    {
+      "article_number": "1834",
+      "date": "2025-07-23",
+      "booking_quantity": 1.0,
+      "quantity": 1.0,
+      "unit": "Karton 1",
+      "article_info": {
+        "short_description": "Becherhalter für 4 Becher grau 180 St.",
+        "long_description": "Becherhalter für 4 Becher grau 180 Stück",
+        "product_group": "10.15.20 Zubehör",
+        "unit": "KT"
+      }
+    },
+    {
+      "article_number": "8918",
+      "date": "2025-07-23",
+      "booking_quantity": 24.0,
+      "quantity": 1.0,
+      "unit": "KI 24",
+      "article_info": {
+        "short_description": "Fritz Kola Mischmasch  24 x 0,33 l  Flaschen",
+        "long_description": "Fritz Kola Mischmasch 24 x 0,33 l Flasche",
+        "product_group": "15.05.10 0,3 l und 0,33 l Flasche MWK",
+        "unit": "FL"
+      }
+    },
+    {
+      "article_number": "8928",
+      "date": "2025-07-23",
+      "booking_quantity": 24.0,
+      "quantity": 1.0,
+      "unit": "KI 24",
+      "article_info": {
+        "short_description": "Fritz Anjola Bio Ananas-Limette 24x0,33 l  Fl.",
+        "long_description": "Fritz Anjola Bio Ananas-Limette 24x0,33 l Flasche",
+        "product_group": "15.05.10 0,3 l und 0,33 l Flasche MWK",
+        "unit": "FL"
+      }
+    },
+    {
+      "article_number": "8921",
+      "date": "2025-07-23",
+      "booking_quantity": 24.0,
+      "quantity": 1.0,
+      "unit": "KI 24",
+      "article_info": {
+        "short_description": "Fritz Traubenschorle BIO 24x0,33l.  Flaschen",
+        "long_description": "Fritz Traubenschorle Bio 24 x 0,33 l Flasche",
+        "product_group": "15.05.10 0,3 l und 0,33 l Flasche MWK",
+        "unit": "FL"
+      }
+    },
+    {
+      "article_number": "8910",
+      "date": "2025-07-23",
+      "booking_quantity": 24.0,
+      "quantity": 1.0,
+      "unit": "KI 24",
+      "article_info": {
+        "short_description": "Fritz Apfel Kirsch Holunder 24 x 0,33 l  Flaschen",
+        "long_description": "Fritz Apfel Kirsch Holunder 24 x 0,33 l  Flaschen",
+        "product_group": "15.05.10 0,3 l und 0,33 l Flasche MWK",
+        "unit": "FL"
+      }
+    },
+    {
+      "article_number": "2759",
+      "date": "2025-07-23",
+      "booking_quantity": 24.0,
+      "quantity": 1.0,
+      "unit": "Karton 24 Stk.",
+      "article_info": {
+        "short_description": "Hot Blood Ice Tea Waldfrucht DPG 24x0,33l",
+        "long_description": "Hot Blood Ice Tea Waldfrucht DPG 24x0,33l",
+        "product_group": "15.05.15 0,25 l und 0,33 l Dosen",
+        "unit": "DS"
+      }
+    },
+    {
+      "article_number": "23000025",
+      "date": "2025-07-23",
+      "booking_quantity": 48.0,
+      "quantity": 2.0,
+      "unit": "Karton 24 Stk.",
+      "article_info": {
+        "short_description": "Pflichtpfand Einwegartikel DPG",
+        "long_description": "Pflichtpfand Einwegartikel DPG",
+        "product_group": "90.05 Pfand",
+        "unit": "ST"
+      }
+    },
+    {
+      "article_number": "2757",
+      "date": "2025-07-23",
+      "booking_quantity": 24.0,
+      "quantity": 1.0,
+      "unit": "Karton 24 Stk.",
+      "article_info": {
+        "short_description": "Hot Blood Ice tea Wassermelone DPG 24x0,33l",
+        "long_description": "Hot Blood Ice tea Wassermelone DPG 24x0,33l",
+        "product_group": "15.05.15 0,25 l und 0,33 l Dosen",
+        "unit": "DS"
+      }
+    },
+    {
+      "article_number": "999999",
+      "date": "2025-07-16",
+      "booking_quantity": 0.0,
+      "quantity": 0.0,
+      "unit": "",
+      "article_info": {
+        "short_description": "",
+        "long_description": "",
+        "product_group": "",
+        "unit": ""
+      }
+    },
+    {
+      "article_number": "2703",
+      "date": "2025-07-16",
+      "booking_quantity": 1.0,
+      "quantity": 1.0,
+      "unit": "Pack 1",
+      "article_info": {
+        "short_description": "Eis Löffel 1000 Stk.",
+        "long_description": "Eis Löffel 1000 Stk.",
+        "product_group": "10.05.50 Besteck",
+        "unit": "PK"
+      }
+    },
+    {
+      "article_number": "9256",
+      "date": "2025-07-16",
+      "booking_quantity": 30.0,
+      "quantity": 1.0,
+      "unit": "Karton 30 Stk.",
+      "article_info": {
+        "short_description": "Max Push Up Haribo Goldbären Eis Langnese",
+        "long_description": "Langnese Max Push Up Haribo Goldbären Eis",
+        "product_group": "05.40.20.05 Eiswaren",
+        "unit": "Stk"
+      }
+    },
+    {
+      "article_number": "9255",
+      "date": "2025-07-16",
+      "booking_quantity": 35.0,
+      "quantity": 1.0,
+      "unit": "Karton 35 Stk",
+      "article_info": {
+        "short_description": "Flutschfinger Wassereis und Fruchteis Langnese",
+        "long_description": "Langnese Flutschfinger Wassereis und Fruchteis",
+        "product_group": "05.40.20.05 Eiswaren",
+        "unit": "Stk"
+      }
+    },
+    {
+      "article_number": "9251",
+      "date": "2025-07-16",
+      "booking_quantity": 24.0,
+      "quantity": 1.0,
+      "unit": "Karton 24 Stk.",
+      "article_info": {
+        "short_description": "Calippo Cola Wassereis Langnese",
+        "long_description": "Langnese Calippo Cola Wassereis",
+        "product_group": "05.40.20.05 Eiswaren",
+        "unit": "Stk"
+      }
+    },
+    {
+      "article_number": "1148",
+      "date": "2025-07-16",
+      "booking_quantity": 3.0,
+      "quantity": 3.0,
+      "unit": "Rolle 1",
+      "article_info": {
+        "short_description": "Müllsäcke   120 l   25 Stk./ Rolle",
+        "long_description": "Müllsäcke  25 Stück/Rolle 120 l",
+        "product_group": "10.10.20 Müllbeutel",
+        "unit": "RL"
+      }
+    },
+    {
+      "article_number": "2169",
+      "date": "2025-07-16",
+      "booking_quantity": 1.0,
+      "quantity": 1.0,
+      "unit": "Flasche 1",
+      "article_info": {
+        "short_description": "Handdesinfektion Kirsche 0,5l.",
+        "long_description": "Handdesinfektion Kirsche 0,5 l",
+        "product_group": "10.15.15 Hygiene-Zubehör",
+        "unit": "FL"
+      }
+    },
+    {
+      "article_number": "9950",
+      "date": "2025-07-16",
+      "booking_quantity": 1.0,
+      "quantity": 1.0,
+      "unit": "Stück",
+      "article_info": {
+        "short_description": "",
+        "long_description": "",
+        "product_group": "",
+        "unit": ""
+      }
+    },
+    {
+      "article_number": "1329",
+      "date": "2025-07-16",
+      "booking_quantity": 20.0,
+      "quantity": 2.0,
+      "unit": "Kanister 10 l",
+      "article_info": {
+        "short_description": "Rapsöl 10 Liter",
+        "long_description": "Rapsöl 10 l",
+        "product_group": "05.25.20.05 Öle",
+        "unit": "LI"
+      }
+    },
+    {
+      "article_number": "2050",
+      "date": "2025-06-18",
+      "booking_quantity": 2.0,
+      "quantity": 1.0,
+      "unit": "Pack 2 kg",
+      "article_info": {
+        "short_description": "Knoblauchsauce 2 Kg",
+        "long_description": "Knoblauchsauce 2 kg",
+        "product_group": "05.45.15 Dips und Saucen",
+        "unit": "KG"
+      }
+    },
+    {
+      "article_number": "3485",
+      "date": "2025-06-18",
+      "booking_quantity": 6.0,
+      "quantity": 3.0,
+      "unit": "Beutel 2kg",
+      "article_info": {
+        "short_description": "Raspelmix Gouda/Mozzarella 2 Kg Beutel",
+        "long_description": "Käse Raspelmix Gouda/Mozzarella 2 kg Beutel",
+        "product_group": "05.15.05.05.15 Schnitt- und Raspelware",
+        "unit": "KG"
+      }
+    }
+  ]
+}

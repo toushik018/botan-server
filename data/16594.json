@@ -1,0 +1,79 @@
+{
+  "metadata": {
+    "generated_at": "2025-09-10T23:17:06.229086",
+    "client_number": "16594",
+    "data_source": "BotanBot XML Export"
+  },
+  "client_profile": {
+    "client_number": "16594",
+    "search_term": "BURGER BRO",
+    "status": "Kunde",
+    "tax_number": "",
+    "vat_id": "",
+    "is_blocked": false,
+    "price_group": "(Std.-Preis)",
+    "billing_address": {
+      "salutation": "",
+      "name": "Burger Bro  Herold Center",
+      "name3": "Inh.: Idris Sala",
+      "street": "Berliner Allee 40b",
+      "city": "Norderstedt",
+      "postal_code": "22850",
+      "country": "Deutschland",
+      "phone": "(01 70) 8 78 50 00",
+      "fax": "",
+      "email": "ilyas-sala@hotmail.com"
+    },
+    "delivery_address": {
+      "salutation": "",
+      "name": "Burger Bro  Herold Center",
+      "name3": "Inh.: Idris Sala",
+      "street": "Berliner Allee 40b",
+      "city": "Norderstedt",
+      "postal_code": "22850",
+      "country": "Deutschland",
+      "phone": "(01 70) 8 78 50 00",
+      "fax": "",
+      "email": "ilyas-sala@hotmail.com"
+    },
+    "delivery_schedule": {
+      "monday": "",
+      "tuesday": "",
+      "wednesday": "",
+      "thursday": "",
+      "friday": "",
+      "saturday": ""
+    },
+    "settings": {
+      "webshop_enabled": false,
+      "ds_addresses": false,
+      "no_pickup_app": false,
+      "minimum_order_value": null,
+      "articles_not_in_history": ""
+    },
+    "additional_addresses": [
+      {
+        "address_number": "0",
+        "salutation": "",
+        "name": "Burger Bro  Herold Center",
+        "name3": "Inh.: Idris Sala",
+        "street": "Berliner Allee 40b",
+        "city": "Norderstedt",
+        "postal_code": "22850",
+        "country": "Deutschland",
+        "phone": "(01 70) 8 78 50 00",
+        "fax": "",
+        "email": "ilyas-sala@hotmail.com",
+        "is_default_billing": true,
+        "is_default_delivery": true
+      }
+    ]
+  },
+  "order_statistics": {
+    "total_orders": 0,
+    "unique_articles_ordered": 0,
+    "recent_orders_count": 0,
+    "last_order_date": null
+  },
+  "order_history": []
+}

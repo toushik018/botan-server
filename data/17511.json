@@ -1,0 +1,418 @@
+{
+  "metadata": {
+    "generated_at": "2025-09-10T23:17:06.582875",
+    "client_number": "17511",
+    "data_source": "BotanBot XML Export"
+  },
+  "client_profile": {
+    "client_number": "17511",
+    "search_term": "HOI AN KIEL",
+    "status": "Kunde",
+    "tax_number": "",
+    "vat_id": "",
+    "is_blocked": false,
+    "price_group": "(Std.-Preis)",
+    "billing_address": {
+      "salutation": "",
+      "name": "Hoi An Kiel",
+      "name3": "Thi Tinh Nguyen",
+      "street": "Jägersberg 6",
+      "city": "Kiel",
+      "postal_code": "24106",
+      "country": "Deutschland",
+      "phone": "(04 31) 12 82 31 54",
+      "fax": "",
+      "email": "cuongblumen@gmail.com"
+    },
+    "delivery_address": {
+      "salutation": "",
+      "name": "Hoi An Kiel",
+      "name3": "Thi Tinh Nguyen",
+      "street": "Jägersberg 6",
+      "city": "Kiel",
+      "postal_code": "24106",
+      "country": "Deutschland",
+      "phone": "(04 31) 12 82 31 54",
+      "fax": "",
+      "email": "cuongblumen@gmail.com"
+    },
+    "delivery_schedule": {
+      "monday": "",
+      "tuesday": "18",
+      "wednesday": "",
+      "thursday": "",
+      "friday": "18",
+      "saturday": ""
+    },
+    "settings": {
+      "webshop_enabled": true,
+      "ds_addresses": false,
+      "no_pickup_app": false,
+      "minimum_order_value": null,
+      "articles_not_in_history": ""
+    },
+    "additional_addresses": [
+      {
+        "address_number": "0",
+        "salutation": "",
+        "name": "Hoi An Kiel",
+        "name3": "Thi Tinh Nguyen",
+        "street": "Jägersberg 6",
+        "city": "Kiel",
+        "postal_code": "24106",
+        "country": "Deutschland",
+        "phone": "(04 31) 12 82 31 54",
+        "fax": "",
+        "email": "cuongblumen@gmail.com",
+        "is_default_billing": true,
+        "is_default_delivery": true
+      }
+    ]
+  },
+  "order_statistics": {
+    "total_orders": 26,
+    "unique_articles_ordered": 26,
+    "recent_orders_count": 26,
+    "last_order_date": "2025-08-16"
+  },
+  "order_history": [
+    {
+      "article_number": "230310",
+      "date": "2025-08-16",
+      "booking_quantity": -18.0,
+      "quantity": -18.0,
+      "unit": "ST",
+      "article_info": {
+        "short_description": "Rücknahme Pfand = 3,10 € (20 x 0,5 l Bier)",
+        "long_description": "Rücknahme Pfand = 3,10 € (20 x 0,5 l Bier)",
+        "product_group": "90.05 Pfand",
+        "unit": "ST"
+      }
+    },
+    {
+      "article_number": "230330",
+      "date": "2025-08-16",
+      "booking_quantity": -24.0,
+      "quantity": -24.0,
+      "unit": "ST",
+      "article_info": {
+        "short_description": "Rücknahme Pfand = 3,30 € (12 x PET )",
+        "long_description": "Rücknahme Pfand = 3,30 € (12 x PET )",
+        "product_group": "90.05 Pfand",
+        "unit": "ST"
+      }
+    },
+    {
+      "article_number": "230342",
+      "date": "2025-08-16",
+      "booking_quantity": -20.0,
+      "quantity": -20.0,
+      "unit": "ST",
+      "article_info": {
+        "short_description": "Rücknahme Pfand=3,42 €(24x0,33 l Bier)",
+        "long_description": "Rücknahme Pfand=3,42 €(24x0,33 l Bier)",
+        "product_group": "90.05 Pfand",
+        "unit": "ST"
+      }
+    },
+    {
+      "article_number": "230510",
+      "date": "2025-08-16",
+      "booking_quantity": -27.0,
+      "quantity": -27.0,
+      "unit": "ST",
+      "article_info": {
+        "short_description": "Rücknahme Pfand = 5,10 € (24 x 0,33 l Cola)",
+        "long_description": "Rücknahme Pfand = 5,10 € (24 x 0,33 l Cola)",
+        "product_group": "90.05 Pfand",
+        "unit": "ST"
+      }
+    },
+    {
+      "article_number": "2303000",
+      "date": "2025-08-16",
+      "booking_quantity": -9.0,
+      "quantity": -9.0,
+      "unit": "Fass",
+      "article_info": {
+        "short_description": "Rücknahme Fass - Pfand ( 30,00 € )",
+        "long_description": "Rücknahme Fass - Pfand ( 30,00 € )",
+        "product_group": "90.05 Pfand",
+        "unit": "FA"
+      }
+    },
+    {
+      "article_number": "2663",
+      "date": "2025-08-15",
+      "booking_quantity": 260.0,
+      "quantity": 13.0,
+      "unit": "KI 20",
+      "article_info": {
+        "short_description": "König Ludwig Weißbier 20x0,5l",
+        "long_description": "König Ludwig Weißbier 20x0,5l",
+        "product_group": "15.20.05.10 0,5 l Flasche MWK",
+        "unit": "FL"
+      }
+    },
+    {
+      "article_number": "23310",
+      "date": "2025-08-15",
+      "booking_quantity": 28.0,
+      "quantity": 28.0,
+      "unit": "Kiste",
+      "article_info": {
+        "short_description": "Pfand = 3,10 € 20er Kiste Bier 0,5l",
+        "long_description": "Pfand = 3,10 € 20er Kiste Bier 0,5 l",
+        "product_group": "90.05 Pfand",
+        "unit": "ST"
+      }
+    },
+    {
+      "article_number": "2664",
+      "date": "2025-08-15",
+      "booking_quantity": 220.0,
+      "quantity": 11.0,
+      "unit": "KI 20",
+      "article_info": {
+        "short_description": "König Ludwig Alkoholfrei Weißbier 20x0,5L",
+        "long_description": "König Ludwig Alkoholfrei Weißbier 20x0,5L",
+        "product_group": "15.20.10.10 0,5 l Flasche",
+        "unit": "FL"
+      }
+    },
+    {
+      "article_number": "23342",
+      "date": "2025-08-15",
+      "booking_quantity": 7.0,
+      "quantity": 7.0,
+      "unit": "Kiste",
+      "article_info": {
+        "short_description": "Pfand = 3,42 € 24er  0,33l (24x0,08+1,50)",
+        "long_description": "Pfand = 3,42 € 24er 0,33l (24 x 0,08 + 1,50)",
+        "product_group": "90.05 Pfand",
+        "unit": "ST"
+      }
+    },
+    {
+      "article_number": "3385",
+      "date": "2025-08-15",
+      "booking_quantity": 192.0,
+      "quantity": 16.0,
+      "unit": "KI 12",
+      "article_info": {
+        "short_description": "Apollinaris Selection 12 x 0,75 l MWK",
+        "long_description": "Apollinaris Selection 12 x 0,75 l Flasche MWK",
+        "product_group": "15.15.20 0,7 / 0,75 l Flasche MWK",
+        "unit": "FL"
+      }
+    },
+    {
+      "article_number": "23330",
+      "date": "2025-08-15",
+      "booking_quantity": 26.0,
+      "quantity": 26.0,
+      "unit": "Kiste",
+      "article_info": {
+        "short_description": "Pfand = 3,30 €  1 L Cola & Co PET",
+        "long_description": "Pfand = 3,30 € 1 l Cola & Co PET",
+        "product_group": "90.05 Pfand",
+        "unit": "ST"
+      }
+    },
+    {
+      "article_number": "1652",
+      "date": "2025-08-15",
+      "booking_quantity": 408.0,
+      "quantity": 17.0,
+      "unit": "KI 24",
+      "article_info": {
+        "short_description": "Cola ZERO  24 x 0,33 l  Flaschen",
+        "long_description": "Coca Cola Zero 24 x 0,33 l Flasche",
+        "product_group": "15.05.10 0,3 l und 0,33 l Flasche MWK",
+        "unit": "FL"
+      }
+    },
+    {
+      "article_number": "23510",
+      "date": "2025-08-15",
+      "booking_quantity": 42.0,
+      "quantity": 42.0,
+      "unit": "Kiste",
+      "article_info": {
+        "short_description": "Pfand = 5,10 € 24er Cola & Co 0,33l",
+        "long_description": "Pfand = 5,10 € 24er Cola & Co 0,33 l",
+        "product_group": "90.05 Pfand",
+        "unit": "ST"
+      }
+    },
+    {
+      "article_number": "1218",
+      "date": "2025-08-15",
+      "booking_quantity": 336.0,
+      "quantity": 14.0,
+      "unit": "KI 24",
+      "article_info": {
+        "short_description": "Coca Cola  24 x 0,33 l  Flaschen",
+        "long_description": "Coca Cola 24 x 0,33 l Flasche",
+        "product_group": "15.05.10 0,3 l und 0,33 l Flasche MWK",
+        "unit": "FL"
+      }
+    },
+    {
+      "article_number": "9603",
+      "date": "2025-08-15",
+      "booking_quantity": 5.0,
+      "quantity": 5.0,
+      "unit": "Fass",
+      "article_info": {
+        "short_description": "Warsteiner 30 L Faß",
+        "long_description": "Warsteiner 30 l Fass",
+        "product_group": "15.20.05.20 Fass",
+        "unit": "FA"
+      }
+    },
+    {
+      "article_number": "233000",
+      "date": "2025-08-15",
+      "booking_quantity": 7.0,
+      "quantity": 7.0,
+      "unit": "Fass",
+      "article_info": {
+        "short_description": "Fass - Pfand   30,00 €",
+        "long_description": "Fass-Pfand 30,00 €",
+        "product_group": "90.05 Pfand",
+        "unit": "FA"
+      }
+    },
+    {
+      "article_number": "9575",
+      "date": "2025-08-15",
+      "booking_quantity": 120.0,
+      "quantity": 5.0,
+      "unit": "KI 24",
+      "article_info": {
+        "short_description": "Apollinaris Selection mit Kohlensäure  24 x 0,25 L",
+        "long_description": "Apollinaris Selection Kohlensäure 24x0,25l Flasche",
+        "product_group": "15.15.05 0,25 l Flasche",
+        "unit": "FL"
+      }
+    },
+    {
+      "article_number": "9577",
+      "date": "2025-08-15",
+      "booking_quantity": 144.0,
+      "quantity": 6.0,
+      "unit": "KI 24",
+      "article_info": {
+        "short_description": "Apollinaris Vio Naturell 24 x 0,25L MWK",
+        "long_description": "Apollinaris Vio Naturell 24 x 0,25 l Flasche MWK",
+        "product_group": "15.15.05 0,25 l Flasche",
+        "unit": "FL"
+      }
+    },
+    {
+      "article_number": "3386",
+      "date": "2025-08-15",
+      "booking_quantity": 120.0,
+      "quantity": 10.0,
+      "unit": "KI 12",
+      "article_info": {
+        "short_description": "Vio Still 12 x 0,75 l MWK",
+        "long_description": "Vio Still 12 x 0,75 l Flasche MWK",
+        "product_group": "15.15.20 0,7 / 0,75 l Flasche MWK",
+        "unit": "FL"
+      }
+    },
+    {
+      "article_number": "9415",
+      "date": "2025-08-15",
+      "booking_quantity": 80.0,
+      "quantity": 4.0,
+      "unit": "KI 20",
+      "article_info": {
+        "short_description": "Franziskaner alkoholfrei Weissbier 20 x 0,5 l MWK",
+        "long_description": "Franziskaner Weißbier alkoholfrei 20 x 0,5 l MWK",
+        "product_group": "15.20.10.10 0,5 l Flasche",
+        "unit": "FL"
+      }
+    },
+    {
+      "article_number": "2662",
+      "date": "2025-08-15",
+      "booking_quantity": 120.0,
+      "quantity": 5.0,
+      "unit": "KI 24",
+      "article_info": {
+        "short_description": "Warsteiner Alkoholfrei 24x0,33l Fl",
+        "long_description": "Warsteiner Alkoholfrei 24x0,33l Fl",
+        "product_group": "15.20.10.05 0,33 l Flasche",
+        "unit": "FL"
+      }
+    },
+    {
+      "article_number": "9865",
+      "date": "2025-07-11",
+      "booking_quantity": 40.0,
+      "quantity": 40.0,
+      "unit": "KG",
+      "article_info": {
+        "short_description": "Möhren frisch",
+        "long_description": "Möhren frisch",
+        "product_group": "05.35.05 Frischgemüse",
+        "unit": "KG"
+      }
+    },
+    {
+      "article_number": "1390",
+      "date": "2025-07-11",
+      "booking_quantity": 10.0,
+      "quantity": 1.0,
+      "unit": "Sack 10 kg",
+      "article_info": {
+        "short_description": "Rote Zwiebeln 10 kg Sack",
+        "long_description": "Rote Zwiebeln 10 kg Sack",
+        "product_group": "05.35.05 Frischgemüse",
+        "unit": "KG"
+      }
+    },
+    {
+      "article_number": "1179",
+      "date": "2025-07-11",
+      "booking_quantity": 2.0,
+      "quantity": 2.0,
+      "unit": "Fass",
+      "article_info": {
+        "short_description": "Warsteiner  50 l Fass",
+        "long_description": "Warsteiner 50 l Fass",
+        "product_group": "15.20.05.20 Fass",
+        "unit": "FA"
+      }
+    },
+    {
+      "article_number": "9924",
+      "date": "2025-06-03",
+      "booking_quantity": 2.0,
+      "quantity": 2.0,
+      "unit": "KG",
+      "article_info": {
+        "short_description": "Knoblauch frisch geschält 1 kg Pack",
+        "long_description": "Knoblauch frisch geschält 1 kg Pack",
+        "product_group": "05.35.05 Frischgemüse",
+        "unit": "KG"
+      }
+    },
+    {
+      "article_number": "9649",
+      "date": "2025-06-03",
+      "booking_quantity": 48.0,
+      "quantity": 2.0,
+      "unit": "KI 24",
+      "article_info": {
+        "short_description": "Heineken Pils 24 x 0,33 L",
+        "long_description": "Heineken Pils 24 x 0,33 L",
+        "product_group": "15.20.05.05 0,33 l Flasche MWK",
+        "unit": "FL"
+      }
+    }
+  ]
+}

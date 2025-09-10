@@ -1,0 +1,79 @@
+{
+  "metadata": {
+    "generated_at": "2025-09-10T23:17:05.919862",
+    "client_number": "15630",
+    "data_source": "BotanBot XML Export"
+  },
+  "client_profile": {
+    "client_number": "15630",
+    "search_term": "HAMIDS BISTRO",
+    "status": "Kunde",
+    "tax_number": "",
+    "vat_id": "",
+    "is_blocked": false,
+    "price_group": "(Std.-Preis)",
+    "billing_address": {
+      "salutation": "Firma",
+      "name": "Hamids Bistro",
+      "name3": "Inh. Melek Üzümlük",
+      "street": "Rosseerweg   3",
+      "city": "Eckernförde",
+      "postal_code": "24340",
+      "country": "Deutschland",
+      "phone": "(0 43 51) 72 30 - 7 85",
+      "fax": "",
+      "email": ""
+    },
+    "delivery_address": {
+      "salutation": "Firma",
+      "name": "Hamids Bistro",
+      "name3": "Inh. Melek Üzümlük",
+      "street": "Rosseerweg   3",
+      "city": "Eckernförde",
+      "postal_code": "24340",
+      "country": "Deutschland",
+      "phone": "(0 43 51) 72 30 - 7 85",
+      "fax": "",
+      "email": ""
+    },
+    "delivery_schedule": {
+      "monday": "",
+      "tuesday": "",
+      "wednesday": "",
+      "thursday": "",
+      "friday": "",
+      "saturday": ""
+    },
+    "settings": {
+      "webshop_enabled": false,
+      "ds_addresses": false,
+      "no_pickup_app": false,
+      "minimum_order_value": null,
+      "articles_not_in_history": ""
+    },
+    "additional_addresses": [
+      {
+        "address_number": "0",
+        "salutation": "Firma",
+        "name": "Hamids Bistro",
+        "name3": "Inh. Melek Üzümlük",
+        "street": "Rosseerweg   3",
+        "city": "Eckernförde",
+        "postal_code": "24340",
+        "country": "Deutschland",
+        "phone": "(0 43 51) 72 30 - 7 85",
+        "fax": "",
+        "email": "",
+        "is_default_billing": true,
+        "is_default_delivery": true
+      }
+    ]
+  },
+  "order_statistics": {
+    "total_orders": 0,
+    "unique_articles_ordered": 0,
+    "recent_orders_count": 0,
+    "last_order_date": null
+  },
+  "order_history": []
+}

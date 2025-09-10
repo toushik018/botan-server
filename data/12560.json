@@ -1,0 +1,431 @@
+{
+  "metadata": {
+    "generated_at": "2025-09-10T23:17:05.064408",
+    "client_number": "12560",
+    "data_source": "BotanBot XML Export"
+  },
+  "client_profile": {
+    "client_number": "12560",
+    "search_term": "EFES GRILL",
+    "status": "Kunde",
+    "tax_number": "",
+    "vat_id": "",
+    "is_blocked": false,
+    "price_group": "(Std.-Preis)",
+    "billing_address": {
+      "salutation": "",
+      "name": "Efes Döner",
+      "name3": "Inh. Mehmet Yildirim",
+      "street": "Kirchenstr. 31",
+      "city": "Trittau",
+      "postal_code": "22946",
+      "country": "Deutschland",
+      "phone": "(0 41 54) 8 98 - 59 91",
+      "fax": "",
+      "email": "mzyyn_dgn@hotmail.com"
+    },
+    "delivery_address": {
+      "salutation": "",
+      "name": "Efes Döner",
+      "name3": "Inh. Mehmet Yildirim",
+      "street": "Kirchenstr. 31",
+      "city": "Trittau",
+      "postal_code": "22946",
+      "country": "Deutschland",
+      "phone": "(0 41 54) 8 98 - 59 91",
+      "fax": "",
+      "email": "mzyyn_dgn@hotmail.com"
+    },
+    "delivery_schedule": {
+      "monday": "6",
+      "tuesday": "",
+      "wednesday": "",
+      "thursday": "1",
+      "friday": "",
+      "saturday": ""
+    },
+    "settings": {
+      "webshop_enabled": true,
+      "ds_addresses": false,
+      "no_pickup_app": false,
+      "minimum_order_value": null,
+      "articles_not_in_history": "1513,3340,1486"
+    },
+    "additional_addresses": [
+      {
+        "address_number": "0",
+        "salutation": "",
+        "name": "Efes Döner",
+        "name3": "Inh. Mehmet Yildirim",
+        "street": "Kirchenstr. 31",
+        "city": "Trittau",
+        "postal_code": "22946",
+        "country": "Deutschland",
+        "phone": "(0 41 54) 8 98 - 59 91",
+        "fax": "",
+        "email": "mzyyn_dgn@hotmail.com",
+        "is_default_billing": true,
+        "is_default_delivery": true
+      }
+    ]
+  },
+  "order_statistics": {
+    "total_orders": 27,
+    "unique_articles_ordered": 27,
+    "recent_orders_count": 27,
+    "last_order_date": "2025-07-31"
+  },
+  "order_history": [
+    {
+      "article_number": "1369",
+      "date": "2025-07-31",
+      "booking_quantity": 650.0,
+      "quantity": 13.0,
+      "unit": "Beutel 50 Stk.",
+      "article_info": {
+        "short_description": "Falafel 50 Stk. vegan TK",
+        "long_description": "Falafel 50 Stück vegan TK",
+        "product_group": "05.07 Vegan",
+        "unit": "ST"
+      }
+    },
+    {
+      "article_number": "1553",
+      "date": "2025-07-31",
+      "booking_quantity": 18.0,
+      "quantity": 18.0,
+      "unit": "Beutel 1 kg",
+      "article_info": {
+        "short_description": "Chicken Nuggets 1 kg BT",
+        "long_description": "Chicken Nuggets 1 kg",
+        "product_group": "05.05.20.05 TK",
+        "unit": "KG"
+      }
+    },
+    {
+      "article_number": "3342",
+      "date": "2025-07-31",
+      "booking_quantity": 380.0,
+      "quantity": 38.0,
+      "unit": "Pack 10 Stk.",
+      "article_info": {
+        "short_description": "TK 10 x 180g Rinder Currywurst in EH",
+        "long_description": "TK 10 x 180g Rinder Currywurst in EH",
+        "product_group": "05.05.05.05 TK",
+        "unit": "ST"
+      }
+    },
+    {
+      "article_number": "1384",
+      "date": "2025-07-31",
+      "booking_quantity": 16.0,
+      "quantity": 16.0,
+      "unit": "Karton 1",
+      "article_info": {
+        "short_description": "Eisbergsalat  9/10 Kiste Karton",
+        "long_description": "Eisbergsalat 9/10 Kiste Karton",
+        "product_group": "05.35.05 Frischgemüse",
+        "unit": "KT"
+      }
+    },
+    {
+      "article_number": "1039",
+      "date": "2025-07-31",
+      "booking_quantity": 15.0,
+      "quantity": 15.0,
+      "unit": "Sack",
+      "article_info": {
+        "short_description": "Rotkohl 15 Kg  Sack frisch",
+        "long_description": "Rotkohl 15 kg Sack frisch",
+        "product_group": "05.35.05 Frischgemüse",
+        "unit": "SK"
+      }
+    },
+    {
+      "article_number": "1041",
+      "date": "2025-07-31",
+      "booking_quantity": 17.0,
+      "quantity": 17.0,
+      "unit": "Sack",
+      "article_info": {
+        "short_description": "Weisskohl Sack,  15 Kg frisch",
+        "long_description": "Weißkohl 15 kg Sack frisch",
+        "product_group": "05.35.05 Frischgemüse",
+        "unit": "SK"
+      }
+    },
+    {
+      "article_number": "1408",
+      "date": "2025-07-31",
+      "booking_quantity": 470.0,
+      "quantity": 47.0,
+      "unit": "Karton 10 kg",
+      "article_info": {
+        "short_description": "8 mm Pommes Frites frisch 2 x 5 kg",
+        "long_description": "Pommes Frites frisch 8 mm 2 x 5 kg",
+        "product_group": "05.30.05 Pommes",
+        "unit": "KG"
+      }
+    },
+    {
+      "article_number": "1533",
+      "date": "2025-07-31",
+      "booking_quantity": 85.0,
+      "quantity": 17.0,
+      "unit": "Eimer 5 kg",
+      "article_info": {
+        "short_description": "Speisequark Mager  5 Kg Eimer",
+        "long_description": "Speisequark mager 5 kg Eimer",
+        "product_group": "05.15.30 Quark / Schmand",
+        "unit": "KG"
+      }
+    },
+    {
+      "article_number": "1342",
+      "date": "2025-07-31",
+      "booking_quantity": 50.0,
+      "quantity": 5.0,
+      "unit": "Eimer 10 kg",
+      "article_info": {
+        "short_description": "Curry-Gewürz-Ketchup 10 kg WERNSING",
+        "long_description": "Wernsing Curry-Gewürz-Ketchup 10 kg",
+        "product_group": "05.45.10 Ketchup",
+        "unit": "KG"
+      }
+    },
+    {
+      "article_number": "2223",
+      "date": "2025-07-31",
+      "booking_quantity": 90.0,
+      "quantity": 9.0,
+      "unit": "Eimer 10 kg",
+      "article_info": {
+        "short_description": "Remia Frittierfett MAXIMUM 10 kg KT",
+        "long_description": "Remia Frittierfett MAXIMUM 10 kg KT",
+        "product_group": "05.25.20.10 Fette",
+        "unit": "KG"
+      }
+    },
+    {
+      "article_number": "1106",
+      "date": "2025-07-31",
+      "booking_quantity": 32.0,
+      "quantity": 8.0,
+      "unit": "Karton 4 Stk.",
+      "article_info": {
+        "short_description": "Alufolie  µ=11 / 30 cm",
+        "long_description": "Alufolie µ=11/30 cm",
+        "product_group": "10.05.30 Folien",
+        "unit": "RL"
+      }
+    },
+    {
+      "article_number": "1343",
+      "date": "2025-07-31",
+      "booking_quantity": 160.0,
+      "quantity": 16.0,
+      "unit": "Eimer 10 kg",
+      "article_info": {
+        "short_description": "Tomatenketchup \"Gold\"  10 Kg",
+        "long_description": "Gold Tomaten-Ketchup 10 kg",
+        "product_group": "05.45.10 Ketchup",
+        "unit": "KG"
+      }
+    },
+    {
+      "article_number": "2300025",
+      "date": "2025-07-25",
+      "booking_quantity": -131.0,
+      "quantity": -131.0,
+      "unit": "Dose 1 Stk.",
+      "article_info": {
+        "short_description": "Rücknahme Pflichtpfand DPG",
+        "long_description": "Rücknahme Pflichtpfand DPG",
+        "product_group": "90.05 Pfand",
+        "unit": "ST"
+      }
+    },
+    {
+      "article_number": "1115",
+      "date": "2025-07-24",
+      "booking_quantity": 3.0,
+      "quantity": 3.0,
+      "unit": "Karton 1",
+      "article_info": {
+        "short_description": "Präge-Servietten,1/4-Falz weiß 33x33cm 4000 Stk.",
+        "long_description": "Präge-Servietten,1/4-Falz weiß 33x33cm 4000 Stk.",
+        "product_group": "10.05.55 Servietten",
+        "unit": "KT"
+      }
+    },
+    {
+      "article_number": "1386",
+      "date": "2025-07-24",
+      "booking_quantity": 3.0,
+      "quantity": 3.0,
+      "unit": "Sack",
+      "article_info": {
+        "short_description": "Gemüsezwiebeln  Sack a 25kg",
+        "long_description": "Gemüsezwiebeln  Sack a 25kg",
+        "product_group": "05.35.05 Frischgemüse",
+        "unit": "SK"
+      }
+    },
+    {
+      "article_number": "1442",
+      "date": "2025-07-24",
+      "booking_quantity": 2.0,
+      "quantity": 2.0,
+      "unit": "Pack 1",
+      "article_info": {
+        "short_description": "Paprika edelsüß  1 Kg",
+        "long_description": "Paprika edelsüß 1 kg",
+        "product_group": "05.25.35 Gewürze",
+        "unit": "KG"
+      }
+    },
+    {
+      "article_number": "2014",
+      "date": "2025-07-24",
+      "booking_quantity": 1.0,
+      "quantity": 1.0,
+      "unit": "Pack 1",
+      "article_info": {
+        "short_description": "extra scharf Chili mit Kern  1kg",
+        "long_description": "Chili mit Kernen, extra scharf 1 kg",
+        "product_group": "05.25.35 Gewürze",
+        "unit": "KG"
+      }
+    },
+    {
+      "article_number": "3435",
+      "date": "2025-07-17",
+      "booking_quantity": 9.0,
+      "quantity": 3.0,
+      "unit": "Karton 3 kg",
+      "article_info": {
+        "short_description": "150 g,  3kg Hähnchen-Formschnitzel pan.",
+        "long_description": "Hähnchen-Formschnitzel paniert 150 g 3 kg",
+        "product_group": "05.05.20.05 TK",
+        "unit": "KG"
+      }
+    },
+    {
+      "article_number": "2115",
+      "date": "2025-07-17",
+      "booking_quantity": 2.0,
+      "quantity": 2.0,
+      "unit": "Pack 1",
+      "article_info": {
+        "short_description": "Fruchtkugeln (bunte Lollies)  100 Stk.",
+        "long_description": "Fruchtkugeln (bunte Lollies)  100 Stück",
+        "product_group": "05.50.15 Lollies",
+        "unit": "PK"
+      }
+    },
+    {
+      "article_number": "1435",
+      "date": "2025-07-17",
+      "booking_quantity": 3.0,
+      "quantity": 3.0,
+      "unit": "Pack 1",
+      "article_info": {
+        "short_description": "Knoblauchgranulat 1 kg",
+        "long_description": "Knoblauchgranulat 1 kg",
+        "product_group": "05.25.35 Gewürze",
+        "unit": "KG"
+      }
+    },
+    {
+      "article_number": "3501",
+      "date": "2025-07-10",
+      "booking_quantity": 2.0,
+      "quantity": 2.0,
+      "unit": "Eimer 1",
+      "article_info": {
+        "short_description": "Peperoni griechisch  EIMER  6 Kg",
+        "long_description": "Peperoni griechisch 6 kg Eimer",
+        "product_group": "05.25.30 Konserven",
+        "unit": "EI"
+      }
+    },
+    {
+      "article_number": "1402",
+      "date": "2025-07-10",
+      "booking_quantity": 200.0,
+      "quantity": 2.0,
+      "unit": "Karton 100 Stk.",
+      "article_info": {
+        "short_description": "Wernsing Salatmayon. port. BT 100x20 ml",
+        "long_description": "Wernsing Salatmayonnaise portioniert 100 x 20 ml",
+        "product_group": "05.45.05 Mayonnaise",
+        "unit": "BT"
+      }
+    },
+    {
+      "article_number": "1387",
+      "date": "2025-07-03",
+      "booking_quantity": 12.0,
+      "quantity": 1.0,
+      "unit": "Karton 12 Stk.",
+      "article_info": {
+        "short_description": "Gurken Frisch 12er Karton",
+        "long_description": "Gurken Frisch  12er Karton",
+        "product_group": "05.35.05 Frischgemüse",
+        "unit": "ST"
+      }
+    },
+    {
+      "article_number": "1448",
+      "date": "2025-07-03",
+      "booking_quantity": 2.0,
+      "quantity": 1.0,
+      "unit": "Beutel 2kg",
+      "article_info": {
+        "short_description": "FUCHS Pommes Frites-Salz 2 Kg  Beutel per Kg",
+        "long_description": "FUCHS Pommes Frites Salz 2 kg Beutel",
+        "product_group": "05.25.35 Gewürze",
+        "unit": "KG"
+      }
+    },
+    {
+      "article_number": "1401",
+      "date": "2025-06-19",
+      "booking_quantity": 100.0,
+      "quantity": 1.0,
+      "unit": "Karton 100 Stk.",
+      "article_info": {
+        "short_description": "Wernsing Tomaten Ketch. Port. BT  100x18 ml",
+        "long_description": "Wernsing Tomaten-Ketchup portioniert 100 x 18 ml",
+        "product_group": "05.45.10 Ketchup",
+        "unit": "BT"
+      }
+    },
+    {
+      "article_number": "3005",
+      "date": "2025-06-05",
+      "booking_quantity": 6.0,
+      "quantity": 6.0,
+      "unit": "Pack 1",
+      "article_info": {
+        "short_description": "Teigblätter ücgen Yufka 25 Stk./Beutel",
+        "long_description": "Teigblätter ücgen Yufka 25 Stk./Beutel",
+        "product_group": "05.25.05 Teigwaren",
+        "unit": "PK"
+      }
+    },
+    {
+      "article_number": "1316",
+      "date": "2025-05-30",
+      "booking_quantity": 5.0,
+      "quantity": 1.0,
+      "unit": "Eimer 5 kg",
+      "article_info": {
+        "short_description": "Zigeunersauce 5 kg WERNSING",
+        "long_description": "Wernsing Zigeunersauce 5 kg",
+        "product_group": "05.45.30 Fertigsaucen",
+        "unit": "KG"
+      }
+    }
+  ]
+}

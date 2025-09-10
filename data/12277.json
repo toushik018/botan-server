@@ -1,0 +1,79 @@
+{
+  "metadata": {
+    "generated_at": "2025-09-10T23:17:04.981684",
+    "client_number": "12277",
+    "data_source": "BotanBot XML Export"
+  },
+  "client_profile": {
+    "client_number": "12277",
+    "search_term": "BERLIN DÖNER, ITZEHOE",
+    "status": "Kunde",
+    "tax_number": "",
+    "vat_id": "",
+    "is_blocked": false,
+    "price_group": "(Std.-Preis)",
+    "billing_address": {
+      "salutation": "",
+      "name": "BERLIN DÖNER",
+      "name3": "Inh. Sivri Halil",
+      "street": "Kirchenstr 25",
+      "city": "ITZEHOE",
+      "postal_code": "25524",
+      "country": "Deutschland",
+      "phone": "(0 48 21) 4 08 16 65",
+      "fax": "",
+      "email": "selmansivri73@gmail.com"
+    },
+    "delivery_address": {
+      "salutation": "",
+      "name": "BERLIN DÖNER",
+      "name3": "Inh. Sivri Halil",
+      "street": "Kirchenstr 25",
+      "city": "ITZEHOE",
+      "postal_code": "25524",
+      "country": "Deutschland",
+      "phone": "(0 48 21) 4 08 16 65",
+      "fax": "",
+      "email": "selmansivri73@gmail.com"
+    },
+    "delivery_schedule": {
+      "monday": "",
+      "tuesday": "6",
+      "wednesday": "",
+      "thursday": "",
+      "friday": "6",
+      "saturday": ""
+    },
+    "settings": {
+      "webshop_enabled": false,
+      "ds_addresses": false,
+      "no_pickup_app": false,
+      "minimum_order_value": null,
+      "articles_not_in_history": "1352,1128"
+    },
+    "additional_addresses": [
+      {
+        "address_number": "0",
+        "salutation": "",
+        "name": "BERLIN DÖNER",
+        "name3": "Inh. Sivri Halil",
+        "street": "Kirchenstr 25",
+        "city": "ITZEHOE",
+        "postal_code": "25524",
+        "country": "Deutschland",
+        "phone": "(0 48 21) 4 08 16 65",
+        "fax": "",
+        "email": "selmansivri73@gmail.com",
+        "is_default_billing": true,
+        "is_default_delivery": true
+      }
+    ]
+  },
+  "order_statistics": {
+    "total_orders": 0,
+    "unique_articles_ordered": 0,
+    "recent_orders_count": 0,
+    "last_order_date": null
+  },
+  "order_history": []
+}

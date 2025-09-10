@@ -1,0 +1,79 @@
+{
+  "metadata": {
+    "generated_at": "2025-09-10T23:17:05.006716",
+    "client_number": "12367",
+    "data_source": "BotanBot XML Export"
+  },
+  "client_profile": {
+    "client_number": "12367",
+    "search_term": "LOGO",
+    "status": "Kunde",
+    "tax_number": "",
+    "vat_id": "",
+    "is_blocked": true,
+    "price_group": "(Std.-Preis)",
+    "billing_address": {
+      "salutation": "",
+      "name": "Croque Bonjour",
+      "name3": "Inh.: Ali Cem Yagci",
+      "street": "Knooper Weg 48",
+      "city": "Kiel",
+      "postal_code": "24103",
+      "country": "Deutschland",
+      "phone": "(04 31) 88 78 59 00",
+      "fax": "(04 31) 88 78 59 01",
+      "email": "Frank.Patzke@bhatti.pro"
+    },
+    "delivery_address": {
+      "salutation": "",
+      "name": "Croque Bonjour",
+      "name3": "Inh.: Ali Cem Yagci",
+      "street": "Knooper Weg 48",
+      "city": "Kiel",
+      "postal_code": "24103",
+      "country": "Deutschland",
+      "phone": "(04 31) 88 78 59 00",
+      "fax": "(04 31) 88 78 59 01",
+      "email": "Frank.Patzke@bhatti.pro"
+    },
+    "delivery_schedule": {
+      "monday": "",
+      "tuesday": "",
+      "wednesday": "",
+      "thursday": "",
+      "friday": "",
+      "saturday": ""
+    },
+    "settings": {
+      "webshop_enabled": false,
+      "ds_addresses": false,
+      "no_pickup_app": false,
+      "minimum_order_value": null,
+      "articles_not_in_history": "1351;9184;1666;9891,1476,9218,9183,9181,1477,1948,3399,1000;1768;2068;1155,1089,4503,1336, 9163,9057"
+    },
+    "additional_addresses": [
+      {
+        "address_number": "0",
+        "salutation": "",
+        "name": "Croque Bonjour",
+        "name3": "Inh.: Ali Cem Yagci",
+        "street": "Knooper Weg 48",
+        "city": "Kiel",
+        "postal_code": "24103",
+        "country": "Deutschland",
+        "phone": "(04 31) 88 78 59 00",
+        "fax": "(04 31) 88 78 59 01",
+        "email": "Frank.Patzke@bhatti.pro",
+        "is_default_billing": true,
+        "is_default_delivery": true
+      }
+    ]
+  },
+  "order_statistics": {
+    "total_orders": 0,
+    "unique_articles_ordered": 0,
+    "recent_orders_count": 0,
+    "last_order_date": null
+  },
+  "order_history": []
+}

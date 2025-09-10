@@ -1,0 +1,79 @@
+{
+  "metadata": {
+    "generated_at": "2025-09-10T23:17:04.627152",
+    "client_number": "10959",
+    "data_source": "BotanBot XML Export"
+  },
+  "client_profile": {
+    "client_number": "10959",
+    "search_term": "ARBAELO FOODPACK",
+    "status": "Kunde",
+    "tax_number": "",
+    "vat_id": "",
+    "is_blocked": false,
+    "price_group": "(Std.-Preis)",
+    "billing_address": {
+      "salutation": "",
+      "name": "Arbaelo Foodpack GmbH",
+      "name3": "",
+      "street": "Ziegelstr. 157a",
+      "city": "Lübeck",
+      "postal_code": "23556",
+      "country": "Deutschland",
+      "phone": "(04 51) 2 90 57 67",
+      "fax": "(04 51) 2 90 57 69",
+      "email": "arbaelo@t-online.de"
+    },
+    "delivery_address": {
+      "salutation": "",
+      "name": "Arbaelo Foodpack GmbH",
+      "name3": "",
+      "street": "Ziegelstr. 157a",
+      "city": "Lübeck",
+      "postal_code": "23556",
+      "country": "Deutschland",
+      "phone": "(04 51) 2 90 57 67",
+      "fax": "(04 51) 2 90 57 69",
+      "email": "arbaelo@t-online.de"
+    },
+    "delivery_schedule": {
+      "monday": "9",
+      "tuesday": "",
+      "wednesday": "1",
+      "thursday": "",
+      "friday": "",
+      "saturday": ""
+    },
+    "settings": {
+      "webshop_enabled": false,
+      "ds_addresses": false,
+      "no_pickup_app": false,
+      "minimum_order_value": null,
+      "articles_not_in_history": ""
+    },
+    "additional_addresses": [
+      {
+        "address_number": "0",
+        "salutation": "",
+        "name": "Arbaelo Foodpack GmbH",
+        "name3": "",
+        "street": "Ziegelstr. 157a",
+        "city": "Lübeck",
+        "postal_code": "23556",
+        "country": "Deutschland",
+        "phone": "(04 51) 2 90 57 67",
+        "fax": "(04 51) 2 90 57 69",
+        "email": "arbaelo@t-online.de",
+        "is_default_billing": true,
+        "is_default_delivery": true
+      }
+    ]
+  },
+  "order_statistics": {
+    "total_orders": 0,
+    "unique_articles_ordered": 0,
+    "recent_orders_count": 0,
+    "last_order_date": null
+  },
+  "order_history": []
+}

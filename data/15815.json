@@ -1,0 +1,613 @@
+{
+  "metadata": {
+    "generated_at": "2025-09-10T23:17:05.976594",
+    "client_number": "15815",
+    "data_source": "BotanBot XML Export"
+  },
+  "client_profile": {
+    "client_number": "15815",
+    "search_term": "BÜRGER KIEL",
+    "status": "Kunde",
+    "tax_number": "",
+    "vat_id": "",
+    "is_blocked": false,
+    "price_group": "(Std.-Preis)",
+    "billing_address": {
+      "salutation": "",
+      "name": "Burger me Kiel",
+      "name3": "Stefanie Schalow",
+      "street": "Dreiecksplatz 7",
+      "city": "Kiel",
+      "postal_code": "24105",
+      "country": "Deutschland",
+      "phone": "(04 31) 38 21 93 93",
+      "fax": "",
+      "email": "nette7115@yahoo.de"
+    },
+    "delivery_address": {
+      "salutation": "",
+      "name": "Burger me Kiel",
+      "name3": "Stefanie Schalow",
+      "street": "Dreiecksplatz 7",
+      "city": "Kiel",
+      "postal_code": "24105",
+      "country": "Deutschland",
+      "phone": "(04 31) 38 21 93 93",
+      "fax": "",
+      "email": "nette7115@yahoo.de"
+    },
+    "delivery_schedule": {
+      "monday": "",
+      "tuesday": "",
+      "wednesday": "",
+      "thursday": "",
+      "friday": "",
+      "saturday": ""
+    },
+    "settings": {
+      "webshop_enabled": true,
+      "ds_addresses": false,
+      "no_pickup_app": false,
+      "minimum_order_value": null,
+      "articles_not_in_history": ""
+    },
+    "additional_addresses": [
+      {
+        "address_number": "0",
+        "salutation": "",
+        "name": "Burger me Kiel",
+        "name3": "Stefanie Schalow",
+        "street": "Dreiecksplatz 7",
+        "city": "Kiel",
+        "postal_code": "24105",
+        "country": "Deutschland",
+        "phone": "(04 31) 38 21 93 93",
+        "fax": "",
+        "email": "nette7115@yahoo.de",
+        "is_default_billing": true,
+        "is_default_delivery": true
+      }
+    ]
+  },
+  "order_statistics": {
+    "total_orders": 41,
+    "unique_articles_ordered": 41,
+    "recent_orders_count": 41,
+    "last_order_date": "2025-08-19"
+  },
+  "order_history": [
+    {
+      "article_number": "1498",
+      "date": "2025-08-19",
+      "booking_quantity": 183.0,
+      "quantity": 3.0,
+      "unit": "Karton 61",
+      "article_info": {
+        "short_description": "Hamburger Fleisch 61 x 80 gr",
+        "long_description": "Hamburger-Fleisch 61 x 80 g",
+        "product_group": "05.05.05.05 TK",
+        "unit": "ST"
+      }
+    },
+    {
+      "article_number": "1583",
+      "date": "2025-08-14",
+      "booking_quantity": 3.0,
+      "quantity": 3.0,
+      "unit": "Dose 1 Stk.",
+      "article_info": {
+        "short_description": "Gurkensalat 5/1 Dose süß-sauer für Hot-Dog usw.",
+        "long_description": "Gurkensalat 5/1 Dose süß-sauer für Hot-Dog usw.",
+        "product_group": "05.25.30 Konserven",
+        "unit": "DS"
+      }
+    },
+    {
+      "article_number": "3240",
+      "date": "2025-08-13",
+      "booking_quantity": 140.0,
+      "quantity": 3.0,
+      "unit": "Karton 30 Stk.",
+      "article_info": {
+        "short_description": "Potato Bun 4 inch 11cm 80 Stk. TK \"Level up\"",
+        "long_description": "Potato Bun 4 inch 11cm 80 Stk. TK \"Level up\"",
+        "product_group": "05.40.10 Brotwaren",
+        "unit": "ST"
+      }
+    },
+    {
+      "article_number": "2102",
+      "date": "2025-08-09",
+      "booking_quantity": 3.0,
+      "quantity": 3.0,
+      "unit": "Kanister 1 Stk.",
+      "article_info": {
+        "short_description": "Fettlöser  10 Liter Kanister",
+        "long_description": "Fettlöser 10 l Kanister",
+        "product_group": "10.10.05 Reiniger",
+        "unit": "KN"
+      }
+    },
+    {
+      "article_number": "1553",
+      "date": "2025-08-09",
+      "booking_quantity": 13.0,
+      "quantity": 13.0,
+      "unit": "Beutel 1 kg",
+      "article_info": {
+        "short_description": "Chicken Nuggets 1 kg BT",
+        "long_description": "Chicken Nuggets 1 kg",
+        "product_group": "05.05.20.05 TK",
+        "unit": "KG"
+      }
+    },
+    {
+      "article_number": "2728",
+      "date": "2025-08-09",
+      "booking_quantity": 72.0,
+      "quantity": 72.0,
+      "unit": "Tube 1",
+      "article_info": {
+        "short_description": "Creamy Cheese Style  850ml vegan",
+        "long_description": "Creamy Cheese Style  850 ml",
+        "product_group": "05.07 Vegan",
+        "unit": "TB"
+      }
+    },
+    {
+      "article_number": "9701",
+      "date": "2025-08-09",
+      "booking_quantity": 105.0,
+      "quantity": 7.0,
+      "unit": "Kanister 15 kg",
+      "article_info": {
+        "short_description": "PREP Multi Pflanzenöl Frittieröl 2x7,5 l KN",
+        "long_description": "PREP Multi Pflanzenöl Frittieröl 15 l Kanister",
+        "product_group": "05.25.20.10 Fette",
+        "unit": "LI"
+      }
+    },
+    {
+      "article_number": "3134",
+      "date": "2025-07-31",
+      "booking_quantity": 960.0,
+      "quantity": 40.0,
+      "unit": "Karton 24 Stk.",
+      "article_info": {
+        "short_description": "Hamburgerbrötchen Brioche veg 120mm 110g 24 Stk/KT",
+        "long_description": "Hamburgerbrötchen Brioche veg 120mm 110g 24 Stk/KT",
+        "product_group": "05.40.10 Brotwaren",
+        "unit": "ST"
+      }
+    },
+    {
+      "article_number": "1481",
+      "date": "2025-07-31",
+      "booking_quantity": 880.0,
+      "quantity": 22.0,
+      "unit": "Karton 40 Stk.",
+      "article_info": {
+        "short_description": "Best Burger 40 x 125g Halal",
+        "long_description": "Best Burger 40 x125g Halal",
+        "product_group": "05.05.05.05 TK",
+        "unit": "ST"
+      }
+    },
+    {
+      "article_number": "1882",
+      "date": "2025-07-29",
+      "booking_quantity": 14.0,
+      "quantity": 14.0,
+      "unit": "Pack 1",
+      "article_info": {
+        "short_description": "Schmelzkäse Cheddar in Scheiben  1,082 kg",
+        "long_description": "Schmelzkäse Cheddar in Scheiben 1,082 kg",
+        "product_group": "05.15.05.10.20 Frisch- und Schmelzkäse",
+        "unit": "PK"
+      }
+    },
+    {
+      "article_number": "2572",
+      "date": "2025-07-29",
+      "booking_quantity": 48.0,
+      "quantity": 2.0,
+      "unit": "Karton 24 Stk.",
+      "article_info": {
+        "short_description": "Green Heroes Plant Homestyle Burger 24x125 g VEGAN",
+        "long_description": "Green Heroes Plant Homestyle Burger 125 g  VEGAN",
+        "product_group": "05.07 Vegan",
+        "unit": "ST"
+      }
+    },
+    {
+      "article_number": "2571",
+      "date": "2025-07-29",
+      "booking_quantity": 2.0,
+      "quantity": 2.0,
+      "unit": "Beutel 1 kg",
+      "article_info": {
+        "short_description": "Plant Powerd Nuggets vegan  1 kg",
+        "long_description": "Plant Powerd Nuggets vegan  1 kg",
+        "product_group": "05.07 Vegan",
+        "unit": "KG"
+      }
+    },
+    {
+      "article_number": "3002",
+      "date": "2025-07-28",
+      "booking_quantity": 528.0,
+      "quantity": 22.0,
+      "unit": "Karton 24 Stk.",
+      "article_info": {
+        "short_description": "Sesambrötchen 5 -Inch (80g) 125mm 24Stk.",
+        "long_description": "Sesambrötchen 5 Inch 80 g 125 mm 24 Stück",
+        "product_group": "05.40.10 Brotwaren",
+        "unit": "ST"
+      }
+    },
+    {
+      "article_number": "3078",
+      "date": "2025-07-28",
+      "booking_quantity": 696.0,
+      "quantity": 29.0,
+      "unit": "Karton 24 Stk.",
+      "article_info": {
+        "short_description": "Rustikal Hamburgerbrötchen 125mm 105g 24 Stk/KT",
+        "long_description": "Rustikal Hamburgerbrötchen 125mm 105g 24 Stk/KT",
+        "product_group": "05.40.10 Brotwaren",
+        "unit": "ST"
+      }
+    },
+    {
+      "article_number": "2591",
+      "date": "2025-07-28",
+      "booking_quantity": 450.0,
+      "quantity": 6.0,
+      "unit": "Pack 75 Stk.",
+      "article_info": {
+        "short_description": "Nature Hamburgerbox Pappe  11x11x8 cm (für 5\")",
+        "long_description": "Nature Hamburgerbox Pappe  11x11x8 cm (für 5\")",
+        "product_group": "10.05.25 Boxen, Tüten, Taschen und Papier",
+        "unit": "ST"
+      }
+    },
+    {
+      "article_number": "9820",
+      "date": "2025-07-28",
+      "booking_quantity": 2.0,
+      "quantity": 2.0,
+      "unit": "Tube 1",
+      "article_info": {
+        "short_description": "Develey Barbecue Sauce  875ml Tube",
+        "long_description": "Develey Barbecue Sauce  875ml Tube",
+        "product_group": "05.45.15 Dips und Saucen",
+        "unit": "TB"
+      }
+    },
+    {
+      "article_number": "3399",
+      "date": "2025-07-26",
+      "booking_quantity": 50.0,
+      "quantity": 5.0,
+      "unit": "Karton 10 kg",
+      "article_info": {
+        "short_description": "TK  Aviko Super Crunch 7mm Pommes  4 x 2,5 kg",
+        "long_description": "Aviko SuperCrunch Pommes 7 mm 4 x 2,5 kg Beutel TK",
+        "product_group": "05.30.05 Pommes",
+        "unit": "KG"
+      }
+    },
+    {
+      "article_number": "3055",
+      "date": "2025-07-26",
+      "booking_quantity": 25.0,
+      "quantity": 25.0,
+      "unit": "Beutel 1 kg",
+      "article_info": {
+        "short_description": "FW Chicken Wings Buffalo 1 Kg",
+        "long_description": "Foodworks Chicken Wings \"Buffalo\" 1 kg",
+        "product_group": "05.05.20.05 TK",
+        "unit": "KG"
+      }
+    },
+    {
+      "article_number": "1910",
+      "date": "2025-07-26",
+      "booking_quantity": 4.0,
+      "quantity": 4.0,
+      "unit": "Karton 1",
+      "article_info": {
+        "short_description": "Papiertragetasche 32 + 22   x 25  braun 250 Stk.",
+        "long_description": "Papiertragetasche braun 32 + 22 x 25 250 Stück",
+        "product_group": "10.05.60 Tragetaschen und Beutel",
+        "unit": "KT"
+      }
+    },
+    {
+      "article_number": "2269",
+      "date": "2025-07-26",
+      "booking_quantity": 20.0,
+      "quantity": 2.0,
+      "unit": "Karton 10 kg",
+      "article_info": {
+        "short_description": "TK Süsskartoffelpommes  4x2,5 kg",
+        "long_description": "TK Süßkartoffelpommes 4 x 2,5 kg Beutel",
+        "product_group": "05.30.05 Pommes",
+        "unit": "KG"
+      }
+    },
+    {
+      "article_number": "5073",
+      "date": "2025-07-26",
+      "booking_quantity": 17.0,
+      "quantity": 17.0,
+      "unit": "Beutel 1",
+      "article_info": {
+        "short_description": "Crispy Chik'n Fingers 1040g/Beutel",
+        "long_description": "Crispy Chik'n Fingers 1 kg/Beutel",
+        "product_group": "05.05.20.05 TK",
+        "unit": "BT"
+      }
+    },
+    {
+      "article_number": "2749",
+      "date": "2025-07-26",
+      "booking_quantity": 10.0,
+      "quantity": 1.0,
+      "unit": "Eimer 10 kg",
+      "article_info": {
+        "short_description": "Classika Tomaten Ketchup 10 Kg Eimer",
+        "long_description": "Classika Tomaten Ketchup 10 Kg Eimer",
+        "product_group": "05.45.10 Ketchup",
+        "unit": "KG"
+      }
+    },
+    {
+      "article_number": "9057",
+      "date": "2025-07-25",
+      "booking_quantity": 20.0,
+      "quantity": 2.0,
+      "unit": "Eimer 10 kg",
+      "article_info": {
+        "short_description": "Spezial Mayonaise 50 %  10 KG Eimer",
+        "long_description": "Spezial Mayonnaise 50 % 10 kg Eimer",
+        "product_group": "05.45.05 Mayonnaise",
+        "unit": "KG"
+      }
+    },
+    {
+      "article_number": "1403",
+      "date": "2025-07-24",
+      "booking_quantity": 5.0,
+      "quantity": 5.0,
+      "unit": "Pack 1",
+      "article_info": {
+        "short_description": "Röst Zwiebeln 500g",
+        "long_description": "Röstzwiebeln 500 g",
+        "product_group": "05.25.35 Gewürze",
+        "unit": "PK"
+      }
+    },
+    {
+      "article_number": "1409",
+      "date": "2025-07-24",
+      "booking_quantity": 5.0,
+      "quantity": 1.0,
+      "unit": "Eimer 5 kg",
+      "article_info": {
+        "short_description": "Dänische Remoulade 5 kg (Snack Dr.)",
+        "long_description": "Dänische Remoulade 5 kg (Snack Dressing)",
+        "product_group": "05.45.20 Spezial-Saucen",
+        "unit": "KG"
+      }
+    },
+    {
+      "article_number": "2719",
+      "date": "2025-07-18",
+      "booking_quantity": 9.0,
+      "quantity": 9.0,
+      "unit": "Beutel 1 kg",
+      "article_info": {
+        "short_description": "Chicken Fingers BUTTERMILK 1 kg/Beutel",
+        "long_description": "Chicken Fingers BUTTERMILK 1 kg/Beutel",
+        "product_group": "05.05.20.05 TK",
+        "unit": "KG"
+      }
+    },
+    {
+      "article_number": "2154",
+      "date": "2025-07-18",
+      "booking_quantity": 5.02,
+      "quantity": 5.02,
+      "unit": "Pack 1",
+      "article_info": {
+        "short_description": "Frühstuecksbacon 1 Kg",
+        "long_description": "Frühstücksbacon 1 kg",
+        "product_group": "05.05.10.10 Frisch",
+        "unit": "KG"
+      }
+    },
+    {
+      "article_number": "9822",
+      "date": "2025-07-16",
+      "booking_quantity": 2.0,
+      "quantity": 2.0,
+      "unit": "Tube 1",
+      "article_info": {
+        "short_description": "Develey Süss Sauer Sauce 875ml Tube",
+        "long_description": "Develey Süss Sauer Sauce 875ml Tube",
+        "product_group": "05.45.15 Dips und Saucen",
+        "unit": "TB"
+      }
+    },
+    {
+      "article_number": "8506",
+      "date": "2025-07-16",
+      "booking_quantity": 3.0,
+      "quantity": 1.0,
+      "unit": "Eimer 3 kg",
+      "article_info": {
+        "short_description": "Aioli Sauce 3kg Eimer",
+        "long_description": "Aiolisauce 3 kg Eimer",
+        "product_group": "05.35.15 Salate",
+        "unit": "KG"
+      }
+    },
+    {
+      "article_number": "3387",
+      "date": "2025-07-16",
+      "booking_quantity": 10.0,
+      "quantity": 1.0,
+      "unit": "Karton 10 kg",
+      "article_info": {
+        "short_description": "Coated Steak Pommes mit Schale TK 4 x 2,5 Kg",
+        "long_description": "TK Coated Steak Pommes mit Schale 4x2,5 kg Beutel",
+        "product_group": "05.30.05 Pommes",
+        "unit": "KG"
+      }
+    },
+    {
+      "article_number": "3175",
+      "date": "2025-07-11",
+      "booking_quantity": 20.0,
+      "quantity": 1.0,
+      "unit": "Karton 20 Stk.",
+      "article_info": {
+        "short_description": "Brioche 4-inch Burger Bun  Salomon",
+        "long_description": "Brioche 4-inch Burger Bun  Salomon",
+        "product_group": "05.40.10 Brotwaren",
+        "unit": "ST"
+      }
+    },
+    {
+      "article_number": "1401",
+      "date": "2025-06-30",
+      "booking_quantity": 100.0,
+      "quantity": 1.0,
+      "unit": "Karton 100 Stk.",
+      "article_info": {
+        "short_description": "Wernsing Tomaten Ketch. Port. BT  100x18 ml",
+        "long_description": "Wernsing Tomaten-Ketchup portioniert 100 x 18 ml",
+        "product_group": "05.45.10 Ketchup",
+        "unit": "BT"
+      }
+    },
+    {
+      "article_number": "2400",
+      "date": "2025-06-30",
+      "booking_quantity": 1.0,
+      "quantity": 1.0,
+      "unit": "Karton 1",
+      "article_info": {
+        "short_description": "Papier-Tragetasche 26 x17 x 25 cm braun 250st",
+        "long_description": "Papiertragetasche braun 26 x 17 x 25 cm 250 Stück",
+        "product_group": "10.05.60 Tragetaschen und Beutel",
+        "unit": "KT"
+      }
+    },
+    {
+      "article_number": "1302",
+      "date": "2025-06-25",
+      "booking_quantity": 20.0,
+      "quantity": 2.0,
+      "unit": "Karton 10 Stk",
+      "article_info": {
+        "short_description": "Capri-Sun Orange, 10 x 0,2 l",
+        "long_description": "Capri-Sun Orange 10 x 0,2 l",
+        "product_group": "15.10.20 Capri Sonne",
+        "unit": "ST"
+      }
+    },
+    {
+      "article_number": "1589",
+      "date": "2025-06-25",
+      "booking_quantity": 1.0,
+      "quantity": 1.0,
+      "unit": "Dose 1 Stk.",
+      "article_info": {
+        "short_description": "Jalapeno Scheiben  3/1 Dose",
+        "long_description": "Jalapenos in Scheiben 3/1 Dose",
+        "product_group": "05.25.30 Konserven",
+        "unit": "DS"
+      }
+    },
+    {
+      "article_number": "2581",
+      "date": "2025-06-18",
+      "booking_quantity": 4.0,
+      "quantity": 4.0,
+      "unit": "Beutel 1 kg",
+      "article_info": {
+        "short_description": "Homestyle Chikn Bites 1kg",
+        "long_description": "Homestyle Chikn Bites 1kg",
+        "product_group": "05.40.15 Convenience Food",
+        "unit": "KG"
+      }
+    },
+    {
+      "article_number": "2095",
+      "date": "2025-06-18",
+      "booking_quantity": 2.0,
+      "quantity": 2.0,
+      "unit": "Beutel 1 kg",
+      "article_info": {
+        "short_description": "Chili & Cheese Nuggets 1 Kg",
+        "long_description": "Chili & Cheese Nuggets 1 kg",
+        "product_group": "05.40.15 Convenience Food",
+        "unit": "KG"
+      }
+    },
+    {
+      "article_number": "2212",
+      "date": "2025-06-16",
+      "booking_quantity": 96.0,
+      "quantity": 2.0,
+      "unit": "Karton 48 Stk.",
+      "article_info": {
+        "short_description": "Sugarbabes miss chocoholic Muffin 48x130g/KT",
+        "long_description": "Sugarbabes Miss Chocoholic Muffin 48x130 g/Karton",
+        "product_group": "05.40.20.10 Desserts",
+        "unit": "ST"
+      }
+    },
+    {
+      "article_number": "1938",
+      "date": "2025-06-16",
+      "booking_quantity": 9.0,
+      "quantity": 9.0,
+      "unit": "Beutel 1 kg",
+      "article_info": {
+        "short_description": "Chicken Fingers Tikka 1 kg/Beutel",
+        "long_description": "Chicken Fingers \"Tikka\" 1 kg/Beutel",
+        "product_group": "05.05.20.05 TK",
+        "unit": "KG"
+      }
+    },
+    {
+      "article_number": "2538",
+      "date": "2025-06-06",
+      "booking_quantity": 5.0,
+      "quantity": 5.0,
+      "unit": "Karton 1",
+      "article_info": {
+        "short_description": "Angus Burger 150 g 5 kg/KT",
+        "long_description": "Angus Burger 150 g 5 kg Karton",
+        "product_group": "05.05.05.05 TK",
+        "unit": "KT"
+      }
+    },
+    {
+      "article_number": "9058",
+      "date": "2025-05-28",
+      "booking_quantity": 5.0,
+      "quantity": 5.0,
+      "unit": "Tube 1",
+      "article_info": {
+        "short_description": "Barbecuesauce  875ml Tube",
+        "long_description": "Barbecue Sauce 875 ml Tube",
+        "product_group": "05.45.15 Dips und Saucen",
+        "unit": "TB"
+      }
+    }
+  ]
+}

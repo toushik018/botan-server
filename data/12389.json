@@ -1,0 +1,94 @@
+{
+  "metadata": {
+    "generated_at": "2025-09-10T23:17:05.014224",
+    "client_number": "12389",
+    "data_source": "BotanBot XML Export"
+  },
+  "client_profile": {
+    "client_number": "12389",
+    "search_term": "ARBEITSAMT KIEL KANTINE",
+    "status": "Kunde",
+    "tax_number": "",
+    "vat_id": "",
+    "is_blocked": true,
+    "price_group": "(Std.-Preis)",
+    "billing_address": {
+      "salutation": "",
+      "name": "Kantinenbetriebe Hertlein",
+      "name3": "Inh. Olaf Hertlein",
+      "street": "Hamburger Chaussee 25",
+      "city": "Flintbek",
+      "postal_code": "24220",
+      "country": "Deutschland",
+      "phone": "(0 43 47) 80 93 83",
+      "fax": "(0 43 47) 9 09 05 58",
+      "email": ""
+    },
+    "delivery_address": {
+      "salutation": "",
+      "name": "Arbeitsamt Kiel Kantine",
+      "name3": "4. Etage",
+      "street": "Adolf Westphalstr. 2",
+      "city": "Kiel",
+      "postal_code": "24143",
+      "country": "Deutschland",
+      "phone": "",
+      "fax": "",
+      "email": ""
+    },
+    "delivery_schedule": {
+      "monday": "",
+      "tuesday": "",
+      "wednesday": "",
+      "thursday": "",
+      "friday": "",
+      "saturday": ""
+    },
+    "settings": {
+      "webshop_enabled": false,
+      "ds_addresses": false,
+      "no_pickup_app": false,
+      "minimum_order_value": null,
+      "articles_not_in_history": ""
+    },
+    "additional_addresses": [
+      {
+        "address_number": "0",
+        "salutation": "",
+        "name": "Kantinenbetriebe Hertlein",
+        "name3": "Inh. Olaf Hertlein",
+        "street": "Hamburger Chaussee 25",
+        "city": "Flintbek",
+        "postal_code": "24220",
+        "country": "Deutschland",
+        "phone": "(0 43 47) 80 93 83",
+        "fax": "(0 43 47) 9 09 05 58",
+        "email": "",
+        "is_default_billing": true,
+        "is_default_delivery": false
+      },
+      {
+        "address_number": "1",
+        "salutation": "",
+        "name": "Arbeitsamt Kiel Kantine",
+        "name3": "4. Etage",
+        "street": "Adolf Westphalstr. 2",
+        "city": "Kiel",
+        "postal_code": "24143",
+        "country": "Deutschland",
+        "phone": "",
+        "fax": "",
+        "email": "",
+        "is_default_billing": false,
+        "is_default_delivery": true
+      }
+    ]
+  },
+  "order_statistics": {
+    "total_orders": 0,
+    "unique_articles_ordered": 0,
+    "recent_orders_count": 0,
+    "last_order_date": null
+  },
+  "order_history": []
+}

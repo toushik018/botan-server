@@ -1,0 +1,509 @@
+{
+  "metadata": {
+    "generated_at": "2025-09-10T23:17:04.921206",
+    "client_number": "12038",
+    "data_source": "BotanBot XML Export"
+  },
+  "client_profile": {
+    "client_number": "12038",
+    "search_term": "CROUQUE LADEN",
+    "status": "Kunde",
+    "tax_number": "",
+    "vat_id": "",
+    "is_blocked": false,
+    "price_group": "(Std.-Preis)",
+    "billing_address": {
+      "salutation": "",
+      "name": "Croque Laden",
+      "name3": "Inan Gergin",
+      "street": "Esingerstr. 2a",
+      "city": "Tornesch",
+      "postal_code": "25436",
+      "country": "Deutschland",
+      "phone": "(0 41 22) 56 - 2 62",
+      "fax": "(0 41 22) 5 62 - 62",
+      "email": "inan.gergin@googlemail.com"
+    },
+    "delivery_address": {
+      "salutation": "",
+      "name": "Croque Laden",
+      "name3": "Inan Gergin",
+      "street": "Esingerstr. 2a",
+      "city": "Tornesch",
+      "postal_code": "25436",
+      "country": "Deutschland",
+      "phone": "(0 41 22) 56 - 2 62",
+      "fax": "(0 41 22) 5 62 - 62",
+      "email": "inan.gergin@googlemail.com"
+    },
+    "delivery_schedule": {
+      "monday": "",
+      "tuesday": "",
+      "wednesday": "5",
+      "thursday": "",
+      "friday": "",
+      "saturday": ""
+    },
+    "settings": {
+      "webshop_enabled": true,
+      "ds_addresses": false,
+      "no_pickup_app": false,
+      "minimum_order_value": null,
+      "articles_not_in_history": ""
+    },
+    "additional_addresses": [
+      {
+        "address_number": "0",
+        "salutation": "",
+        "name": "Croque Laden",
+        "name3": "Inan Gergin",
+        "street": "Esingerstr. 2a",
+        "city": "Tornesch",
+        "postal_code": "25436",
+        "country": "Deutschland",
+        "phone": "(0 41 22) 56 - 2 62",
+        "fax": "(0 41 22) 5 62 - 62",
+        "email": "inan.gergin@googlemail.com",
+        "is_default_billing": true,
+        "is_default_delivery": true
+      }
+    ]
+  },
+  "order_statistics": {
+    "total_orders": 33,
+    "unique_articles_ordered": 33,
+    "recent_orders_count": 33,
+    "last_order_date": "2025-08-20"
+  },
+  "order_history": [
+    {
+      "article_number": "9184",
+      "date": "2025-08-20",
+      "booking_quantity": 20.0,
+      "quantity": 20.0,
+      "unit": "Pack 1",
+      "article_info": {
+        "short_description": "Salami Kal. 80  1KG",
+        "long_description": "Salami Kaliber 80 1 kg",
+        "product_group": "05.05.10.10 Frisch",
+        "unit": "KG"
+      }
+    },
+    {
+      "article_number": "9181",
+      "date": "2025-08-20",
+      "booking_quantity": 24.0,
+      "quantity": 48.0,
+      "unit": "Pack 0,5 kg",
+      "article_info": {
+        "short_description": "Hinterkochschinken geschn. 500 g  Kal.130",
+        "long_description": "Hinterkochschinken geschnitten 500 g Kaliber 130",
+        "product_group": "05.05.10.10 Frisch",
+        "unit": "KG"
+      }
+    },
+    {
+      "article_number": "1798",
+      "date": "2025-08-20",
+      "booking_quantity": 11.0,
+      "quantity": 11.0,
+      "unit": "Pack 1",
+      "article_info": {
+        "short_description": "Putenbrust geschnitten, geräuchert  500g",
+        "long_description": "Putenbrust geschnitten, geräuchert  500 g",
+        "product_group": "05.05.20.10 Frisch",
+        "unit": "PK"
+      }
+    },
+    {
+      "article_number": "1334",
+      "date": "2025-08-20",
+      "booking_quantity": 150.0,
+      "quantity": 15.0,
+      "unit": "Eimer 10 kg",
+      "article_info": {
+        "short_description": "Salatmayonnaise \"GOLD\"   10 Kg",
+        "long_description": "Gold Salatmayonnaise 10 kg",
+        "product_group": "05.45.05 Mayonnaise",
+        "unit": "KG"
+      }
+    },
+    {
+      "article_number": "1468",
+      "date": "2025-08-20",
+      "booking_quantity": 15.0,
+      "quantity": 10.0,
+      "unit": "Beutel 1,5 kg",
+      "article_info": {
+        "short_description": "Crunchy Chik´n Burger 90g  1,5 kg BT",
+        "long_description": "Crunchy Chik´n Burger 90 g/Stück 1,5 kg Beutel",
+        "product_group": "05.05.20.05 TK",
+        "unit": "KG"
+      }
+    },
+    {
+      "article_number": "1688",
+      "date": "2025-08-20",
+      "booking_quantity": 54.0,
+      "quantity": 54.0,
+      "unit": "Pack 1",
+      "article_info": {
+        "short_description": "geschn. Käse Gouda 48% in Scheiben Milram 1 Kg",
+        "long_description": "geschn. Käse Gouda 48% in Scheiben Milram 1 Kg",
+        "product_group": "05.15.05.05.15 Schnitt- und Raspelware",
+        "unit": "KG"
+      }
+    },
+    {
+      "article_number": "1323",
+      "date": "2025-08-20",
+      "booking_quantity": 4.0,
+      "quantity": 4.0,
+      "unit": "Tube 1",
+      "article_info": {
+        "short_description": "Snack Dressing Schulstad 900ml Tube",
+        "long_description": "Schulstad Snack Dressing 900 ml Tube",
+        "product_group": "05.45.20 Spezial-Saucen",
+        "unit": "TB"
+      }
+    },
+    {
+      "article_number": "1577",
+      "date": "2025-08-20",
+      "booking_quantity": 12.0,
+      "quantity": 12.0,
+      "unit": "Dose 1 Stk.",
+      "article_info": {
+        "short_description": "Thunfisch in Wasser 1,705 kg Dosen",
+        "long_description": "Thunfisch in Wasser 1,705 kg Dosen",
+        "product_group": "05.25.30 Konserven",
+        "unit": "DS"
+      }
+    },
+    {
+      "article_number": "1563",
+      "date": "2025-08-20",
+      "booking_quantity": 14.0,
+      "quantity": 14.0,
+      "unit": "Dose 1 Stk.",
+      "article_info": {
+        "short_description": "Ananas in Stücken  2,65 l Dose",
+        "long_description": "Ananas in Stücken 2,65 l Dose",
+        "product_group": "05.25.30 Konserven",
+        "unit": "DS"
+      }
+    },
+    {
+      "article_number": "1936",
+      "date": "2025-08-13",
+      "booking_quantity": 1.5,
+      "quantity": 3.0,
+      "unit": "Pack 0,5 kg",
+      "article_info": {
+        "short_description": "Sucuk geschnitten 0,5 kg",
+        "long_description": "Sucuk geschnitten 0,5 kg",
+        "product_group": "05.05.05.10 Frisch",
+        "unit": "KG"
+      }
+    },
+    {
+      "article_number": "1041",
+      "date": "2025-08-13",
+      "booking_quantity": 2.0,
+      "quantity": 2.0,
+      "unit": "Sack",
+      "article_info": {
+        "short_description": "Weisskohl Sack,  15 Kg frisch",
+        "long_description": "Weißkohl 15 kg Sack frisch",
+        "product_group": "05.35.05 Frischgemüse",
+        "unit": "SK"
+      }
+    },
+    {
+      "article_number": "2471",
+      "date": "2025-08-06",
+      "booking_quantity": 7.5,
+      "quantity": 5.0,
+      "unit": "Beutel 1,5 kg",
+      "article_info": {
+        "short_description": "Crunchy Chik´n Burger 135g  1,5 kg BT",
+        "long_description": "Crunchy Chik´n Burger 135 g 1,5 kg Beutel",
+        "product_group": "05.05.20.05 TK",
+        "unit": "KG"
+      }
+    },
+    {
+      "article_number": "1108",
+      "date": "2025-08-06",
+      "booking_quantity": 5.0,
+      "quantity": 5.0,
+      "unit": "Rolle 1",
+      "article_info": {
+        "short_description": "45 cm Alufolie µ =12   100m",
+        "long_description": "Alufolie µ =12    45 cm x 120 m",
+        "product_group": "10.05.30 Folien",
+        "unit": "RL"
+      }
+    },
+    {
+      "article_number": "2538",
+      "date": "2025-08-06",
+      "booking_quantity": 1.0,
+      "quantity": 1.0,
+      "unit": "Karton 1",
+      "article_info": {
+        "short_description": "Angus Burger 150 g 5 kg/KT",
+        "long_description": "Angus Burger 150 g 5 kg Karton",
+        "product_group": "05.05.05.05 TK",
+        "unit": "KT"
+      }
+    },
+    {
+      "article_number": "1144",
+      "date": "2025-07-23",
+      "booking_quantity": 3.0,
+      "quantity": 3.0,
+      "unit": "Karton 1",
+      "article_info": {
+        "short_description": "Tragetaschen groß, stark, weiss,  2.000 Stk.",
+        "long_description": "Tragetaschen weiß groß, stark 2.000 Stück",
+        "product_group": "10.05.60 Tragetaschen und Beutel",
+        "unit": "KT"
+      }
+    },
+    {
+      "article_number": "9038",
+      "date": "2025-07-23",
+      "booking_quantity": 30.0,
+      "quantity": 3.0,
+      "unit": "Karton 10 Stk",
+      "article_info": {
+        "short_description": "Körner Baguette 10 ST / KT ca. 60 cm TK",
+        "long_description": "Körnerbaguette 10 Stück/Karton ca. 60 cm TK",
+        "product_group": "05.40.10 Brotwaren",
+        "unit": "ST"
+      }
+    },
+    {
+      "article_number": "1477",
+      "date": "2025-07-23",
+      "booking_quantity": 90.0,
+      "quantity": 3.0,
+      "unit": "Karton 30 Stk.",
+      "article_info": {
+        "short_description": "Meisterfrikadelle 120g TK 30 Stk. per KT",
+        "long_description": "Meisterfrikadelle 120 g 30 Stück/Karton TK",
+        "product_group": "05.05.10.05 TK",
+        "unit": "ST"
+      }
+    },
+    {
+      "article_number": "1514",
+      "date": "2025-07-23",
+      "booking_quantity": 60.0,
+      "quantity": 3.0,
+      "unit": "Beutel 20 Stk.",
+      "article_info": {
+        "short_description": "Hot Dog Wurst 20x50g",
+        "long_description": "Hot Dog Wurst 20 x 50 g",
+        "product_group": "05.05.10.10 Frisch",
+        "unit": "ST"
+      }
+    },
+    {
+      "article_number": "9527",
+      "date": "2025-07-23",
+      "booking_quantity": 48.0,
+      "quantity": 2.0,
+      "unit": "Karton 24 Stk.",
+      "article_info": {
+        "short_description": "DPG Fanta Exotic 24 x 0,33 l DS",
+        "long_description": "Fanta Exotic 24 x 0,33 l DS DPG",
+        "product_group": "15.05.15 0,25 l und 0,33 l Dosen",
+        "unit": "DS"
+      }
+    },
+    {
+      "article_number": "23000025",
+      "date": "2025-07-23",
+      "booking_quantity": 144.0,
+      "quantity": 6.0,
+      "unit": "Karton 24 Stk.",
+      "article_info": {
+        "short_description": "Pflichtpfand Einwegartikel DPG",
+        "long_description": "Pflichtpfand Einwegartikel DPG",
+        "product_group": "90.05 Pfand",
+        "unit": "ST"
+      }
+    },
+    {
+      "article_number": "9500",
+      "date": "2025-07-23",
+      "booking_quantity": 48.0,
+      "quantity": 2.0,
+      "unit": "Karton 24 Stk.",
+      "article_info": {
+        "short_description": "DPG Coca Cola 24 x 0,33 l DS",
+        "long_description": "Coca Cola 24 x 0,33 l Dose DPG",
+        "product_group": "15.05.15 0,25 l und 0,33 l Dosen",
+        "unit": "DS"
+      }
+    },
+    {
+      "article_number": "9535",
+      "date": "2025-07-23",
+      "booking_quantity": 24.0,
+      "quantity": 1.0,
+      "unit": "Karton 24 Stk.",
+      "article_info": {
+        "short_description": "DPG Fanta Mango & Dragonfruit 24 x 0,33 l DS",
+        "long_description": "Fanta Mango & Dragonfruit 24 x 0,33 l Dose DPG",
+        "product_group": "15.05.15 0,25 l und 0,33 l Dosen",
+        "unit": "DS"
+      }
+    },
+    {
+      "article_number": "3102",
+      "date": "2025-07-23",
+      "booking_quantity": 24.0,
+      "quantity": 1.0,
+      "unit": "TR 24",
+      "article_info": {
+        "short_description": "DPG 24 x 0,5 l. Yurt Quellwasser",
+        "long_description": "Yurt Quellwasser 24 x 0,5 l Flasche DPG",
+        "product_group": "15.15.15 0,5 l Flasche",
+        "unit": "FL"
+      }
+    },
+    {
+      "article_number": "9057",
+      "date": "2025-07-22",
+      "booking_quantity": 20.0,
+      "quantity": 2.0,
+      "unit": "Eimer 10 kg",
+      "article_info": {
+        "short_description": "Spezial Mayonaise 50 %  10 KG Eimer",
+        "long_description": "Spezial Mayonnaise 50 % 10 kg Eimer",
+        "product_group": "05.45.05 Mayonnaise",
+        "unit": "KG"
+      }
+    },
+    {
+      "article_number": "2687",
+      "date": "2025-07-22",
+      "booking_quantity": 2.0,
+      "quantity": 2.0,
+      "unit": "Beutel 1 kg",
+      "article_info": {
+        "short_description": "Spicy Chicken Burger ca. 130g gegart 1kg/Beutel",
+        "long_description": "Spicy Chicken Burger ca. 130g gegart 1kg/Beutel",
+        "product_group": "05.05.20.05 TK",
+        "unit": "BT"
+      }
+    },
+    {
+      "article_number": "9695",
+      "date": "2025-07-22",
+      "booking_quantity": 6.0,
+      "quantity": 2.0,
+      "unit": "Karton 3 kg",
+      "article_info": {
+        "short_description": "Spicy Chicken Burger gegart 100 g 3KG/KT",
+        "long_description": "Spicy Chicken Burger gegart 100 g 3KG/KT",
+        "product_group": "05.05.20.05 TK",
+        "unit": "KG"
+      }
+    },
+    {
+      "article_number": "1481",
+      "date": "2025-07-22",
+      "booking_quantity": 80.0,
+      "quantity": 2.0,
+      "unit": "Karton 40 Stk.",
+      "article_info": {
+        "short_description": "Best Burger 40 x 125g Halal",
+        "long_description": "Best Burger 40 x125g Halal",
+        "product_group": "05.05.05.05 TK",
+        "unit": "ST"
+      }
+    },
+    {
+      "article_number": "1141",
+      "date": "2025-07-22",
+      "booking_quantity": 2.0,
+      "quantity": 2.0,
+      "unit": "Karton 1",
+      "article_info": {
+        "short_description": "Tragetaschen klein, stark, weiss, 2000 Stk.",
+        "long_description": "Tragetaschen klein, stark, weiss, 2000 Stk.",
+        "product_group": "10.05.60 Tragetaschen und Beutel",
+        "unit": "KT"
+      }
+    },
+    {
+      "article_number": "1576",
+      "date": "2025-07-22",
+      "booking_quantity": 2.0,
+      "quantity": 2.0,
+      "unit": "Dose 1 Stk.",
+      "article_info": {
+        "short_description": "Thunfisch in Öl in Dose 1,705 kg",
+        "long_description": "Thunfisch in Öl in Dose  1,705 kg",
+        "product_group": "05.25.30 Konserven",
+        "unit": "DS"
+      }
+    },
+    {
+      "article_number": "9042",
+      "date": "2025-07-22",
+      "booking_quantity": 20.0,
+      "quantity": 2.0,
+      "unit": "Karton 10 Stk",
+      "article_info": {
+        "short_description": "Dinkel-Chia Baguette 10 ST / KT ca. 60 cm TK",
+        "long_description": "Dinkel-Chia Baguette 10 ST / KT ca. 60 cm TK",
+        "product_group": "05.40.10 Brotwaren",
+        "unit": "ST"
+      }
+    },
+    {
+      "article_number": "9040",
+      "date": "2025-07-22",
+      "booking_quantity": 20.0,
+      "quantity": 2.0,
+      "unit": "Karton 10 Stk",
+      "article_info": {
+        "short_description": "French Mystery Baguette 10 ST / KT ca. 60 cm TK",
+        "long_description": "French Mystery Baguette 10 ST / KT ca. 60 cm TK",
+        "product_group": "05.40.10 Brotwaren",
+        "unit": "ST"
+      }
+    },
+    {
+      "article_number": "9041",
+      "date": "2025-07-22",
+      "booking_quantity": 20.0,
+      "quantity": 2.0,
+      "unit": "Karton 10 Stk",
+      "article_info": {
+        "short_description": "Ital Baguette 10 ST / KT ca. 60 cm TK",
+        "long_description": "Ital Baguette 10 ST / KT ca. 60 cm TK",
+        "product_group": "05.40.10 Brotwaren",
+        "unit": "ST"
+      }
+    },
+    {
+      "article_number": "9037",
+      "date": "2025-07-22",
+      "booking_quantity": 20.0,
+      "quantity": 2.0,
+      "unit": "Karton 10 Stk",
+      "article_info": {
+        "short_description": "Weizen Baguette 10 Stück / Karton TK",
+        "long_description": "Weizenbaguette 10 Stück/Karton TK",
+        "product_group": "05.40.10 Brotwaren",
+        "unit": "ST"
+      }
+    }
+  ]
+}

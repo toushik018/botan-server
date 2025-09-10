@@ -1,0 +1,79 @@
+{
+  "metadata": {
+    "generated_at": "2025-09-10T23:17:06.492269",
+    "client_number": "17282",
+    "data_source": "BotanBot XML Export"
+  },
+  "client_profile": {
+    "client_number": "17282",
+    "search_term": "KOPP NUTZFAHRZEUGE KIEL",
+    "status": "Kunde",
+    "tax_number": "",
+    "vat_id": "",
+    "is_blocked": false,
+    "price_group": "(Std.-Preis)",
+    "billing_address": {
+      "salutation": "Firma",
+      "name": "Kopp Nutzfahrzeuge Kiel GmbH",
+      "name3": "",
+      "street": "Hauptstr. 12 a",
+      "city": "Großbarkau",
+      "postal_code": "24245",
+      "country": "Deutschland",
+      "phone": "(01 52) 53 77 77 94",
+      "fax": "",
+      "email": "stefan.kopp@kopp-nutzfahrzeuge.de"
+    },
+    "delivery_address": {
+      "salutation": "Firma",
+      "name": "Kopp Nutzfahrzeuge Kiel GmbH",
+      "name3": "",
+      "street": "Hauptstr. 12 a",
+      "city": "Großbarkau",
+      "postal_code": "24245",
+      "country": "Deutschland",
+      "phone": "(01 52) 53 77 77 94",
+      "fax": "",
+      "email": "stefan.kopp@kopp-nutzfahrzeuge.de"
+    },
+    "delivery_schedule": {
+      "monday": "",
+      "tuesday": "",
+      "wednesday": "",
+      "thursday": "",
+      "friday": "",
+      "saturday": ""
+    },
+    "settings": {
+      "webshop_enabled": false,
+      "ds_addresses": false,
+      "no_pickup_app": false,
+      "minimum_order_value": null,
+      "articles_not_in_history": ""
+    },
+    "additional_addresses": [
+      {
+        "address_number": "0",
+        "salutation": "Firma",
+        "name": "Kopp Nutzfahrzeuge Kiel GmbH",
+        "name3": "",
+        "street": "Hauptstr. 12 a",
+        "city": "Großbarkau",
+        "postal_code": "24245",
+        "country": "Deutschland",
+        "phone": "(01 52) 53 77 77 94",
+        "fax": "",
+        "email": "stefan.kopp@kopp-nutzfahrzeuge.de",
+        "is_default_billing": true,
+        "is_default_delivery": true
+      }
+    ]
+  },
+  "order_statistics": {
+    "total_orders": 0,
+    "unique_articles_ordered": 0,
+    "recent_orders_count": 0,
+    "last_order_date": null
+  },
+  "order_history": []
+}

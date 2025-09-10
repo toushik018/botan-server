@@ -1,0 +1,94 @@
+{
+  "metadata": {
+    "generated_at": "2025-09-10T23:17:04.717137",
+    "client_number": "11291",
+    "data_source": "BotanBot XML Export"
+  },
+  "client_profile": {
+    "client_number": "11291",
+    "search_term": "EURO GAME PALAST",
+    "status": "Kunde",
+    "tax_number": "",
+    "vat_id": "",
+    "is_blocked": false,
+    "price_group": "(Std.-Preis)",
+    "billing_address": {
+      "salutation": "",
+      "name": "Jack(s)pot",
+      "name3": "Kadir Iltus",
+      "street": "Farbersweg 3",
+      "city": "Norderstedt",
+      "postal_code": "22848",
+      "country": "Deutschland",
+      "phone": "(0 40) 30 85 87 70",
+      "fax": "(0 40) 30 85 87 71",
+      "email": ""
+    },
+    "delivery_address": {
+      "salutation": "",
+      "name": "Euro Game Palast",
+      "name3": "",
+      "street": "Sophienblatt 47",
+      "city": "Kiel",
+      "postal_code": "24114",
+      "country": "Deutschland",
+      "phone": "(04 31) 53 53 36",
+      "fax": "",
+      "email": ""
+    },
+    "delivery_schedule": {
+      "monday": "",
+      "tuesday": "",
+      "wednesday": "",
+      "thursday": "",
+      "friday": "",
+      "saturday": ""
+    },
+    "settings": {
+      "webshop_enabled": false,
+      "ds_addresses": false,
+      "no_pickup_app": false,
+      "minimum_order_value": null,
+      "articles_not_in_history": ""
+    },
+    "additional_addresses": [
+      {
+        "address_number": "0",
+        "salutation": "",
+        "name": "Jack(s)pot",
+        "name3": "Kadir Iltus",
+        "street": "Farbersweg 3",
+        "city": "Norderstedt",
+        "postal_code": "22848",
+        "country": "Deutschland",
+        "phone": "(0 40) 30 85 87 70",
+        "fax": "(0 40) 30 85 87 71",
+        "email": "",
+        "is_default_billing": true,
+        "is_default_delivery": false
+      },
+      {
+        "address_number": "2",
+        "salutation": "",
+        "name": "Euro Game Palast",
+        "name3": "",
+        "street": "Sophienblatt 47",
+        "city": "Kiel",
+        "postal_code": "24114",
+        "country": "Deutschland",
+        "phone": "(04 31) 53 53 36",
+        "fax": "",
+        "email": "",
+        "is_default_billing": false,
+        "is_default_delivery": true
+      }
+    ]
+  },
+  "order_statistics": {
+    "total_orders": 0,
+    "unique_articles_ordered": 0,
+    "recent_orders_count": 0,
+    "last_order_date": null
+  },
+  "order_history": []
+}

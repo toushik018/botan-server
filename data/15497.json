@@ -1,0 +1,94 @@
+{
+  "metadata": {
+    "generated_at": "2025-09-10T23:17:05.884499",
+    "client_number": "15497",
+    "data_source": "BotanBot XML Export"
+  },
+  "client_profile": {
+    "client_number": "15497",
+    "search_term": "RESTAURANT ZAHAR",
+    "status": "Kunde",
+    "tax_number": "",
+    "vat_id": "",
+    "is_blocked": true,
+    "price_group": "(Std.-Preis)",
+    "billing_address": {
+      "salutation": "",
+      "name": "Zahra Restaurant UG (haftungsbeschränkt)",
+      "name3": "GF: Waled Basid",
+      "street": "Otto-Flath-Str. 25",
+      "city": "Melsdorf",
+      "postal_code": "24109",
+      "country": "Deutschland",
+      "phone": "(04 31) 67 01 69 40",
+      "fax": "",
+      "email": "info@1a-gebaeudesysteme.com"
+    },
+    "delivery_address": {
+      "salutation": "",
+      "name": "Restaurant Zahra",
+      "name3": "",
+      "street": "Kurt Schumacher Platz 4",
+      "city": "Kiel",
+      "postal_code": "24109",
+      "country": "Deutschland",
+      "phone": "(04 31) 67 01 69 40",
+      "fax": "",
+      "email": "info@1a-gebaeudesysteme.com"
+    },
+    "delivery_schedule": {
+      "monday": "18",
+      "tuesday": "18",
+      "wednesday": "18",
+      "thursday": "18",
+      "friday": "18",
+      "saturday": ""
+    },
+    "settings": {
+      "webshop_enabled": false,
+      "ds_addresses": false,
+      "no_pickup_app": false,
+      "minimum_order_value": null,
+      "articles_not_in_history": "9152, 9152,1162,1535"
+    },
+    "additional_addresses": [
+      {
+        "address_number": "0",
+        "salutation": "",
+        "name": "Zahra Restaurant UG (haftungsbeschränkt)",
+        "name3": "GF: Waled Basid",
+        "street": "Otto-Flath-Str. 25",
+        "city": "Melsdorf",
+        "postal_code": "24109",
+        "country": "Deutschland",
+        "phone": "(04 31) 67 01 69 40",
+        "fax": "",
+        "email": "info@1a-gebaeudesysteme.com",
+        "is_default_billing": true,
+        "is_default_delivery": false
+      },
+      {
+        "address_number": "1",
+        "salutation": "",
+        "name": "Restaurant Zahra",
+        "name3": "",
+        "street": "Kurt Schumacher Platz 4",
+        "city": "Kiel",
+        "postal_code": "24109",
+        "country": "Deutschland",
+        "phone": "(04 31) 67 01 69 40",
+        "fax": "",
+        "email": "info@1a-gebaeudesysteme.com",
+        "is_default_billing": false,
+        "is_default_delivery": true
+      }
+    ]
+  },
+  "order_statistics": {
+    "total_orders": 0,
+    "unique_articles_ordered": 0,
+    "recent_orders_count": 0,
+    "last_order_date": null
+  },
+  "order_history": []
+}

@@ -1,0 +1,79 @@
+{
+  "metadata": {
+    "generated_at": "2025-09-10T23:17:06.847737",
+    "client_number": "75901",
+    "data_source": "BotanBot XML Export"
+  },
+  "client_profile": {
+    "client_number": "75901",
+    "search_term": "SPREHE",
+    "status": "Lieferant",
+    "tax_number": "",
+    "vat_id": "",
+    "is_blocked": false,
+    "price_group": "(Std.-Preis)",
+    "billing_address": {
+      "salutation": "Firma",
+      "name": "Sprehe Geflügel - und Tiefkühlfeinkost Handels",
+      "name3": "GmbH & Co. KG //kd nr110262",
+      "street": "Mühlenstraße 21",
+      "city": "Cloppenburg",
+      "postal_code": "49661",
+      "country": "Deutschland",
+      "phone": "(0 44 71) 8 - 5 03 10",
+      "fax": "(0 44 71) 8 50 31 65",
+      "email": ""
+    },
+    "delivery_address": {
+      "salutation": "Firma",
+      "name": "Sprehe Geflügel - und Tiefkühlfeinkost Handels",
+      "name3": "GmbH & Co. KG //kd nr110262",
+      "street": "Mühlenstraße 21",
+      "city": "Cloppenburg",
+      "postal_code": "49661",
+      "country": "Deutschland",
+      "phone": "(0 44 71) 8 - 5 03 10",
+      "fax": "(0 44 71) 8 50 31 65",
+      "email": ""
+    },
+    "delivery_schedule": {
+      "monday": "",
+      "tuesday": "",
+      "wednesday": "",
+      "thursday": "",
+      "friday": "",
+      "saturday": ""
+    },
+    "settings": {
+      "webshop_enabled": false,
+      "ds_addresses": false,
+      "no_pickup_app": false,
+      "minimum_order_value": null,
+      "articles_not_in_history": ""
+    },
+    "additional_addresses": [
+      {
+        "address_number": "0",
+        "salutation": "Firma",
+        "name": "Sprehe Geflügel - und Tiefkühlfeinkost Handels",
+        "name3": "GmbH & Co. KG //kd nr110262",
+        "street": "Mühlenstraße 21",
+        "city": "Cloppenburg",
+        "postal_code": "49661",
+        "country": "Deutschland",
+        "phone": "(0 44 71) 8 - 5 03 10",
+        "fax": "(0 44 71) 8 50 31 65",
+        "email": "",
+        "is_default_billing": true,
+        "is_default_delivery": true
+      }
+    ]
+  },
+  "order_statistics": {
+    "total_orders": 0,
+    "unique_articles_ordered": 0,
+    "recent_orders_count": 0,
+    "last_order_date": null
+  },
+  "order_history": []
+}

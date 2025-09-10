@@ -1,0 +1,79 @@
+{
+  "metadata": {
+    "generated_at": "2025-09-10T23:17:04.521536",
+    "client_number": "10604",
+    "data_source": "BotanBot XML Export"
+  },
+  "client_profile": {
+    "client_number": "10604",
+    "search_term": "",
+    "status": "Kunde",
+    "tax_number": "",
+    "vat_id": "",
+    "is_blocked": false,
+    "price_group": "(Std.-Preis)",
+    "billing_address": {
+      "salutation": "",
+      "name": "Harput Grillhaus",
+      "name3": "Inh. Yunus Gürevin",
+      "street": "Bredstedter Str. 46",
+      "city": "Rendsburg",
+      "postal_code": "24768",
+      "country": "Deutschland",
+      "phone": "(0 43 31) 33 95 - 9 59",
+      "fax": "",
+      "email": "tanja-graupe@web.de"
+    },
+    "delivery_address": {
+      "salutation": "",
+      "name": "Harput Grillhaus",
+      "name3": "Inh. Yunus Gürevin",
+      "street": "Bredstedter Str. 46",
+      "city": "Rendsburg",
+      "postal_code": "24768",
+      "country": "Deutschland",
+      "phone": "(0 43 31) 33 95 - 9 59",
+      "fax": "",
+      "email": "tanja-graupe@web.de"
+    },
+    "delivery_schedule": {
+      "monday": "",
+      "tuesday": "2",
+      "wednesday": "",
+      "thursday": "",
+      "friday": "4",
+      "saturday": ""
+    },
+    "settings": {
+      "webshop_enabled": false,
+      "ds_addresses": false,
+      "no_pickup_app": false,
+      "minimum_order_value": null,
+      "articles_not_in_history": "1079,3002,1489,9057, 1354,1967,1434,1519,2223,9701,1530"
+    },
+    "additional_addresses": [
+      {
+        "address_number": "0",
+        "salutation": "",
+        "name": "Harput Grillhaus",
+        "name3": "Inh. Yunus Gürevin",
+        "street": "Bredstedter Str. 46",
+        "city": "Rendsburg",
+        "postal_code": "24768",
+        "country": "Deutschland",
+        "phone": "(0 43 31) 33 95 - 9 59",
+        "fax": "",
+        "email": "tanja-graupe@web.de",
+        "is_default_billing": true,
+        "is_default_delivery": true
+      }
+    ]
+  },
+  "order_statistics": {
+    "total_orders": 0,
+    "unique_articles_ordered": 0,
+    "recent_orders_count": 0,
+    "last_order_date": null
+  },
+  "order_history": []
+}

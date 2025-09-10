@@ -1,0 +1,94 @@
+{
+  "metadata": {
+    "generated_at": "2025-09-10T23:17:06.045664",
+    "client_number": "16035",
+    "data_source": "BotanBot XML Export"
+  },
+  "client_profile": {
+    "client_number": "16035",
+    "search_term": "BACK STORE",
+    "status": "Kunde",
+    "tax_number": "",
+    "vat_id": "",
+    "is_blocked": false,
+    "price_group": "(Std.-Preis)",
+    "billing_address": {
+      "salutation": "",
+      "name": "Backstor Dostana Import-Export GmbH",
+      "name3": "GF: Ghai, Sagar",
+      "street": "Steindamm 27",
+      "city": "Hamburg",
+      "postal_code": "20099",
+      "country": "Deutschland",
+      "phone": "(01 76) 82 41 34 25",
+      "fax": "",
+      "email": ""
+    },
+    "delivery_address": {
+      "salutation": "",
+      "name": "Back Store",
+      "name3": "",
+      "street": "Steindamm 27",
+      "city": "Hamburg",
+      "postal_code": "20099",
+      "country": "Deutschland",
+      "phone": "(01 76) 82 41 34 25",
+      "fax": "",
+      "email": ""
+    },
+    "delivery_schedule": {
+      "monday": "",
+      "tuesday": "",
+      "wednesday": "",
+      "thursday": "",
+      "friday": "",
+      "saturday": ""
+    },
+    "settings": {
+      "webshop_enabled": false,
+      "ds_addresses": false,
+      "no_pickup_app": false,
+      "minimum_order_value": null,
+      "articles_not_in_history": ""
+    },
+    "additional_addresses": [
+      {
+        "address_number": "0",
+        "salutation": "",
+        "name": "Backstor Dostana Import-Export GmbH",
+        "name3": "GF: Ghai, Sagar",
+        "street": "Steindamm 27",
+        "city": "Hamburg",
+        "postal_code": "20099",
+        "country": "Deutschland",
+        "phone": "(01 76) 82 41 34 25",
+        "fax": "",
+        "email": "",
+        "is_default_billing": true,
+        "is_default_delivery": false
+      },
+      {
+        "address_number": "5",
+        "salutation": "",
+        "name": "Back Store",
+        "name3": "",
+        "street": "Steindamm 27",
+        "city": "Hamburg",
+        "postal_code": "20099",
+        "country": "Deutschland",
+        "phone": "(01 76) 82 41 34 25",
+        "fax": "",
+        "email": "",
+        "is_default_billing": false,
+        "is_default_delivery": true
+      }
+    ]
+  },
+  "order_statistics": {
+    "total_orders": 0,
+    "unique_articles_ordered": 0,
+    "recent_orders_count": 0,
+    "last_order_date": null
+  },
+  "order_history": []
+}

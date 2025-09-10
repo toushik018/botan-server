@@ -1,0 +1,301 @@
+{
+  "metadata": {
+    "generated_at": "2025-09-10T23:17:06.051663",
+    "client_number": "16053",
+    "data_source": "BotanBot XML Export"
+  },
+  "client_profile": {
+    "client_number": "16053",
+    "search_term": "TOLGA MÖLLER",
+    "status": "Kunde",
+    "tax_number": "",
+    "vat_id": "",
+    "is_blocked": false,
+    "price_group": "(Std.-Preis)",
+    "billing_address": {
+      "salutation": "",
+      "name": "Tolga  Möller",
+      "name3": "",
+      "street": "",
+      "city": "",
+      "postal_code": "",
+      "country": "Deutschland",
+      "phone": "(01 76) 30 58 51 44",
+      "fax": "",
+      "email": "pc.xp712@gmail.com"
+    },
+    "delivery_address": {
+      "salutation": "",
+      "name": "Tolga  Möller",
+      "name3": "",
+      "street": "",
+      "city": "",
+      "postal_code": "",
+      "country": "Deutschland",
+      "phone": "(01 76) 30 58 51 44",
+      "fax": "",
+      "email": "pc.xp712@gmail.com"
+    },
+    "delivery_schedule": {
+      "monday": "",
+      "tuesday": "3",
+      "wednesday": "",
+      "thursday": "",
+      "friday": "18",
+      "saturday": ""
+    },
+    "settings": {
+      "webshop_enabled": true,
+      "ds_addresses": true,
+      "no_pickup_app": false,
+      "minimum_order_value": null,
+      "articles_not_in_history": ""
+    },
+    "additional_addresses": [
+      {
+        "address_number": "0",
+        "salutation": "",
+        "name": "Tolga  Möller",
+        "name3": "",
+        "street": "",
+        "city": "",
+        "postal_code": "",
+        "country": "Deutschland",
+        "phone": "(01 76) 30 58 51 44",
+        "fax": "",
+        "email": "pc.xp712@gmail.com",
+        "is_default_billing": true,
+        "is_default_delivery": true
+      }
+    ]
+  },
+  "order_statistics": {
+    "total_orders": 17,
+    "unique_articles_ordered": 17,
+    "recent_orders_count": 17,
+    "last_order_date": "2025-08-19"
+  },
+  "order_history": [
+    {
+      "article_number": "1553",
+      "date": "2025-08-19",
+      "booking_quantity": 5.0,
+      "quantity": 5.0,
+      "unit": "Beutel 1 kg",
+      "article_info": {
+        "short_description": "Chicken Nuggets 1 kg BT",
+        "long_description": "Chicken Nuggets 1 kg",
+        "product_group": "05.05.20.05 TK",
+        "unit": "KG"
+      }
+    },
+    {
+      "article_number": "23000025",
+      "date": "2025-08-19",
+      "booking_quantity": 234.0,
+      "quantity": 12.0,
+      "unit": "TR 24",
+      "article_info": {
+        "short_description": "Pflichtpfand Einwegartikel DPG",
+        "long_description": "Pflichtpfand Einwegartikel DPG",
+        "product_group": "90.05 Pfand",
+        "unit": "ST"
+      }
+    },
+    {
+      "article_number": "1236",
+      "date": "2025-08-19",
+      "booking_quantity": 18.0,
+      "quantity": 3.0,
+      "unit": "TR 6",
+      "article_info": {
+        "short_description": "Uludag Gazoz 6 x 0,5 l Flasche",
+        "long_description": "Uludag Gazoz 6 x 0,5 l Flasche",
+        "product_group": "15.05.20 0,5 l Flasche",
+        "unit": "FL"
+      }
+    },
+    {
+      "article_number": "1375",
+      "date": "2025-08-19",
+      "booking_quantity": 2.5,
+      "quantity": 1.0,
+      "unit": "Beutel 2,5 kg",
+      "article_info": {
+        "short_description": "Potato Wedges TK gewür. 2,5 kg",
+        "long_description": "Potato Wedges gewürzt  2,5 kg TK",
+        "product_group": "05.30.10 weitere",
+        "unit": "KG"
+      }
+    },
+    {
+      "article_number": "9822",
+      "date": "2025-08-19",
+      "booking_quantity": 1.0,
+      "quantity": 1.0,
+      "unit": "Tube 1",
+      "article_info": {
+        "short_description": "Develey Süss Sauer Sauce 875ml Tube",
+        "long_description": "Develey Süss Sauer Sauce 875ml Tube",
+        "product_group": "05.45.15 Dips und Saucen",
+        "unit": "TB"
+      }
+    },
+    {
+      "article_number": "5073",
+      "date": "2025-08-19",
+      "booking_quantity": 1.0,
+      "quantity": 1.0,
+      "unit": "Beutel 1",
+      "article_info": {
+        "short_description": "Crispy Chik'n Fingers 1040g/Beutel",
+        "long_description": "Crispy Chik'n Fingers 1 kg/Beutel",
+        "product_group": "05.05.20.05 TK",
+        "unit": "BT"
+      }
+    },
+    {
+      "article_number": "3102",
+      "date": "2025-08-13",
+      "booking_quantity": 216.0,
+      "quantity": 9.0,
+      "unit": "TR 24",
+      "article_info": {
+        "short_description": "DPG 24 x 0,5 l. Yurt Quellwasser",
+        "long_description": "Yurt Quellwasser 24 x 0,5 l Flasche DPG",
+        "product_group": "15.15.15 0,5 l Flasche",
+        "unit": "FL"
+      }
+    },
+    {
+      "article_number": "2078",
+      "date": "2025-08-01",
+      "booking_quantity": 12.0,
+      "quantity": 1.0,
+      "unit": "Karton 12 Stk.",
+      "article_info": {
+        "short_description": "Durstlöscher Orange 12 x 0,5 L Tetrapack",
+        "long_description": "Durstlöscher Orange 12 x 0,5 l Tetra Pak",
+        "product_group": "15.05.22 0,5 l Tetra Pack",
+        "unit": "ST"
+      }
+    },
+    {
+      "article_number": "1537",
+      "date": "2025-07-06",
+      "booking_quantity": 20.0,
+      "quantity": 1.0,
+      "unit": "Karton 20 Stk.",
+      "article_info": {
+        "short_description": "Ayyo Kirsch - Ayran  0,25 l",
+        "long_description": "Ayyo Kirsch - Ayran  0,25 l",
+        "product_group": "05.15.35 Joghurt- und Milchgetränke",
+        "unit": "ST"
+      }
+    },
+    {
+      "article_number": "2743",
+      "date": "2025-07-06",
+      "booking_quantity": 20.0,
+      "quantity": 1.0,
+      "unit": "Karton 20 Stk.",
+      "article_info": {
+        "short_description": "içim Ayran  Jghrt. -Getränk 20x250 g MHD 17.07.25",
+        "long_description": "içim Ayran  Jghrt. -Getränk 20x250 g MHD 17.07.25",
+        "product_group": "05.15.35 Joghurt- und Milchgetränke",
+        "unit": "ST"
+      }
+    },
+    {
+      "article_number": "9218",
+      "date": "2025-06-21",
+      "booking_quantity": 5.0,
+      "quantity": 2.0,
+      "unit": "Beutel 2,5 kg",
+      "article_info": {
+        "short_description": "Hähnchenbrust Stücke 5-15g (rundum gegart) 2,5 kg",
+        "long_description": "Hähnchenbrust Stücke 5-15g (rundum gegart) 2,5 kg",
+        "product_group": "05.05.20.05 TK",
+        "unit": "KG"
+      }
+    },
+    {
+      "article_number": "2300025",
+      "date": "2025-06-18",
+      "booking_quantity": -78.0,
+      "quantity": -78.0,
+      "unit": "Dose 1 Stk.",
+      "article_info": {
+        "short_description": "Rücknahme Pflichtpfand DPG",
+        "long_description": "Rücknahme Pflichtpfand DPG",
+        "product_group": "90.05 Pfand",
+        "unit": "ST"
+      }
+    },
+    {
+      "article_number": "2004",
+      "date": "2025-06-12",
+      "booking_quantity": 25.0,
+      "quantity": 1.0,
+      "unit": "Karton 25 Stk.",
+      "article_info": {
+        "short_description": "Mars  24 x 51 g  Rg",
+        "long_description": "Mars 24 x 51 g Riegel",
+        "product_group": "05.50.05 Riegelware",
+        "unit": "ST"
+      }
+    },
+    {
+      "article_number": "1468",
+      "date": "2025-06-07",
+      "booking_quantity": 1.5,
+      "quantity": 1.0,
+      "unit": "Beutel 1,5 kg",
+      "article_info": {
+        "short_description": "Crunchy Chik´n Burger 90g  1,5 kg BT",
+        "long_description": "Crunchy Chik´n Burger 90 g/Stück 1,5 kg Beutel",
+        "product_group": "05.05.20.05 TK",
+        "unit": "KG"
+      }
+    },
+    {
+      "article_number": "1531",
+      "date": "2025-06-04",
+      "booking_quantity": 5.0,
+      "quantity": 1.0,
+      "unit": "Eimer 5 kg",
+      "article_info": {
+        "short_description": "Apostel Proto 10+  5kg  Eimer",
+        "long_description": "Apostel Proto 10+  5 kg Eimer",
+        "product_group": "05.15.10 Joghurt",
+        "unit": "KG"
+      }
+    },
+    {
+      "article_number": "9649",
+      "date": "2025-05-31",
+      "booking_quantity": 24.0,
+      "quantity": 1.0,
+      "unit": "KI 24",
+      "article_info": {
+        "short_description": "Heineken Pils 24 x 0,33 L",
+        "long_description": "Heineken Pils 24 x 0,33 L",
+        "product_group": "15.20.05.05 0,33 l Flasche MWK",
+        "unit": "FL"
+      }
+    },
+    {
+      "article_number": "23342",
+      "date": "2025-05-31",
+      "booking_quantity": 1.0,
+      "quantity": 1.0,
+      "unit": "Kiste",
+      "article_info": {
+        "short_description": "Pfand = 3,42 € 24er  0,33l (24x0,08+1,50)",
+        "long_description": "Pfand = 3,42 € 24er 0,33l (24 x 0,08 + 1,50)",
+        "product_group": "90.05 Pfand",
+        "unit": "ST"
+      }
+    }
+  ]
+}

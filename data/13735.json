@@ -1,0 +1,94 @@
+{
+  "metadata": {
+    "generated_at": "2025-09-10T23:17:05.397001",
+    "client_number": "13735",
+    "data_source": "BotanBot XML Export"
+  },
+  "client_profile": {
+    "client_number": "13735",
+    "search_term": "BILAT TASPUNAR",
+    "status": "Kunde",
+    "tax_number": "",
+    "vat_id": "DK37919322",
+    "is_blocked": false,
+    "price_group": "(Std.-Preis)",
+    "billing_address": {
+      "salutation": "Firma",
+      "name": "Nordele Food APS",
+      "name3": "",
+      "street": "Naverland 21-23",
+      "city": "Glostrup",
+      "postal_code": "2600",
+      "country": "Dänemark",
+      "phone": "",
+      "fax": "",
+      "email": "nordele@hotmail.com"
+    },
+    "delivery_address": {
+      "salutation": "Firma",
+      "name": "Nordele Food APS",
+      "name3": "",
+      "street": "Naverland 21-23",
+      "city": "Glostrup",
+      "postal_code": "2600",
+      "country": "Dänemark",
+      "phone": "",
+      "fax": "",
+      "email": "nordele@hotmail.com"
+    },
+    "delivery_schedule": {
+      "monday": "",
+      "tuesday": "",
+      "wednesday": "",
+      "thursday": "",
+      "friday": "",
+      "saturday": ""
+    },
+    "settings": {
+      "webshop_enabled": false,
+      "ds_addresses": false,
+      "no_pickup_app": false,
+      "minimum_order_value": null,
+      "articles_not_in_history": ""
+    },
+    "additional_addresses": [
+      {
+        "address_number": "0",
+        "salutation": "Firma",
+        "name": "Nordele Food APS",
+        "name3": "",
+        "street": "Naverland 21-23",
+        "city": "Glostrup",
+        "postal_code": "2600",
+        "country": "Dänemark",
+        "phone": "",
+        "fax": "",
+        "email": "nordele@hotmail.com",
+        "is_default_billing": true,
+        "is_default_delivery": true
+      },
+      {
+        "address_number": "1",
+        "salutation": "",
+        "name": "",
+        "name3": "",
+        "street": "",
+        "city": "",
+        "postal_code": "",
+        "country": "Afghanistan",
+        "phone": "",
+        "fax": "",
+        "email": "",
+        "is_default_billing": false,
+        "is_default_delivery": false
+      }
+    ]
+  },
+  "order_statistics": {
+    "total_orders": 0,
+    "unique_articles_ordered": 0,
+    "recent_orders_count": 0,
+    "last_order_date": null
+  },
+  "order_history": []
+}

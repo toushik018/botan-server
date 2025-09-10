@@ -1,0 +1,94 @@
+{
+  "metadata": {
+    "generated_at": "2025-09-10T23:17:05.867957",
+    "client_number": "15433",
+    "data_source": "BotanBot XML Export"
+  },
+  "client_profile": {
+    "client_number": "15433",
+    "search_term": "HANSE MARKT PRODUKTION VE",
+    "status": "Kunde",
+    "tax_number": "",
+    "vat_id": "",
+    "is_blocked": false,
+    "price_group": "(Std.-Preis)",
+    "billing_address": {
+      "salutation": "",
+      "name": "Lucullus Wandsbek GmbH & Co. KG",
+      "name3": "",
+      "street": "Kielerstr. 444",
+      "city": "Hamburg",
+      "postal_code": "22525",
+      "country": "Deutschland",
+      "phone": "(01 72) 4 56 90 07",
+      "fax": "(0 40) 4 30 48 94",
+      "email": "hw.rueth@gmx.de"
+    },
+    "delivery_address": {
+      "salutation": "",
+      "name": "Lucullus Wandsbek GmbH & Co. KG",
+      "name3": "",
+      "street": "Kielerstr. 444",
+      "city": "Hamburg",
+      "postal_code": "22525",
+      "country": "Deutschland",
+      "phone": "(01 72) 4 56 90 07",
+      "fax": "(0 40) 4 30 48 94",
+      "email": "hw.rueth@gmx.de"
+    },
+    "delivery_schedule": {
+      "monday": "",
+      "tuesday": "",
+      "wednesday": "",
+      "thursday": "",
+      "friday": "",
+      "saturday": ""
+    },
+    "settings": {
+      "webshop_enabled": false,
+      "ds_addresses": false,
+      "no_pickup_app": false,
+      "minimum_order_value": null,
+      "articles_not_in_history": ""
+    },
+    "additional_addresses": [
+      {
+        "address_number": "0",
+        "salutation": "",
+        "name": "Lucullus Wandsbek GmbH & Co. KG",
+        "name3": "",
+        "street": "Kielerstr. 444",
+        "city": "Hamburg",
+        "postal_code": "22525",
+        "country": "Deutschland",
+        "phone": "(01 72) 4 56 90 07",
+        "fax": "(0 40) 4 30 48 94",
+        "email": "hw.rueth@gmx.de",
+        "is_default_billing": true,
+        "is_default_delivery": true
+      },
+      {
+        "address_number": "1",
+        "salutation": "",
+        "name": "",
+        "name3": "",
+        "street": "",
+        "city": "",
+        "postal_code": "",
+        "country": "Deutschland",
+        "phone": "(01 72) 4 56 90 07",
+        "fax": "",
+        "email": "",
+        "is_default_billing": false,
+        "is_default_delivery": false
+      }
+    ]
+  },
+  "order_statistics": {
+    "total_orders": 0,
+    "unique_articles_ordered": 0,
+    "recent_orders_count": 0,
+    "last_order_date": null
+  },
+  "order_history": []
+}

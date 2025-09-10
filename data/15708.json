@@ -1,0 +1,264 @@
+{
+  "metadata": {
+    "generated_at": "2025-09-10T23:17:05.943482",
+    "client_number": "15708",
+    "data_source": "BotanBot XML Export"
+  },
+  "client_profile": {
+    "client_number": "15708",
+    "search_term": "KARTOFFELVERTRIEB HINRIC",
+    "status": "Kunde",
+    "tax_number": "",
+    "vat_id": "",
+    "is_blocked": false,
+    "price_group": "(Std.-Preis)",
+    "billing_address": {
+      "salutation": "",
+      "name": "Kartoffelvertrieb Hinrichs GmbH",
+      "name3": "",
+      "street": "Kölau 10",
+      "city": "Suhlendorf",
+      "postal_code": "29562",
+      "country": "Deutschland",
+      "phone": "(0 58 20) 15 50",
+      "fax": "",
+      "email": "b.behn@kartoffelvertrieb-hinrichs.de"
+    },
+    "delivery_address": {
+      "salutation": "",
+      "name": "Kartoffelvertrieb Hinrichs GROßMARKT HAMBURG",
+      "name3": "BEI: FIRMA TÜRK oder Keller",
+      "street": "Auf der Brandshofer Schleuse 4",
+      "city": "Hamburg",
+      "postal_code": "20097",
+      "country": "Deutschland",
+      "phone": "(0 58 20) 15 50",
+      "fax": "",
+      "email": "b.behn@kartoffelvertrieb-hinrichs.de"
+    },
+    "delivery_schedule": {
+      "monday": "2",
+      "tuesday": "",
+      "wednesday": "",
+      "thursday": "",
+      "friday": "",
+      "saturday": ""
+    },
+    "settings": {
+      "webshop_enabled": true,
+      "ds_addresses": false,
+      "no_pickup_app": false,
+      "minimum_order_value": null,
+      "articles_not_in_history": ""
+    },
+    "additional_addresses": [
+      {
+        "address_number": "0",
+        "salutation": "",
+        "name": "Kartoffelvertrieb Hinrichs GmbH",
+        "name3": "",
+        "street": "Kölau 10",
+        "city": "Suhlendorf",
+        "postal_code": "29562",
+        "country": "Deutschland",
+        "phone": "(0 58 20) 15 50",
+        "fax": "",
+        "email": "b.behn@kartoffelvertrieb-hinrichs.de",
+        "is_default_billing": true,
+        "is_default_delivery": false
+      },
+      {
+        "address_number": "1",
+        "salutation": "",
+        "name": "Kartoffelvertrieb Hinrichs GROßMARKT HAMBURG",
+        "name3": "BEI: FIRMA TÜRK oder Keller",
+        "street": "Auf der Brandshofer Schleuse 4",
+        "city": "Hamburg",
+        "postal_code": "20097",
+        "country": "Deutschland",
+        "phone": "(0 58 20) 15 50",
+        "fax": "",
+        "email": "b.behn@kartoffelvertrieb-hinrichs.de",
+        "is_default_billing": false,
+        "is_default_delivery": true
+      }
+    ]
+  },
+  "order_statistics": {
+    "total_orders": 13,
+    "unique_articles_ordered": 13,
+    "recent_orders_count": 13,
+    "last_order_date": "2025-08-18"
+  },
+  "order_history": [
+    {
+      "article_number": "1604",
+      "date": "2025-08-18",
+      "booking_quantity": 2310.0,
+      "quantity": 231.0,
+      "unit": "Karton 10 kg",
+      "article_info": {
+        "short_description": "Wellenschnitt Pommes Frisch 2 x 5 kg BT",
+        "long_description": "Pommes Frisch Wellenschnitt 2 x 5 kg Beutel",
+        "product_group": "05.30.05 Pommes",
+        "unit": "KG"
+      }
+    },
+    {
+      "article_number": "7060",
+      "date": "2025-08-18",
+      "booking_quantity": 1140.0,
+      "quantity": 114.0,
+      "unit": "Karton 10 kg",
+      "article_info": {
+        "short_description": "14 mm Pommes Frites frisch 2 x 5 KG/KT",
+        "long_description": "14 mm Pommes Frites frisch 2x5 KG/KT",
+        "product_group": "05.30.05 Pommes",
+        "unit": "KG"
+      }
+    },
+    {
+      "article_number": "1334",
+      "date": "2025-08-18",
+      "booking_quantity": 660.0,
+      "quantity": 66.0,
+      "unit": "Eimer 10 kg",
+      "article_info": {
+        "short_description": "Salatmayonnaise \"GOLD\"   10 Kg",
+        "long_description": "Gold Salatmayonnaise 10 kg",
+        "product_group": "05.45.05 Mayonnaise",
+        "unit": "KG"
+      }
+    },
+    {
+      "article_number": "1531",
+      "date": "2025-08-18",
+      "booking_quantity": 695.0,
+      "quantity": 139.0,
+      "unit": "Eimer 5 kg",
+      "article_info": {
+        "short_description": "Apostel Proto 10+  5kg  Eimer",
+        "long_description": "Apostel Proto 10+  5 kg Eimer",
+        "product_group": "05.15.10 Joghurt",
+        "unit": "KG"
+      }
+    },
+    {
+      "article_number": "1317",
+      "date": "2025-08-18",
+      "booking_quantity": 24.0,
+      "quantity": 24.0,
+      "unit": "Tube 1",
+      "article_info": {
+        "short_description": "Snack Ketchup 900ml TB Schulstad Tube",
+        "long_description": "Schulstad Snack-Ketchup 900 ml Tube",
+        "product_group": "05.45.10 Ketchup",
+        "unit": "TB"
+      }
+    },
+    {
+      "article_number": "1323",
+      "date": "2025-08-18",
+      "booking_quantity": 24.0,
+      "quantity": 24.0,
+      "unit": "Tube 1",
+      "article_info": {
+        "short_description": "Snack Dressing Schulstad 900ml Tube",
+        "long_description": "Schulstad Snack Dressing 900 ml Tube",
+        "product_group": "05.45.20 Spezial-Saucen",
+        "unit": "TB"
+      }
+    },
+    {
+      "article_number": "1336",
+      "date": "2025-08-11",
+      "booking_quantity": 60.0,
+      "quantity": 6.0,
+      "unit": "Eimer 10 kg",
+      "article_info": {
+        "short_description": "Tomaten Ketchup Remia 10 Kg Eimer",
+        "long_description": "Remia Tomaten-Ketchup 10 kg Eimer",
+        "product_group": "05.45.10 Ketchup",
+        "unit": "KG"
+      }
+    },
+    {
+      "article_number": "1545",
+      "date": "2025-08-04",
+      "booking_quantity": 825.0,
+      "quantity": 33.0,
+      "unit": "Sack 25 kg",
+      "article_info": {
+        "short_description": "Mehl Typ 550 Gloria  25 Kg Sack",
+        "long_description": "Gloria Mehl Typ 550 25 kg Sack",
+        "product_group": "05.25.15.05 Mehl",
+        "unit": "KG"
+      }
+    },
+    {
+      "article_number": "2149",
+      "date": "2025-08-04",
+      "booking_quantity": 25.0,
+      "quantity": 5.0,
+      "unit": "Eimer 5 kg",
+      "article_info": {
+        "short_description": "Jäger\"Schnitzel\"Sauce 5 kg Ei.",
+        "long_description": "Jäger\"Schnitzel\"Sauce 5 kg Eimer",
+        "product_group": "05.45.30 Fertigsaucen",
+        "unit": "KG"
+      }
+    },
+    {
+      "article_number": "1591",
+      "date": "2025-08-04",
+      "booking_quantity": 7.0,
+      "quantity": 7.0,
+      "unit": "Eimer 1",
+      "article_info": {
+        "short_description": "Champignons 3. Wahl geschn.  im Eimer 6 Kg",
+        "long_description": "Champignons 3. Wahl geschnitten im Eimer 6 kg",
+        "product_group": "05.25.25 Feinkost",
+        "unit": "EI"
+      }
+    },
+    {
+      "article_number": "1316",
+      "date": "2025-08-04",
+      "booking_quantity": 15.0,
+      "quantity": 3.0,
+      "unit": "Eimer 5 kg",
+      "article_info": {
+        "short_description": "Zigeunersauce 5 kg WERNSING",
+        "long_description": "Wernsing Zigeunersauce 5 kg",
+        "product_group": "05.45.30 Fertigsaucen",
+        "unit": "KG"
+      }
+    },
+    {
+      "article_number": "2126",
+      "date": "2025-07-28",
+      "booking_quantity": 40.0,
+      "quantity": 4.0,
+      "unit": "Eimer 10 kg",
+      "article_info": {
+        "short_description": "Remia Frittierfett \" Longlife \" 10 kg Ei.",
+        "long_description": "Remia Frittierfett \"Longlife\" 10 kg Eimer",
+        "product_group": "05.25.20.10 Fette",
+        "unit": "LI"
+      }
+    },
+    {
+      "article_number": "1573",
+      "date": "2025-07-21",
+      "booking_quantity": 36.0,
+      "quantity": 36.0,
+      "unit": "Dose 1 Stk.",
+      "article_info": {
+        "short_description": "Pizza Sauce 5/1 Ds.",
+        "long_description": "Pizza Sauce 5/1 Dose",
+        "product_group": "05.25.30 Konserven",
+        "unit": "DS"
+      }
+    }
+  ]
+}

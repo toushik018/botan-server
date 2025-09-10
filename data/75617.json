@@ -1,0 +1,79 @@
+{
+  "metadata": {
+    "generated_at": "2025-09-10T23:17:06.841225",
+    "client_number": "75617",
+    "data_source": "BotanBot XML Export"
+  },
+  "client_profile": {
+    "client_number": "75617",
+    "search_term": "PH SEYFRIED GEWÜRZM",
+    "status": "Lieferant",
+    "tax_number": "",
+    "vat_id": "",
+    "is_blocked": false,
+    "price_group": "(Std.-Preis)",
+    "billing_address": {
+      "salutation": "Firma",
+      "name": "Ph. Seyfried Gewürzmühle GmbH & Co. KG",
+      "name3": "",
+      "street": "Lagerstr. 11",
+      "city": "Mannheim",
+      "postal_code": "68169",
+      "country": "Deutschland",
+      "phone": "(06 21) 32 89 89 90",
+      "fax": "(06 21) 31 77 53",
+      "email": ""
+    },
+    "delivery_address": {
+      "salutation": "Firma",
+      "name": "Ph. Seyfried Gewürzmühle GmbH & Co. KG",
+      "name3": "",
+      "street": "Lagerstr. 11",
+      "city": "Mannheim",
+      "postal_code": "68169",
+      "country": "Deutschland",
+      "phone": "(06 21) 32 89 89 90",
+      "fax": "(06 21) 31 77 53",
+      "email": ""
+    },
+    "delivery_schedule": {
+      "monday": "",
+      "tuesday": "",
+      "wednesday": "",
+      "thursday": "",
+      "friday": "",
+      "saturday": ""
+    },
+    "settings": {
+      "webshop_enabled": false,
+      "ds_addresses": false,
+      "no_pickup_app": false,
+      "minimum_order_value": null,
+      "articles_not_in_history": ""
+    },
+    "additional_addresses": [
+      {
+        "address_number": "0",
+        "salutation": "Firma",
+        "name": "Ph. Seyfried Gewürzmühle GmbH & Co. KG",
+        "name3": "",
+        "street": "Lagerstr. 11",
+        "city": "Mannheim",
+        "postal_code": "68169",
+        "country": "Deutschland",
+        "phone": "(06 21) 32 89 89 90",
+        "fax": "(06 21) 31 77 53",
+        "email": "",
+        "is_default_billing": true,
+        "is_default_delivery": true
+      }
+    ]
+  },
+  "order_statistics": {
+    "total_orders": 0,
+    "unique_articles_ordered": 0,
+    "recent_orders_count": 0,
+    "last_order_date": null
+  },
+  "order_history": []
+}

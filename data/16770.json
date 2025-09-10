@@ -1,0 +1,171 @@
+{
+  "metadata": {
+    "generated_at": "2025-09-10T23:17:06.300041",
+    "client_number": "16770",
+    "data_source": "BotanBot XML Export"
+  },
+  "client_profile": {
+    "client_number": "16770",
+    "search_term": "DORFSTÜBCHEN KÜCHHOLD",
+    "status": "Kunde",
+    "tax_number": "",
+    "vat_id": "",
+    "is_blocked": false,
+    "price_group": "(Std.-Preis)",
+    "billing_address": {
+      "salutation": "",
+      "name": "Dorfstübchen Süderhastedt",
+      "name3": "Inh. Jürgen Küchhold",
+      "street": "Hauptstrasse 36",
+      "city": "Süderhastedt",
+      "postal_code": "25727",
+      "country": "Deutschland",
+      "phone": "(0 48 30) 6 27",
+      "fax": "",
+      "email": "imbiss-jk@t-online.de"
+    },
+    "delivery_address": {
+      "salutation": "",
+      "name": "Dorfstübchen Süderhastedt",
+      "name3": "Inh. Jürgen Küchhold",
+      "street": "Hauptstrasse 36",
+      "city": "Süderhastedt",
+      "postal_code": "25727",
+      "country": "Deutschland",
+      "phone": "(0 48 30) 6 27",
+      "fax": "",
+      "email": "imbiss-jk@t-online.de"
+    },
+    "delivery_schedule": {
+      "monday": "5",
+      "tuesday": "",
+      "wednesday": "",
+      "thursday": "",
+      "friday": "",
+      "saturday": ""
+    },
+    "settings": {
+      "webshop_enabled": true,
+      "ds_addresses": false,
+      "no_pickup_app": false,
+      "minimum_order_value": null,
+      "articles_not_in_history": ""
+    },
+    "additional_addresses": [
+      {
+        "address_number": "0",
+        "salutation": "",
+        "name": "Dorfstübchen Süderhastedt",
+        "name3": "Inh. Jürgen Küchhold",
+        "street": "Hauptstrasse 36",
+        "city": "Süderhastedt",
+        "postal_code": "25727",
+        "country": "Deutschland",
+        "phone": "(0 48 30) 6 27",
+        "fax": "",
+        "email": "imbiss-jk@t-online.de",
+        "is_default_billing": true,
+        "is_default_delivery": true
+      }
+    ]
+  },
+  "order_statistics": {
+    "total_orders": 7,
+    "unique_articles_ordered": 7,
+    "recent_orders_count": 7,
+    "last_order_date": "2025-08-11"
+  },
+  "order_history": [
+    {
+      "article_number": "1958",
+      "date": "2025-08-11",
+      "booking_quantity": 100.0,
+      "quantity": 50.0,
+      "unit": "Beutel 2kg",
+      "article_info": {
+        "short_description": "Gouda Käse 48 %  Gerieben (Milram) 2 Kg Beutel",
+        "long_description": "Milram Gouda gerieben 48 % 2 kg Beutel",
+        "product_group": "05.15.05.05.15 Schnitt- und Raspelware",
+        "unit": "KG"
+      }
+    },
+    {
+      "article_number": "3335",
+      "date": "2025-08-11",
+      "booking_quantity": 15.0,
+      "quantity": 15.0,
+      "unit": "Karton 1",
+      "article_info": {
+        "short_description": "Hamburger gewürzt  227g  KT/5KG",
+        "long_description": "Hamburger gewürzt 227 g 5 kg Karton",
+        "product_group": "05.05.05.05 TK",
+        "unit": "KT"
+      }
+    },
+    {
+      "article_number": "9184",
+      "date": "2025-08-11",
+      "booking_quantity": 19.0,
+      "quantity": 19.0,
+      "unit": "Pack 1",
+      "article_info": {
+        "short_description": "Salami Kal. 80  1KG",
+        "long_description": "Salami Kaliber 80 1 kg",
+        "product_group": "05.05.10.10 Frisch",
+        "unit": "KG"
+      }
+    },
+    {
+      "article_number": "1323",
+      "date": "2025-08-11",
+      "booking_quantity": 60.0,
+      "quantity": 60.0,
+      "unit": "Tube 1",
+      "article_info": {
+        "short_description": "Snack Dressing Schulstad 900ml Tube",
+        "long_description": "Schulstad Snack Dressing 900 ml Tube",
+        "product_group": "05.45.20 Spezial-Saucen",
+        "unit": "TB"
+      }
+    },
+    {
+      "article_number": "1317",
+      "date": "2025-08-11",
+      "booking_quantity": 36.0,
+      "quantity": 36.0,
+      "unit": "Tube 1",
+      "article_info": {
+        "short_description": "Snack Ketchup 900ml TB Schulstad Tube",
+        "long_description": "Schulstad Snack-Ketchup 900 ml Tube",
+        "product_group": "05.45.10 Ketchup",
+        "unit": "TB"
+      }
+    },
+    {
+      "article_number": "1334",
+      "date": "2025-08-11",
+      "booking_quantity": 40.0,
+      "quantity": 4.0,
+      "unit": "Eimer 10 kg",
+      "article_info": {
+        "short_description": "Salatmayonnaise \"GOLD\"   10 Kg",
+        "long_description": "Gold Salatmayonnaise 10 kg",
+        "product_group": "05.45.05 Mayonnaise",
+        "unit": "KG"
+      }
+    },
+    {
+      "article_number": "1106",
+      "date": "2025-07-14",
+      "booking_quantity": 28.0,
+      "quantity": 7.0,
+      "unit": "Karton 4 Stk.",
+      "article_info": {
+        "short_description": "Alufolie  µ=11 / 30 cm",
+        "long_description": "Alufolie µ=11/30 cm",
+        "product_group": "10.05.30 Folien",
+        "unit": "RL"
+      }
+    }
+  ]
+}

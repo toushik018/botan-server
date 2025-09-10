@@ -1,0 +1,94 @@
+{
+  "metadata": {
+    "generated_at": "2025-09-10T23:17:04.991191",
+    "client_number": "12312",
+    "data_source": "BotanBot XML Export"
+  },
+  "client_profile": {
+    "client_number": "12312",
+    "search_term": "GOURMET MOBILE",
+    "status": "Kunde",
+    "tax_number": "",
+    "vat_id": "",
+    "is_blocked": false,
+    "price_group": "(Std.-Preis)",
+    "billing_address": {
+      "salutation": "",
+      "name": "Gourmet Mobile",
+      "name3": "Inh. Ismet Milicevic",
+      "street": "Pommerby 4a",
+      "city": "Damp",
+      "postal_code": "24351",
+      "country": "Deutschland",
+      "phone": "(01 52) 01 62 01 16",
+      "fax": "",
+      "email": "milicevicismet@gmail.com"
+    },
+    "delivery_address": {
+      "salutation": "",
+      "name": "Gourmet Mobile",
+      "name3": "Inh. Ismet Milicevic",
+      "street": "Ladenzeile",
+      "city": "Damp",
+      "postal_code": "24351",
+      "country": "Deutschland",
+      "phone": "(01 52) 01 62 01 16",
+      "fax": "",
+      "email": "0152 016 20 116"
+    },
+    "delivery_schedule": {
+      "monday": "",
+      "tuesday": "",
+      "wednesday": "",
+      "thursday": "",
+      "friday": "",
+      "saturday": ""
+    },
+    "settings": {
+      "webshop_enabled": false,
+      "ds_addresses": false,
+      "no_pickup_app": false,
+      "minimum_order_value": null,
+      "articles_not_in_history": "1538"
+    },
+    "additional_addresses": [
+      {
+        "address_number": "0",
+        "salutation": "",
+        "name": "Gourmet Mobile",
+        "name3": "Inh. Ismet Milicevic",
+        "street": "Pommerby 4a",
+        "city": "Damp",
+        "postal_code": "24351",
+        "country": "Deutschland",
+        "phone": "(01 52) 01 62 01 16",
+        "fax": "",
+        "email": "milicevicismet@gmail.com",
+        "is_default_billing": true,
+        "is_default_delivery": false
+      },
+      {
+        "address_number": "1",
+        "salutation": "",
+        "name": "Gourmet Mobile",
+        "name3": "Inh. Ismet Milicevic",
+        "street": "Ladenzeile",
+        "city": "Damp",
+        "postal_code": "24351",
+        "country": "Deutschland",
+        "phone": "(01 52) 01 62 01 16",
+        "fax": "",
+        "email": "0152 016 20 116",
+        "is_default_billing": false,
+        "is_default_delivery": true
+      }
+    ]
+  },
+  "order_statistics": {
+    "total_orders": 0,
+    "unique_articles_ordered": 0,
+    "recent_orders_count": 0,
+    "last_order_date": null
+  },
+  "order_history": []
+}

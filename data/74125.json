@@ -1,0 +1,79 @@
+{
+  "metadata": {
+    "generated_at": "2025-09-10T23:17:06.746658",
+    "client_number": "74125",
+    "data_source": "BotanBot XML Export"
+  },
+  "client_profile": {
+    "client_number": "74125",
+    "search_term": "ABL FOOD A/S, AABENRAA",
+    "status": "Lieferant",
+    "tax_number": "",
+    "vat_id": "",
+    "is_blocked": false,
+    "price_group": "(Std.-Preis)",
+    "billing_address": {
+      "salutation": "Firma",
+      "name": "ABL FOOD A/S",
+      "name3": "",
+      "street": "Kliplev Erhvervspark  8",
+      "city": "Aabenraa",
+      "postal_code": "6200",
+      "country": "Dänemark",
+      "phone": "+45 (73) 68 78 50",
+      "fax": "+45 (7 36) 87 8A - T",
+      "email": ""
+    },
+    "delivery_address": {
+      "salutation": "Firma",
+      "name": "ABL FOOD A/S",
+      "name3": "",
+      "street": "Kliplev Erhvervspark  8",
+      "city": "Aabenraa",
+      "postal_code": "6200",
+      "country": "Dänemark",
+      "phone": "+45 (73) 68 78 50",
+      "fax": "+45 (7 36) 87 8A - T",
+      "email": ""
+    },
+    "delivery_schedule": {
+      "monday": "",
+      "tuesday": "",
+      "wednesday": "",
+      "thursday": "",
+      "friday": "",
+      "saturday": ""
+    },
+    "settings": {
+      "webshop_enabled": false,
+      "ds_addresses": false,
+      "no_pickup_app": false,
+      "minimum_order_value": null,
+      "articles_not_in_history": ""
+    },
+    "additional_addresses": [
+      {
+        "address_number": "0",
+        "salutation": "Firma",
+        "name": "ABL FOOD A/S",
+        "name3": "",
+        "street": "Kliplev Erhvervspark  8",
+        "city": "Aabenraa",
+        "postal_code": "6200",
+        "country": "Dänemark",
+        "phone": "+45 (73) 68 78 50",
+        "fax": "+45 (7 36) 87 8A - T",
+        "email": "",
+        "is_default_billing": true,
+        "is_default_delivery": true
+      }
+    ]
+  },
+  "order_statistics": {
+    "total_orders": 0,
+    "unique_articles_ordered": 0,
+    "recent_orders_count": 0,
+    "last_order_date": null
+  },
+  "order_history": []
+}

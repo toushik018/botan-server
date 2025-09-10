@@ -1,0 +1,79 @@
+{
+  "metadata": {
+    "generated_at": "2025-09-10T23:17:06.216630",
+    "client_number": "16549",
+    "data_source": "BotanBot XML Export"
+  },
+  "client_profile": {
+    "client_number": "16549",
+    "search_term": "MEINE PIZZA LIEBE",
+    "status": "Kunde",
+    "tax_number": "",
+    "vat_id": "",
+    "is_blocked": false,
+    "price_group": "(Std.-Preis)",
+    "billing_address": {
+      "salutation": "",
+      "name": "Meine Pizza Liebe",
+      "name3": "Vahid, Hatami",
+      "street": "Kleekamp 5",
+      "city": "Hamburg",
+      "postal_code": "22339",
+      "country": "Deutschland",
+      "phone": "(0 40) 51 32 09 55",
+      "fax": "",
+      "email": ""
+    },
+    "delivery_address": {
+      "salutation": "",
+      "name": "Meine Pizza Liebe",
+      "name3": "Vahid, Hatami",
+      "street": "Kleekamp 5",
+      "city": "Hamburg",
+      "postal_code": "22339",
+      "country": "Deutschland",
+      "phone": "(0 40) 51 32 09 55",
+      "fax": "",
+      "email": ""
+    },
+    "delivery_schedule": {
+      "monday": "2",
+      "tuesday": "",
+      "wednesday": "",
+      "thursday": "5",
+      "friday": "",
+      "saturday": ""
+    },
+    "settings": {
+      "webshop_enabled": false,
+      "ds_addresses": false,
+      "no_pickup_app": false,
+      "minimum_order_value": null,
+      "articles_not_in_history": ""
+    },
+    "additional_addresses": [
+      {
+        "address_number": "0",
+        "salutation": "",
+        "name": "Meine Pizza Liebe",
+        "name3": "Vahid, Hatami",
+        "street": "Kleekamp 5",
+        "city": "Hamburg",
+        "postal_code": "22339",
+        "country": "Deutschland",
+        "phone": "(0 40) 51 32 09 55",
+        "fax": "",
+        "email": "",
+        "is_default_billing": true,
+        "is_default_delivery": true
+      }
+    ]
+  },
+  "order_statistics": {
+    "total_orders": 0,
+    "unique_articles_ordered": 0,
+    "recent_orders_count": 0,
+    "last_order_date": null
+  },
+  "order_history": []
+}

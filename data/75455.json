@@ -1,0 +1,79 @@
+{
+  "metadata": {
+    "generated_at": "2025-09-10T23:17:06.831717",
+    "client_number": "75455",
+    "data_source": "BotanBot XML Export"
+  },
+  "client_profile": {
+    "client_number": "75455",
+    "search_term": "BRÜDER KREY",
+    "status": "Lieferant",
+    "tax_number": "1625590177",
+    "vat_id": "DE814858987",
+    "is_blocked": false,
+    "price_group": "(Std.-Preis)",
+    "billing_address": {
+      "salutation": "Firma",
+      "name": "Brüder Krey GbR",
+      "name3": "",
+      "street": "Neufelderkroog 21",
+      "city": "Neufelderkoog",
+      "postal_code": "25724",
+      "country": "Deutschland",
+      "phone": "(0 48 56) 90 95 85",
+      "fax": "",
+      "email": "info@hof-krey.de"
+    },
+    "delivery_address": {
+      "salutation": "Firma",
+      "name": "Brüder Krey GbR",
+      "name3": "",
+      "street": "Neufelderkroog 21",
+      "city": "Neufelderkoog",
+      "postal_code": "25724",
+      "country": "Deutschland",
+      "phone": "(0 48 56) 90 95 85",
+      "fax": "",
+      "email": "info@hof-krey.de"
+    },
+    "delivery_schedule": {
+      "monday": "",
+      "tuesday": "",
+      "wednesday": "",
+      "thursday": "",
+      "friday": "",
+      "saturday": ""
+    },
+    "settings": {
+      "webshop_enabled": false,
+      "ds_addresses": false,
+      "no_pickup_app": false,
+      "minimum_order_value": null,
+      "articles_not_in_history": ""
+    },
+    "additional_addresses": [
+      {
+        "address_number": "0",
+        "salutation": "Firma",
+        "name": "Brüder Krey GbR",
+        "name3": "",
+        "street": "Neufelderkroog 21",
+        "city": "Neufelderkoog",
+        "postal_code": "25724",
+        "country": "Deutschland",
+        "phone": "(0 48 56) 90 95 85",
+        "fax": "",
+        "email": "info@hof-krey.de",
+        "is_default_billing": true,
+        "is_default_delivery": true
+      }
+    ]
+  },
+  "order_statistics": {
+    "total_orders": 0,
+    "unique_articles_ordered": 0,
+    "recent_orders_count": 0,
+    "last_order_date": null
+  },
+  "order_history": []
+}

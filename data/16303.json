@@ -1,0 +1,79 @@
+{
+  "metadata": {
+    "generated_at": "2025-09-10T23:17:06.128052",
+    "client_number": "16303",
+    "data_source": "BotanBot XML Export"
+  },
+  "client_profile": {
+    "client_number": "16303",
+    "search_term": "IMBISS SOITE DEERNS",
+    "status": "Kunde",
+    "tax_number": "",
+    "vat_id": "",
+    "is_blocked": false,
+    "price_group": "(Std.-Preis)",
+    "billing_address": {
+      "salutation": "",
+      "name": "Lindi Olshausen",
+      "name3": "",
+      "street": "Uhlenflucht 26 a",
+      "city": "Scharbeutz",
+      "postal_code": "23684",
+      "country": "Deutschland",
+      "phone": "(01 78) 9 29 25 99",
+      "fax": "",
+      "email": ""
+    },
+    "delivery_address": {
+      "salutation": "",
+      "name": "Lindi Olshausen",
+      "name3": "",
+      "street": "Uhlenflucht 26 a",
+      "city": "Scharbeutz",
+      "postal_code": "23684",
+      "country": "Deutschland",
+      "phone": "(01 78) 9 29 25 99",
+      "fax": "",
+      "email": ""
+    },
+    "delivery_schedule": {
+      "monday": "",
+      "tuesday": "",
+      "wednesday": "4",
+      "thursday": "",
+      "friday": "",
+      "saturday": ""
+    },
+    "settings": {
+      "webshop_enabled": false,
+      "ds_addresses": false,
+      "no_pickup_app": false,
+      "minimum_order_value": null,
+      "articles_not_in_history": ""
+    },
+    "additional_addresses": [
+      {
+        "address_number": "0",
+        "salutation": "",
+        "name": "Lindi Olshausen",
+        "name3": "",
+        "street": "Uhlenflucht 26 a",
+        "city": "Scharbeutz",
+        "postal_code": "23684",
+        "country": "Deutschland",
+        "phone": "(01 78) 9 29 25 99",
+        "fax": "",
+        "email": "",
+        "is_default_billing": true,
+        "is_default_delivery": true
+      }
+    ]
+  },
+  "order_statistics": {
+    "total_orders": 0,
+    "unique_articles_ordered": 0,
+    "recent_orders_count": 0,
+    "last_order_date": null
+  },
+  "order_history": []
+}

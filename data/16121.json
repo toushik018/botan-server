@@ -1,0 +1,79 @@
+{
+  "metadata": {
+    "generated_at": "2025-09-10T23:17:06.070681",
+    "client_number": "16121",
+    "data_source": "BotanBot XML Export"
+  },
+  "client_profile": {
+    "client_number": "16121",
+    "search_term": "HÄHNCHEN GENUSS",
+    "status": "Kunde",
+    "tax_number": "",
+    "vat_id": "",
+    "is_blocked": false,
+    "price_group": "(Std.-Preis)",
+    "billing_address": {
+      "salutation": "",
+      "name": "Der Gockelmann",
+      "name3": "Inh. Hakan Uyandi",
+      "street": "Plöner Str. 14",
+      "city": "Wankendorf",
+      "postal_code": "24601",
+      "country": "Deutschland",
+      "phone": "(01 71) 55 55 55 - 3",
+      "fax": "",
+      "email": "uyandihakan@icloud.com"
+    },
+    "delivery_address": {
+      "salutation": "",
+      "name": "Der Gockelmann",
+      "name3": "Inh. Hakan Uyandi",
+      "street": "Plöner Str. 14",
+      "city": "Wankendorf",
+      "postal_code": "24601",
+      "country": "Deutschland",
+      "phone": "(01 71) 55 55 55 - 3",
+      "fax": "",
+      "email": "uyandihakan@icloud.com"
+    },
+    "delivery_schedule": {
+      "monday": "",
+      "tuesday": "",
+      "wednesday": "3",
+      "thursday": "",
+      "friday": "",
+      "saturday": ""
+    },
+    "settings": {
+      "webshop_enabled": false,
+      "ds_addresses": false,
+      "no_pickup_app": false,
+      "minimum_order_value": null,
+      "articles_not_in_history": "9701,1141, 2051, 9081, 1323"
+    },
+    "additional_addresses": [
+      {
+        "address_number": "0",
+        "salutation": "",
+        "name": "Der Gockelmann",
+        "name3": "Inh. Hakan Uyandi",
+        "street": "Plöner Str. 14",
+        "city": "Wankendorf",
+        "postal_code": "24601",
+        "country": "Deutschland",
+        "phone": "(01 71) 55 55 55 - 3",
+        "fax": "",
+        "email": "uyandihakan@icloud.com",
+        "is_default_billing": true,
+        "is_default_delivery": true
+      }
+    ]
+  },
+  "order_statistics": {
+    "total_orders": 0,
+    "unique_articles_ordered": 0,
+    "recent_orders_count": 0,
+    "last_order_date": null
+  },
+  "order_history": []
+}

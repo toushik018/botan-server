@@ -1,0 +1,79 @@
+{
+  "metadata": {
+    "generated_at": "2025-09-10T23:17:05.241050",
+    "client_number": "13189",
+    "data_source": "BotanBot XML Export"
+  },
+  "client_profile": {
+    "client_number": "13189",
+    "search_term": "EUROPA CARTE",
+    "status": "Kunde",
+    "tax_number": "",
+    "vat_id": "",
+    "is_blocked": false,
+    "price_group": "(Std.-Preis)",
+    "billing_address": {
+      "salutation": "",
+      "name": "EUROPA ALA CARTE UG",
+      "name3": "",
+      "street": "Kurt-Schumacher Straße 33",
+      "city": "Gelsenkirchen",
+      "postal_code": "45881",
+      "country": "Deutschland",
+      "phone": "(02 09) 17 70 92 84",
+      "fax": "(0 32 22) 3 74 02 19",
+      "email": ""
+    },
+    "delivery_address": {
+      "salutation": "",
+      "name": "EUROPA ALA CARTE UG",
+      "name3": "",
+      "street": "Kurt-Schumacher Straße 33",
+      "city": "Gelsenkirchen",
+      "postal_code": "45881",
+      "country": "Deutschland",
+      "phone": "(02 09) 17 70 92 84",
+      "fax": "(0 32 22) 3 74 02 19",
+      "email": ""
+    },
+    "delivery_schedule": {
+      "monday": "",
+      "tuesday": "",
+      "wednesday": "",
+      "thursday": "",
+      "friday": "",
+      "saturday": ""
+    },
+    "settings": {
+      "webshop_enabled": false,
+      "ds_addresses": false,
+      "no_pickup_app": false,
+      "minimum_order_value": null,
+      "articles_not_in_history": ""
+    },
+    "additional_addresses": [
+      {
+        "address_number": "0",
+        "salutation": "",
+        "name": "EUROPA ALA CARTE UG",
+        "name3": "",
+        "street": "Kurt-Schumacher Straße 33",
+        "city": "Gelsenkirchen",
+        "postal_code": "45881",
+        "country": "Deutschland",
+        "phone": "(02 09) 17 70 92 84",
+        "fax": "(0 32 22) 3 74 02 19",
+        "email": "",
+        "is_default_billing": true,
+        "is_default_delivery": true
+      }
+    ]
+  },
+  "order_statistics": {
+    "total_orders": 0,
+    "unique_articles_ordered": 0,
+    "recent_orders_count": 0,
+    "last_order_date": null
+  },
+  "order_history": []
+}

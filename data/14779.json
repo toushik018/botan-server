@@ -1,0 +1,79 @@
+{
+  "metadata": {
+    "generated_at": "2025-09-10T23:17:05.666202",
+    "client_number": "14779",
+    "data_source": "BotanBot XML Export"
+  },
+  "client_profile": {
+    "client_number": "14779",
+    "search_term": "",
+    "status": "Kunde",
+    "tax_number": "",
+    "vat_id": "",
+    "is_blocked": false,
+    "price_group": "(Std.-Preis)",
+    "billing_address": {
+      "salutation": "",
+      "name": "Harley's Pizza-Service",
+      "name3": "Inh. Agnieszka Bokuniewicz",
+      "street": "Hamburgerstraße 66",
+      "city": "Henstedt-Ulzburg",
+      "postal_code": "24558",
+      "country": "Deutschland",
+      "phone": "(0 41 93) 9 79 00",
+      "fax": "",
+      "email": "harley.pizzaservice@gmail.com"
+    },
+    "delivery_address": {
+      "salutation": "",
+      "name": "Harley's Pizza-Service",
+      "name3": "Inh. Agnieszka Bokuniewicz",
+      "street": "Hamburgerstraße 66",
+      "city": "Henstedt-Ulzburg",
+      "postal_code": "24558",
+      "country": "Deutschland",
+      "phone": "(0 41 93) 9 79 00",
+      "fax": "",
+      "email": "harley.pizzaservice@gmail.com"
+    },
+    "delivery_schedule": {
+      "monday": "",
+      "tuesday": "3",
+      "wednesday": "",
+      "thursday": "",
+      "friday": "",
+      "saturday": ""
+    },
+    "settings": {
+      "webshop_enabled": false,
+      "ds_addresses": false,
+      "no_pickup_app": false,
+      "minimum_order_value": null,
+      "articles_not_in_history": "9001"
+    },
+    "additional_addresses": [
+      {
+        "address_number": "0",
+        "salutation": "",
+        "name": "Harley's Pizza-Service",
+        "name3": "Inh. Agnieszka Bokuniewicz",
+        "street": "Hamburgerstraße 66",
+        "city": "Henstedt-Ulzburg",
+        "postal_code": "24558",
+        "country": "Deutschland",
+        "phone": "(0 41 93) 9 79 00",
+        "fax": "",
+        "email": "harley.pizzaservice@gmail.com",
+        "is_default_billing": true,
+        "is_default_delivery": true
+      }
+    ]
+  },
+  "order_statistics": {
+    "total_orders": 0,
+    "unique_articles_ordered": 0,
+    "recent_orders_count": 0,
+    "last_order_date": null
+  },
+  "order_history": []
+}

@@ -1,0 +1,79 @@
+{
+  "metadata": {
+    "generated_at": "2025-09-10T23:17:06.880418",
+    "client_number": "76881",
+    "data_source": "BotanBot XML Export"
+  },
+  "client_profile": {
+    "client_number": "76881",
+    "search_term": "IPEK YUFKA",
+    "status": "Lieferant",
+    "tax_number": "21753275587",
+    "vat_id": "DE258795353",
+    "is_blocked": false,
+    "price_group": "(Std.-Preis)",
+    "billing_address": {
+      "salutation": "",
+      "name": "iPEK Yufka e.K.",
+      "name3": "",
+      "street": "Gunther-Plüschow-Strasse 20",
+      "city": "Köln",
+      "postal_code": "50829",
+      "country": "Deutschland",
+      "phone": "(02 21) 7 20 22 36",
+      "fax": "(02 21) 7 09 07 88",
+      "email": ""
+    },
+    "delivery_address": {
+      "salutation": "",
+      "name": "iPEK Yufka e.K.",
+      "name3": "",
+      "street": "Gunther-Plüschow-Strasse 20",
+      "city": "Köln",
+      "postal_code": "50829",
+      "country": "Deutschland",
+      "phone": "(02 21) 7 20 22 36",
+      "fax": "(02 21) 7 09 07 88",
+      "email": ""
+    },
+    "delivery_schedule": {
+      "monday": "",
+      "tuesday": "",
+      "wednesday": "",
+      "thursday": "",
+      "friday": "",
+      "saturday": ""
+    },
+    "settings": {
+      "webshop_enabled": false,
+      "ds_addresses": false,
+      "no_pickup_app": false,
+      "minimum_order_value": null,
+      "articles_not_in_history": ""
+    },
+    "additional_addresses": [
+      {
+        "address_number": "0",
+        "salutation": "",
+        "name": "iPEK Yufka e.K.",
+        "name3": "",
+        "street": "Gunther-Plüschow-Strasse 20",
+        "city": "Köln",
+        "postal_code": "50829",
+        "country": "Deutschland",
+        "phone": "(02 21) 7 20 22 36",
+        "fax": "(02 21) 7 09 07 88",
+        "email": "",
+        "is_default_billing": true,
+        "is_default_delivery": true
+      }
+    ]
+  },
+  "order_statistics": {
+    "total_orders": 0,
+    "unique_articles_ordered": 0,
+    "recent_orders_count": 0,
+    "last_order_date": null
+  },
+  "order_history": []
+}

@@ -1,0 +1,79 @@
+{
+  "metadata": {
+    "generated_at": "2025-09-10T23:17:06.123048",
+    "client_number": "16294",
+    "data_source": "BotanBot XML Export"
+  },
+  "client_profile": {
+    "client_number": "16294",
+    "search_term": "FLEISCHEREI PARTYSERVICE",
+    "status": "Kunde",
+    "tax_number": "15/293/05659",
+    "vat_id": "DE341853125",
+    "is_blocked": false,
+    "price_group": "(Std.-Preis)",
+    "billing_address": {
+      "salutation": "",
+      "name": "Fleischerei & Burgerinsel Röthel",
+      "name3": "Inh.: André Röthel",
+      "street": "Dorfstrasse 12",
+      "city": "Steinfeld",
+      "postal_code": "24888",
+      "country": "Deutschland",
+      "phone": "(0 46 41) 98 79 - 7 77",
+      "fax": "",
+      "email": "buchaltung@burgerinsel.de"
+    },
+    "delivery_address": {
+      "salutation": "",
+      "name": "Fleischerei & Burgerinsel Röthel",
+      "name3": "Inh.: André Röthel",
+      "street": "Dorfstrasse 12",
+      "city": "Steinfeld",
+      "postal_code": "24888",
+      "country": "Deutschland",
+      "phone": "(0 46 41) 98 79 - 7 77",
+      "fax": "",
+      "email": "buchaltung@burgerinsel.de"
+    },
+    "delivery_schedule": {
+      "monday": "1",
+      "tuesday": "",
+      "wednesday": "",
+      "thursday": "6",
+      "friday": "",
+      "saturday": ""
+    },
+    "settings": {
+      "webshop_enabled": false,
+      "ds_addresses": false,
+      "no_pickup_app": false,
+      "minimum_order_value": null,
+      "articles_not_in_history": ""
+    },
+    "additional_addresses": [
+      {
+        "address_number": "0",
+        "salutation": "",
+        "name": "Fleischerei & Burgerinsel Röthel",
+        "name3": "Inh.: André Röthel",
+        "street": "Dorfstrasse 12",
+        "city": "Steinfeld",
+        "postal_code": "24888",
+        "country": "Deutschland",
+        "phone": "(0 46 41) 98 79 - 7 77",
+        "fax": "",
+        "email": "buchaltung@burgerinsel.de",
+        "is_default_billing": true,
+        "is_default_delivery": true
+      }
+    ]
+  },
+  "order_statistics": {
+    "total_orders": 0,
+    "unique_articles_ordered": 0,
+    "recent_orders_count": 0,
+    "last_order_date": null
+  },
+  "order_history": []
+}

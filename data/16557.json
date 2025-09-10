@@ -1,0 +1,79 @@
+{
+  "metadata": {
+    "generated_at": "2025-09-10T23:17:06.218574",
+    "client_number": "16557",
+    "data_source": "BotanBot XML Export"
+  },
+  "client_profile": {
+    "client_number": "16557",
+    "search_term": "BINGÖL KEBAP",
+    "status": "Kunde",
+    "tax_number": "",
+    "vat_id": "",
+    "is_blocked": false,
+    "price_group": "(Std.-Preis)",
+    "billing_address": {
+      "salutation": "",
+      "name": "Has Bingöl Kebap",
+      "name3": "",
+      "street": "Zur Bleiche 41",
+      "city": "Flensburg",
+      "postal_code": "24941",
+      "country": "Deutschland",
+      "phone": "(04 61) 14 68 43 44",
+      "fax": "",
+      "email": "sinen71@web.de"
+    },
+    "delivery_address": {
+      "salutation": "",
+      "name": "Has Bingöl Kebap",
+      "name3": "",
+      "street": "Zur Bleiche 41",
+      "city": "Flensburg",
+      "postal_code": "24941",
+      "country": "Deutschland",
+      "phone": "(04 61) 14 68 43 44",
+      "fax": "",
+      "email": "sinen71@web.de"
+    },
+    "delivery_schedule": {
+      "monday": "1",
+      "tuesday": "",
+      "wednesday": "",
+      "thursday": "7",
+      "friday": "",
+      "saturday": ""
+    },
+    "settings": {
+      "webshop_enabled": false,
+      "ds_addresses": false,
+      "no_pickup_app": false,
+      "minimum_order_value": null,
+      "articles_not_in_history": "1538,"
+    },
+    "additional_addresses": [
+      {
+        "address_number": "0",
+        "salutation": "",
+        "name": "Has Bingöl Kebap",
+        "name3": "",
+        "street": "Zur Bleiche 41",
+        "city": "Flensburg",
+        "postal_code": "24941",
+        "country": "Deutschland",
+        "phone": "(04 61) 14 68 43 44",
+        "fax": "",
+        "email": "sinen71@web.de",
+        "is_default_billing": true,
+        "is_default_delivery": true
+      }
+    ]
+  },
+  "order_statistics": {
+    "total_orders": 0,
+    "unique_articles_ordered": 0,
+    "recent_orders_count": 0,
+    "last_order_date": null
+  },
+  "order_history": []
+}

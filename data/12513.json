@@ -1,0 +1,79 @@
+{
+  "metadata": {
+    "generated_at": "2025-09-10T23:17:05.048389",
+    "client_number": "12513",
+    "data_source": "BotanBot XML Export"
+  },
+  "client_profile": {
+    "client_number": "12513",
+    "search_term": "OSTSEE GRILL",
+    "status": "Kunde",
+    "tax_number": "",
+    "vat_id": "",
+    "is_blocked": false,
+    "price_group": "(Std.-Preis)",
+    "billing_address": {
+      "salutation": "",
+      "name": "Ostsee Grill",
+      "name3": "Karwan Abdullah Ibrahim",
+      "street": "Nordlandstrasse 43",
+      "city": "Großenbrode",
+      "postal_code": "23775",
+      "country": "Deutschland",
+      "phone": "(0 43 67) 7 17 42 95",
+      "fax": "",
+      "email": ""
+    },
+    "delivery_address": {
+      "salutation": "",
+      "name": "Ostsee Grill",
+      "name3": "Karwan Abdullah Ibrahim",
+      "street": "Nordlandstrasse 43",
+      "city": "Großenbrode",
+      "postal_code": "23775",
+      "country": "Deutschland",
+      "phone": "(0 43 67) 7 17 42 95",
+      "fax": "",
+      "email": ""
+    },
+    "delivery_schedule": {
+      "monday": "",
+      "tuesday": "",
+      "wednesday": "",
+      "thursday": "",
+      "friday": "",
+      "saturday": ""
+    },
+    "settings": {
+      "webshop_enabled": false,
+      "ds_addresses": false,
+      "no_pickup_app": false,
+      "minimum_order_value": null,
+      "articles_not_in_history": "1377, 3003, 3009"
+    },
+    "additional_addresses": [
+      {
+        "address_number": "0",
+        "salutation": "",
+        "name": "Ostsee Grill",
+        "name3": "Karwan Abdullah Ibrahim",
+        "street": "Nordlandstrasse 43",
+        "city": "Großenbrode",
+        "postal_code": "23775",
+        "country": "Deutschland",
+        "phone": "(0 43 67) 7 17 42 95",
+        "fax": "",
+        "email": "",
+        "is_default_billing": true,
+        "is_default_delivery": true
+      }
+    ]
+  },
+  "order_statistics": {
+    "total_orders": 0,
+    "unique_articles_ordered": 0,
+    "recent_orders_count": 0,
+    "last_order_date": null
+  },
+  "order_history": []
+}

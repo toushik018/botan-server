@@ -1,0 +1,79 @@
+{
+  "metadata": {
+    "generated_at": "2025-09-10T23:17:06.315063",
+    "client_number": "16807",
+    "data_source": "BotanBot XML Export"
+  },
+  "client_profile": {
+    "client_number": "16807",
+    "search_term": "ASIA THANG",
+    "status": "Kunde",
+    "tax_number": "",
+    "vat_id": "",
+    "is_blocked": true,
+    "price_group": "(Std.-Preis)",
+    "billing_address": {
+      "salutation": "",
+      "name": "Piccolo",
+      "name3": "Inh. Khaled Hendawi",
+      "street": "Kurpromenade 54",
+      "city": "Grömitz",
+      "postal_code": "23743",
+      "country": "Deutschland",
+      "phone": "(01 57) 56 51 90 08",
+      "fax": "",
+      "email": "lordsbox@hendawi.info"
+    },
+    "delivery_address": {
+      "salutation": "",
+      "name": "Piccolo",
+      "name3": "Inh. Khaled Hendawi",
+      "street": "Kurpromenade 54",
+      "city": "Grömitz",
+      "postal_code": "23743",
+      "country": "Deutschland",
+      "phone": "(01 57) 56 51 90 08",
+      "fax": "",
+      "email": "lordsbox@hendawi.info"
+    },
+    "delivery_schedule": {
+      "monday": "",
+      "tuesday": "",
+      "wednesday": "",
+      "thursday": "",
+      "friday": "",
+      "saturday": ""
+    },
+    "settings": {
+      "webshop_enabled": false,
+      "ds_addresses": false,
+      "no_pickup_app": false,
+      "minimum_order_value": null,
+      "articles_not_in_history": ""
+    },
+    "additional_addresses": [
+      {
+        "address_number": "0",
+        "salutation": "",
+        "name": "Piccolo",
+        "name3": "Inh. Khaled Hendawi",
+        "street": "Kurpromenade 54",
+        "city": "Grömitz",
+        "postal_code": "23743",
+        "country": "Deutschland",
+        "phone": "(01 57) 56 51 90 08",
+        "fax": "",
+        "email": "lordsbox@hendawi.info",
+        "is_default_billing": true,
+        "is_default_delivery": true
+      }
+    ]
+  },
+  "order_statistics": {
+    "total_orders": 0,
+    "unique_articles_ordered": 0,
+    "recent_orders_count": 0,
+    "last_order_date": null
+  },
+  "order_history": []
+}

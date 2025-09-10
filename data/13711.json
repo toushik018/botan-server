@@ -1,0 +1,79 @@
+{
+  "metadata": {
+    "generated_at": "2025-09-10T23:17:05.388971",
+    "client_number": "13711",
+    "data_source": "BotanBot XML Export"
+  },
+  "client_profile": {
+    "client_number": "13711",
+    "search_term": "STRAND BISTRO KRAKSDORF",
+    "status": "Kunde",
+    "tax_number": "",
+    "vat_id": "",
+    "is_blocked": false,
+    "price_group": "(Std.-Preis)",
+    "billing_address": {
+      "salutation": "",
+      "name": "Strand Bistro Kraksdorf",
+      "name3": "Inh. Heiko Wagner",
+      "street": "Strandstrasse 9",
+      "city": "Kraksdorf",
+      "postal_code": "23779",
+      "country": "Deutschland",
+      "phone": "(01 76) 67 75 70 43",
+      "fax": "",
+      "email": "Shiqiri.Bra@gmail.com"
+    },
+    "delivery_address": {
+      "salutation": "",
+      "name": "Strand Bistro Kraksdorf",
+      "name3": "Inh. Heiko Wagner",
+      "street": "Strandstrasse 9",
+      "city": "Kraksdorf",
+      "postal_code": "23779",
+      "country": "Deutschland",
+      "phone": "(01 76) 67 75 70 43",
+      "fax": "",
+      "email": "Shiqiri.Bra@gmail.com"
+    },
+    "delivery_schedule": {
+      "monday": "",
+      "tuesday": "",
+      "wednesday": "",
+      "thursday": "",
+      "friday": "",
+      "saturday": ""
+    },
+    "settings": {
+      "webshop_enabled": false,
+      "ds_addresses": false,
+      "no_pickup_app": false,
+      "minimum_order_value": null,
+      "articles_not_in_history": ""
+    },
+    "additional_addresses": [
+      {
+        "address_number": "0",
+        "salutation": "",
+        "name": "Strand Bistro Kraksdorf",
+        "name3": "Inh. Heiko Wagner",
+        "street": "Strandstrasse 9",
+        "city": "Kraksdorf",
+        "postal_code": "23779",
+        "country": "Deutschland",
+        "phone": "(01 76) 67 75 70 43",
+        "fax": "",
+        "email": "Shiqiri.Bra@gmail.com",
+        "is_default_billing": true,
+        "is_default_delivery": true
+      }
+    ]
+  },
+  "order_statistics": {
+    "total_orders": 0,
+    "unique_articles_ordered": 0,
+    "recent_orders_count": 0,
+    "last_order_date": null
+  },
+  "order_history": []
+}

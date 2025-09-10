@@ -1,0 +1,79 @@
+{
+  "metadata": {
+    "generated_at": "2025-09-10T23:17:05.931374",
+    "client_number": "15667",
+    "data_source": "BotanBot XML Export"
+  },
+  "client_profile": {
+    "client_number": "15667",
+    "search_term": "EFES GRILL",
+    "status": "Kunde",
+    "tax_number": "",
+    "vat_id": "",
+    "is_blocked": false,
+    "price_group": "(Std.-Preis)",
+    "billing_address": {
+      "salutation": "",
+      "name": "Ellas Grill",
+      "name3": "Inh. Ali Hasan",
+      "street": "Europaplatz 8",
+      "city": "Trittau",
+      "postal_code": "22946",
+      "country": "Deutschland",
+      "phone": "(01 52) 54 15 18 58",
+      "fax": "",
+      "email": "ali.haji63@yahoo.com"
+    },
+    "delivery_address": {
+      "salutation": "",
+      "name": "Ellas Grill",
+      "name3": "Inh. Ali Hasan",
+      "street": "Europaplatz 8",
+      "city": "Trittau",
+      "postal_code": "22946",
+      "country": "Deutschland",
+      "phone": "(01 52) 54 15 18 58",
+      "fax": "",
+      "email": "ali.haji63@yahoo.com"
+    },
+    "delivery_schedule": {
+      "monday": "6",
+      "tuesday": "",
+      "wednesday": "",
+      "thursday": "1",
+      "friday": "",
+      "saturday": ""
+    },
+    "settings": {
+      "webshop_enabled": false,
+      "ds_addresses": false,
+      "no_pickup_app": false,
+      "minimum_order_value": null,
+      "articles_not_in_history": "1513,1401,3340"
+    },
+    "additional_addresses": [
+      {
+        "address_number": "0",
+        "salutation": "",
+        "name": "Ellas Grill",
+        "name3": "Inh. Ali Hasan",
+        "street": "Europaplatz 8",
+        "city": "Trittau",
+        "postal_code": "22946",
+        "country": "Deutschland",
+        "phone": "(01 52) 54 15 18 58",
+        "fax": "",
+        "email": "ali.haji63@yahoo.com",
+        "is_default_billing": true,
+        "is_default_delivery": true
+      }
+    ]
+  },
+  "order_statistics": {
+    "total_orders": 0,
+    "unique_articles_ordered": 0,
+    "recent_orders_count": 0,
+    "last_order_date": null
+  },
+  "order_history": []
+}

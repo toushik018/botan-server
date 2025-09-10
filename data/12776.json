@@ -1,0 +1,79 @@
+{
+  "metadata": {
+    "generated_at": "2025-09-10T23:17:05.121458",
+    "client_number": "12776",
+    "data_source": "BotanBot XML Export"
+  },
+  "client_profile": {
+    "client_number": "12776",
+    "search_term": "BURGER",
+    "status": "Kunde",
+    "tax_number": "",
+    "vat_id": "",
+    "is_blocked": true,
+    "price_group": "(Std.-Preis)",
+    "billing_address": {
+      "salutation": "",
+      "name": "BL-Hamburg GmbH",
+      "name3": "",
+      "street": "Kielerstr. 566",
+      "city": "Hamburg",
+      "postal_code": "22525",
+      "country": "Deutschland",
+      "phone": "(0 40) 8 51 55 54",
+      "fax": "",
+      "email": "c.camci2015@gmail.com"
+    },
+    "delivery_address": {
+      "salutation": "",
+      "name": "BL-Hamburg GmbH",
+      "name3": "",
+      "street": "Kielerstr. 566",
+      "city": "Hamburg",
+      "postal_code": "22525",
+      "country": "Deutschland",
+      "phone": "(0 40) 8 51 55 54",
+      "fax": "",
+      "email": "c.camci2015@gmail.com"
+    },
+    "delivery_schedule": {
+      "monday": "",
+      "tuesday": "",
+      "wednesday": "",
+      "thursday": "",
+      "friday": "",
+      "saturday": ""
+    },
+    "settings": {
+      "webshop_enabled": false,
+      "ds_addresses": false,
+      "no_pickup_app": false,
+      "minimum_order_value": null,
+      "articles_not_in_history": "2120;"
+    },
+    "additional_addresses": [
+      {
+        "address_number": "0",
+        "salutation": "",
+        "name": "BL-Hamburg GmbH",
+        "name3": "",
+        "street": "Kielerstr. 566",
+        "city": "Hamburg",
+        "postal_code": "22525",
+        "country": "Deutschland",
+        "phone": "(0 40) 8 51 55 54",
+        "fax": "",
+        "email": "c.camci2015@gmail.com",
+        "is_default_billing": true,
+        "is_default_delivery": true
+      }
+    ]
+  },
+  "order_statistics": {
+    "total_orders": 0,
+    "unique_articles_ordered": 0,
+    "recent_orders_count": 0,
+    "last_order_date": null
+  },
+  "order_history": []
+}

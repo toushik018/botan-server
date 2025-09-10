@@ -1,0 +1,79 @@
+{
+  "metadata": {
+    "generated_at": "2025-09-10T23:17:06.073185",
+    "client_number": "16131",
+    "data_source": "BotanBot XML Export"
+  },
+  "client_profile": {
+    "client_number": "16131",
+    "search_term": "VINA DÖNER PIZZARIA",
+    "status": "Kunde",
+    "tax_number": "",
+    "vat_id": "",
+    "is_blocked": false,
+    "price_group": "(Std.-Preis)",
+    "billing_address": {
+      "salutation": "",
+      "name": "Castello Restaurant und Pizzeria",
+      "name3": "Inh.  Bakr Kareem",
+      "street": "Wulfshagen 2a",
+      "city": "Tüttendorf",
+      "postal_code": "24214",
+      "country": "Deutschland",
+      "phone": "(04 34) 69 29 35 74",
+      "fax": "",
+      "email": "bakr-karim@hotmail.de"
+    },
+    "delivery_address": {
+      "salutation": "",
+      "name": "Castello Restaurant und Pizzeria",
+      "name3": "Inh.  Bakr Kareem",
+      "street": "Wulfshagen 2a",
+      "city": "Tüttendorf",
+      "postal_code": "24214",
+      "country": "Deutschland",
+      "phone": "(04 34) 69 29 35 74",
+      "fax": "",
+      "email": "bakr-karim@hotmail.de"
+    },
+    "delivery_schedule": {
+      "monday": "",
+      "tuesday": "2",
+      "wednesday": "",
+      "thursday": "",
+      "friday": "",
+      "saturday": ""
+    },
+    "settings": {
+      "webshop_enabled": false,
+      "ds_addresses": false,
+      "no_pickup_app": false,
+      "minimum_order_value": null,
+      "articles_not_in_history": "2472"
+    },
+    "additional_addresses": [
+      {
+        "address_number": "0",
+        "salutation": "",
+        "name": "Castello Restaurant und Pizzeria",
+        "name3": "Inh.  Bakr Kareem",
+        "street": "Wulfshagen 2a",
+        "city": "Tüttendorf",
+        "postal_code": "24214",
+        "country": "Deutschland",
+        "phone": "(04 34) 69 29 35 74",
+        "fax": "",
+        "email": "bakr-karim@hotmail.de",
+        "is_default_billing": true,
+        "is_default_delivery": true
+      }
+    ]
+  },
+  "order_statistics": {
+    "total_orders": 0,
+    "unique_articles_ordered": 0,
+    "recent_orders_count": 0,
+    "last_order_date": null
+  },
+  "order_history": []
+}

@@ -1,0 +1,79 @@
+{
+  "metadata": {
+    "generated_at": "2025-09-10T23:17:04.620643",
+    "client_number": "10930",
+    "data_source": "BotanBot XML Export"
+  },
+  "client_profile": {
+    "client_number": "10930",
+    "search_term": "",
+    "status": "Kunde",
+    "tax_number": "",
+    "vat_id": "",
+    "is_blocked": false,
+    "price_group": "(Std.-Preis)",
+    "billing_address": {
+      "salutation": "",
+      "name": "Dilava Pizza Service",
+      "name3": "Inh. Hasan Ersoy",
+      "street": "Bahnhofstr. 63",
+      "city": "Bordesholm",
+      "postal_code": "24582",
+      "country": "Deutschland",
+      "phone": "(0 43 22) 75 14 09",
+      "fax": "",
+      "email": "info@dilava.de"
+    },
+    "delivery_address": {
+      "salutation": "",
+      "name": "Dilava Pizza Service",
+      "name3": "Inh. Hasan Ersoy",
+      "street": "Bahnhofstr. 63",
+      "city": "Bordesholm",
+      "postal_code": "24582",
+      "country": "Deutschland",
+      "phone": "(0 43 22) 75 14 09",
+      "fax": "",
+      "email": "info@dilava.de"
+    },
+    "delivery_schedule": {
+      "monday": "",
+      "tuesday": "",
+      "wednesday": "",
+      "thursday": "",
+      "friday": "",
+      "saturday": ""
+    },
+    "settings": {
+      "webshop_enabled": true,
+      "ds_addresses": false,
+      "no_pickup_app": false,
+      "minimum_order_value": null,
+      "articles_not_in_history": "1506, 1352,1640"
+    },
+    "additional_addresses": [
+      {
+        "address_number": "0",
+        "salutation": "",
+        "name": "Dilava Pizza Service",
+        "name3": "Inh. Hasan Ersoy",
+        "street": "Bahnhofstr. 63",
+        "city": "Bordesholm",
+        "postal_code": "24582",
+        "country": "Deutschland",
+        "phone": "(0 43 22) 75 14 09",
+        "fax": "",
+        "email": "info@dilava.de",
+        "is_default_billing": true,
+        "is_default_delivery": true
+      }
+    ]
+  },
+  "order_statistics": {
+    "total_orders": 0,
+    "unique_articles_ordered": 0,
+    "recent_orders_count": 0,
+    "last_order_date": null
+  },
+  "order_history": []
+}

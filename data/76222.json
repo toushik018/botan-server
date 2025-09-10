@@ -1,0 +1,79 @@
+{
+  "metadata": {
+    "generated_at": "2025-09-10T23:17:06.864344",
+    "client_number": "76222",
+    "data_source": "BotanBot XML Export"
+  },
+  "client_profile": {
+    "client_number": "76222",
+    "search_term": "TÖNNIES LEBENSMITTEL",
+    "status": "Lieferant",
+    "tax_number": "34758960463",
+    "vat_id": "DE216509773",
+    "is_blocked": false,
+    "price_group": "(Std.-Preis)",
+    "billing_address": {
+      "salutation": "",
+      "name": "Artland Foodservice GmbH",
+      "name3": "",
+      "street": "In der Mark 2",
+      "city": "Rheda-Wiedenbrück",
+      "postal_code": "33378",
+      "country": "Deutschland",
+      "phone": "(0 52 42) 9 61 43 72",
+      "fax": "(0 52 42) 96 12 52",
+      "email": ""
+    },
+    "delivery_address": {
+      "salutation": "",
+      "name": "Artland Foodservice GmbH",
+      "name3": "",
+      "street": "In der Mark 2",
+      "city": "Rheda-Wiedenbrück",
+      "postal_code": "33378",
+      "country": "Deutschland",
+      "phone": "(0 52 42) 9 61 43 72",
+      "fax": "(0 52 42) 96 12 52",
+      "email": ""
+    },
+    "delivery_schedule": {
+      "monday": "",
+      "tuesday": "",
+      "wednesday": "",
+      "thursday": "",
+      "friday": "",
+      "saturday": ""
+    },
+    "settings": {
+      "webshop_enabled": false,
+      "ds_addresses": false,
+      "no_pickup_app": false,
+      "minimum_order_value": null,
+      "articles_not_in_history": ""
+    },
+    "additional_addresses": [
+      {
+        "address_number": "0",
+        "salutation": "",
+        "name": "Artland Foodservice GmbH",
+        "name3": "",
+        "street": "In der Mark 2",
+        "city": "Rheda-Wiedenbrück",
+        "postal_code": "33378",
+        "country": "Deutschland",
+        "phone": "(0 52 42) 9 61 43 72",
+        "fax": "(0 52 42) 96 12 52",
+        "email": "",
+        "is_default_billing": true,
+        "is_default_delivery": true
+      }
+    ]
+  },
+  "order_statistics": {
+    "total_orders": 0,
+    "unique_articles_ordered": 0,
+    "recent_orders_count": 0,
+    "last_order_date": null
+  },
+  "order_history": []
+}

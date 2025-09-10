@@ -1,0 +1,693 @@
+{
+  "metadata": {
+    "generated_at": "2025-09-10T23:17:06.498288",
+    "client_number": "17297",
+    "data_source": "BotanBot XML Export"
+  },
+  "client_profile": {
+    "client_number": "17297",
+    "search_term": "EPPENDORF",
+    "status": "Kunde",
+    "tax_number": "",
+    "vat_id": "",
+    "is_blocked": false,
+    "price_group": "(Std.-Preis)",
+    "billing_address": {
+      "salutation": "",
+      "name": "KM Eppendorf GmbH",
+      "name3": "Inh. Samir Omid",
+      "street": "Eppendorferlandstraße 95",
+      "city": "Hamburg",
+      "postal_code": "20249",
+      "country": "Deutschland",
+      "phone": "(0 40) 42 10 26 75",
+      "fax": "",
+      "email": "service@kmeppendorf.de"
+    },
+    "delivery_address": {
+      "salutation": "",
+      "name": "KM Eppendorf GmbH",
+      "name3": "Inh. Samir Omid",
+      "street": "Eppendorferlandstraße 95",
+      "city": "Hamburg",
+      "postal_code": "20249",
+      "country": "Deutschland",
+      "phone": "(0 40) 42 10 26 75",
+      "fax": "",
+      "email": "service@kmeppendorf.de"
+    },
+    "delivery_schedule": {
+      "monday": "2",
+      "tuesday": "",
+      "wednesday": "",
+      "thursday": "3",
+      "friday": "",
+      "saturday": ""
+    },
+    "settings": {
+      "webshop_enabled": true,
+      "ds_addresses": true,
+      "no_pickup_app": false,
+      "minimum_order_value": null,
+      "articles_not_in_history": ""
+    },
+    "additional_addresses": [
+      {
+        "address_number": "0",
+        "salutation": "",
+        "name": "KM Eppendorf GmbH",
+        "name3": "Inh. Samir Omid",
+        "street": "Eppendorferlandstraße 95",
+        "city": "Hamburg",
+        "postal_code": "20249",
+        "country": "Deutschland",
+        "phone": "(0 40) 42 10 26 75",
+        "fax": "",
+        "email": "service@kmeppendorf.de",
+        "is_default_billing": true,
+        "is_default_delivery": true
+      },
+      {
+        "address_number": "1",
+        "salutation": "",
+        "name": "KM Eppendorf GmbH",
+        "name3": "Farina Di Nonna Altona",
+        "street": "Ottenser Hauptstraße 9",
+        "city": "Hamburg",
+        "postal_code": "22765",
+        "country": "Deutschland",
+        "phone": "",
+        "fax": "",
+        "email": "",
+        "is_default_billing": false,
+        "is_default_delivery": false
+      }
+    ]
+  },
+  "order_statistics": {
+    "total_orders": 46,
+    "unique_articles_ordered": 46,
+    "recent_orders_count": 46,
+    "last_order_date": "2025-08-18"
+  },
+  "order_history": [
+    {
+      "article_number": "9181",
+      "date": "2025-08-18",
+      "booking_quantity": 59.0,
+      "quantity": 118.0,
+      "unit": "Pack 0,5 kg",
+      "article_info": {
+        "short_description": "Hinterkochschinken geschn. 500 g  Kal.130",
+        "long_description": "Hinterkochschinken geschnitten 500 g Kaliber 130",
+        "product_group": "05.05.10.10 Frisch",
+        "unit": "KG"
+      }
+    },
+    {
+      "article_number": "1525",
+      "date": "2025-08-18",
+      "booking_quantity": 145.0,
+      "quantity": 29.0,
+      "unit": "Beutel 5",
+      "article_info": {
+        "short_description": "Barilla PENNE RIGATE 5 kg",
+        "long_description": "Barilla Penne Rigate 5 kg",
+        "product_group": "05.25.10 Nudelwaren",
+        "unit": "KG"
+      }
+    },
+    {
+      "article_number": "3044",
+      "date": "2025-08-18",
+      "booking_quantity": 120.0,
+      "quantity": 120.0,
+      "unit": "Dose 1 Stk.",
+      "article_info": {
+        "short_description": "Uniferm Trennex Dose 600 ml",
+        "long_description": "Uniferm Trennex Dose 600 ml",
+        "product_group": "05.25.15.10 Backzutaten",
+        "unit": "DS"
+      }
+    },
+    {
+      "article_number": "1857",
+      "date": "2025-08-18",
+      "booking_quantity": 67.0,
+      "quantity": 67.0,
+      "unit": "Pack 1",
+      "article_info": {
+        "short_description": "Putenschinken geschn. 1kg (Halal)",
+        "long_description": "Putenschinken geschn. 1kg (Halal)",
+        "product_group": "05.05.20.10 Frisch",
+        "unit": "KG"
+      }
+    },
+    {
+      "article_number": "1466",
+      "date": "2025-08-18",
+      "booking_quantity": 79.0,
+      "quantity": 79.0,
+      "unit": "Pack 1",
+      "article_info": {
+        "short_description": "Rindersalami  geschn.1kg (Halal) m. Pt.Fleisch",
+        "long_description": "Rindersalami  geschn.1 kg (Halal) m. Pt.Fleisch",
+        "product_group": "05.05.05.10 Frisch",
+        "unit": "KG"
+      }
+    },
+    {
+      "article_number": "1043",
+      "date": "2025-08-18",
+      "booking_quantity": 3.0,
+      "quantity": 1.0,
+      "unit": "Karton 3 kg",
+      "article_info": {
+        "short_description": "Sprehe Hähnchenbrustfilet natur 120 g/Stück 3 kg",
+        "long_description": "Sprehe Hähnchenbrustfilet natur 120 g/Stück 3 kg",
+        "product_group": "05.05.20.05 TK",
+        "unit": "KG"
+      }
+    },
+    {
+      "article_number": "9183",
+      "date": "2025-08-14",
+      "booking_quantity": 52.0,
+      "quantity": 52.0,
+      "unit": "Pack 1",
+      "article_info": {
+        "short_description": "Kal. 55 BEST Salami geschnitten 1 KG   PK",
+        "long_description": "Kal. 55 BEST Salami geschnitten 1 KG   PK",
+        "product_group": "05.05.10.10 Frisch",
+        "unit": "KG"
+      }
+    },
+    {
+      "article_number": "1404",
+      "date": "2025-08-14",
+      "booking_quantity": 9.0,
+      "quantity": 9.0,
+      "unit": "Pack 1",
+      "article_info": {
+        "short_description": "Sesam Saat 1 Kg",
+        "long_description": "Sesamsaat 1 kg",
+        "product_group": "05.25.15.10 Backzutaten",
+        "unit": "KG"
+      }
+    },
+    {
+      "article_number": "3080",
+      "date": "2025-08-14",
+      "booking_quantity": 60.0,
+      "quantity": 60.0,
+      "unit": "Flasche 1",
+      "article_info": {
+        "short_description": "Reines Oliven Öl 1 L",
+        "long_description": "Reines Olivenöl 1 l",
+        "product_group": "05.25.20.05 Öle",
+        "unit": "FL"
+      }
+    },
+    {
+      "article_number": "9306",
+      "date": "2025-08-14",
+      "booking_quantity": 6.0,
+      "quantity": 6.0,
+      "unit": "Pack 1",
+      "article_info": {
+        "short_description": "Kraftbouillon Gemüse 1 KG",
+        "long_description": "Gemüsekraftbouillon 1 kg",
+        "product_group": "05.25.55 Brühen und Bouillons",
+        "unit": "KG"
+      }
+    },
+    {
+      "article_number": "9164",
+      "date": "2025-08-14",
+      "booking_quantity": 9.0,
+      "quantity": 3.0,
+      "unit": "Karton 3 kg",
+      "article_info": {
+        "short_description": "Hähnchenbrustfilet  160g   3KG/KT NATUR",
+        "long_description": "Hähnchenbrustfilet natur 160 g 3 kg Karton",
+        "product_group": "05.05.20.05 TK",
+        "unit": "KG"
+      }
+    },
+    {
+      "article_number": "2159",
+      "date": "2025-08-14",
+      "booking_quantity": 4.0,
+      "quantity": 4.0,
+      "unit": "FL",
+      "article_info": {
+        "short_description": "Aceto Balsamico  2 l Flasche",
+        "long_description": "Aceto Balsamico 2 l Flasche",
+        "product_group": "05.25.20.15 Essige",
+        "unit": "FL"
+      }
+    },
+    {
+      "article_number": "2103",
+      "date": "2025-08-14",
+      "booking_quantity": 2.0,
+      "quantity": 2.0,
+      "unit": "Kanister 1 Stk.",
+      "article_info": {
+        "short_description": "Flüssigseife 10 Liter Kanister",
+        "long_description": "Flüssigseife 10 l Kanister",
+        "product_group": "10.15.15 Hygiene-Zubehör",
+        "unit": "KN"
+      }
+    },
+    {
+      "article_number": "2220",
+      "date": "2025-08-14",
+      "booking_quantity": 10.0,
+      "quantity": 10.0,
+      "unit": "Flasche 1",
+      "article_info": {
+        "short_description": "Glasreiniger 1 Lit.",
+        "long_description": "Glasreiniger 1 Lit.",
+        "product_group": "10.10.05 Reiniger",
+        "unit": "ST"
+      }
+    },
+    {
+      "article_number": "1457",
+      "date": "2025-08-14",
+      "booking_quantity": 3.0,
+      "quantity": 3.0,
+      "unit": "Sack",
+      "article_info": {
+        "short_description": "Speisesalz  25 Kg Sack",
+        "long_description": "Speisesalz 25 kg Sack",
+        "product_group": "05.25.15.10 Backzutaten",
+        "unit": "SK"
+      }
+    },
+    {
+      "article_number": "1426",
+      "date": "2025-07-28",
+      "booking_quantity": 6.0,
+      "quantity": 6.0,
+      "unit": "Pack 1",
+      "article_info": {
+        "short_description": "Pinoli (Pinienkerne) 1 kg Pack.",
+        "long_description": "Pinoli (Pinienkerne) 1 kg Packung",
+        "product_group": "05.25.25 Feinkost",
+        "unit": "KG"
+      }
+    },
+    {
+      "article_number": "9924",
+      "date": "2025-07-28",
+      "booking_quantity": 18.0,
+      "quantity": 18.0,
+      "unit": "KG",
+      "article_info": {
+        "short_description": "Knoblauch frisch geschält 1 kg Pack",
+        "long_description": "Knoblauch frisch geschält 1 kg Pack",
+        "product_group": "05.35.05 Frischgemüse",
+        "unit": "KG"
+      }
+    },
+    {
+      "article_number": "1598",
+      "date": "2025-07-28",
+      "booking_quantity": 34.0,
+      "quantity": 34.0,
+      "unit": "Glas",
+      "article_info": {
+        "short_description": "Capperi (Kapern) 720 ml. Glas",
+        "long_description": "Capperi (Kapern) 720 ml Glas",
+        "product_group": "05.25.25 Feinkost",
+        "unit": "GL"
+      }
+    },
+    {
+      "article_number": "3181",
+      "date": "2025-07-28",
+      "booking_quantity": 61.0,
+      "quantity": 61.0,
+      "unit": "Pack 1",
+      "article_info": {
+        "short_description": "Sucuk parmak (Knoblauchwurst) 1kg",
+        "long_description": "Sucuk parmak (Knoblauchwurst) 1 kg",
+        "product_group": "05.05.05.10 Frisch",
+        "unit": "KG"
+      }
+    },
+    {
+      "article_number": "9287",
+      "date": "2025-07-28",
+      "booking_quantity": 61.0,
+      "quantity": 61.0,
+      "unit": "Pack 1",
+      "article_info": {
+        "short_description": "Schwarze Handschuhe Nitrile ungep. \"L\" 100 Stk",
+        "long_description": "Schwarze Handschuhe Nitrile ungep. \"L\" 100 Stk",
+        "product_group": "10.10.10 Handschuhe",
+        "unit": "PK"
+      }
+    },
+    {
+      "article_number": "1329",
+      "date": "2025-07-28",
+      "booking_quantity": 170.0,
+      "quantity": 17.0,
+      "unit": "Kanister 10 l",
+      "article_info": {
+        "short_description": "Rapsöl 10 Liter",
+        "long_description": "Rapsöl 10 l",
+        "product_group": "05.25.20.05 Öle",
+        "unit": "LI"
+      }
+    },
+    {
+      "article_number": "1334",
+      "date": "2025-07-28",
+      "booking_quantity": 80.0,
+      "quantity": 8.0,
+      "unit": "Eimer 10 kg",
+      "article_info": {
+        "short_description": "Salatmayonnaise \"GOLD\"   10 Kg",
+        "long_description": "Gold Salatmayonnaise 10 kg",
+        "product_group": "05.45.05 Mayonnaise",
+        "unit": "KG"
+      }
+    },
+    {
+      "article_number": "1527",
+      "date": "2025-07-28",
+      "booking_quantity": 105.0,
+      "quantity": 21.0,
+      "unit": "Beutel 5",
+      "article_info": {
+        "short_description": "Barilla Spaghetti No. 5 5 kg",
+        "long_description": "Barilla Spaghetti No. 5 5 kg",
+        "product_group": "05.25.10 Nudelwaren",
+        "unit": "KG"
+      }
+    },
+    {
+      "article_number": "2637",
+      "date": "2025-07-28",
+      "booking_quantity": 8.0,
+      "quantity": 8.0,
+      "unit": "Flasche 1",
+      "article_info": {
+        "short_description": "Spülmittel 1 Lit.",
+        "long_description": "Spülmittel 1 Lit.",
+        "product_group": "10.10.05 Reiniger",
+        "unit": "ST"
+      }
+    },
+    {
+      "article_number": "1603",
+      "date": "2025-07-28",
+      "booking_quantity": 5.0,
+      "quantity": 1.0,
+      "unit": "Eimer 5 kg",
+      "article_info": {
+        "short_description": "Senf mittelscharf 5 kg Eimer",
+        "long_description": "Senf mittelscharf 5 kg Eimer",
+        "product_group": "05.45.13 Senf",
+        "unit": "KG"
+      }
+    },
+    {
+      "article_number": "1325",
+      "date": "2025-07-28",
+      "booking_quantity": 1.0,
+      "quantity": 1.0,
+      "unit": "Kanister 1 Stk.",
+      "article_info": {
+        "short_description": "10 %  Essig 10 Kg Kanister",
+        "long_description": "Essig 10 % 10 kg Kanister",
+        "product_group": "05.25.20.15 Essige",
+        "unit": "KN"
+      }
+    },
+    {
+      "article_number": "2292",
+      "date": "2025-07-28",
+      "booking_quantity": 10.0,
+      "quantity": 2.0,
+      "unit": "Box 5 LI",
+      "article_info": {
+        "short_description": "Olivenöl extra Virgin 5 L",
+        "long_description": "Olivenöl extra Virgine 5 l",
+        "product_group": "05.25.20.05 Öle",
+        "unit": "LI"
+      }
+    },
+    {
+      "article_number": "1987",
+      "date": "2025-07-21",
+      "booking_quantity": 5.535,
+      "quantity": 5.535,
+      "unit": "ST",
+      "article_info": {
+        "short_description": "ISOLA FRESCA Gorgonzolakäse  48% F.i.Tr. ca. 1,5kg",
+        "long_description": "ISOLA FRESCA Gorgonzolakäse 48 % F.i.Tr. ca. 1,5kg",
+        "product_group": "05.15.05.10.25 Spezialitäten",
+        "unit": "KG"
+      }
+    },
+    {
+      "article_number": "1576",
+      "date": "2025-07-21",
+      "booking_quantity": 84.0,
+      "quantity": 84.0,
+      "unit": "Dose 1 Stk.",
+      "article_info": {
+        "short_description": "Thunfisch in Öl in Dose 1,705 kg",
+        "long_description": "Thunfisch in Öl in Dose  1,705 kg",
+        "product_group": "05.25.30 Konserven",
+        "unit": "DS"
+      }
+    },
+    {
+      "article_number": "1432",
+      "date": "2025-07-21",
+      "booking_quantity": 12.0,
+      "quantity": 6.0,
+      "unit": "Pack 2 kg",
+      "article_info": {
+        "short_description": "Hähnchen Grill Gewürz  2 Kg",
+        "long_description": "Hähnchen Grill Gewürz  2 Kg Beutel",
+        "product_group": "05.25.35 Gewürze",
+        "unit": "KG"
+      }
+    },
+    {
+      "article_number": "9063",
+      "date": "2025-07-21",
+      "booking_quantity": 25.0,
+      "quantity": 5.0,
+      "unit": "Eimer 5 kg",
+      "article_info": {
+        "short_description": "Creme Fraiche 30% 5 KG Eimer Milram",
+        "long_description": "Creme Fraiche 30 % 5 kg Eimer",
+        "product_group": "05.45.15 Dips und Saucen",
+        "unit": "KG"
+      }
+    },
+    {
+      "article_number": "1362",
+      "date": "2025-07-21",
+      "booking_quantity": 10.0,
+      "quantity": 4.0,
+      "unit": "Beutel 2,5 kg",
+      "article_info": {
+        "short_description": "Broccoli Röschen  20 / 40    2,5 Kg BT TK",
+        "long_description": "Broccoliröschen 20/40 2,5 kg Beutel TK",
+        "product_group": "05.40.05 Gemüse",
+        "unit": "KG"
+      }
+    },
+    {
+      "article_number": "1441",
+      "date": "2025-07-14",
+      "booking_quantity": 2.0,
+      "quantity": 2.0,
+      "unit": "Pack 1",
+      "article_info": {
+        "short_description": "Oregano  ( Kekik )   1 Kg",
+        "long_description": "Oregano (Kekik) 1 kg",
+        "product_group": "05.25.35 Gewürze",
+        "unit": "KG"
+      }
+    },
+    {
+      "article_number": "1842",
+      "date": "2025-07-10",
+      "booking_quantity": 5.0,
+      "quantity": 5.0,
+      "unit": "Karton",
+      "article_info": {
+        "short_description": "Strauchtomaten  5 kg Kiste",
+        "long_description": "Strauchtomaten  5 kg Kiste",
+        "product_group": "05.35.05 Frischgemüse",
+        "unit": "KT"
+      }
+    },
+    {
+      "article_number": "1535",
+      "date": "2025-07-10",
+      "booking_quantity": 55.0,
+      "quantity": 55.0,
+      "unit": "Pack 1",
+      "article_info": {
+        "short_description": "MILRAM H-Schlagsahne 30 %  1 Liter",
+        "long_description": "Milram H-Schlagsahne 30 % 1 l",
+        "product_group": "05.15.20 Sahne",
+        "unit": "PK"
+      }
+    },
+    {
+      "article_number": "9058",
+      "date": "2025-07-10",
+      "booking_quantity": 8.0,
+      "quantity": 8.0,
+      "unit": "Tube 1",
+      "article_info": {
+        "short_description": "Barbecuesauce  875ml Tube",
+        "long_description": "Barbecue Sauce 875 ml Tube",
+        "product_group": "05.45.15 Dips und Saucen",
+        "unit": "TB"
+      }
+    },
+    {
+      "article_number": "1565",
+      "date": "2025-07-07",
+      "booking_quantity": 18.0,
+      "quantity": 18.0,
+      "unit": "Dose 1 Stk.",
+      "article_info": {
+        "short_description": "Artischockenherzen 30/40 ,  2,65 l Dosen",
+        "long_description": "Artischockenherzen 30/40 2,65 l Dosen",
+        "product_group": "05.25.30 Konserven",
+        "unit": "DS"
+      }
+    },
+    {
+      "article_number": "1547",
+      "date": "2025-06-26",
+      "booking_quantity": 160.0,
+      "quantity": 16.0,
+      "unit": "Pack 10 Stk.",
+      "article_info": {
+        "short_description": "10 x 1 Kg Mehl Typ 405",
+        "long_description": "Weizenmehl Typ 405 10 x 1 Kg",
+        "product_group": "05.25.15.05 Mehl",
+        "unit": "KG"
+      }
+    },
+    {
+      "article_number": "2435",
+      "date": "2025-06-26",
+      "booking_quantity": 7.5,
+      "quantity": 3.0,
+      "unit": "Beutel 2,5 kg",
+      "article_info": {
+        "short_description": "TK Himbeeren 2,5 kg",
+        "long_description": "TK Himbeeren 2,5 kg",
+        "product_group": "05.40.06 Obst",
+        "unit": "KG"
+      }
+    },
+    {
+      "article_number": "1564",
+      "date": "2025-06-26",
+      "booking_quantity": 36.0,
+      "quantity": 3.0,
+      "unit": "Karton 12 Stk.",
+      "article_info": {
+        "short_description": "Ananas in Stücken  12 x 850 ml Dosen",
+        "long_description": "Ananas in Stücken 12 x 850 ml Dosen",
+        "product_group": "05.25.30 Konserven",
+        "unit": "DS"
+      }
+    },
+    {
+      "article_number": "9179",
+      "date": "2025-06-19",
+      "booking_quantity": 60.0,
+      "quantity": 5.0,
+      "unit": "Karton 12 KG",
+      "article_info": {
+        "short_description": "Thai. Hähnchenbrustfilet unkalibriert 12 KG / KT",
+        "long_description": "Thai. Hähnchenbrustfilet unkalibriert 12 kg/KT",
+        "product_group": "05.05.20.05 TK",
+        "unit": "KG"
+      }
+    },
+    {
+      "article_number": "1109",
+      "date": "2025-06-12",
+      "booking_quantity": 6.0,
+      "quantity": 6.0,
+      "unit": "Rolle 1",
+      "article_info": {
+        "short_description": "Frischhaltefolie 45cm x 300m",
+        "long_description": "Frischhaltefolie 45 cm x 300 m",
+        "product_group": "10.05.30 Folien",
+        "unit": "RL"
+      }
+    },
+    {
+      "article_number": "2607",
+      "date": "2025-06-05",
+      "booking_quantity": 12.5,
+      "quantity": 12.5,
+      "unit": "Beutel",
+      "article_info": {
+        "short_description": "TK  Hähnchenbrust o. Haut o. Knochen ca. 2,5 kg",
+        "long_description": "TK  Hähnchenbrust o. Haut o. Knochen ca. 2,5 kg",
+        "product_group": "05.05.20.05 TK",
+        "unit": "KG"
+      }
+    },
+    {
+      "article_number": "3088",
+      "date": "2025-06-05",
+      "booking_quantity": 10.0,
+      "quantity": 4.0,
+      "unit": "Beutel 2,5 kg",
+      "article_info": {
+        "short_description": "ECU Broccoli Röschen  20 / 40 2,5 Kg BT TK",
+        "long_description": "ECU Broccoli Röschen  20 / 40 2,5 Kg BT TK",
+        "product_group": "05.40.05 Gemüse",
+        "unit": "KG"
+      }
+    },
+    {
+      "article_number": "2647",
+      "date": "2025-06-05",
+      "booking_quantity": 1.0,
+      "quantity": 1.0,
+      "unit": "Pack 1",
+      "article_info": {
+        "short_description": "Bio Barista Hafer Drink 1L",
+        "long_description": "Bio Barista Hafer Drink 1L",
+        "product_group": "05.07 Vegan",
+        "unit": "PK"
+      }
+    },
+    {
+      "article_number": "1390",
+      "date": "2025-05-26",
+      "booking_quantity": 10.0,
+      "quantity": 1.0,
+      "unit": "Sack 10 kg",
+      "article_info": {
+        "short_description": "Rote Zwiebeln 10 kg Sack",
+        "long_description": "Rote Zwiebeln 10 kg Sack",
+        "product_group": "05.35.05 Frischgemüse",
+        "unit": "KG"
+      }
+    }
+  ]
+}

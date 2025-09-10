@@ -1,0 +1,94 @@
+{
+  "metadata": {
+    "generated_at": "2025-09-10T23:17:06.347569",
+    "client_number": "16892",
+    "data_source": "BotanBot XML Export"
+  },
+  "client_profile": {
+    "client_number": "16892",
+    "search_term": "DPSG HAMBURG",
+    "status": "Kunde",
+    "tax_number": "",
+    "vat_id": "",
+    "is_blocked": false,
+    "price_group": "(Std.-Preis)",
+    "billing_address": {
+      "salutation": "Firma",
+      "name": "DPSG Hamburg",
+      "name3": "",
+      "street": "Lange Reihe 2",
+      "city": "Hamburg",
+      "postal_code": "20099",
+      "country": "Deutschland",
+      "phone": "(0 40) 22 72 16 11",
+      "fax": "",
+      "email": "matthias.slabon@googlemail.com"
+    },
+    "delivery_address": {
+      "salutation": "Firma",
+      "name": "DPSG Hamburg",
+      "name3": "",
+      "street": "Lange Reihe 2",
+      "city": "Hamburg",
+      "postal_code": "20099",
+      "country": "Deutschland",
+      "phone": "(0 40) 22 72 16 11",
+      "fax": "",
+      "email": "matthias.slabon@googlemail.com"
+    },
+    "delivery_schedule": {
+      "monday": "",
+      "tuesday": "",
+      "wednesday": "",
+      "thursday": "",
+      "friday": "",
+      "saturday": ""
+    },
+    "settings": {
+      "webshop_enabled": false,
+      "ds_addresses": false,
+      "no_pickup_app": false,
+      "minimum_order_value": null,
+      "articles_not_in_history": ""
+    },
+    "additional_addresses": [
+      {
+        "address_number": "0",
+        "salutation": "Firma",
+        "name": "DPSG Hamburg",
+        "name3": "",
+        "street": "Lange Reihe 2",
+        "city": "Hamburg",
+        "postal_code": "20099",
+        "country": "Deutschland",
+        "phone": "(0 40) 22 72 16 11",
+        "fax": "",
+        "email": "matthias.slabon@googlemail.com",
+        "is_default_billing": true,
+        "is_default_delivery": true
+      },
+      {
+        "address_number": "1",
+        "salutation": "Firma",
+        "name": "DPSG Sommerlager Tydal",
+        "name3": "",
+        "street": "Spejderdergarden, Tüdal 1",
+        "city": "Eggebek",
+        "postal_code": "24852",
+        "country": "Deutschland",
+        "phone": "",
+        "fax": "",
+        "email": "",
+        "is_default_billing": false,
+        "is_default_delivery": false
+      }
+    ]
+  },
+  "order_statistics": {
+    "total_orders": 0,
+    "unique_articles_ordered": 0,
+    "recent_orders_count": 0,
+    "last_order_date": null
+  },
+  "order_history": []
+}

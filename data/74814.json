@@ -1,0 +1,79 @@
+{
+  "metadata": {
+    "generated_at": "2025-09-10T23:17:06.796679",
+    "client_number": "74814",
+    "data_source": "BotanBot XML Export"
+  },
+  "client_profile": {
+    "client_number": "74814",
+    "search_term": "HOT BLOOD",
+    "status": "Lieferant",
+    "tax_number": "",
+    "vat_id": "DE-269.856.699",
+    "is_blocked": false,
+    "price_group": "(Std.-Preis)",
+    "billing_address": {
+      "salutation": "",
+      "name": "Hot Blood Deutschland GmbH",
+      "name3": "",
+      "street": "Dieselstraße 30-40",
+      "city": "Frankfurt",
+      "postal_code": "60314",
+      "country": "Deutschland",
+      "phone": "(0 69) 9 45 19 97 70",
+      "fax": "(0 69) 9 45 19 97 79",
+      "email": "info@hotbloodenergy.de"
+    },
+    "delivery_address": {
+      "salutation": "",
+      "name": "Hot Blood Deutschland GmbH",
+      "name3": "",
+      "street": "Dieselstraße 30-40",
+      "city": "Frankfurt",
+      "postal_code": "60314",
+      "country": "Deutschland",
+      "phone": "(0 69) 9 45 19 97 70",
+      "fax": "(0 69) 9 45 19 97 79",
+      "email": "info@hotbloodenergy.de"
+    },
+    "delivery_schedule": {
+      "monday": "",
+      "tuesday": "",
+      "wednesday": "",
+      "thursday": "",
+      "friday": "",
+      "saturday": ""
+    },
+    "settings": {
+      "webshop_enabled": false,
+      "ds_addresses": false,
+      "no_pickup_app": false,
+      "minimum_order_value": null,
+      "articles_not_in_history": ""
+    },
+    "additional_addresses": [
+      {
+        "address_number": "0",
+        "salutation": "",
+        "name": "Hot Blood Deutschland GmbH",
+        "name3": "",
+        "street": "Dieselstraße 30-40",
+        "city": "Frankfurt",
+        "postal_code": "60314",
+        "country": "Deutschland",
+        "phone": "(0 69) 9 45 19 97 70",
+        "fax": "(0 69) 9 45 19 97 79",
+        "email": "info@hotbloodenergy.de",
+        "is_default_billing": true,
+        "is_default_delivery": true
+      }
+    ]
+  },
+  "order_statistics": {
+    "total_orders": 0,
+    "unique_articles_ordered": 0,
+    "recent_orders_count": 0,
+    "last_order_date": null
+  },
+  "order_history": []
+}

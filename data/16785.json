@@ -1,0 +1,79 @@
+{
+  "metadata": {
+    "generated_at": "2025-09-10T23:17:06.306553",
+    "client_number": "16785",
+    "data_source": "BotanBot XML Export"
+  },
+  "client_profile": {
+    "client_number": "16785",
+    "search_term": "KOMBÜSE RUNDHAFEN",
+    "status": "Kunde",
+    "tax_number": "",
+    "vat_id": "",
+    "is_blocked": false,
+    "price_group": "(Std.-Preis)",
+    "billing_address": {
+      "salutation": "",
+      "name": "Kombüse im Rundhafen",
+      "name3": "Inh.: Redzheb, Gyunay Eminkyazim",
+      "street": "Heisterbusch Jungfernstieg",
+      "city": "Neustadt",
+      "postal_code": "23730",
+      "country": "Deutschland",
+      "phone": "(01 76) 62 73 45 69",
+      "fax": "",
+      "email": "g.redzheb@gmx.de"
+    },
+    "delivery_address": {
+      "salutation": "",
+      "name": "Kombüse im Rundhafen",
+      "name3": "Inh.: Redzheb, Gyunay Eminkyazim",
+      "street": "Heisterbusch Jungfernstieg",
+      "city": "Neustadt",
+      "postal_code": "23730",
+      "country": "Deutschland",
+      "phone": "(01 76) 62 73 45 69",
+      "fax": "",
+      "email": "g.redzheb@gmx.de"
+    },
+    "delivery_schedule": {
+      "monday": "3",
+      "tuesday": "",
+      "wednesday": "",
+      "thursday": "",
+      "friday": "3",
+      "saturday": ""
+    },
+    "settings": {
+      "webshop_enabled": false,
+      "ds_addresses": false,
+      "no_pickup_app": false,
+      "minimum_order_value": null,
+      "articles_not_in_history": ""
+    },
+    "additional_addresses": [
+      {
+        "address_number": "0",
+        "salutation": "",
+        "name": "Kombüse im Rundhafen",
+        "name3": "Inh.: Redzheb, Gyunay Eminkyazim",
+        "street": "Heisterbusch Jungfernstieg",
+        "city": "Neustadt",
+        "postal_code": "23730",
+        "country": "Deutschland",
+        "phone": "(01 76) 62 73 45 69",
+        "fax": "",
+        "email": "g.redzheb@gmx.de",
+        "is_default_billing": true,
+        "is_default_delivery": true
+      }
+    ]
+  },
+  "order_statistics": {
+    "total_orders": 0,
+    "unique_articles_ordered": 0,
+    "recent_orders_count": 0,
+    "last_order_date": null
+  },
+  "order_history": []
+}

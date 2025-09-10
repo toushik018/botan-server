@@ -1,0 +1,94 @@
+{
+  "metadata": {
+    "generated_at": "2025-09-10T23:17:05.026366",
+    "client_number": "12436",
+    "data_source": "BotanBot XML Export"
+  },
+  "client_profile": {
+    "client_number": "12436",
+    "search_term": "IMBISS AKDENIZ",
+    "status": "Kunde",
+    "tax_number": "",
+    "vat_id": "",
+    "is_blocked": true,
+    "price_group": "(Std.-Preis)",
+    "billing_address": {
+      "salutation": "",
+      "name": "Akdeniz Imbiss",
+      "name3": "Inh. Doganay Akdeniz",
+      "street": "Dorfstrasse 14 b",
+      "city": "Janneby",
+      "postal_code": "24992",
+      "country": "Deutschland",
+      "phone": "(01 72) 9 80 97 95",
+      "fax": "",
+      "email": ""
+    },
+    "delivery_address": {
+      "salutation": "",
+      "name": "Akdeniz Imbiss",
+      "name3": "Inh. Doganay Akdeniz",
+      "street": "Husumerstr. 1",
+      "city": "Wanderup",
+      "postal_code": "24997",
+      "country": "Deutschland",
+      "phone": "(01 72) 9 80 97 95",
+      "fax": "",
+      "email": ""
+    },
+    "delivery_schedule": {
+      "monday": "",
+      "tuesday": "",
+      "wednesday": "",
+      "thursday": "",
+      "friday": "",
+      "saturday": ""
+    },
+    "settings": {
+      "webshop_enabled": false,
+      "ds_addresses": false,
+      "no_pickup_app": false,
+      "minimum_order_value": null,
+      "articles_not_in_history": ""
+    },
+    "additional_addresses": [
+      {
+        "address_number": "0",
+        "salutation": "",
+        "name": "Akdeniz Imbiss",
+        "name3": "Inh. Doganay Akdeniz",
+        "street": "Husumerstr. 1",
+        "city": "Wanderup",
+        "postal_code": "24997",
+        "country": "Deutschland",
+        "phone": "(01 72) 9 80 97 95",
+        "fax": "",
+        "email": "",
+        "is_default_billing": false,
+        "is_default_delivery": true
+      },
+      {
+        "address_number": "2",
+        "salutation": "",
+        "name": "Akdeniz Imbiss",
+        "name3": "Inh. Doganay Akdeniz",
+        "street": "Dorfstrasse 14 b",
+        "city": "Janneby",
+        "postal_code": "24992",
+        "country": "Deutschland",
+        "phone": "(01 72) 9 80 97 95",
+        "fax": "",
+        "email": "",
+        "is_default_billing": true,
+        "is_default_delivery": false
+      }
+    ]
+  },
+  "order_statistics": {
+    "total_orders": 0,
+    "unique_articles_ordered": 0,
+    "recent_orders_count": 0,
+    "last_order_date": null
+  },
+  "order_history": []
+}

@@ -1,0 +1,574 @@
+{
+  "metadata": {
+    "generated_at": "2025-09-10T23:17:06.600399",
+    "client_number": "17551",
+    "data_source": "BotanBot XML Export"
+  },
+  "client_profile": {
+    "client_number": "17551",
+    "search_term": "JUGENDHERBERGE SCHARBEUTZ",
+    "status": "Kunde",
+    "tax_number": "",
+    "vat_id": "",
+    "is_blocked": false,
+    "price_group": "(Std.-Preis)",
+    "billing_address": {
+      "salutation": "",
+      "name": "DJH Jugendherberge Scharbeutz",
+      "name3": "Jugendherberge mit Jugendgruppencamp",
+      "street": "Strandallee 98",
+      "city": "Scharbeutz",
+      "postal_code": "23683",
+      "country": "Deutschland",
+      "phone": "",
+      "fax": "(0 45 03) 7 20 90",
+      "email": "scharbeutz@jugendherberge.de"
+    },
+    "delivery_address": {
+      "salutation": "",
+      "name": "DJH Jugendherberge Scharbeutz",
+      "name3": "Jugendherberge mit Jugendgruppencamp",
+      "street": "Strandallee 98",
+      "city": "Scharbeutz",
+      "postal_code": "23683",
+      "country": "Deutschland",
+      "phone": "",
+      "fax": "(0 45 03) 7 20 90",
+      "email": "scharbeutz@jugendherberge.de"
+    },
+    "delivery_schedule": {
+      "monday": "",
+      "tuesday": "",
+      "wednesday": "4",
+      "thursday": "",
+      "friday": "",
+      "saturday": ""
+    },
+    "settings": {
+      "webshop_enabled": true,
+      "ds_addresses": false,
+      "no_pickup_app": true,
+      "minimum_order_value": null,
+      "articles_not_in_history": ""
+    },
+    "additional_addresses": [
+      {
+        "address_number": "0",
+        "salutation": "",
+        "name": "DJH Jugendherberge Scharbeutz",
+        "name3": "Jugendherberge mit Jugendgruppencamp",
+        "street": "Strandallee 98",
+        "city": "Scharbeutz",
+        "postal_code": "23683",
+        "country": "Deutschland",
+        "phone": "",
+        "fax": "(0 45 03) 7 20 90",
+        "email": "scharbeutz@jugendherberge.de",
+        "is_default_billing": true,
+        "is_default_delivery": true
+      }
+    ]
+  },
+  "order_statistics": {
+    "total_orders": 38,
+    "unique_articles_ordered": 38,
+    "recent_orders_count": 38,
+    "last_order_date": "2025-08-21"
+  },
+  "order_history": [
+    {
+      "article_number": "2300025",
+      "date": "2025-08-21",
+      "booking_quantity": -4296.0,
+      "quantity": -4296.0,
+      "unit": "Dose 1 Stk.",
+      "article_info": {
+        "short_description": "Rücknahme Pflichtpfand DPG",
+        "long_description": "Rücknahme Pflichtpfand DPG",
+        "product_group": "90.05 Pfand",
+        "unit": "ST"
+      }
+    },
+    {
+      "article_number": "230330",
+      "date": "2025-08-21",
+      "booking_quantity": -132.0,
+      "quantity": -132.0,
+      "unit": "ST",
+      "article_info": {
+        "short_description": "Rücknahme Pfand = 3,30 € (12 x PET )",
+        "long_description": "Rücknahme Pfand = 3,30 € (12 x PET )",
+        "product_group": "90.05 Pfand",
+        "unit": "ST"
+      }
+    },
+    {
+      "article_number": "1489",
+      "date": "2025-08-20",
+      "booking_quantity": 6350.0,
+      "quantity": 127.0,
+      "unit": "Karton 50 Stk.",
+      "article_info": {
+        "short_description": "Best Burger 50 x 100g Halal",
+        "long_description": "Best Burger 50 x 100g Halal",
+        "product_group": "05.05.05.05 TK",
+        "unit": "ST"
+      }
+    },
+    {
+      "article_number": "1309",
+      "date": "2025-08-20",
+      "booking_quantity": 660.0,
+      "quantity": 55.0,
+      "unit": "KI 12",
+      "article_info": {
+        "short_description": "Godehard Mineralwasser 12 x 0,7 l",
+        "long_description": "Godehard Mineralwasser 12 x 0,7 l Flasche",
+        "product_group": "15.15.20 0,7 / 0,75 l Flasche MWK",
+        "unit": "FL"
+      }
+    },
+    {
+      "article_number": "23330",
+      "date": "2025-08-20",
+      "booking_quantity": 175.0,
+      "quantity": 175.0,
+      "unit": "Kiste",
+      "article_info": {
+        "short_description": "Pfand = 3,30 €  1 L Cola & Co PET",
+        "long_description": "Pfand = 3,30 € 1 l Cola & Co PET",
+        "product_group": "90.05 Pfand",
+        "unit": "ST"
+      }
+    },
+    {
+      "article_number": "23000025",
+      "date": "2025-08-20",
+      "booking_quantity": 4734.0,
+      "quantity": 367.0,
+      "unit": "KI 12",
+      "article_info": {
+        "short_description": "Pflichtpfand Einwegartikel DPG",
+        "long_description": "Pflichtpfand Einwegartikel DPG",
+        "product_group": "90.05 Pfand",
+        "unit": "ST"
+      }
+    },
+    {
+      "article_number": "1226",
+      "date": "2025-08-20",
+      "booking_quantity": 300.0,
+      "quantity": 25.0,
+      "unit": "KI 12",
+      "article_info": {
+        "short_description": "Fanta Orange 12 x 0,5 l DPG",
+        "long_description": "Fanta Orange 12 x 0,5 l DPG",
+        "product_group": "15.05.20 0,5 l Flasche",
+        "unit": "FL"
+      }
+    },
+    {
+      "article_number": "1003",
+      "date": "2025-08-20",
+      "booking_quantity": 144.0,
+      "quantity": 12.0,
+      "unit": "KI 12",
+      "article_info": {
+        "short_description": "Lift Apfelschorle 12 x 0,5 l DPG",
+        "long_description": "Lift Apfelschorle 12 x 0,5 l DPG",
+        "product_group": "15.05.20 0,5 l Flasche",
+        "unit": "FL"
+      }
+    },
+    {
+      "article_number": "1223",
+      "date": "2025-08-20",
+      "booking_quantity": 828.0,
+      "quantity": 69.0,
+      "unit": "KI 12",
+      "article_info": {
+        "short_description": "Coca Cola 12 x 0,5 l DPG",
+        "long_description": "Coca Cola 12 x 0,5 l DPG",
+        "product_group": "15.05.20 0,5 l Flasche",
+        "unit": "FL"
+      }
+    },
+    {
+      "article_number": "9569",
+      "date": "2025-08-20",
+      "booking_quantity": 216.0,
+      "quantity": 12.0,
+      "unit": "Karton 18",
+      "article_info": {
+        "short_description": "Vio Spritzig 18 x 0,5 l  DPG",
+        "long_description": "Vio Spritzig 18 x 0,5 l  DPG",
+        "product_group": "15.15.15 0,5 l Flasche",
+        "unit": "FL"
+      }
+    },
+    {
+      "article_number": "9559",
+      "date": "2025-08-20",
+      "booking_quantity": 342.0,
+      "quantity": 19.0,
+      "unit": "Karton 18",
+      "article_info": {
+        "short_description": "Vio Medium Apollinaris 18 x 0,5 l  DPG",
+        "long_description": "Apollinaris Vio Medium 18 x 0,5 l Flasche DPG",
+        "product_group": "15.15.15 0,5 l Flasche",
+        "unit": "FL"
+      }
+    },
+    {
+      "article_number": "3104",
+      "date": "2025-08-20",
+      "booking_quantity": 144.0,
+      "quantity": 8.0,
+      "unit": "Karton 18",
+      "article_info": {
+        "short_description": "Vio Bio Lemon 18 x 0,5 l  DPG Kiste",
+        "long_description": "Vio Bio Lemon 18 x 0,5 l DPG Kiste",
+        "product_group": "15.05.20 0,5 l Flasche",
+        "unit": "FL"
+      }
+    },
+    {
+      "article_number": "9408",
+      "date": "2025-08-20",
+      "booking_quantity": 340.0,
+      "quantity": 17.0,
+      "unit": "KI 20",
+      "article_info": {
+        "short_description": "Flensburger RADLER  20x0,33 l Bügelfl. MWK",
+        "long_description": "Flensburger Radler 20 x 0,33 l Bügelflasche MWK",
+        "product_group": "15.20.05.05 0,33 l Flasche MWK",
+        "unit": "FL"
+      }
+    },
+    {
+      "article_number": "23450",
+      "date": "2025-08-20",
+      "booking_quantity": 50.0,
+      "quantity": 50.0,
+      "unit": "Kiste",
+      "article_info": {
+        "short_description": "Pfand = 4,50 €  20 x Bügel od. 12 x Mehrweg FL",
+        "long_description": "Pfand = 4,50 € 20 x Bügel- oder Mehrwegflaschen",
+        "product_group": "90.05 Pfand",
+        "unit": "ST"
+      }
+    },
+    {
+      "article_number": "2475",
+      "date": "2025-08-20",
+      "booking_quantity": 480.0,
+      "quantity": 40.0,
+      "unit": "KI 12",
+      "article_info": {
+        "short_description": "Godehard Medium 12 x 0,7 l",
+        "long_description": "Godehard Medium 12 x 0,7 l Flasche",
+        "product_group": "15.15.20 0,7 / 0,75 l Flasche MWK",
+        "unit": "FL"
+      }
+    },
+    {
+      "article_number": "9581",
+      "date": "2025-08-13",
+      "booking_quantity": 912.0,
+      "quantity": 76.0,
+      "unit": "KI 12",
+      "article_info": {
+        "short_description": "Coca Cola Zero 12 x 0,5 l DPG",
+        "long_description": "Coca Cola Zero 12 x 0,5 l DPG",
+        "product_group": "15.05.20 0,5 l Flasche",
+        "unit": "FL"
+      }
+    },
+    {
+      "article_number": "1227",
+      "date": "2025-08-13",
+      "booking_quantity": 312.0,
+      "quantity": 26.0,
+      "unit": "KI 12",
+      "article_info": {
+        "short_description": "Sprite 12 x 0,5 l DPG",
+        "long_description": "Sprite 12 x 0,5 l DPG",
+        "product_group": "15.05.20 0,5 l Flasche",
+        "unit": "FL"
+      }
+    },
+    {
+      "article_number": "1225",
+      "date": "2025-08-13",
+      "booking_quantity": 276.0,
+      "quantity": 23.0,
+      "unit": "KI 12",
+      "article_info": {
+        "short_description": "Mezzo Mix 12 x 0,5 l DPG",
+        "long_description": "Mezzo Mix 12 x 0,5 l DPG",
+        "product_group": "15.05.20 0,5 l Flasche",
+        "unit": "FL"
+      }
+    },
+    {
+      "article_number": "9557",
+      "date": "2025-08-13",
+      "booking_quantity": 144.0,
+      "quantity": 8.0,
+      "unit": "Karton 18",
+      "article_info": {
+        "short_description": "Vio Still Ap.18 x 0,5 l DPG",
+        "long_description": "Apollinaris Vio Still 18 x 0,5 l DPG Flasche Kiste",
+        "product_group": "15.15.15 0,5 l Flasche",
+        "unit": "FL"
+      }
+    },
+    {
+      "article_number": "3103",
+      "date": "2025-08-13",
+      "booking_quantity": 144.0,
+      "quantity": 8.0,
+      "unit": "Karton 18",
+      "article_info": {
+        "short_description": "Vio Bio Orangen 18 x 0,5 l  DPG Kiste",
+        "long_description": "Vio Bio Orangen 18 x 0,5 l DPG Kiste",
+        "product_group": "15.05.20 0,5 l Flasche",
+        "unit": "FL"
+      }
+    },
+    {
+      "article_number": "1561",
+      "date": "2025-08-13",
+      "booking_quantity": 12.0,
+      "quantity": 12.0,
+      "unit": "Dose 1 Stk.",
+      "article_info": {
+        "short_description": "Gemüsemais  Karton 2,65 l Dosen",
+        "long_description": "Gemüsemais Karton 2,65 l Dose",
+        "product_group": "05.25.30 Konserven",
+        "unit": "DS"
+      }
+    },
+    {
+      "article_number": "230450",
+      "date": "2025-07-31",
+      "booking_quantity": -20.0,
+      "quantity": -20.0,
+      "unit": "Kiste",
+      "article_info": {
+        "short_description": "Rücknahme Pfand 4,50€ (20x0,33l Bier)",
+        "long_description": "Rücknahme Pfand 4,50€ (20x0,33l Bier)",
+        "product_group": "90.05 Pfand",
+        "unit": "ST"
+      }
+    },
+    {
+      "article_number": "1882",
+      "date": "2025-07-30",
+      "booking_quantity": 45.0,
+      "quantity": 45.0,
+      "unit": "Pack 1",
+      "article_info": {
+        "short_description": "Schmelzkäse Cheddar in Scheiben  1,082 kg",
+        "long_description": "Schmelzkäse Cheddar in Scheiben 1,082 kg",
+        "product_group": "05.15.05.10.20 Frisch- und Schmelzkäse",
+        "unit": "PK"
+      }
+    },
+    {
+      "article_number": "2276",
+      "date": "2025-07-30",
+      "booking_quantity": 360.0,
+      "quantity": 36.0,
+      "unit": "Karton 10 kg",
+      "article_info": {
+        "short_description": "Tomatenpulpe im Sterilbeutel 10 Kg",
+        "long_description": "Tomatenpulpe im Sterilbeutel 10 kg",
+        "product_group": "05.25.30 Konserven",
+        "unit": "KG"
+      }
+    },
+    {
+      "article_number": "1326",
+      "date": "2025-07-30",
+      "booking_quantity": 6.0,
+      "quantity": 6.0,
+      "unit": "Kanister 1 Stk.",
+      "article_info": {
+        "short_description": "Branntwein - Essig 5 %  10 Kg Kanister",
+        "long_description": "Branntweinessig 5 % 10 kg Kanister",
+        "product_group": "05.25.20.15 Essige",
+        "unit": "KN"
+      }
+    },
+    {
+      "article_number": "1329",
+      "date": "2025-07-30",
+      "booking_quantity": 260.0,
+      "quantity": 26.0,
+      "unit": "Kanister 10 l",
+      "article_info": {
+        "short_description": "Rapsöl 10 Liter",
+        "long_description": "Rapsöl 10 l",
+        "product_group": "05.25.20.05 Öle",
+        "unit": "LI"
+      }
+    },
+    {
+      "article_number": "9890",
+      "date": "2025-07-30",
+      "booking_quantity": 100.0,
+      "quantity": 4.0,
+      "unit": "Sack 25 kg",
+      "article_info": {
+        "short_description": "Weizenmehl Typ 405  25 Kg Sack",
+        "long_description": "Weizenmehl Typ 405  25 Kg Sack",
+        "product_group": "05.25.15.05 Mehl",
+        "unit": "KG"
+      }
+    },
+    {
+      "article_number": "1189",
+      "date": "2025-07-30",
+      "booking_quantity": 580.0,
+      "quantity": 29.0,
+      "unit": "KI 20",
+      "article_info": {
+        "short_description": "Flensburger Pilsener MW 20x0,33 l",
+        "long_description": "Flensburger Pilsener MW 20 x 0,33 l Flasche",
+        "product_group": "15.20.05.05 0,33 l Flasche MWK",
+        "unit": "FL"
+      }
+    },
+    {
+      "article_number": "9632",
+      "date": "2025-07-30",
+      "booking_quantity": 80.0,
+      "quantity": 4.0,
+      "unit": "KI 20",
+      "article_info": {
+        "short_description": "Club Mate 20 x 0,5 l  MWK",
+        "long_description": "Club Mate 20 x 0,5 l MWK",
+        "product_group": "15.05.20 0,5 l Flasche",
+        "unit": "FL"
+      }
+    },
+    {
+      "article_number": "230150",
+      "date": "2025-07-24",
+      "booking_quantity": -7.0,
+      "quantity": -7.0,
+      "unit": "KI 1",
+      "article_info": {
+        "short_description": "Rücknahme Pfand Kiste",
+        "long_description": "Rücknahme Pfand Kiste",
+        "product_group": "90.05 Pfand",
+        "unit": "ST"
+      }
+    },
+    {
+      "article_number": "230310",
+      "date": "2025-07-24",
+      "booking_quantity": -1.0,
+      "quantity": -1.0,
+      "unit": "ST",
+      "article_info": {
+        "short_description": "Rücknahme Pfand = 3,10 € (20 x 0,5 l Bier)",
+        "long_description": "Rücknahme Pfand = 3,10 € (20 x 0,5 l Bier)",
+        "product_group": "90.05 Pfand",
+        "unit": "ST"
+      }
+    },
+    {
+      "article_number": "1535",
+      "date": "2025-07-16",
+      "booking_quantity": 108.0,
+      "quantity": 108.0,
+      "unit": "Pack 1",
+      "article_info": {
+        "short_description": "MILRAM H-Schlagsahne 30 %  1 Liter",
+        "long_description": "Milram H-Schlagsahne 30 % 1 l",
+        "product_group": "05.15.20 Sahne",
+        "unit": "PK"
+      }
+    },
+    {
+      "article_number": "2540",
+      "date": "2025-07-09",
+      "booking_quantity": 960.0,
+      "quantity": 80.0,
+      "unit": "KI 12",
+      "article_info": {
+        "short_description": "Godehard Naturell 12 x 0,7 l",
+        "long_description": "Godehard Naturell 12 x 0,7 l Flasche",
+        "product_group": "15.15.20 0,7 / 0,75 l Flasche MWK",
+        "unit": "FL"
+      }
+    },
+    {
+      "article_number": "8922",
+      "date": "2025-07-02",
+      "booking_quantity": 324.0,
+      "quantity": 27.0,
+      "unit": "TR 12",
+      "article_info": {
+        "short_description": "FUZE Pfirsich 12 x 0,4 l Pet  Flasche",
+        "long_description": "Fuze Tea Pfirsich 12 x 0,4 l Pet-Flasche",
+        "product_group": "15.05.13 0,4 l Flasche",
+        "unit": "FL"
+      }
+    },
+    {
+      "article_number": "8924",
+      "date": "2025-07-02",
+      "booking_quantity": 168.0,
+      "quantity": 14.0,
+      "unit": "TR 12",
+      "article_info": {
+        "short_description": "Fuze Tea Zitrone 12 x 0,4 l Pet-Flasche",
+        "long_description": "Fuze Tea Zitrone 12 x 0,4 l Pet-Flasche",
+        "product_group": "15.05.13 0,4 l Flasche",
+        "unit": "FL"
+      }
+    },
+    {
+      "article_number": "2055",
+      "date": "2025-06-25",
+      "booking_quantity": 480.0,
+      "quantity": 40.0,
+      "unit": "KI 12",
+      "article_info": {
+        "short_description": "",
+        "long_description": "",
+        "product_group": "",
+        "unit": ""
+      }
+    },
+    {
+      "article_number": "2048",
+      "date": "2025-06-25",
+      "booking_quantity": 180.0,
+      "quantity": 15.0,
+      "unit": "TR 12",
+      "article_info": {
+        "short_description": "",
+        "long_description": "",
+        "product_group": "",
+        "unit": ""
+      }
+    },
+    {
+      "article_number": "23300",
+      "date": "2025-06-25",
+      "booking_quantity": 15.0,
+      "quantity": 15.0,
+      "unit": "Kiste",
+      "article_info": {
+        "short_description": "Pfand = 3,00€ 10er KI Cola 1,5l (10x0,15€ + 1,50€)",
+        "long_description": "Pfand=3,00€ 10er Kiste Cola 1,5l (10x0,15€+1,50€)",
+        "product_group": "90.05 Pfand",
+        "unit": "FL"
+      }
+    }
+  ]
+}

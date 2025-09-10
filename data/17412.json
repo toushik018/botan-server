@@ -1,0 +1,79 @@
+{
+  "metadata": {
+    "generated_at": "2025-09-10T23:17:06.551832",
+    "client_number": "17412",
+    "data_source": "BotanBot XML Export"
+  },
+  "client_profile": {
+    "client_number": "17412",
+    "search_term": "AMIGO PIZZA SERVICE",
+    "status": "Kunde",
+    "tax_number": "",
+    "vat_id": "",
+    "is_blocked": false,
+    "price_group": "(Std.-Preis)",
+    "billing_address": {
+      "salutation": "",
+      "name": "Amigo Pizza Service",
+      "name3": "Inh. Muhammad Asif",
+      "street": "Kolberger Straße 17",
+      "city": "Pansdorf",
+      "postal_code": "23689",
+      "country": "Deutschland",
+      "phone": "(01 74) 9 75 91 53",
+      "fax": "",
+      "email": "Asha-a@hotmail.de"
+    },
+    "delivery_address": {
+      "salutation": "",
+      "name": "Amigo Pizza Service",
+      "name3": "Inh. Muhammad Asif",
+      "street": "Kolberger Straße 17",
+      "city": "Pansdorf",
+      "postal_code": "23689",
+      "country": "Deutschland",
+      "phone": "(01 74) 9 75 91 53",
+      "fax": "",
+      "email": "Asha-a@hotmail.de"
+    },
+    "delivery_schedule": {
+      "monday": "",
+      "tuesday": "",
+      "wednesday": "4",
+      "thursday": "",
+      "friday": "",
+      "saturday": ""
+    },
+    "settings": {
+      "webshop_enabled": false,
+      "ds_addresses": false,
+      "no_pickup_app": false,
+      "minimum_order_value": null,
+      "articles_not_in_history": "3342,1520,1327,3002"
+    },
+    "additional_addresses": [
+      {
+        "address_number": "0",
+        "salutation": "",
+        "name": "Amigo Pizza Service",
+        "name3": "Inh. Muhammad Asif",
+        "street": "Kolberger Straße 17",
+        "city": "Pansdorf",
+        "postal_code": "23689",
+        "country": "Deutschland",
+        "phone": "(01 74) 9 75 91 53",
+        "fax": "",
+        "email": "Asha-a@hotmail.de",
+        "is_default_billing": true,
+        "is_default_delivery": true
+      }
+    ]
+  },
+  "order_statistics": {
+    "total_orders": 0,
+    "unique_articles_ordered": 0,
+    "recent_orders_count": 0,
+    "last_order_date": null
+  },
+  "order_history": []
+}

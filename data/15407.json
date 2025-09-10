@@ -1,0 +1,109 @@
+{
+  "metadata": {
+    "generated_at": "2025-09-10T23:17:05.860446",
+    "client_number": "15407",
+    "data_source": "BotanBot XML Export"
+  },
+  "client_profile": {
+    "client_number": "15407",
+    "search_term": "MR SUB",
+    "status": "Kunde",
+    "tax_number": "",
+    "vat_id": "",
+    "is_blocked": false,
+    "price_group": "(Std.-Preis)",
+    "billing_address": {
+      "salutation": "",
+      "name": "Mr. Sub",
+      "name3": "Muhammed Shurafi",
+      "street": "Herrenholz 14",
+      "city": "Lübeck",
+      "postal_code": "23556",
+      "country": "Deutschland",
+      "phone": "(04 51) 69 34 88 68",
+      "fax": "",
+      "email": "modi.walid93@gmail.com"
+    },
+    "delivery_address": {
+      "salutation": "",
+      "name": "Mr. Sub",
+      "name3": "Muhammed Shurafi",
+      "street": "Herrenholz 14",
+      "city": "Lübeck",
+      "postal_code": "23556",
+      "country": "Deutschland",
+      "phone": "(04 51) 69 34 88 68",
+      "fax": "",
+      "email": "modi.walid93@gmail.com"
+    },
+    "delivery_schedule": {
+      "monday": "",
+      "tuesday": "",
+      "wednesday": "",
+      "thursday": "",
+      "friday": "",
+      "saturday": ""
+    },
+    "settings": {
+      "webshop_enabled": false,
+      "ds_addresses": false,
+      "no_pickup_app": false,
+      "minimum_order_value": null,
+      "articles_not_in_history": "9163"
+    },
+    "additional_addresses": [
+      {
+        "address_number": "0",
+        "salutation": "",
+        "name": "Mr. Sub GmbH &",
+        "name3": "Büro",
+        "street": "Gallberg 30",
+        "city": "Schleswig",
+        "postal_code": "24837",
+        "country": "Deutschland",
+        "phone": "(01 76) 11 09 19 86",
+        "fax": "",
+        "email": "ai.bf@outlook.de",
+        "is_default_billing": false,
+        "is_default_delivery": false
+      },
+      {
+        "address_number": "5",
+        "salutation": "",
+        "name": "Mr. Sub",
+        "name3": "Muhammed Shurafi",
+        "street": "Herrenholz 14",
+        "city": "Lübeck",
+        "postal_code": "23556",
+        "country": "Deutschland",
+        "phone": "(04 51) 69 34 88 68",
+        "fax": "",
+        "email": "modi.walid93@gmail.com",
+        "is_default_billing": true,
+        "is_default_delivery": true
+      },
+      {
+        "address_number": "1",
+        "salutation": "",
+        "name": "Mr. Sub GmbH &",
+        "name3": "Büro",
+        "street": "Gallberg 30",
+        "city": "Schleswig",
+        "postal_code": "24837",
+        "country": "Deutschland",
+        "phone": "(01 76) 11 09 19 86",
+        "fax": "",
+        "email": "ai.bf@outlook.de",
+        "is_default_billing": false,
+        "is_default_delivery": false
+      }
+    ]
+  },
+  "order_statistics": {
+    "total_orders": 0,
+    "unique_articles_ordered": 0,
+    "recent_orders_count": 0,
+    "last_order_date": null
+  },
+  "order_history": []
+}

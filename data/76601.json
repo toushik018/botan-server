@@ -1,0 +1,79 @@
+{
+  "metadata": {
+    "generated_at": "2025-09-10T23:17:06.877412",
+    "client_number": "76601",
+    "data_source": "BotanBot XML Export"
+  },
+  "client_profile": {
+    "client_number": "76601",
+    "search_term": "JAN ZANDBERGEN",
+    "status": "Lieferant",
+    "tax_number": "",
+    "vat_id": "NL006028342B01",
+    "is_blocked": false,
+    "price_group": "(Std.-Preis)",
+    "billing_address": {
+      "salutation": "",
+      "name": "Jan Zandbergen BV",
+      "name3": "",
+      "street": "Bobinestraat 29",
+      "city": "Veenendal",
+      "postal_code": "3900 AA",
+      "country": "Niederlande",
+      "phone": "+31 (3 18) 56 35 63",
+      "fax": "+31 (3 18) 51 98 16",
+      "email": ""
+    },
+    "delivery_address": {
+      "salutation": "",
+      "name": "Jan Zandbergen BV",
+      "name3": "",
+      "street": "Bobinestraat 29",
+      "city": "Veenendal",
+      "postal_code": "3900 AA",
+      "country": "Niederlande",
+      "phone": "+31 (3 18) 56 35 63",
+      "fax": "+31 (3 18) 51 98 16",
+      "email": ""
+    },
+    "delivery_schedule": {
+      "monday": "",
+      "tuesday": "",
+      "wednesday": "",
+      "thursday": "",
+      "friday": "",
+      "saturday": ""
+    },
+    "settings": {
+      "webshop_enabled": false,
+      "ds_addresses": false,
+      "no_pickup_app": false,
+      "minimum_order_value": null,
+      "articles_not_in_history": ""
+    },
+    "additional_addresses": [
+      {
+        "address_number": "0",
+        "salutation": "",
+        "name": "Jan Zandbergen BV",
+        "name3": "",
+        "street": "Bobinestraat 29",
+        "city": "Veenendal",
+        "postal_code": "3900 AA",
+        "country": "Niederlande",
+        "phone": "+31 (3 18) 56 35 63",
+        "fax": "+31 (3 18) 51 98 16",
+        "email": "",
+        "is_default_billing": true,
+        "is_default_delivery": true
+      }
+    ]
+  },
+  "order_statistics": {
+    "total_orders": 0,
+    "unique_articles_ordered": 0,
+    "recent_orders_count": 0,
+    "last_order_date": null
+  },
+  "order_history": []
+}

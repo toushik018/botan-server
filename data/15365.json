@@ -1,0 +1,79 @@
+{
+  "metadata": {
+    "generated_at": "2025-09-10T23:17:05.848120",
+    "client_number": "15365",
+    "data_source": "BotanBot XML Export"
+  },
+  "client_profile": {
+    "client_number": "15365",
+    "search_term": "",
+    "status": "Kunde",
+    "tax_number": "20/182/01688",
+    "vat_id": "",
+    "is_blocked": false,
+    "price_group": "(Std.-Preis)",
+    "billing_address": {
+      "salutation": "Lieferservice",
+      "name": "Star Pizza",
+      "name3": "Inh. Masum Demir",
+      "street": "Schönberger Str. 30",
+      "city": "Kiel",
+      "postal_code": "24148",
+      "country": "Deutschland",
+      "phone": "(04 31) 72 20 78",
+      "fax": "(04 31) 2 20 85 10",
+      "email": ""
+    },
+    "delivery_address": {
+      "salutation": "Lieferservice",
+      "name": "Star Pizza",
+      "name3": "Inh. Masum Demir",
+      "street": "Schönberger Str. 30",
+      "city": "Kiel",
+      "postal_code": "24148",
+      "country": "Deutschland",
+      "phone": "(04 31) 72 20 78",
+      "fax": "(04 31) 2 20 85 10",
+      "email": ""
+    },
+    "delivery_schedule": {
+      "monday": "19",
+      "tuesday": "19",
+      "wednesday": "19",
+      "thursday": "19",
+      "friday": "19",
+      "saturday": ""
+    },
+    "settings": {
+      "webshop_enabled": false,
+      "ds_addresses": false,
+      "no_pickup_app": false,
+      "minimum_order_value": null,
+      "articles_not_in_history": "9000,9184,1517,1354,"
+    },
+    "additional_addresses": [
+      {
+        "address_number": "0",
+        "salutation": "Lieferservice",
+        "name": "Star Pizza",
+        "name3": "Inh. Masum Demir",
+        "street": "Schönberger Str. 30",
+        "city": "Kiel",
+        "postal_code": "24148",
+        "country": "Deutschland",
+        "phone": "(04 31) 72 20 78",
+        "fax": "(04 31) 2 20 85 10",
+        "email": "",
+        "is_default_billing": true,
+        "is_default_delivery": true
+      }
+    ]
+  },
+  "order_statistics": {
+    "total_orders": 0,
+    "unique_articles_ordered": 0,
+    "recent_orders_count": 0,
+    "last_order_date": null
+  },
+  "order_history": []
+}

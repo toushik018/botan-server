@@ -1,0 +1,535 @@
+{
+  "metadata": {
+    "generated_at": "2025-09-10T23:17:06.385567",
+    "client_number": "16986",
+    "data_source": "BotanBot XML Export"
+  },
+  "client_profile": {
+    "client_number": "16986",
+    "search_term": "REZOS FOOD HOUSE",
+    "status": "Kunde",
+    "tax_number": "",
+    "vat_id": "",
+    "is_blocked": false,
+    "price_group": "(Std.-Preis)",
+    "billing_address": {
+      "salutation": "Firma",
+      "name": "Rezos Food House",
+      "name3": "Inh.  Sarwar Rashid",
+      "street": "Eichhofstr. 16",
+      "city": "Kiel",
+      "postal_code": "24116",
+      "country": "Deutschland",
+      "phone": "",
+      "fax": "",
+      "email": "feuer-berg@gmx.de"
+    },
+    "delivery_address": {
+      "salutation": "Firma",
+      "name": "Rezos Food House",
+      "name3": "Inh.  Sarwar Rashid",
+      "street": "Eichhofstr. 16",
+      "city": "Kiel",
+      "postal_code": "24116",
+      "country": "Deutschland",
+      "phone": "",
+      "fax": "",
+      "email": "feuer-berg@gmx.de"
+    },
+    "delivery_schedule": {
+      "monday": "",
+      "tuesday": "",
+      "wednesday": "",
+      "thursday": "",
+      "friday": "",
+      "saturday": ""
+    },
+    "settings": {
+      "webshop_enabled": true,
+      "ds_addresses": false,
+      "no_pickup_app": false,
+      "minimum_order_value": null,
+      "articles_not_in_history": "1936,1472,1918,9582,1037,9801,5180,5107,5241,5121,5145,1653,9571"
+    },
+    "additional_addresses": [
+      {
+        "address_number": "0",
+        "salutation": "Firma",
+        "name": "Rezos Food House",
+        "name3": "Inh.  Sarwar Rashid",
+        "street": "Eichhofstr. 16",
+        "city": "Kiel",
+        "postal_code": "24116",
+        "country": "Deutschland",
+        "phone": "",
+        "fax": "",
+        "email": "feuer-berg@gmx.de",
+        "is_default_billing": true,
+        "is_default_delivery": true
+      }
+    ]
+  },
+  "order_statistics": {
+    "total_orders": 35,
+    "unique_articles_ordered": 35,
+    "recent_orders_count": 35,
+    "last_order_date": "2025-05-28"
+  },
+  "order_history": [
+    {
+      "article_number": "1864",
+      "date": "2025-05-28",
+      "booking_quantity": 7.5,
+      "quantity": 3.0,
+      "unit": "Beutel 2,5 kg",
+      "article_info": {
+        "short_description": "Twister, gewürzt 2,5 Kg  BT TK",
+        "long_description": "Twister gewürzt 4 x 2,5 kg/Beutel TK",
+        "product_group": "05.30.10 weitere",
+        "unit": "KG"
+      }
+    },
+    {
+      "article_number": "3230",
+      "date": "2025-05-28",
+      "booking_quantity": 180.0,
+      "quantity": 6.0,
+      "unit": "Karton 30 Stk.",
+      "article_info": {
+        "short_description": "Brioche Bun Homestyle 125mm  75 Stk./Karton TK",
+        "long_description": "Brioche Bun Homestyle 125mm  75 Stk./Karton TK",
+        "product_group": "05.40.10 Brotwaren",
+        "unit": "ST"
+      }
+    },
+    {
+      "article_number": "1369",
+      "date": "2025-05-28",
+      "booking_quantity": 100.0,
+      "quantity": 2.0,
+      "unit": "Beutel 50 Stk.",
+      "article_info": {
+        "short_description": "Falafel 50 Stk. vegan TK",
+        "long_description": "Falafel 50 Stück vegan TK",
+        "product_group": "05.07 Vegan",
+        "unit": "ST"
+      }
+    },
+    {
+      "article_number": "1384",
+      "date": "2025-05-28",
+      "booking_quantity": 5.0,
+      "quantity": 5.0,
+      "unit": "Karton 1",
+      "article_info": {
+        "short_description": "Eisbergsalat  9/10 Kiste Karton",
+        "long_description": "Eisbergsalat 9/10 Kiste Karton",
+        "product_group": "05.35.05 Frischgemüse",
+        "unit": "KT"
+      }
+    },
+    {
+      "article_number": "1882",
+      "date": "2025-05-28",
+      "booking_quantity": 3.0,
+      "quantity": 3.0,
+      "unit": "Pack 1",
+      "article_info": {
+        "short_description": "Schmelzkäse Cheddar in Scheiben  1,082 kg",
+        "long_description": "Schmelzkäse Cheddar in Scheiben 1,082 kg",
+        "product_group": "05.15.05.10.20 Frisch- und Schmelzkäse",
+        "unit": "PK"
+      }
+    },
+    {
+      "article_number": "1112",
+      "date": "2025-05-28",
+      "booking_quantity": 6.0,
+      "quantity": 6.0,
+      "unit": "Pack 1",
+      "article_info": {
+        "short_description": "Küchenrolle  3 lg  4 Rollen lose / BT",
+        "long_description": "Küchenrolle 3-lagig 4 Rollen/Beutel lose",
+        "product_group": "10.10.15 Rollen und Tücher",
+        "unit": "PK"
+      }
+    },
+    {
+      "article_number": "2512",
+      "date": "2025-05-28",
+      "booking_quantity": 150.0,
+      "quantity": 3.0,
+      "unit": "Pack 50 Stk.",
+      "article_info": {
+        "short_description": "Hamburgerbox Pappe 11,5x11,5x9cm  (für 5\")",
+        "long_description": "Hamburger-Box Pappe 11,5 x 11,5 x 9 cm",
+        "product_group": "10.05.25 Boxen, Tüten, Taschen und Papier",
+        "unit": "ST"
+      }
+    },
+    {
+      "article_number": "1408",
+      "date": "2025-05-28",
+      "booking_quantity": 60.0,
+      "quantity": 6.0,
+      "unit": "Karton 10 kg",
+      "article_info": {
+        "short_description": "8 mm Pommes Frites frisch 2 x 5 kg",
+        "long_description": "Pommes Frites frisch 8 mm 2 x 5 kg",
+        "product_group": "05.30.05 Pommes",
+        "unit": "KG"
+      }
+    },
+    {
+      "article_number": "2743",
+      "date": "2025-05-28",
+      "booking_quantity": 40.0,
+      "quantity": 2.0,
+      "unit": "Karton 20 Stk.",
+      "article_info": {
+        "short_description": "içim Ayran  Jghrt. -Getränk 20x250 g MHD 17.07.25",
+        "long_description": "içim Ayran  Jghrt. -Getränk 20x250 g MHD 17.07.25",
+        "product_group": "05.15.35 Joghurt- und Milchgetränke",
+        "unit": "ST"
+      }
+    },
+    {
+      "article_number": "230150",
+      "date": "2025-05-28",
+      "booking_quantity": -4.0,
+      "quantity": -4.0,
+      "unit": "KI 1",
+      "article_info": {
+        "short_description": "Rücknahme Pfand Kiste",
+        "long_description": "Rücknahme Pfand Kiste",
+        "product_group": "90.05 Pfand",
+        "unit": "ST"
+      }
+    },
+    {
+      "article_number": "230510",
+      "date": "2025-05-28",
+      "booking_quantity": -2.0,
+      "quantity": -2.0,
+      "unit": "ST",
+      "article_info": {
+        "short_description": "Rücknahme Pfand = 5,10 € (24 x 0,33 l Cola)",
+        "long_description": "Rücknahme Pfand = 5,10 € (24 x 0,33 l Cola)",
+        "product_group": "90.05 Pfand",
+        "unit": "ST"
+      }
+    },
+    {
+      "article_number": "230342",
+      "date": "2025-05-28",
+      "booking_quantity": -3.0,
+      "quantity": -3.0,
+      "unit": "ST",
+      "article_info": {
+        "short_description": "Rücknahme Pfand=3,42 €(24x0,33 l Bier)",
+        "long_description": "Rücknahme Pfand=3,42 €(24x0,33 l Bier)",
+        "product_group": "90.05 Pfand",
+        "unit": "ST"
+      }
+    },
+    {
+      "article_number": "2300025",
+      "date": "2025-05-28",
+      "booking_quantity": -41.0,
+      "quantity": -41.0,
+      "unit": "Dose 1 Stk.",
+      "article_info": {
+        "short_description": "Rücknahme Pflichtpfand DPG",
+        "long_description": "Rücknahme Pflichtpfand DPG",
+        "product_group": "90.05 Pfand",
+        "unit": "ST"
+      }
+    },
+    {
+      "article_number": "3405",
+      "date": "2025-05-28",
+      "booking_quantity": 3.0,
+      "quantity": 2.0,
+      "unit": "Beutel 1,5 kg",
+      "article_info": {
+        "short_description": "Churros XXL TK Aviko 1,5 kg Beutel",
+        "long_description": "Churros XXL TK Aviko 1,5 kg Beutel",
+        "product_group": "05.40.20.10 Desserts",
+        "unit": "KG"
+      }
+    },
+    {
+      "article_number": "2687",
+      "date": "2025-05-28",
+      "booking_quantity": 4.0,
+      "quantity": 4.0,
+      "unit": "Beutel 1 kg",
+      "article_info": {
+        "short_description": "Spicy Chicken Burger ca. 130g gegart 1kg/Beutel",
+        "long_description": "Spicy Chicken Burger ca. 130g gegart 1kg/Beutel",
+        "product_group": "05.05.20.05 TK",
+        "unit": "BT"
+      }
+    },
+    {
+      "article_number": "1842",
+      "date": "2025-05-28",
+      "booking_quantity": 1.0,
+      "quantity": 1.0,
+      "unit": "Karton",
+      "article_info": {
+        "short_description": "Strauchtomaten  5 kg Kiste",
+        "long_description": "Strauchtomaten  5 kg Kiste",
+        "product_group": "05.35.05 Frischgemüse",
+        "unit": "KT"
+      }
+    },
+    {
+      "article_number": "2050",
+      "date": "2025-05-28",
+      "booking_quantity": 2.0,
+      "quantity": 1.0,
+      "unit": "Pack 2 kg",
+      "article_info": {
+        "short_description": "Knoblauchsauce 2 Kg",
+        "long_description": "Knoblauchsauce 2 kg",
+        "product_group": "05.45.15 Dips und Saucen",
+        "unit": "KG"
+      }
+    },
+    {
+      "article_number": "3140",
+      "date": "2025-05-28",
+      "booking_quantity": 12.0,
+      "quantity": 1.0,
+      "unit": "Karton 12 Stk.",
+      "article_info": {
+        "short_description": "Durstlöscher Eistee Zitrone 12 x 0,5 L Tetrapack",
+        "long_description": "Durstlöscher Eistee Zitrone 12 x 0,5 l Tetra Pak",
+        "product_group": "15.05.22 0,5 l Tetra Pack",
+        "unit": "ST"
+      }
+    },
+    {
+      "article_number": "9314",
+      "date": "2025-05-28",
+      "booking_quantity": 3.0,
+      "quantity": 3.0,
+      "unit": "Pack 1",
+      "article_info": {
+        "short_description": "Ravens. H-Milchreis Natur 1L",
+        "long_description": "Ravensberger H-Milchreis natur 1 l",
+        "product_group": "05.40.20.10 Desserts",
+        "unit": "PK"
+      }
+    },
+    {
+      "article_number": "1010",
+      "date": "2025-05-28",
+      "booking_quantity": 30.0,
+      "quantity": 1.0,
+      "unit": "Pack 30 Stk.",
+      "article_info": {
+        "short_description": "Eier 30 Stk.",
+        "long_description": "Eier 30 Stück",
+        "product_group": "05.25.15.15 Eier",
+        "unit": "ST"
+      }
+    },
+    {
+      "article_number": "9174",
+      "date": "2025-05-23",
+      "booking_quantity": 6.0,
+      "quantity": 2.0,
+      "unit": "Karton 3 kg",
+      "article_info": {
+        "short_description": "Hähnchen Knusper Happen 3KG/ KT  Hanna",
+        "long_description": "Hanna Hähnchen-Knusperhappen 3 kg Karton",
+        "product_group": "05.05.20.05 TK",
+        "unit": "KG"
+      }
+    },
+    {
+      "article_number": "1401",
+      "date": "2025-05-23",
+      "booking_quantity": 100.0,
+      "quantity": 1.0,
+      "unit": "Karton 100 Stk.",
+      "article_info": {
+        "short_description": "Wernsing Tomaten Ketch. Port. BT  100x18 ml",
+        "long_description": "Wernsing Tomaten-Ketchup portioniert 100 x 18 ml",
+        "product_group": "05.45.10 Ketchup",
+        "unit": "BT"
+      }
+    },
+    {
+      "article_number": "3220",
+      "date": "2025-05-23",
+      "booking_quantity": 10.0,
+      "quantity": 1.0,
+      "unit": "Eimer 10 kg",
+      "article_info": {
+        "short_description": "Pan Joghurterzeugnis 10 kg  3,8% Eimer",
+        "long_description": "Pan Joghurterzeugnis 10 kg  3,8% Eimer",
+        "product_group": "05.15.10 Joghurt",
+        "unit": "KG"
+      }
+    },
+    {
+      "article_number": "9290",
+      "date": "2025-05-23",
+      "booking_quantity": 1.0,
+      "quantity": 1.0,
+      "unit": "Pack 1",
+      "article_info": {
+        "short_description": "Schwarze Handschuhe Nitrile ungep. \"M\" 100 Stk",
+        "long_description": "Schwarze Handschuhe Nitrile ungep. \"M\" 100 Stk",
+        "product_group": "10.10.10 Handschuhe",
+        "unit": "PK"
+      }
+    },
+    {
+      "article_number": "9287",
+      "date": "2025-05-23",
+      "booking_quantity": 1.0,
+      "quantity": 1.0,
+      "unit": "Pack 1",
+      "article_info": {
+        "short_description": "Schwarze Handschuhe Nitrile ungep. \"L\" 100 Stk",
+        "long_description": "Schwarze Handschuhe Nitrile ungep. \"L\" 100 Stk",
+        "product_group": "10.10.10 Handschuhe",
+        "unit": "PK"
+      }
+    },
+    {
+      "article_number": "2124",
+      "date": "2025-05-23",
+      "booking_quantity": 1.0,
+      "quantity": 1.0,
+      "unit": "Karton 1",
+      "article_info": {
+        "short_description": "1/4 Bogen Pergaplus 37,5x50cm 12,5 kg  /KT",
+        "long_description": "1/4 Bogen Pergaplus 37,5 x 50 cm 12,5 kg/Karton",
+        "product_group": "10.05.25 Boxen, Tüten, Taschen und Papier",
+        "unit": "PK"
+      }
+    },
+    {
+      "article_number": "2480",
+      "date": "2025-05-23",
+      "booking_quantity": 1.0,
+      "quantity": 1.0,
+      "unit": "Pack 1",
+      "article_info": {
+        "short_description": "Salatschale Pappe braun 750 ml 50 Stk. (rund)",
+        "long_description": "Salatschale braun Pappe rund 750 ml 50 Stück",
+        "product_group": "10.05.15 Salatschalen und Deckel",
+        "unit": "PK"
+      }
+    },
+    {
+      "article_number": "4524",
+      "date": "2025-05-23",
+      "booking_quantity": 1.0,
+      "quantity": 1.0,
+      "unit": "Pack 1",
+      "article_info": {
+        "short_description": "Deckel für Salatschale braun 750ml -rund 50 Stk.",
+        "long_description": "Deckel für Salatschale braun 750 ml rund 50 Stück",
+        "product_group": "10.05.15 Salatschalen und Deckel",
+        "unit": "PK"
+      }
+    },
+    {
+      "article_number": "9057",
+      "date": "2025-05-23",
+      "booking_quantity": 10.0,
+      "quantity": 1.0,
+      "unit": "Eimer 10 kg",
+      "article_info": {
+        "short_description": "Spezial Mayonaise 50 %  10 KG Eimer",
+        "long_description": "Spezial Mayonnaise 50 % 10 kg Eimer",
+        "product_group": "05.45.05 Mayonnaise",
+        "unit": "KG"
+      }
+    },
+    {
+      "article_number": "2126",
+      "date": "2025-05-23",
+      "booking_quantity": 10.0,
+      "quantity": 1.0,
+      "unit": "Eimer 10 kg",
+      "article_info": {
+        "short_description": "Remia Frittierfett \" Longlife \" 10 kg Ei.",
+        "long_description": "Remia Frittierfett \"Longlife\" 10 kg Eimer",
+        "product_group": "05.25.20.10 Fette",
+        "unit": "LI"
+      }
+    },
+    {
+      "article_number": "3102",
+      "date": "2025-05-23",
+      "booking_quantity": 24.0,
+      "quantity": 1.0,
+      "unit": "TR 24",
+      "article_info": {
+        "short_description": "DPG 24 x 0,5 l. Yurt Quellwasser",
+        "long_description": "Yurt Quellwasser 24 x 0,5 l Flasche DPG",
+        "product_group": "15.15.15 0,5 l Flasche",
+        "unit": "FL"
+      }
+    },
+    {
+      "article_number": "23000025",
+      "date": "2025-05-23",
+      "booking_quantity": 24.0,
+      "quantity": 1.0,
+      "unit": "TR 24",
+      "article_info": {
+        "short_description": "Pflichtpfand Einwegartikel DPG",
+        "long_description": "Pflichtpfand Einwegartikel DPG",
+        "product_group": "90.05 Pfand",
+        "unit": "ST"
+      }
+    },
+    {
+      "article_number": "8912",
+      "date": "2025-05-23",
+      "booking_quantity": 48.0,
+      "quantity": 2.0,
+      "unit": "KI 24",
+      "article_info": {
+        "short_description": "Fritz Kola 24 x 0,33 l  Flaschen",
+        "long_description": "Fritz Kola 24 x 0,33 l Flasche",
+        "product_group": "15.05.10 0,3 l und 0,33 l Flasche MWK",
+        "unit": "FL"
+      }
+    },
+    {
+      "article_number": "23342",
+      "date": "2025-05-23",
+      "booking_quantity": 2.0,
+      "quantity": 2.0,
+      "unit": "Kiste",
+      "article_info": {
+        "short_description": "Pfand = 3,42 € 24er  0,33l (24x0,08+1,50)",
+        "long_description": "Pfand = 3,42 € 24er 0,33l (24 x 0,08 + 1,50)",
+        "product_group": "90.05 Pfand",
+        "unit": "ST"
+      }
+    },
+    {
+      "article_number": "3186",
+      "date": "2025-05-23",
+      "booking_quantity": 1.0,
+      "quantity": 1.0,
+      "unit": "Pack 1",
+      "article_info": {
+        "short_description": "",
+        "long_description": "",
+        "product_group": "",
+        "unit": ""
+      }
+    }
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "metadata": {
+    "generated_at": "2025-09-10T23:17:06.828715",
+    "client_number": "75403",
+    "data_source": "BotanBot XML Export"
+  },
+  "client_profile": {
+    "client_number": "75403",
+    "search_term": "MILRAM",
+    "status": "Lieferant",
+    "tax_number": "",
+    "vat_id": "",
+    "is_blocked": false,
+    "price_group": "(Std.-Preis)",
+    "billing_address": {
+      "salutation": "Firma",
+      "name": "DMK Deutsches Milchkontor AG",
+      "name3": "Kd.nr 24165",
+      "street": "Flughafenallee 17",
+      "city": "Dötlingen",
+      "postal_code": "27801",
+      "country": "Deutschland",
+      "phone": "(04 21) 2 43 22 19",
+      "fax": "(04 21) 8 99 61 02 97",
+      "email": ""
+    },
+    "delivery_address": {
+      "salutation": "Firma",
+      "name": "DMK Deutsches Milchkontor AG",
+      "name3": "Kd.nr 24165",
+      "street": "Flughafenallee 17",
+      "city": "Dötlingen",
+      "postal_code": "27801",
+      "country": "Deutschland",
+      "phone": "(04 21) 2 43 22 19",
+      "fax": "(04 21) 8 99 61 02 97",
+      "email": ""
+    },
+    "delivery_schedule": {
+      "monday": "",
+      "tuesday": "",
+      "wednesday": "",
+      "thursday": "",
+      "friday": "",
+      "saturday": ""
+    },
+    "settings": {
+      "webshop_enabled": false,
+      "ds_addresses": false,
+      "no_pickup_app": false,
+      "minimum_order_value": null,
+      "articles_not_in_history": ""
+    },
+    "additional_addresses": [
+      {
+        "address_number": "0",
+        "salutation": "Firma",
+        "name": "DMK Deutsches Milchkontor AG",
+        "name3": "Kd.nr 24165",
+        "street": "Flughafenallee 17",
+        "city": "Dötlingen",
+        "postal_code": "27801",
+        "country": "Deutschland",
+        "phone": "(04 21) 2 43 22 19",
+        "fax": "(04 21) 8 99 61 02 97",
+        "email": "",
+        "is_default_billing": true,
+        "is_default_delivery": true
+      }
+    ]
+  },
+  "order_statistics": {
+    "total_orders": 0,
+    "unique_articles_ordered": 0,
+    "recent_orders_count": 0,
+    "last_order_date": null
+  },
+  "order_history": []
+}

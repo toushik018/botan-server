@@ -1,0 +1,79 @@
+{
+  "metadata": {
+    "generated_at": "2025-09-10T23:17:04.400905",
+    "client_number": "10227",
+    "data_source": "BotanBot XML Export"
+  },
+  "client_profile": {
+    "client_number": "10227",
+    "search_term": "",
+    "status": "Kunde",
+    "tax_number": "",
+    "vat_id": "",
+    "is_blocked": false,
+    "price_group": "(Std.-Preis)",
+    "billing_address": {
+      "salutation": "",
+      "name": "Pizza heiß & frisch",
+      "name3": "",
+      "street": "Christianstr. 2-4",
+      "city": "Neumünster",
+      "postal_code": "24534",
+      "country": "Deutschland",
+      "phone": "(0 43 21) 6 90 07 90",
+      "fax": "(0 43 21) 7 54 56 81",
+      "email": ""
+    },
+    "delivery_address": {
+      "salutation": "",
+      "name": "Pizza heiß & frisch",
+      "name3": "",
+      "street": "Christianstr. 2-4",
+      "city": "Neumünster",
+      "postal_code": "24534",
+      "country": "Deutschland",
+      "phone": "(0 43 21) 6 90 07 90",
+      "fax": "(0 43 21) 7 54 56 81",
+      "email": ""
+    },
+    "delivery_schedule": {
+      "monday": "",
+      "tuesday": "",
+      "wednesday": "",
+      "thursday": "",
+      "friday": "",
+      "saturday": ""
+    },
+    "settings": {
+      "webshop_enabled": false,
+      "ds_addresses": false,
+      "no_pickup_app": false,
+      "minimum_order_value": null,
+      "articles_not_in_history": ""
+    },
+    "additional_addresses": [
+      {
+        "address_number": "0",
+        "salutation": "",
+        "name": "Pizza heiß & frisch",
+        "name3": "",
+        "street": "Christianstr. 2-4",
+        "city": "Neumünster",
+        "postal_code": "24534",
+        "country": "Deutschland",
+        "phone": "(0 43 21) 6 90 07 90",
+        "fax": "(0 43 21) 7 54 56 81",
+        "email": "",
+        "is_default_billing": true,
+        "is_default_delivery": true
+      }
+    ]
+  },
+  "order_statistics": {
+    "total_orders": 0,
+    "unique_articles_ordered": 0,
+    "recent_orders_count": 0,
+    "last_order_date": null
+  },
+  "order_history": []
+}

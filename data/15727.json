@@ -1,0 +1,79 @@
+{
+  "metadata": {
+    "generated_at": "2025-09-10T23:17:05.950394",
+    "client_number": "15727",
+    "data_source": "BotanBot XML Export"
+  },
+  "client_profile": {
+    "client_number": "15727",
+    "search_term": "",
+    "status": "Kunde",
+    "tax_number": "",
+    "vat_id": "",
+    "is_blocked": false,
+    "price_group": "(Std.-Preis)",
+    "billing_address": {
+      "salutation": "",
+      "name": "SEYPA",
+      "name3": "Papo",
+      "street": "Harmsstr. 50",
+      "city": "Kiel",
+      "postal_code": "24114",
+      "country": "Deutschland",
+      "phone": "(01 59) 06 43 49 17",
+      "fax": "",
+      "email": ""
+    },
+    "delivery_address": {
+      "salutation": "",
+      "name": "SEYPA",
+      "name3": "Papo",
+      "street": "Harmsstr. 50",
+      "city": "Kiel",
+      "postal_code": "24114",
+      "country": "Deutschland",
+      "phone": "(01 59) 06 43 49 17",
+      "fax": "",
+      "email": ""
+    },
+    "delivery_schedule": {
+      "monday": "",
+      "tuesday": "",
+      "wednesday": "",
+      "thursday": "",
+      "friday": "",
+      "saturday": ""
+    },
+    "settings": {
+      "webshop_enabled": false,
+      "ds_addresses": false,
+      "no_pickup_app": false,
+      "minimum_order_value": null,
+      "articles_not_in_history": "1604, 9001"
+    },
+    "additional_addresses": [
+      {
+        "address_number": "0",
+        "salutation": "",
+        "name": "SEYPA",
+        "name3": "Papo",
+        "street": "Harmsstr. 50",
+        "city": "Kiel",
+        "postal_code": "24114",
+        "country": "Deutschland",
+        "phone": "(01 59) 06 43 49 17",
+        "fax": "",
+        "email": "",
+        "is_default_billing": true,
+        "is_default_delivery": true
+      }
+    ]
+  },
+  "order_statistics": {
+    "total_orders": 0,
+    "unique_articles_ordered": 0,
+    "recent_orders_count": 0,
+    "last_order_date": null
+  },
+  "order_history": []
+}

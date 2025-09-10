@@ -1,0 +1,249 @@
+{
+  "metadata": {
+    "generated_at": "2025-09-10T23:17:06.469251",
+    "client_number": "17212",
+    "data_source": "BotanBot XML Export"
+  },
+  "client_profile": {
+    "client_number": "17212",
+    "search_term": "TABAK BÖRSE",
+    "status": "Kunde",
+    "tax_number": "",
+    "vat_id": "",
+    "is_blocked": false,
+    "price_group": "(Std.-Preis)",
+    "billing_address": {
+      "salutation": "",
+      "name": "Tabak Börse",
+      "name3": "Strichmännchen GmbH",
+      "street": "Gneisenaustraße 27",
+      "city": "Kiel",
+      "postal_code": "24105",
+      "country": "Deutschland",
+      "phone": "(01 76) 84 05 63 56",
+      "fax": "",
+      "email": "tabakboerse22@outlook.de"
+    },
+    "delivery_address": {
+      "salutation": "",
+      "name": "Tabak Börse",
+      "name3": "Strichmännchen GmbH",
+      "street": "Gneisenaustraße 27",
+      "city": "Kiel",
+      "postal_code": "24105",
+      "country": "Deutschland",
+      "phone": "(01 76) 84 05 63 56",
+      "fax": "",
+      "email": "tabakboerse22@outlook.de"
+    },
+    "delivery_schedule": {
+      "monday": "",
+      "tuesday": "",
+      "wednesday": "",
+      "thursday": "",
+      "friday": "",
+      "saturday": ""
+    },
+    "settings": {
+      "webshop_enabled": true,
+      "ds_addresses": false,
+      "no_pickup_app": false,
+      "minimum_order_value": null,
+      "articles_not_in_history": ""
+    },
+    "additional_addresses": [
+      {
+        "address_number": "0",
+        "salutation": "",
+        "name": "Tabak Börse",
+        "name3": "Strichmännchen GmbH",
+        "street": "Gneisenaustraße 27",
+        "city": "Kiel",
+        "postal_code": "24105",
+        "country": "Deutschland",
+        "phone": "(01 76) 84 05 63 56",
+        "fax": "",
+        "email": "tabakboerse22@outlook.de",
+        "is_default_billing": true,
+        "is_default_delivery": true
+      }
+    ]
+  },
+  "order_statistics": {
+    "total_orders": 13,
+    "unique_articles_ordered": 13,
+    "recent_orders_count": 13,
+    "last_order_date": "2025-06-28"
+  },
+  "order_history": [
+    {
+      "article_number": "9613",
+      "date": "2025-06-28",
+      "booking_quantity": 24.0,
+      "quantity": 1.0,
+      "unit": "KI 24",
+      "article_info": {
+        "short_description": "König Pilsener 24 x 0,33 l  MWK",
+        "long_description": "König Pilsener 24 x 0,33 l Flasche MWK",
+        "product_group": "15.20.05.05 0,33 l Flasche MWK",
+        "unit": "FL"
+      }
+    },
+    {
+      "article_number": "23342",
+      "date": "2025-06-28",
+      "booking_quantity": 4.0,
+      "quantity": 4.0,
+      "unit": "Kiste",
+      "article_info": {
+        "short_description": "Pfand = 3,42 € 24er  0,33l (24x0,08+1,50)",
+        "long_description": "Pfand = 3,42 € 24er 0,33l (24 x 0,08 + 1,50)",
+        "product_group": "90.05 Pfand",
+        "unit": "ST"
+      }
+    },
+    {
+      "article_number": "1171",
+      "date": "2025-06-28",
+      "booking_quantity": 24.0,
+      "quantity": 1.0,
+      "unit": "KI 24",
+      "article_info": {
+        "short_description": "Beck´s Pils  24 x 0,33 Fl.",
+        "long_description": "Beck´s Pils 24 x 0,33 l Flasche",
+        "product_group": "15.20.05.05 0,33 l Flasche MWK",
+        "unit": "FL"
+      }
+    },
+    {
+      "article_number": "1189",
+      "date": "2025-06-28",
+      "booking_quantity": 20.0,
+      "quantity": 1.0,
+      "unit": "KI 20",
+      "article_info": {
+        "short_description": "Flensburger Pilsener MW 20x0,33 l",
+        "long_description": "Flensburger Pilsener MW 20 x 0,33 l Flasche",
+        "product_group": "15.20.05.05 0,33 l Flasche MWK",
+        "unit": "FL"
+      }
+    },
+    {
+      "article_number": "23450",
+      "date": "2025-06-28",
+      "booking_quantity": 1.0,
+      "quantity": 1.0,
+      "unit": "Kiste",
+      "article_info": {
+        "short_description": "Pfand = 4,50 €  20 x Bügel od. 12 x Mehrweg FL",
+        "long_description": "Pfand = 4,50 € 20 x Bügel- oder Mehrwegflaschen",
+        "product_group": "90.05 Pfand",
+        "unit": "ST"
+      }
+    },
+    {
+      "article_number": "2081",
+      "date": "2025-06-28",
+      "booking_quantity": 12.0,
+      "quantity": 1.0,
+      "unit": "Karton 12 Stk.",
+      "article_info": {
+        "short_description": "Durstlöscher Multi 12 x 0,5 L Tetrapack",
+        "long_description": "Durstlöscher Multivitamin 12 x 0,5 l Tetra Pak",
+        "product_group": "15.05.22 0,5 l Tetra Pack",
+        "unit": "ST"
+      }
+    },
+    {
+      "article_number": "1226",
+      "date": "2025-06-28",
+      "booking_quantity": 12.0,
+      "quantity": 1.0,
+      "unit": "KI 12",
+      "article_info": {
+        "short_description": "Fanta Orange 12 x 0,5 l DPG",
+        "long_description": "Fanta Orange 12 x 0,5 l DPG",
+        "product_group": "15.05.20 0,5 l Flasche",
+        "unit": "FL"
+      }
+    },
+    {
+      "article_number": "23000025",
+      "date": "2025-06-28",
+      "booking_quantity": 72.0,
+      "quantity": 4.0,
+      "unit": "KI 12",
+      "article_info": {
+        "short_description": "Pflichtpfand Einwegartikel DPG",
+        "long_description": "Pflichtpfand Einwegartikel DPG",
+        "product_group": "90.05 Pfand",
+        "unit": "ST"
+      }
+    },
+    {
+      "article_number": "1223",
+      "date": "2025-06-28",
+      "booking_quantity": 12.0,
+      "quantity": 1.0,
+      "unit": "KI 12",
+      "article_info": {
+        "short_description": "Coca Cola 12 x 0,5 l DPG",
+        "long_description": "Coca Cola 12 x 0,5 l DPG",
+        "product_group": "15.05.20 0,5 l Flasche",
+        "unit": "FL"
+      }
+    },
+    {
+      "article_number": "8930",
+      "date": "2025-06-28",
+      "booking_quantity": 24.0,
+      "quantity": 1.0,
+      "unit": "KI 24",
+      "article_info": {
+        "short_description": "Fritz Superzero 24x0,33 l  Fl.",
+        "long_description": "Fritz Superzero  24x0,33 l Flasche",
+        "product_group": "15.05.10 0,3 l und 0,33 l Flasche MWK",
+        "unit": "FL"
+      }
+    },
+    {
+      "article_number": "8912",
+      "date": "2025-06-28",
+      "booking_quantity": 24.0,
+      "quantity": 1.0,
+      "unit": "KI 24",
+      "article_info": {
+        "short_description": "Fritz Kola 24 x 0,33 l  Flaschen",
+        "long_description": "Fritz Kola 24 x 0,33 l Flasche",
+        "product_group": "15.05.10 0,3 l und 0,33 l Flasche MWK",
+        "unit": "FL"
+      }
+    },
+    {
+      "article_number": "1657",
+      "date": "2025-06-28",
+      "booking_quantity": 48.0,
+      "quantity": 2.0,
+      "unit": "TR 24",
+      "article_info": {
+        "short_description": "5.0 Original Pils  24 x 0,5 L Dose  DPG",
+        "long_description": "5.0 Original Pils 24 x 0,5 l Dose DPG",
+        "product_group": "15.20.05.15 0,5 l Dosen DPG",
+        "unit": "DS"
+      }
+    },
+    {
+      "article_number": "1723",
+      "date": "2025-06-28",
+      "booking_quantity": 12.0,
+      "quantity": 1.0,
+      "unit": "Karton 12 Stk.",
+      "article_info": {
+        "short_description": "Küstennebel 12 x 0,1 L",
+        "long_description": "Küstennebel 21,8 % 12 x 0,1 l Flaschen",
+        "product_group": "15.25.15 0,1 l Flasche",
+        "unit": "FL"
+      }
+    }
+  ]
+}

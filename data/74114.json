@@ -1,0 +1,79 @@
+{
+  "metadata": {
+    "generated_at": "2025-09-10T23:17:06.743653",
+    "client_number": "74114",
+    "data_source": "BotanBot XML Export"
+  },
+  "client_profile": {
+    "client_number": "74114",
+    "search_term": "ALLFEIN",
+    "status": "Lieferant",
+    "tax_number": "",
+    "vat_id": "",
+    "is_blocked": false,
+    "price_group": "(Std.-Preis)",
+    "billing_address": {
+      "salutation": "Firma",
+      "name": "Allfein Feinkost GmbH & Co. KG",
+      "name3": "",
+      "street": "Brägeler Str. 110",
+      "city": "Lohne",
+      "postal_code": "49393",
+      "country": "Deutschland",
+      "phone": "(0 44 45) 89 13 86",
+      "fax": "(0 44 45) 89 13 95",
+      "email": "Janin.Bruns@wiesenhof.de"
+    },
+    "delivery_address": {
+      "salutation": "Firma",
+      "name": "Allfein Feinkost GmbH & Co. KG",
+      "name3": "",
+      "street": "Brägeler Str. 110",
+      "city": "Lohne",
+      "postal_code": "49393",
+      "country": "Deutschland",
+      "phone": "(0 44 45) 89 13 86",
+      "fax": "(0 44 45) 89 13 95",
+      "email": "Janin.Bruns@wiesenhof.de"
+    },
+    "delivery_schedule": {
+      "monday": "",
+      "tuesday": "",
+      "wednesday": "",
+      "thursday": "",
+      "friday": "",
+      "saturday": ""
+    },
+    "settings": {
+      "webshop_enabled": false,
+      "ds_addresses": false,
+      "no_pickup_app": false,
+      "minimum_order_value": null,
+      "articles_not_in_history": "B"
+    },
+    "additional_addresses": [
+      {
+        "address_number": "0",
+        "salutation": "Firma",
+        "name": "Allfein Feinkost GmbH & Co. KG",
+        "name3": "",
+        "street": "Brägeler Str. 110",
+        "city": "Lohne",
+        "postal_code": "49393",
+        "country": "Deutschland",
+        "phone": "(0 44 45) 89 13 86",
+        "fax": "(0 44 45) 89 13 95",
+        "email": "Janin.Bruns@wiesenhof.de",
+        "is_default_billing": true,
+        "is_default_delivery": true
+      }
+    ]
+  },
+  "order_statistics": {
+    "total_orders": 0,
+    "unique_articles_ordered": 0,
+    "recent_orders_count": 0,
+    "last_order_date": null
+  },
+  "order_history": []
+}

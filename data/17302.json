@@ -1,0 +1,79 @@
+{
+  "metadata": {
+    "generated_at": "2025-09-10T23:17:06.501288",
+    "client_number": "17302",
+    "data_source": "BotanBot XML Export"
+  },
+  "client_profile": {
+    "client_number": "17302",
+    "search_term": "ORIENT FRESH",
+    "status": "Kunde",
+    "tax_number": "",
+    "vat_id": "",
+    "is_blocked": false,
+    "price_group": "(Std.-Preis)",
+    "billing_address": {
+      "salutation": "",
+      "name": "Orientinental Döner",
+      "name3": "Ribar Osso",
+      "street": "Rudolf-Diesel-Str. 1",
+      "city": "Itzehoe",
+      "postal_code": "25524",
+      "country": "Deutschland",
+      "phone": "(01 51) 71 37 07 04",
+      "fax": "",
+      "email": "rebar.oswo@t-online.de"
+    },
+    "delivery_address": {
+      "salutation": "",
+      "name": "Orientinental Döner",
+      "name3": "Ribar Osso",
+      "street": "Rudolf-Diesel-Str. 1",
+      "city": "Itzehoe",
+      "postal_code": "25524",
+      "country": "Deutschland",
+      "phone": "(01 51) 71 37 07 04",
+      "fax": "",
+      "email": "rebar.oswo@t-online.de"
+    },
+    "delivery_schedule": {
+      "monday": "",
+      "tuesday": "6",
+      "wednesday": "",
+      "thursday": "",
+      "friday": "6",
+      "saturday": ""
+    },
+    "settings": {
+      "webshop_enabled": false,
+      "ds_addresses": false,
+      "no_pickup_app": false,
+      "minimum_order_value": null,
+      "articles_not_in_history": "1481,1498,3160"
+    },
+    "additional_addresses": [
+      {
+        "address_number": "0",
+        "salutation": "",
+        "name": "Orientinental Döner",
+        "name3": "Ribar Osso",
+        "street": "Rudolf-Diesel-Str. 1",
+        "city": "Itzehoe",
+        "postal_code": "25524",
+        "country": "Deutschland",
+        "phone": "(01 51) 71 37 07 04",
+        "fax": "",
+        "email": "rebar.oswo@t-online.de",
+        "is_default_billing": true,
+        "is_default_delivery": true
+      }
+    ]
+  },
+  "order_statistics": {
+    "total_orders": 0,
+    "unique_articles_ordered": 0,
+    "recent_orders_count": 0,
+    "last_order_date": null
+  },
+  "order_history": []
+}

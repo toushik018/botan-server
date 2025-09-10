@@ -1,0 +1,79 @@
+{
+  "metadata": {
+    "generated_at": "2025-09-10T23:17:06.781658",
+    "client_number": "74530",
+    "data_source": "BotanBot XML Export"
+  },
+  "client_profile": {
+    "client_number": "74530",
+    "search_term": "OLERIA CLEMENTE",
+    "status": "Lieferant",
+    "tax_number": "",
+    "vat_id": "",
+    "is_blocked": false,
+    "price_group": "(Std.-Preis)",
+    "billing_address": {
+      "salutation": "",
+      "name": "OLERARIA CLEMENTE s.r.l.",
+      "name3": "",
+      "street": "Via Giovanni Agnelli snc",
+      "city": "Manfredonia",
+      "postal_code": "71043",
+      "country": "Italien",
+      "phone": "+39 (8 84) 54 39 55",
+      "fax": "+39 (8 84) 54 39 66",
+      "email": "info@oleriaclemente.it"
+    },
+    "delivery_address": {
+      "salutation": "",
+      "name": "OLERARIA CLEMENTE s.r.l.",
+      "name3": "",
+      "street": "Via Giovanni Agnelli snc",
+      "city": "Manfredonia",
+      "postal_code": "71043",
+      "country": "Italien",
+      "phone": "+39 (8 84) 54 39 55",
+      "fax": "+39 (8 84) 54 39 66",
+      "email": "info@oleriaclemente.it"
+    },
+    "delivery_schedule": {
+      "monday": "",
+      "tuesday": "",
+      "wednesday": "",
+      "thursday": "",
+      "friday": "",
+      "saturday": ""
+    },
+    "settings": {
+      "webshop_enabled": false,
+      "ds_addresses": false,
+      "no_pickup_app": false,
+      "minimum_order_value": null,
+      "articles_not_in_history": ""
+    },
+    "additional_addresses": [
+      {
+        "address_number": "0",
+        "salutation": "",
+        "name": "OLERARIA CLEMENTE s.r.l.",
+        "name3": "",
+        "street": "Via Giovanni Agnelli snc",
+        "city": "Manfredonia",
+        "postal_code": "71043",
+        "country": "Italien",
+        "phone": "+39 (8 84) 54 39 55",
+        "fax": "+39 (8 84) 54 39 66",
+        "email": "info@oleriaclemente.it",
+        "is_default_billing": true,
+        "is_default_delivery": true
+      }
+    ]
+  },
+  "order_statistics": {
+    "total_orders": 0,
+    "unique_articles_ordered": 0,
+    "recent_orders_count": 0,
+    "last_order_date": null
+  },
+  "order_history": []
+}

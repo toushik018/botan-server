@@ -1,0 +1,79 @@
+{
+  "metadata": {
+    "generated_at": "2025-09-10T23:17:06.575875",
+    "client_number": "17483",
+    "data_source": "BotanBot XML Export"
+  },
+  "client_profile": {
+    "client_number": "17483",
+    "search_term": "BATOS GROSS- EINZELHANDEL",
+    "status": "Kunde",
+    "tax_number": "",
+    "vat_id": "",
+    "is_blocked": false,
+    "price_group": "3 EK1,10",
+    "billing_address": {
+      "salutation": "",
+      "name": "Batos Gross- und Einzelhandel",
+      "name3": "Stanko Milanovic",
+      "street": "Hasenholz 7",
+      "city": "Kiel",
+      "postal_code": "24161",
+      "country": "Deutschland",
+      "phone": "(01 72) 47 70 08 - 6",
+      "fax": "",
+      "email": "batosrestaurant72@gmail.com"
+    },
+    "delivery_address": {
+      "salutation": "",
+      "name": "Batos Gross- und Einzelhandel",
+      "name3": "Stanko Milanovic",
+      "street": "Hasenholz 7",
+      "city": "Kiel",
+      "postal_code": "24161",
+      "country": "Deutschland",
+      "phone": "(01 72) 47 70 08 - 6",
+      "fax": "",
+      "email": "batosrestaurant72@gmail.com"
+    },
+    "delivery_schedule": {
+      "monday": "",
+      "tuesday": "",
+      "wednesday": "",
+      "thursday": "",
+      "friday": "",
+      "saturday": ""
+    },
+    "settings": {
+      "webshop_enabled": false,
+      "ds_addresses": false,
+      "no_pickup_app": false,
+      "minimum_order_value": null,
+      "articles_not_in_history": ""
+    },
+    "additional_addresses": [
+      {
+        "address_number": "0",
+        "salutation": "",
+        "name": "Batos Gross- und Einzelhandel",
+        "name3": "Stanko Milanovic",
+        "street": "Hasenholz 7",
+        "city": "Kiel",
+        "postal_code": "24161",
+        "country": "Deutschland",
+        "phone": "(01 72) 47 70 08 - 6",
+        "fax": "",
+        "email": "batosrestaurant72@gmail.com",
+        "is_default_billing": true,
+        "is_default_delivery": true
+      }
+    ]
+  },
+  "order_statistics": {
+    "total_orders": 0,
+    "unique_articles_ordered": 0,
+    "recent_orders_count": 0,
+    "last_order_date": null
+  },
+  "order_history": []
+}

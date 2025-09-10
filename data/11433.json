@@ -1,0 +1,509 @@
+{
+  "metadata": {
+    "generated_at": "2025-09-10T23:17:04.757021",
+    "client_number": "11433",
+    "data_source": "BotanBot XML Export"
+  },
+  "client_profile": {
+    "client_number": "11433",
+    "search_term": "STRAND KAUFHAUS",
+    "status": "Kunde",
+    "tax_number": "",
+    "vat_id": "",
+    "is_blocked": false,
+    "price_group": "(Std.-Preis)",
+    "billing_address": {
+      "salutation": "",
+      "name": "Strand Kaufhaus",
+      "name3": "Inh. Mensur Hyseni",
+      "street": "An der Strand Promenade 28",
+      "city": "Dahme",
+      "postal_code": "23747",
+      "country": "Deutschland",
+      "phone": "(01 72) 2 18 52 87",
+      "fax": "",
+      "email": "mhyseni@outlook.de"
+    },
+    "delivery_address": {
+      "salutation": "",
+      "name": "Strand Kaufhaus",
+      "name3": "Inh. Mensur Hyseni",
+      "street": "An der Strand Promenade 28",
+      "city": "Dahme",
+      "postal_code": "23747",
+      "country": "Deutschland",
+      "phone": "(01 72) 2 18 52 87",
+      "fax": "",
+      "email": "mhyseni@outlook.de"
+    },
+    "delivery_schedule": {
+      "monday": "3",
+      "tuesday": "",
+      "wednesday": "",
+      "thursday": "",
+      "friday": "3",
+      "saturday": ""
+    },
+    "settings": {
+      "webshop_enabled": true,
+      "ds_addresses": false,
+      "no_pickup_app": false,
+      "minimum_order_value": null,
+      "articles_not_in_history": ""
+    },
+    "additional_addresses": [
+      {
+        "address_number": "0",
+        "salutation": "",
+        "name": "Strand Kaufhaus",
+        "name3": "Inh. Mensur Hyseni",
+        "street": "An der Strand Promenade 28",
+        "city": "Dahme",
+        "postal_code": "23747",
+        "country": "Deutschland",
+        "phone": "(01 72) 2 18 52 87",
+        "fax": "",
+        "email": "mhyseni@outlook.de",
+        "is_default_billing": true,
+        "is_default_delivery": true
+      }
+    ]
+  },
+  "order_statistics": {
+    "total_orders": 33,
+    "unique_articles_ordered": 33,
+    "recent_orders_count": 33,
+    "last_order_date": "2025-08-15"
+  },
+  "order_history": [
+    {
+      "article_number": "23000025",
+      "date": "2025-08-15",
+      "booking_quantity": 4200.0,
+      "quantity": 324.0,
+      "unit": "TR 24",
+      "article_info": {
+        "short_description": "Pflichtpfand Einwegartikel DPG",
+        "long_description": "Pflichtpfand Einwegartikel DPG",
+        "product_group": "90.05 Pfand",
+        "unit": "ST"
+      }
+    },
+    {
+      "article_number": "9581",
+      "date": "2025-08-15",
+      "booking_quantity": 936.0,
+      "quantity": 78.0,
+      "unit": "KI 12",
+      "article_info": {
+        "short_description": "Coca Cola Zero 12 x 0,5 l DPG",
+        "long_description": "Coca Cola Zero 12 x 0,5 l DPG",
+        "product_group": "15.05.20 0,5 l Flasche",
+        "unit": "FL"
+      }
+    },
+    {
+      "article_number": "1233",
+      "date": "2025-08-15",
+      "booking_quantity": 672.0,
+      "quantity": 42.0,
+      "unit": "KI 16",
+      "article_info": {
+        "short_description": "Flensburger Pilsener  16 x 0,5 l",
+        "long_description": "Flensburger Pilsener 16 x 0,5 l Flasche",
+        "product_group": "15.20.05.10 0,5 l Flasche MWK",
+        "unit": "FL"
+      }
+    },
+    {
+      "article_number": "23391",
+      "date": "2025-08-15",
+      "booking_quantity": 42.0,
+      "quantity": 42.0,
+      "unit": "Kiste",
+      "article_info": {
+        "short_description": "Pfand = 3,90 €, 16 er Kiste  Bügelflaschen",
+        "long_description": "Pfand = 3,90 € 16er Kiste Bügelflaschen",
+        "product_group": "90.05 Pfand",
+        "unit": "FL"
+      }
+    },
+    {
+      "article_number": "23450",
+      "date": "2025-08-15",
+      "booking_quantity": 28.0,
+      "quantity": 28.0,
+      "unit": "Kiste",
+      "article_info": {
+        "short_description": "Pfand = 4,50 €  20 x Bügel od. 12 x Mehrweg FL",
+        "long_description": "Pfand = 4,50 € 20 x Bügel- oder Mehrwegflaschen",
+        "product_group": "90.05 Pfand",
+        "unit": "ST"
+      }
+    },
+    {
+      "article_number": "1406",
+      "date": "2025-08-15",
+      "booking_quantity": 45.0,
+      "quantity": 9.0,
+      "unit": "Eimer 5 kg",
+      "article_info": {
+        "short_description": "40% Speisequark 5Kg Eimer",
+        "long_description": "Speisequark 40 % 5 kg Eimer",
+        "product_group": "05.15.30 Quark / Schmand",
+        "unit": "KG"
+      }
+    },
+    {
+      "article_number": "9314",
+      "date": "2025-08-15",
+      "booking_quantity": 48.0,
+      "quantity": 48.0,
+      "unit": "Pack 1",
+      "article_info": {
+        "short_description": "Ravens. H-Milchreis Natur 1L",
+        "long_description": "Ravensberger H-Milchreis natur 1 l",
+        "product_group": "05.40.20.10 Desserts",
+        "unit": "PK"
+      }
+    },
+    {
+      "article_number": "9408",
+      "date": "2025-08-15",
+      "booking_quantity": 240.0,
+      "quantity": 12.0,
+      "unit": "KI 20",
+      "article_info": {
+        "short_description": "Flensburger RADLER  20x0,33 l Bügelfl. MWK",
+        "long_description": "Flensburger Radler 20 x 0,33 l Bügelflasche MWK",
+        "product_group": "15.20.05.05 0,33 l Flasche MWK",
+        "unit": "FL"
+      }
+    },
+    {
+      "article_number": "1736",
+      "date": "2025-08-15",
+      "booking_quantity": 6.0,
+      "quantity": 6.0,
+      "unit": "Pack 1",
+      "article_info": {
+        "short_description": "KLARE Trinkbecher  0,3 l, 100 Stk.",
+        "long_description": "KLARE Trinkbecher  0,3 l, 100 Stk.",
+        "product_group": "10.05.65 Trinkbecher und Deckel",
+        "unit": "PK"
+      }
+    },
+    {
+      "article_number": "1205",
+      "date": "2025-08-15",
+      "booking_quantity": 100.0,
+      "quantity": 5.0,
+      "unit": "KI 20",
+      "article_info": {
+        "short_description": "Flensburger DUNKEL 20 x 0,33 l",
+        "long_description": "Flensburger Dunkel 20 x 0,33 l Flasche",
+        "product_group": "15.20.05.05 0,33 l Flasche MWK",
+        "unit": "FL"
+      }
+    },
+    {
+      "article_number": "9405",
+      "date": "2025-08-15",
+      "booking_quantity": 120.0,
+      "quantity": 6.0,
+      "unit": "KI 20",
+      "article_info": {
+        "short_description": "Flensburger GOLD  20x0,33 l Bügelfl. MWK",
+        "long_description": "Flensburger Gold 20 x 0,33 l Bügelflasche MWK",
+        "product_group": "15.20.05.05 0,33 l Flasche MWK",
+        "unit": "FL"
+      }
+    },
+    {
+      "article_number": "9539",
+      "date": "2025-08-15",
+      "booking_quantity": 48.0,
+      "quantity": 2.0,
+      "unit": "Karton 24 Stk.",
+      "article_info": {
+        "short_description": "Jack Daniel´s Cola 10%  24x0,33l DPG",
+        "long_description": "Jack Daniel´s Cola 10%  24x0,33l DPG",
+        "product_group": "15.23.10 0,33 l Dose",
+        "unit": "DS"
+      }
+    },
+    {
+      "article_number": "230450",
+      "date": "2025-08-12",
+      "booking_quantity": -50.0,
+      "quantity": -50.0,
+      "unit": "Kiste",
+      "article_info": {
+        "short_description": "Rücknahme Pfand 4,50€ (20x0,33l Bier)",
+        "long_description": "Rücknahme Pfand 4,50€ (20x0,33l Bier)",
+        "product_group": "90.05 Pfand",
+        "unit": "ST"
+      }
+    },
+    {
+      "article_number": "3102",
+      "date": "2025-08-11",
+      "booking_quantity": 336.0,
+      "quantity": 14.0,
+      "unit": "TR 24",
+      "article_info": {
+        "short_description": "DPG 24 x 0,5 l. Yurt Quellwasser",
+        "long_description": "Yurt Quellwasser 24 x 0,5 l Flasche DPG",
+        "product_group": "15.15.15 0,5 l Flasche",
+        "unit": "FL"
+      }
+    },
+    {
+      "article_number": "1227",
+      "date": "2025-08-11",
+      "booking_quantity": 300.0,
+      "quantity": 25.0,
+      "unit": "KI 12",
+      "article_info": {
+        "short_description": "Sprite 12 x 0,5 l DPG",
+        "long_description": "Sprite 12 x 0,5 l DPG",
+        "product_group": "15.05.20 0,5 l Flasche",
+        "unit": "FL"
+      }
+    },
+    {
+      "article_number": "1225",
+      "date": "2025-08-11",
+      "booking_quantity": 276.0,
+      "quantity": 23.0,
+      "unit": "KI 12",
+      "article_info": {
+        "short_description": "Mezzo Mix 12 x 0,5 l DPG",
+        "long_description": "Mezzo Mix 12 x 0,5 l DPG",
+        "product_group": "15.05.20 0,5 l Flasche",
+        "unit": "FL"
+      }
+    },
+    {
+      "article_number": "1223",
+      "date": "2025-08-11",
+      "booking_quantity": 888.0,
+      "quantity": 74.0,
+      "unit": "KI 12",
+      "article_info": {
+        "short_description": "Coca Cola 12 x 0,5 l DPG",
+        "long_description": "Coca Cola 12 x 0,5 l DPG",
+        "product_group": "15.05.20 0,5 l Flasche",
+        "unit": "FL"
+      }
+    },
+    {
+      "article_number": "8924",
+      "date": "2025-08-11",
+      "booking_quantity": 132.0,
+      "quantity": 11.0,
+      "unit": "TR 12",
+      "article_info": {
+        "short_description": "Fuze Tea Zitrone 12 x 0,4 l Pet-Flasche",
+        "long_description": "Fuze Tea Zitrone 12 x 0,4 l Pet-Flasche",
+        "product_group": "15.05.13 0,4 l Flasche",
+        "unit": "FL"
+      }
+    },
+    {
+      "article_number": "1226",
+      "date": "2025-08-08",
+      "booking_quantity": 300.0,
+      "quantity": 25.0,
+      "unit": "KI 12",
+      "article_info": {
+        "short_description": "Fanta Orange 12 x 0,5 l DPG",
+        "long_description": "Fanta Orange 12 x 0,5 l DPG",
+        "product_group": "15.05.20 0,5 l Flasche",
+        "unit": "FL"
+      }
+    },
+    {
+      "article_number": "1224",
+      "date": "2025-08-08",
+      "booking_quantity": 240.0,
+      "quantity": 20.0,
+      "unit": "KI 12",
+      "article_info": {
+        "short_description": "Coca Cola Light 12 x 0,5 l DPG",
+        "long_description": "Coca Cola Light 12 x 0,5 l DPG",
+        "product_group": "15.05.20 0,5 l Flasche",
+        "unit": "FL"
+      }
+    },
+    {
+      "article_number": "3101",
+      "date": "2025-08-08",
+      "booking_quantity": 60.0,
+      "quantity": 10.0,
+      "unit": "TR 6",
+      "article_info": {
+        "short_description": "DPG 6 x1,5 l.  Yurt Quellwasser",
+        "long_description": "Yurt Quellwasser DPG 6 x1,5 l.",
+        "product_group": "15.15.30 1,5 l Flasche",
+        "unit": "FL"
+      }
+    },
+    {
+      "article_number": "9535",
+      "date": "2025-08-08",
+      "booking_quantity": 120.0,
+      "quantity": 5.0,
+      "unit": "Karton 24 Stk.",
+      "article_info": {
+        "short_description": "DPG Fanta Mango & Dragonfruit 24 x 0,33 l DS",
+        "long_description": "Fanta Mango & Dragonfruit 24 x 0,33 l Dose DPG",
+        "product_group": "15.05.15 0,25 l und 0,33 l Dosen",
+        "unit": "DS"
+      }
+    },
+    {
+      "article_number": "9527",
+      "date": "2025-08-08",
+      "booking_quantity": 240.0,
+      "quantity": 10.0,
+      "unit": "Karton 24 Stk.",
+      "article_info": {
+        "short_description": "DPG Fanta Exotic 24 x 0,33 l DS",
+        "long_description": "Fanta Exotic 24 x 0,33 l DS DPG",
+        "product_group": "15.05.15 0,25 l und 0,33 l Dosen",
+        "unit": "DS"
+      }
+    },
+    {
+      "article_number": "1003",
+      "date": "2025-08-04",
+      "booking_quantity": 216.0,
+      "quantity": 18.0,
+      "unit": "KI 12",
+      "article_info": {
+        "short_description": "Lift Apfelschorle 12 x 0,5 l DPG",
+        "long_description": "Lift Apfelschorle 12 x 0,5 l DPG",
+        "product_group": "15.05.20 0,5 l Flasche",
+        "unit": "FL"
+      }
+    },
+    {
+      "article_number": "999999",
+      "date": "2025-08-04",
+      "booking_quantity": 0.0,
+      "quantity": 0.0,
+      "unit": "",
+      "article_info": {
+        "short_description": "",
+        "long_description": "",
+        "product_group": "",
+        "unit": ""
+      }
+    },
+    {
+      "article_number": "8922",
+      "date": "2025-07-28",
+      "booking_quantity": 108.0,
+      "quantity": 9.0,
+      "unit": "TR 12",
+      "article_info": {
+        "short_description": "FUZE Pfirsich 12 x 0,4 l Pet  Flasche",
+        "long_description": "Fuze Tea Pfirsich 12 x 0,4 l Pet-Flasche",
+        "product_group": "15.05.13 0,4 l Flasche",
+        "unit": "FL"
+      }
+    },
+    {
+      "article_number": "230390",
+      "date": "2025-07-22",
+      "booking_quantity": -4.0,
+      "quantity": -4.0,
+      "unit": "Kiste",
+      "article_info": {
+        "short_description": "Rücknahme Pfand 3,90€  24er Schweppes,10er S.P.0,7",
+        "long_description": "Rücknahme Pfand 3,90€  24er Schweppes,10er S.P.0,7",
+        "product_group": "90.05 Pfand",
+        "unit": "ST"
+      }
+    },
+    {
+      "article_number": "4500",
+      "date": "2025-07-21",
+      "booking_quantity": 7.0,
+      "quantity": 7.0,
+      "unit": "Pack 1",
+      "article_info": {
+        "short_description": "Deckel für Kaffeebecher 0,3 l und 0,4 l   100 Stk.",
+        "long_description": "Deckel für Kaffeebecher 0,3 l + 0,4 l 100 Stück",
+        "product_group": "10.05.65 Trinkbecher und Deckel",
+        "unit": "PK"
+      }
+    },
+    {
+      "article_number": "1697",
+      "date": "2025-07-21",
+      "booking_quantity": 2.0,
+      "quantity": 2.0,
+      "unit": "Pack 1",
+      "article_info": {
+        "short_description": "Kaffeebecher 0,3 l  Br. Pappe  100 Stk.",
+        "long_description": "Kaffeebecher 0,3 l Br. Pappe 100 Stück",
+        "product_group": "10.05.65 Trinkbecher und Deckel",
+        "unit": "PK"
+      }
+    },
+    {
+      "article_number": "1189",
+      "date": "2025-07-21",
+      "booking_quantity": 100.0,
+      "quantity": 5.0,
+      "unit": "KI 20",
+      "article_info": {
+        "short_description": "Flensburger Pilsener MW 20x0,33 l",
+        "long_description": "Flensburger Pilsener MW 20 x 0,33 l Flasche",
+        "product_group": "15.20.05.05 0,33 l Flasche MWK",
+        "unit": "FL"
+      }
+    },
+    {
+      "article_number": "1119",
+      "date": "2025-07-11",
+      "booking_quantity": 5.0,
+      "quantity": 5.0,
+      "unit": "Pack 1",
+      "article_info": {
+        "short_description": "Kaffeebecher (Pappe) 0,4 l / 16 oz",
+        "long_description": "Kaffeebecher (Pappe) 0,4 l / 16 oz",
+        "product_group": "10.05.65 Trinkbecher und Deckel",
+        "unit": "PK"
+      }
+    },
+    {
+      "article_number": "4501",
+      "date": "2025-07-04",
+      "booking_quantity": 7.0,
+      "quantity": 7.0,
+      "unit": "Pack 1",
+      "article_info": {
+        "short_description": "Deckel für Kaffeebecher 0,2 l 100 Stk.",
+        "long_description": "Deckel für Kaffeebecher 0,2 l 100 Stück",
+        "product_group": "10.05.65 Trinkbecher und Deckel",
+        "unit": "PK"
+      }
+    },
+    {
+      "article_number": "1122",
+      "date": "2025-07-04",
+      "booking_quantity": 7.0,
+      "quantity": 7.0,
+      "unit": "Pack 1",
+      "article_info": {
+        "short_description": "Kaffeebecher 0,2 l  Br. Pappe 100 Stk.",
+        "long_description": "Kaffeebecher 0,2 l Br. Pappe 100 Stück",
+        "product_group": "10.05.65 Trinkbecher und Deckel",
+        "unit": "PK"
+      }
+    }
+  ]
+}

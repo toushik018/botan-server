@@ -1,0 +1,94 @@
+{
+  "metadata": {
+    "generated_at": "2025-09-10T23:17:04.985192",
+    "client_number": "12291",
+    "data_source": "BotanBot XML Export"
+  },
+  "client_profile": {
+    "client_number": "12291",
+    "search_term": "VENETO",
+    "status": "Kunde",
+    "tax_number": "",
+    "vat_id": "",
+    "is_blocked": false,
+    "price_group": "(Std.-Preis)",
+    "billing_address": {
+      "salutation": "",
+      "name": "Via Veneto",
+      "name3": "Inh. Jutta Riccobono",
+      "street": "Lockstedter Steindamm 3 b",
+      "city": "Hamburg",
+      "postal_code": "22529",
+      "country": "Deutschland",
+      "phone": "(01 71) 2 71 28 11",
+      "fax": "",
+      "email": "via.veneto-jutta.riccobono@t-online.de"
+    },
+    "delivery_address": {
+      "salutation": "",
+      "name": "Via Veneto",
+      "name3": "Inh. Jutta Riccobono",
+      "street": "Barmstedter Straße 21",
+      "city": "Hemdingen",
+      "postal_code": "25485",
+      "country": "Deutschland",
+      "phone": "(01 71) 2 71 28 11",
+      "fax": "",
+      "email": "via.veneto-jutta.riccobono@t-online.de"
+    },
+    "delivery_schedule": {
+      "monday": "",
+      "tuesday": "",
+      "wednesday": "",
+      "thursday": "",
+      "friday": "",
+      "saturday": ""
+    },
+    "settings": {
+      "webshop_enabled": false,
+      "ds_addresses": false,
+      "no_pickup_app": false,
+      "minimum_order_value": null,
+      "articles_not_in_history": "1912"
+    },
+    "additional_addresses": [
+      {
+        "address_number": "0",
+        "salutation": "",
+        "name": "Via Veneto",
+        "name3": "Inh. Jutta Riccobono",
+        "street": "Lockstedter Steindamm 3 b",
+        "city": "Hamburg",
+        "postal_code": "22529",
+        "country": "Deutschland",
+        "phone": "(01 71) 2 71 28 11",
+        "fax": "",
+        "email": "via.veneto-jutta.riccobono@t-online.de",
+        "is_default_billing": true,
+        "is_default_delivery": false
+      },
+      {
+        "address_number": "1",
+        "salutation": "",
+        "name": "Via Veneto",
+        "name3": "Inh. Jutta Riccobono",
+        "street": "Barmstedter Straße 21",
+        "city": "Hemdingen",
+        "postal_code": "25485",
+        "country": "Deutschland",
+        "phone": "(01 71) 2 71 28 11",
+        "fax": "",
+        "email": "via.veneto-jutta.riccobono@t-online.de",
+        "is_default_billing": false,
+        "is_default_delivery": true
+      }
+    ]
+  },
+  "order_statistics": {
+    "total_orders": 0,
+    "unique_articles_ordered": 0,
+    "recent_orders_count": 0,
+    "last_order_date": null
+  },
+  "order_history": []
+}

@@ -1,0 +1,353 @@
+{
+  "metadata": {
+    "generated_at": "2025-09-10T23:17:06.655451",
+    "client_number": "17675",
+    "data_source": "BotanBot XML Export"
+  },
+  "client_profile": {
+    "client_number": "17675",
+    "search_term": "SNACK PIRATEN",
+    "status": "Kunde",
+    "tax_number": "",
+    "vat_id": "",
+    "is_blocked": false,
+    "price_group": "(Std.-Preis)",
+    "billing_address": {
+      "salutation": "",
+      "name": "Snack Piraten GbR",
+      "name3": "Benjamin Andre Schacht",
+      "street": "Lübeckerstr. 3",
+      "city": "Lensahn",
+      "postal_code": "23738",
+      "country": "Deutschland",
+      "phone": "(0 17) 47 24 78 31",
+      "fax": "",
+      "email": "snackpiraten@gmail.com"
+    },
+    "delivery_address": {
+      "salutation": "",
+      "name": "Snack Piraten GbR",
+      "name3": "Benjamin Andre Schacht",
+      "street": "Lübeckerstr. 3",
+      "city": "Lensahn",
+      "postal_code": "23738",
+      "country": "Deutschland",
+      "phone": "(0 17) 47 24 78 31",
+      "fax": "",
+      "email": "snackpiraten@gmail.com"
+    },
+    "delivery_schedule": {
+      "monday": "",
+      "tuesday": "1",
+      "wednesday": "",
+      "thursday": "",
+      "friday": "3",
+      "saturday": ""
+    },
+    "settings": {
+      "webshop_enabled": false,
+      "ds_addresses": false,
+      "no_pickup_app": false,
+      "minimum_order_value": null,
+      "articles_not_in_history": ""
+    },
+    "additional_addresses": [
+      {
+        "address_number": "0",
+        "salutation": "",
+        "name": "Snack Piraten GbR",
+        "name3": "Benjamin Andre Schacht",
+        "street": "Lübeckerstr. 3",
+        "city": "Lensahn",
+        "postal_code": "23738",
+        "country": "Deutschland",
+        "phone": "(0 17) 47 24 78 31",
+        "fax": "",
+        "email": "snackpiraten@gmail.com",
+        "is_default_billing": true,
+        "is_default_delivery": true
+      }
+    ]
+  },
+  "order_statistics": {
+    "total_orders": 21,
+    "unique_articles_ordered": 21,
+    "recent_orders_count": 21,
+    "last_order_date": "2025-05-28"
+  },
+  "order_history": [
+    {
+      "article_number": "1486",
+      "date": "2025-05-28",
+      "booking_quantity": 40.0,
+      "quantity": 1.0,
+      "unit": "Karton 40 Stk.",
+      "article_info": {
+        "short_description": "Schweineschnitzel, paniert  40 x 180 g",
+        "long_description": "Schweineschnitzel paniert 40 x 180 g",
+        "product_group": "05.05.10.05 TK",
+        "unit": "ST"
+      }
+    },
+    {
+      "article_number": "9169",
+      "date": "2025-05-28",
+      "booking_quantity": 40.0,
+      "quantity": 1.0,
+      "unit": "Karton 40 Stk.",
+      "article_info": {
+        "short_description": "TK  Cordon Bleu v. Schwein 40 x 180g",
+        "long_description": "Cordon Bleu vom Schwein 40 x 180 g TK",
+        "product_group": "05.05.10.05 TK",
+        "unit": "ST"
+      }
+    },
+    {
+      "article_number": "1354",
+      "date": "2025-05-28",
+      "booking_quantity": 10.0,
+      "quantity": 1.0,
+      "unit": "Karton 10 kg",
+      "article_info": {
+        "short_description": "TK Pommes frites 4 x 2,5 Kg",
+        "long_description": "TK Pommes frites 4 x 2,5 kg Beutel",
+        "product_group": "05.30.05 Pommes",
+        "unit": "KG"
+      }
+    },
+    {
+      "article_number": "1553",
+      "date": "2025-05-28",
+      "booking_quantity": 1.0,
+      "quantity": 1.0,
+      "unit": "Beutel 1 kg",
+      "article_info": {
+        "short_description": "Chicken Nuggets 1 kg BT",
+        "long_description": "Chicken Nuggets 1 kg",
+        "product_group": "05.05.20.05 TK",
+        "unit": "KG"
+      }
+    },
+    {
+      "article_number": "1376",
+      "date": "2025-05-28",
+      "booking_quantity": 2.5,
+      "quantity": 1.0,
+      "unit": "Beutel 2,5 kg",
+      "article_info": {
+        "short_description": "Kroketten Lang   2,5 Kg  BT TK",
+        "long_description": "Kroketten lang 2,5 kg Beutel TK",
+        "product_group": "05.30.10 weitere",
+        "unit": "KG"
+      }
+    },
+    {
+      "article_number": "1375",
+      "date": "2025-05-28",
+      "booking_quantity": 2.5,
+      "quantity": 1.0,
+      "unit": "Beutel 2,5 kg",
+      "article_info": {
+        "short_description": "Potato Wedges TK gewür. 2,5 kg",
+        "long_description": "Potato Wedges gewürzt  2,5 kg TK",
+        "product_group": "05.30.10 weitere",
+        "unit": "KG"
+      }
+    },
+    {
+      "article_number": "9181",
+      "date": "2025-05-28",
+      "booking_quantity": 0.5,
+      "quantity": 1.0,
+      "unit": "Pack 0,5 kg",
+      "article_info": {
+        "short_description": "Hinterkochschinken geschn. 500 g  Kal.130",
+        "long_description": "Hinterkochschinken geschnitten 500 g Kaliber 130",
+        "product_group": "05.05.10.10 Frisch",
+        "unit": "KG"
+      }
+    },
+    {
+      "article_number": "9184",
+      "date": "2025-05-28",
+      "booking_quantity": 1.0,
+      "quantity": 1.0,
+      "unit": "Pack 1",
+      "article_info": {
+        "short_description": "Salami Kal. 80  1KG",
+        "long_description": "Salami Kaliber 80 1 kg",
+        "product_group": "05.05.10.10 Frisch",
+        "unit": "KG"
+      }
+    },
+    {
+      "article_number": "1576",
+      "date": "2025-05-28",
+      "booking_quantity": 1.0,
+      "quantity": 1.0,
+      "unit": "Dose 1 Stk.",
+      "article_info": {
+        "short_description": "Thunfisch in Öl in Dose 1,705 kg",
+        "long_description": "Thunfisch in Öl in Dose  1,705 kg",
+        "product_group": "05.25.30 Konserven",
+        "unit": "DS"
+      }
+    },
+    {
+      "article_number": "1355",
+      "date": "2025-05-28",
+      "booking_quantity": 2.5,
+      "quantity": 1.0,
+      "unit": "Beutel 2,5 kg",
+      "article_info": {
+        "short_description": "Bratkartoffeln TK  2,5 Kg Beutel",
+        "long_description": "Bratkartoffeln TK 2,5 kg Beutel",
+        "product_group": "05.30.10 weitere",
+        "unit": "KG"
+      }
+    },
+    {
+      "article_number": "1357",
+      "date": "2025-05-28",
+      "booking_quantity": 5.0,
+      "quantity": 1.0,
+      "unit": "Karton 5 kg",
+      "article_info": {
+        "short_description": "Rösti  2 x 2,5 Kg a 40g",
+        "long_description": "Rösti 2 x 2,5 kg a 40 g",
+        "product_group": "05.30.10 weitere",
+        "unit": "KG"
+      }
+    },
+    {
+      "article_number": "1323",
+      "date": "2025-05-28",
+      "booking_quantity": 1.0,
+      "quantity": 1.0,
+      "unit": "Tube 1",
+      "article_info": {
+        "short_description": "Snack Dressing Schulstad 900ml Tube",
+        "long_description": "Schulstad Snack Dressing 900 ml Tube",
+        "product_group": "05.45.20 Spezial-Saucen",
+        "unit": "TB"
+      }
+    },
+    {
+      "article_number": "1602",
+      "date": "2025-05-28",
+      "booking_quantity": 1.0,
+      "quantity": 1.0,
+      "unit": "Tube 1",
+      "article_info": {
+        "short_description": "Spezialsauce Burger Dressing Tube",
+        "long_description": "Spezialsauce Burger Dressing Tube",
+        "product_group": "05.45.20 Spezial-Saucen",
+        "unit": "TB"
+      }
+    },
+    {
+      "article_number": "1312",
+      "date": "2025-05-28",
+      "booking_quantity": 10.0,
+      "quantity": 1.0,
+      "unit": "Eimer 10 kg",
+      "article_info": {
+        "short_description": "\"Bombay\" Curry Ketchup  10 kg Eimer",
+        "long_description": "\"Bombay\" Curry Ketchup  10 kg Eimer",
+        "product_group": "05.45.10 Ketchup",
+        "unit": "KG"
+      }
+    },
+    {
+      "article_number": "1640",
+      "date": "2025-05-28",
+      "booking_quantity": 10.0,
+      "quantity": 1.0,
+      "unit": "Eimer 10 kg",
+      "article_info": {
+        "short_description": "Salat-Mayonnaise Remia  10 Kg Eimer",
+        "long_description": "Remia Salatmayonnaise 10 kg Eimer",
+        "product_group": "05.45.05 Mayonnaise",
+        "unit": "KG"
+      }
+    },
+    {
+      "article_number": "1336",
+      "date": "2025-05-28",
+      "booking_quantity": 10.0,
+      "quantity": 1.0,
+      "unit": "Eimer 10 kg",
+      "article_info": {
+        "short_description": "Tomaten Ketchup Remia 10 Kg Eimer",
+        "long_description": "Remia Tomaten-Ketchup 10 kg Eimer",
+        "product_group": "05.45.10 Ketchup",
+        "unit": "KG"
+      }
+    },
+    {
+      "article_number": "1401",
+      "date": "2025-05-28",
+      "booking_quantity": 100.0,
+      "quantity": 1.0,
+      "unit": "Karton 100 Stk.",
+      "article_info": {
+        "short_description": "Wernsing Tomaten Ketch. Port. BT  100x18 ml",
+        "long_description": "Wernsing Tomaten-Ketchup portioniert 100 x 18 ml",
+        "product_group": "05.45.10 Ketchup",
+        "unit": "BT"
+      }
+    },
+    {
+      "article_number": "1402",
+      "date": "2025-05-28",
+      "booking_quantity": 100.0,
+      "quantity": 1.0,
+      "unit": "Karton 100 Stk.",
+      "article_info": {
+        "short_description": "Wernsing Salatmayon. port. BT 100x20 ml",
+        "long_description": "Wernsing Salatmayonnaise portioniert 100 x 20 ml",
+        "product_group": "05.45.05 Mayonnaise",
+        "unit": "BT"
+      }
+    },
+    {
+      "article_number": "1972",
+      "date": "2025-05-28",
+      "booking_quantity": 10.0,
+      "quantity": 1.0,
+      "unit": "Pack 10 Stk.",
+      "article_info": {
+        "short_description": "Sunny Veggie Gemüse Burger 10x130g / Beutel",
+        "long_description": "Sunny Veggie Gemüseburger 10 x 130 g/Beutel",
+        "product_group": "05.40.15 Convenience Food",
+        "unit": "ST"
+      }
+    },
+    {
+      "article_number": "1489",
+      "date": "2025-05-28",
+      "booking_quantity": 50.0,
+      "quantity": 1.0,
+      "unit": "Karton 50 Stk.",
+      "article_info": {
+        "short_description": "Best Burger 50 x 100g Halal",
+        "long_description": "Best Burger 50 x 100g Halal",
+        "product_group": "05.05.05.05 TK",
+        "unit": "ST"
+      }
+    },
+    {
+      "article_number": "3002",
+      "date": "2025-05-28",
+      "booking_quantity": 24.0,
+      "quantity": 1.0,
+      "unit": "Karton 24 Stk.",
+      "article_info": {
+        "short_description": "Sesambrötchen 5 -Inch (80g) 125mm 24Stk.",
+        "long_description": "Sesambrötchen 5 Inch 80 g 125 mm 24 Stück",
+        "product_group": "05.40.10 Brotwaren",
+        "unit": "ST"
+      }
+    }
+  ]
+}

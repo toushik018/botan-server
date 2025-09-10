@@ -1,0 +1,483 @@
+{
+  "metadata": {
+    "generated_at": "2025-09-10T23:17:04.993192",
+    "client_number": "12319",
+    "data_source": "BotanBot XML Export"
+  },
+  "client_profile": {
+    "client_number": "12319",
+    "search_term": "TRAUMGMBH",
+    "status": "Kunde",
+    "tax_number": "",
+    "vat_id": "",
+    "is_blocked": false,
+    "price_group": "(Std.-Preis)",
+    "billing_address": {
+      "salutation": "",
+      "name": "Traum GmbH",
+      "name3": "",
+      "street": "Grasweg 19",
+      "city": "Kiel",
+      "postal_code": "24118",
+      "country": "Deutschland",
+      "phone": "(04 31) 54 44 50",
+      "fax": "(04 31) 5 44 45 50",
+      "email": "buchhaltung@traumgmbh.de"
+    },
+    "delivery_address": {
+      "salutation": "",
+      "name": "Traum GmbH",
+      "name3": "",
+      "street": "Grasweg 19",
+      "city": "Kiel",
+      "postal_code": "24118",
+      "country": "Deutschland",
+      "phone": "(04 31) 54 44 50",
+      "fax": "(04 31) 5 44 45 50",
+      "email": "buchhaltung@traumgmbh.de"
+    },
+    "delivery_schedule": {
+      "monday": "18",
+      "tuesday": "18",
+      "wednesday": "18",
+      "thursday": "18",
+      "friday": "18",
+      "saturday": ""
+    },
+    "settings": {
+      "webshop_enabled": true,
+      "ds_addresses": false,
+      "no_pickup_app": false,
+      "minimum_order_value": null,
+      "articles_not_in_history": "9890"
+    },
+    "additional_addresses": [
+      {
+        "address_number": "0",
+        "salutation": "",
+        "name": "Traum GmbH",
+        "name3": "",
+        "street": "Grasweg 19",
+        "city": "Kiel",
+        "postal_code": "24118",
+        "country": "Deutschland",
+        "phone": "(04 31) 54 44 50",
+        "fax": "(04 31) 5 44 45 50",
+        "email": "buchhaltung@traumgmbh.de",
+        "is_default_billing": true,
+        "is_default_delivery": true
+      }
+    ]
+  },
+  "order_statistics": {
+    "total_orders": 31,
+    "unique_articles_ordered": 31,
+    "recent_orders_count": 31,
+    "last_order_date": "2025-08-18"
+  },
+  "order_history": [
+    {
+      "article_number": "1634",
+      "date": "2025-08-18",
+      "booking_quantity": 510.0,
+      "quantity": 34.0,
+      "unit": "Karton 15",
+      "article_info": {
+        "short_description": "Sonnenbl. Öl 1l",
+        "long_description": "Sonnenblumenöl 1 l",
+        "product_group": "05.25.20.05 Öle",
+        "unit": "FL"
+      }
+    },
+    {
+      "article_number": "1546",
+      "date": "2025-08-18",
+      "booking_quantity": 3200.0,
+      "quantity": 128.0,
+      "unit": "Sack 25 kg",
+      "article_info": {
+        "short_description": "Mehl Typ 405 Gloria  25 Kg Sack",
+        "long_description": "Gloria Mehl Typ 405 25 kg Sack",
+        "product_group": "05.25.15.05 Mehl",
+        "unit": "KG"
+      }
+    },
+    {
+      "article_number": "9184",
+      "date": "2025-08-18",
+      "booking_quantity": 128.0,
+      "quantity": 128.0,
+      "unit": "Pack 1",
+      "article_info": {
+        "short_description": "Salami Kal. 80  1KG",
+        "long_description": "Salami Kaliber 80 1 kg",
+        "product_group": "05.05.10.10 Frisch",
+        "unit": "KG"
+      }
+    },
+    {
+      "article_number": "1164",
+      "date": "2025-08-18",
+      "booking_quantity": 166.0,
+      "quantity": 166.0,
+      "unit": "Pack 1",
+      "article_info": {
+        "short_description": "Mozzarella  45% F.i.Tr.  1000 g Brotform",
+        "long_description": "Mozzarella 45 % F.i.Tr. 1.000 g Brotform",
+        "product_group": "05.15.05.10.01 Weichkäse aus Kuhmilch",
+        "unit": "KG"
+      }
+    },
+    {
+      "article_number": "1670",
+      "date": "2025-08-18",
+      "booking_quantity": 516.0,
+      "quantity": 43.0,
+      "unit": "Karton 12 Stk.",
+      "article_info": {
+        "short_description": "fettarme H-Milch  1,5%  1 Liter",
+        "long_description": "fettarme H-Milch 1,5%  1 Liter",
+        "product_group": "05.15.15 Milch",
+        "unit": "PK"
+      }
+    },
+    {
+      "article_number": "2725",
+      "date": "2025-08-18",
+      "booking_quantity": 96.0,
+      "quantity": 6.0,
+      "unit": "Kanister 16 kg",
+      "article_info": {
+        "short_description": "OBA ROT Weisskäse in Salzlake 40% F.i.Tr ,16 KG KN",
+        "long_description": "OBA ROT Weisskäse in Salzlake 40% F.i.Tr ,16 KG KN",
+        "product_group": "05.15.05.10.01 Weichkäse aus Kuhmilch",
+        "unit": "KG"
+      }
+    },
+    {
+      "article_number": "9101",
+      "date": "2025-08-18",
+      "booking_quantity": 4.0,
+      "quantity": 4.0,
+      "unit": "Pack",
+      "article_info": {
+        "short_description": "Pizza Karton 30x30x4 cm",
+        "long_description": "Pizza-Karton 30 x 30 x 4 cm",
+        "product_group": "10.05.05 Pizzakartons",
+        "unit": "PK"
+      }
+    },
+    {
+      "article_number": "1987",
+      "date": "2025-08-18",
+      "booking_quantity": 7.195,
+      "quantity": 7.195,
+      "unit": "ST",
+      "article_info": {
+        "short_description": "ISOLA FRESCA Gorgonzolakäse  48% F.i.Tr. ca. 1,5kg",
+        "long_description": "ISOLA FRESCA Gorgonzolakäse 48 % F.i.Tr. ca. 1,5kg",
+        "product_group": "05.15.05.10.25 Spezialitäten",
+        "unit": "KG"
+      }
+    },
+    {
+      "article_number": "1162",
+      "date": "2025-08-18",
+      "booking_quantity": 201.235,
+      "quantity": 201.235,
+      "unit": "Block",
+      "article_info": {
+        "short_description": "Pizzakäse Gouda  48%  F.i.Tr. Milram",
+        "long_description": "Milram Pizzakäse Gouda  48 % F.i.Tr. ca. 15 Kg",
+        "product_group": "05.15.05.05.05 Blockware",
+        "unit": "KG"
+      }
+    },
+    {
+      "article_number": "3080",
+      "date": "2025-08-18",
+      "booking_quantity": 6.0,
+      "quantity": 6.0,
+      "unit": "Flasche 1",
+      "article_info": {
+        "short_description": "Reines Oliven Öl 1 L",
+        "long_description": "Reines Olivenöl 1 l",
+        "product_group": "05.25.20.05 Öle",
+        "unit": "FL"
+      }
+    },
+    {
+      "article_number": "1427",
+      "date": "2025-08-11",
+      "booking_quantity": 3.0,
+      "quantity": 3.0,
+      "unit": "Pack 1",
+      "article_info": {
+        "short_description": "Curry Pulver  1 Kg",
+        "long_description": "Currypulver 1 kg",
+        "product_group": "05.25.35 Gewürze",
+        "unit": "KG"
+      }
+    },
+    {
+      "article_number": "1936",
+      "date": "2025-08-11",
+      "booking_quantity": 6.0,
+      "quantity": 12.0,
+      "unit": "Pack 0,5 kg",
+      "article_info": {
+        "short_description": "Sucuk geschnitten 0,5 kg",
+        "long_description": "Sucuk geschnitten 0,5 kg",
+        "product_group": "05.05.05.10 Frisch",
+        "unit": "KG"
+      }
+    },
+    {
+      "article_number": "1421",
+      "date": "2025-08-11",
+      "booking_quantity": 2.0,
+      "quantity": 2.0,
+      "unit": "Pack 1",
+      "article_info": {
+        "short_description": "Basilikum getrocknet 1 Kg Packung",
+        "long_description": "Basilikum getrocknet 1 kg Packung",
+        "product_group": "05.25.35 Gewürze",
+        "unit": "KG"
+      }
+    },
+    {
+      "article_number": "2637",
+      "date": "2025-08-08",
+      "booking_quantity": 33.0,
+      "quantity": 33.0,
+      "unit": "Flasche 1",
+      "article_info": {
+        "short_description": "Spülmittel 1 Lit.",
+        "long_description": "Spülmittel 1 Lit.",
+        "product_group": "10.10.05 Reiniger",
+        "unit": "ST"
+      }
+    },
+    {
+      "article_number": "1586",
+      "date": "2025-08-08",
+      "booking_quantity": 7.0,
+      "quantity": 7.0,
+      "unit": "Stk",
+      "article_info": {
+        "short_description": "Ajvar 2,6 kg Glas",
+        "long_description": "Ajvar 2,6 kg Glas",
+        "product_group": "05.25.25 Feinkost",
+        "unit": "ST"
+      }
+    },
+    {
+      "article_number": "1435",
+      "date": "2025-08-04",
+      "booking_quantity": 5.0,
+      "quantity": 5.0,
+      "unit": "Pack 1",
+      "article_info": {
+        "short_description": "Knoblauchgranulat 1 kg",
+        "long_description": "Knoblauchgranulat 1 kg",
+        "product_group": "05.25.35 Gewürze",
+        "unit": "KG"
+      }
+    },
+    {
+      "article_number": "1564",
+      "date": "2025-08-04",
+      "booking_quantity": 24.0,
+      "quantity": 2.0,
+      "unit": "Karton 12 Stk.",
+      "article_info": {
+        "short_description": "Ananas in Stücken  12 x 850 ml Dosen",
+        "long_description": "Ananas in Stücken 12 x 850 ml Dosen",
+        "product_group": "05.25.30 Konserven",
+        "unit": "DS"
+      }
+    },
+    {
+      "article_number": "1598",
+      "date": "2025-08-04",
+      "booking_quantity": 11.0,
+      "quantity": 11.0,
+      "unit": "Glas",
+      "article_info": {
+        "short_description": "Capperi (Kapern) 720 ml. Glas",
+        "long_description": "Capperi (Kapern) 720 ml Glas",
+        "product_group": "05.25.25 Feinkost",
+        "unit": "GL"
+      }
+    },
+    {
+      "article_number": "2080",
+      "date": "2025-08-04",
+      "booking_quantity": 18.0,
+      "quantity": 18.0,
+      "unit": "Dose 1 Stk.",
+      "article_info": {
+        "short_description": "Peperoni Ringe grün, mild 4250 ml DS",
+        "long_description": "Peperoni-Ringe grün mild 4250 ml Dose",
+        "product_group": "05.25.30 Konserven",
+        "unit": "DS"
+      }
+    },
+    {
+      "article_number": "3181",
+      "date": "2025-07-28",
+      "booking_quantity": 5.0,
+      "quantity": 5.0,
+      "unit": "Pack 1",
+      "article_info": {
+        "short_description": "Sucuk parmak (Knoblauchwurst) 1kg",
+        "long_description": "Sucuk parmak (Knoblauchwurst) 1 kg",
+        "product_group": "05.05.05.10 Frisch",
+        "unit": "KG"
+      }
+    },
+    {
+      "article_number": "1444",
+      "date": "2025-07-14",
+      "booking_quantity": 1.0,
+      "quantity": 1.0,
+      "unit": "Pack 1",
+      "article_info": {
+        "short_description": "Petersilie trocken   1 Kg",
+        "long_description": "Petersilie 1 kg",
+        "product_group": "05.25.35 Gewürze",
+        "unit": "KG"
+      }
+    },
+    {
+      "article_number": "1441",
+      "date": "2025-07-14",
+      "booking_quantity": 1.0,
+      "quantity": 1.0,
+      "unit": "Pack 1",
+      "article_info": {
+        "short_description": "Oregano  ( Kekik )   1 Kg",
+        "long_description": "Oregano (Kekik) 1 kg",
+        "product_group": "05.25.35 Gewürze",
+        "unit": "KG"
+      }
+    },
+    {
+      "article_number": "1445",
+      "date": "2025-07-07",
+      "booking_quantity": 2.0,
+      "quantity": 2.0,
+      "unit": "Pack 1",
+      "article_info": {
+        "short_description": "Pfeffer schwarz, gemahlen   1 Kg",
+        "long_description": "Pfeffer schwarz, gemahlen 1 kg",
+        "product_group": "05.25.35 Gewürze",
+        "unit": "KG"
+      }
+    },
+    {
+      "article_number": "2415",
+      "date": "2025-06-30",
+      "booking_quantity": 5.0,
+      "quantity": 5.0,
+      "unit": "Pack 1",
+      "article_info": {
+        "short_description": "Gehob. Grana Padano Käse 32% F.i.Tr. 1 Kg",
+        "long_description": "Gehob. Grana Padano Käse 32% F.i.Tr. 1 Kg",
+        "product_group": "05.15.05.05.15 Schnitt- und Raspelware",
+        "unit": "KG"
+      }
+    },
+    {
+      "article_number": "9400",
+      "date": "2025-06-17",
+      "booking_quantity": 48.0,
+      "quantity": 2.0,
+      "unit": "KI 24",
+      "article_info": {
+        "short_description": "Jever 24 x 0,33 l MWK",
+        "long_description": "Jever 24 x 0,33 l Flasche MWK",
+        "product_group": "15.20.05.05 0,33 l Flasche MWK",
+        "unit": "FL"
+      }
+    },
+    {
+      "article_number": "23342",
+      "date": "2025-06-17",
+      "booking_quantity": 2.0,
+      "quantity": 2.0,
+      "unit": "Kiste",
+      "article_info": {
+        "short_description": "Pfand = 3,42 € 24er  0,33l (24x0,08+1,50)",
+        "long_description": "Pfand = 3,42 € 24er 0,33l (24 x 0,08 + 1,50)",
+        "product_group": "90.05 Pfand",
+        "unit": "ST"
+      }
+    },
+    {
+      "article_number": "1320",
+      "date": "2025-06-17",
+      "booking_quantity": 3.0,
+      "quantity": 1.0,
+      "unit": "Eimer 3 kg",
+      "article_info": {
+        "short_description": "Nudelsalat Nordd.  3 kg",
+        "long_description": "Nudelsalat Norddeutsch 3 kg",
+        "product_group": "05.35.15 Salate",
+        "unit": "KG"
+      }
+    },
+    {
+      "article_number": "2428",
+      "date": "2025-06-17",
+      "booking_quantity": 40.0,
+      "quantity": 2.0,
+      "unit": "Beutel 20 Stk.",
+      "article_info": {
+        "short_description": "Festival Rostbratwurst 20 x 150g",
+        "long_description": "Festival Rostbratwurst 20 x 150g",
+        "product_group": "05.05.10.10 Frisch",
+        "unit": "ST"
+      }
+    },
+    {
+      "article_number": "2429",
+      "date": "2025-06-17",
+      "booking_quantity": 40.0,
+      "quantity": 2.0,
+      "unit": "Beutel 20 Stk.",
+      "article_info": {
+        "short_description": "Festival Schinkenkrakauer 20 x 150g",
+        "long_description": "Festival Schinkenkrakauer 20 x 150g",
+        "product_group": "05.05.10.10 Frisch",
+        "unit": "ST"
+      }
+    },
+    {
+      "article_number": "1022",
+      "date": "2025-06-10",
+      "booking_quantity": 1.0,
+      "quantity": 1.0,
+      "unit": "Pack 1",
+      "article_info": {
+        "short_description": "Pizza-Karton, 26x26x4cm 100 Stk.",
+        "long_description": "Pizza-Karton 26 x 26 x 4 cm 100 Stück",
+        "product_group": "10.05.05 Pizzakartons",
+        "unit": "PK"
+      }
+    },
+    {
+      "article_number": "1530",
+      "date": "2025-06-02",
+      "booking_quantity": 10.0,
+      "quantity": 2.0,
+      "unit": "Eimer 5 kg",
+      "article_info": {
+        "short_description": "5 kg Haydi Joghurt  Eimer",
+        "long_description": "Haydi Joghurt 5 kg Eimer",
+        "product_group": "05.15.10 Joghurt",
+        "unit": "KG"
+      }
+    }
+  ]
+}

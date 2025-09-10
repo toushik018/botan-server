@@ -1,0 +1,79 @@
+{
+  "metadata": {
+    "generated_at": "2025-09-10T23:17:06.095207",
+    "client_number": "16201",
+    "data_source": "BotanBot XML Export"
+  },
+  "client_profile": {
+    "client_number": "16201",
+    "search_term": "JETZN DÖNER",
+    "status": "Kunde",
+    "tax_number": "",
+    "vat_id": "",
+    "is_blocked": true,
+    "price_group": "(Std.-Preis)",
+    "billing_address": {
+      "salutation": "",
+      "name": "Jetzn Döner",
+      "name3": "Inh. Cengiz Agan",
+      "street": "Kleingartenweg  14",
+      "city": "Neumünster",
+      "postal_code": "24537",
+      "country": "Deutschland",
+      "phone": "(01 76) 30 01 00 41",
+      "fax": "",
+      "email": "agan@gaumenschmaus-nord.de"
+    },
+    "delivery_address": {
+      "salutation": "",
+      "name": "Jetzn Döner",
+      "name3": "Inh. Cengiz Agan",
+      "street": "Kleingartenweg  14",
+      "city": "Neumünster",
+      "postal_code": "24537",
+      "country": "Deutschland",
+      "phone": "(01 76) 30 01 00 41",
+      "fax": "",
+      "email": "agan@gaumenschmaus-nord.de"
+    },
+    "delivery_schedule": {
+      "monday": "",
+      "tuesday": "",
+      "wednesday": "",
+      "thursday": "",
+      "friday": "8",
+      "saturday": ""
+    },
+    "settings": {
+      "webshop_enabled": false,
+      "ds_addresses": false,
+      "no_pickup_app": false,
+      "minimum_order_value": null,
+      "articles_not_in_history": ""
+    },
+    "additional_addresses": [
+      {
+        "address_number": "0",
+        "salutation": "",
+        "name": "Jetzn Döner",
+        "name3": "Inh. Cengiz Agan",
+        "street": "Kleingartenweg  14",
+        "city": "Neumünster",
+        "postal_code": "24537",
+        "country": "Deutschland",
+        "phone": "(01 76) 30 01 00 41",
+        "fax": "",
+        "email": "agan@gaumenschmaus-nord.de",
+        "is_default_billing": true,
+        "is_default_delivery": true
+      }
+    ]
+  },
+  "order_statistics": {
+    "total_orders": 0,
+    "unique_articles_ordered": 0,
+    "recent_orders_count": 0,
+    "last_order_date": null
+  },
+  "order_history": []
+}

@@ -1,0 +1,79 @@
+{
+  "metadata": {
+    "generated_at": "2025-09-10T23:17:06.762165",
+    "client_number": "74234",
+    "data_source": "BotanBot XML Export"
+  },
+  "client_profile": {
+    "client_number": "74234",
+    "search_term": "BACK FROST HAMBURG",
+    "status": "Lieferant",
+    "tax_number": "4760401620",
+    "vat_id": "DE322312443",
+    "is_blocked": false,
+    "price_group": "(Std.-Preis)",
+    "billing_address": {
+      "salutation": "",
+      "name": "Back & Frost Leipzig GmbH & Co.KG",
+      "name3": "",
+      "street": "Westringstr. 97",
+      "city": "Schkeuditz/OT Dölzig",
+      "postal_code": "04435",
+      "country": "Deutschland",
+      "phone": "(03 42 05) 8 38 00",
+      "fax": "(03 42 05) 8 38 04 10",
+      "email": "harald.bretschneider@backundfrost.de"
+    },
+    "delivery_address": {
+      "salutation": "",
+      "name": "Back & Frost Leipzig GmbH & Co.KG",
+      "name3": "",
+      "street": "Westringstr. 97",
+      "city": "Schkeuditz/OT Dölzig",
+      "postal_code": "04435",
+      "country": "Deutschland",
+      "phone": "(03 42 05) 8 38 00",
+      "fax": "(03 42 05) 8 38 04 10",
+      "email": "harald.bretschneider@backundfrost.de"
+    },
+    "delivery_schedule": {
+      "monday": "",
+      "tuesday": "",
+      "wednesday": "",
+      "thursday": "",
+      "friday": "",
+      "saturday": ""
+    },
+    "settings": {
+      "webshop_enabled": false,
+      "ds_addresses": false,
+      "no_pickup_app": false,
+      "minimum_order_value": null,
+      "articles_not_in_history": ""
+    },
+    "additional_addresses": [
+      {
+        "address_number": "0",
+        "salutation": "",
+        "name": "Back & Frost Leipzig GmbH & Co.KG",
+        "name3": "",
+        "street": "Westringstr. 97",
+        "city": "Schkeuditz/OT Dölzig",
+        "postal_code": "04435",
+        "country": "Deutschland",
+        "phone": "(03 42 05) 8 38 00",
+        "fax": "(03 42 05) 8 38 04 10",
+        "email": "harald.bretschneider@backundfrost.de",
+        "is_default_billing": true,
+        "is_default_delivery": true
+      }
+    ]
+  },
+  "order_statistics": {
+    "total_orders": 0,
+    "unique_articles_ordered": 0,
+    "recent_orders_count": 0,
+    "last_order_date": null
+  },
+  "order_history": []
+}

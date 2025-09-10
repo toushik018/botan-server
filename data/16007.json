@@ -1,0 +1,1016 @@
+{
+  "metadata": {
+    "generated_at": "2025-09-10T23:17:06.035154",
+    "client_number": "16007",
+    "data_source": "BotanBot XML Export"
+  },
+  "client_profile": {
+    "client_number": "16007",
+    "search_term": "SCHLEUSEN CAFE",
+    "status": "Kunde",
+    "tax_number": "",
+    "vat_id": "",
+    "is_blocked": false,
+    "price_group": "(Std.-Preis)",
+    "billing_address": {
+      "salutation": "",
+      "name": "Speis und Dank",
+      "name3": "Inh. Ehsan Tayebi",
+      "street": "Beselerallee 38",
+      "city": "Kiel",
+      "postal_code": "24105",
+      "country": "Deutschland",
+      "phone": "(04 31) 3 39 37 36",
+      "fax": "",
+      "email": "speisunddank@gmx.de"
+    },
+    "delivery_address": {
+      "salutation": "",
+      "name": "Speis und Dank",
+      "name3": "Inh. Ehsan Tayebi",
+      "street": "Beselerallee 38",
+      "city": "Kiel",
+      "postal_code": "24105",
+      "country": "Deutschland",
+      "phone": "(04 31) 3 39 37 36",
+      "fax": "",
+      "email": "speisunddank@gmx.de"
+    },
+    "delivery_schedule": {
+      "monday": "18",
+      "tuesday": "18",
+      "wednesday": "18",
+      "thursday": "18",
+      "friday": "",
+      "saturday": ""
+    },
+    "settings": {
+      "webshop_enabled": true,
+      "ds_addresses": false,
+      "no_pickup_app": false,
+      "minimum_order_value": null,
+      "articles_not_in_history": ""
+    },
+    "additional_addresses": [
+      {
+        "address_number": "0",
+        "salutation": "",
+        "name": "Speis und Dank",
+        "name3": "Inh. Ehsan Tayebi",
+        "street": "Beselerallee 38",
+        "city": "Kiel",
+        "postal_code": "24105",
+        "country": "Deutschland",
+        "phone": "(04 31) 3 39 37 36",
+        "fax": "",
+        "email": "speisunddank@gmx.de",
+        "is_default_billing": true,
+        "is_default_delivery": true
+      }
+    ]
+  },
+  "order_statistics": {
+    "total_orders": 72,
+    "unique_articles_ordered": 72,
+    "recent_orders_count": 72,
+    "last_order_date": "2025-08-21"
+  },
+  "order_history": [
+    {
+      "article_number": "1408",
+      "date": "2025-08-21",
+      "booking_quantity": 290.0,
+      "quantity": 29.0,
+      "unit": "Karton 10 kg",
+      "article_info": {
+        "short_description": "8 mm Pommes Frites frisch 2 x 5 kg",
+        "long_description": "Pommes Frites frisch 8 mm 2 x 5 kg",
+        "product_group": "05.30.05 Pommes",
+        "unit": "KG"
+      }
+    },
+    {
+      "article_number": "2073",
+      "date": "2025-08-21",
+      "booking_quantity": 41.0,
+      "quantity": 41.0,
+      "unit": "Karton 1",
+      "article_info": {
+        "short_description": "",
+        "long_description": "",
+        "product_group": "",
+        "unit": ""
+      }
+    },
+    {
+      "article_number": "1580",
+      "date": "2025-08-21",
+      "booking_quantity": 3.0,
+      "quantity": 3.0,
+      "unit": "Dose 1 Stk.",
+      "article_info": {
+        "short_description": "Rote Kidney Bohnen 3/1 Dose",
+        "long_description": "Rote Kidneybohnen 3/1 Dose",
+        "product_group": "05.25.30 Konserven",
+        "unit": "DS"
+      }
+    },
+    {
+      "article_number": "1561",
+      "date": "2025-08-21",
+      "booking_quantity": 1.0,
+      "quantity": 1.0,
+      "unit": "Dose 1 Stk.",
+      "article_info": {
+        "short_description": "Gemüsemais  Karton 2,65 l Dosen",
+        "long_description": "Gemüsemais Karton 2,65 l Dose",
+        "product_group": "05.25.30 Konserven",
+        "unit": "DS"
+      }
+    },
+    {
+      "article_number": "2575",
+      "date": "2025-08-20",
+      "booking_quantity": 375.0,
+      "quantity": 75.0,
+      "unit": "Eimer 5 kg",
+      "article_info": {
+        "short_description": "Vegane Mayo 5kg Eimer",
+        "long_description": "Vegane Mayo 5 kg Eimer",
+        "product_group": "05.07 Vegan",
+        "unit": "KG"
+      }
+    },
+    {
+      "article_number": "1930",
+      "date": "2025-08-20",
+      "booking_quantity": 83.51,
+      "quantity": 83.51,
+      "unit": "ST",
+      "article_info": {
+        "short_description": "Frisches Schweinenacken o. Knochen ca. 2,5 Kg",
+        "long_description": "Frisches Schweinenacken o. Knochen ca. 2,5 Kg",
+        "product_group": "05.05.10.10 Frisch",
+        "unit": "KG"
+      }
+    },
+    {
+      "article_number": "9924",
+      "date": "2025-08-20",
+      "booking_quantity": 6.0,
+      "quantity": 6.0,
+      "unit": "KG",
+      "article_info": {
+        "short_description": "Knoblauch frisch geschält 1 kg Pack",
+        "long_description": "Knoblauch frisch geschält 1 kg Pack",
+        "product_group": "05.35.05 Frischgemüse",
+        "unit": "KG"
+      }
+    },
+    {
+      "article_number": "1187",
+      "date": "2025-08-20",
+      "booking_quantity": 8.0,
+      "quantity": 8.0,
+      "unit": "Pack 1",
+      "article_info": {
+        "short_description": "Pommesgabel 85mm Holz+ 2-zinkig (1000 Stk.)",
+        "long_description": "Pommesgabel 85 mm Holz 2-zinkig 1.000 Stück",
+        "product_group": "10.05.50 Besteck",
+        "unit": "PK"
+      }
+    },
+    {
+      "article_number": "1336",
+      "date": "2025-08-20",
+      "booking_quantity": 60.0,
+      "quantity": 6.0,
+      "unit": "Eimer 10 kg",
+      "article_info": {
+        "short_description": "Tomaten Ketchup Remia 10 Kg Eimer",
+        "long_description": "Remia Tomaten-Ketchup 10 kg Eimer",
+        "product_group": "05.45.10 Ketchup",
+        "unit": "KG"
+      }
+    },
+    {
+      "article_number": "1954",
+      "date": "2025-08-20",
+      "booking_quantity": 12.0,
+      "quantity": 12.0,
+      "unit": "Karton 1",
+      "article_info": {
+        "short_description": "Luxus Servietten,33 x 33cm 3200 Stk.",
+        "long_description": "Luxus-Servietten 33 x 33 cm 3.200 Stück",
+        "product_group": "10.05.55 Servietten",
+        "unit": "KT"
+      }
+    },
+    {
+      "article_number": "9872",
+      "date": "2025-08-07",
+      "booking_quantity": 45.0,
+      "quantity": 45.0,
+      "unit": "KG",
+      "article_info": {
+        "short_description": "Zucchini frisch Kg",
+        "long_description": "Zucchini frisch kg",
+        "product_group": "05.35.05 Frischgemüse",
+        "unit": "KG"
+      }
+    },
+    {
+      "article_number": "1535",
+      "date": "2025-08-07",
+      "booking_quantity": 25.0,
+      "quantity": 25.0,
+      "unit": "Pack 1",
+      "article_info": {
+        "short_description": "MILRAM H-Schlagsahne 30 %  1 Liter",
+        "long_description": "Milram H-Schlagsahne 30 % 1 l",
+        "product_group": "05.15.20 Sahne",
+        "unit": "PK"
+      }
+    },
+    {
+      "article_number": "1842",
+      "date": "2025-08-07",
+      "booking_quantity": 33.0,
+      "quantity": 33.0,
+      "unit": "Karton",
+      "article_info": {
+        "short_description": "Strauchtomaten  5 kg Kiste",
+        "long_description": "Strauchtomaten  5 kg Kiste",
+        "product_group": "05.35.05 Frischgemüse",
+        "unit": "KT"
+      }
+    },
+    {
+      "article_number": "9865",
+      "date": "2025-08-07",
+      "booking_quantity": 45.0,
+      "quantity": 45.0,
+      "unit": "KG",
+      "article_info": {
+        "short_description": "Möhren frisch",
+        "long_description": "Möhren frisch",
+        "product_group": "05.35.05 Frischgemüse",
+        "unit": "KG"
+      }
+    },
+    {
+      "article_number": "1582",
+      "date": "2025-08-07",
+      "booking_quantity": 3.0,
+      "quantity": 3.0,
+      "unit": "Dose 1 Stk.",
+      "article_info": {
+        "short_description": "Tomatenmark  5/1 Dosen",
+        "long_description": "Tomatenmark  5/1 Dosen",
+        "product_group": "05.25.30 Konserven",
+        "unit": "DS"
+      }
+    },
+    {
+      "article_number": "1367",
+      "date": "2025-08-07",
+      "booking_quantity": 7.5,
+      "quantity": 3.0,
+      "unit": "Beutel 2,5 kg",
+      "article_info": {
+        "short_description": "Markerbsen TK  2,5 Kg BT",
+        "long_description": "Markerbsen  2,5 kg Beutel TK",
+        "product_group": "05.40.05 Gemüse",
+        "unit": "KG"
+      }
+    },
+    {
+      "article_number": "2435",
+      "date": "2025-08-07",
+      "booking_quantity": 7.5,
+      "quantity": 3.0,
+      "unit": "Beutel 2,5 kg",
+      "article_info": {
+        "short_description": "TK Himbeeren 2,5 kg",
+        "long_description": "TK Himbeeren 2,5 kg",
+        "product_group": "05.40.06 Obst",
+        "unit": "KG"
+      }
+    },
+    {
+      "article_number": "1383",
+      "date": "2025-08-07",
+      "booking_quantity": 12.0,
+      "quantity": 4.0,
+      "unit": "Kiste 3 Kg",
+      "article_info": {
+        "short_description": "Champignons frisch Kiste 3 Kg",
+        "long_description": "Champignons frisch 3 kg Kiste",
+        "product_group": "05.35.05 Frischgemüse",
+        "unit": "KG"
+      }
+    },
+    {
+      "article_number": "1399",
+      "date": "2025-08-07",
+      "booking_quantity": 5.0,
+      "quantity": 5.0,
+      "unit": "Bund 1",
+      "article_info": {
+        "short_description": "Petersilie GLATT  frisch 200 g",
+        "long_description": "Petersilie GLATT  frisch 200 g",
+        "product_group": "05.35.05 Frischgemüse",
+        "unit": "ST"
+      }
+    },
+    {
+      "article_number": "2452",
+      "date": "2025-07-25",
+      "booking_quantity": 10.0,
+      "quantity": 10.0,
+      "unit": "Dose 1 Stk.",
+      "article_info": {
+        "short_description": "Kichererbsen  3/1 DS",
+        "long_description": "Kichererbsen 3/1 Dose",
+        "product_group": "05.25.30 Konserven",
+        "unit": "DS"
+      }
+    },
+    {
+      "article_number": "1109",
+      "date": "2025-07-24",
+      "booking_quantity": 5.0,
+      "quantity": 5.0,
+      "unit": "Rolle 1",
+      "article_info": {
+        "short_description": "Frischhaltefolie 45cm x 300m",
+        "long_description": "Frischhaltefolie 45 cm x 300 m",
+        "product_group": "10.05.30 Folien",
+        "unit": "RL"
+      }
+    },
+    {
+      "article_number": "1108",
+      "date": "2025-07-24",
+      "booking_quantity": 4.0,
+      "quantity": 4.0,
+      "unit": "Rolle 1",
+      "article_info": {
+        "short_description": "45 cm Alufolie µ =12   100m",
+        "long_description": "Alufolie µ =12    45 cm x 120 m",
+        "product_group": "10.05.30 Folien",
+        "unit": "RL"
+      }
+    },
+    {
+      "article_number": "1388",
+      "date": "2025-07-24",
+      "booking_quantity": 80.0,
+      "quantity": 8.0,
+      "unit": "Sack 10 kg",
+      "article_info": {
+        "short_description": "Kartoffeln \"festkochend\" 10 Kg Sack ÜBERGRÖSSE",
+        "long_description": "Kartoffeln \"festkochend\" 10 kg Sack ÜBERGRÖSSE",
+        "product_group": "05.35.05 Frischgemüse",
+        "unit": "KG"
+      }
+    },
+    {
+      "article_number": "1112",
+      "date": "2025-07-24",
+      "booking_quantity": 29.0,
+      "quantity": 29.0,
+      "unit": "Pack 1",
+      "article_info": {
+        "short_description": "Küchenrolle  3 lg  4 Rollen lose / BT",
+        "long_description": "Küchenrolle 3-lagig 4 Rollen/Beutel lose",
+        "product_group": "10.10.15 Rollen und Tücher",
+        "unit": "PK"
+      }
+    },
+    {
+      "article_number": "9850",
+      "date": "2025-07-24",
+      "booking_quantity": 4.0,
+      "quantity": 4.0,
+      "unit": "Karton 1",
+      "article_info": {
+        "short_description": "Cherry Strauchtomaten  rot 3 kg",
+        "long_description": "Cherry-Strauchtomaten rot 3 kg",
+        "product_group": "05.35.05 Frischgemüse",
+        "unit": "KT"
+      }
+    },
+    {
+      "article_number": "9669",
+      "date": "2025-07-24",
+      "booking_quantity": 1.0,
+      "quantity": 1.0,
+      "unit": "Stück",
+      "article_info": {
+        "short_description": "Tahin Sesampaste 1550g Glas",
+        "long_description": "Tahin Sesampaste 1550g Glas",
+        "product_group": "05.25.40 Brotaufstriche",
+        "unit": "ST"
+      }
+    },
+    {
+      "article_number": "1946",
+      "date": "2025-07-23",
+      "booking_quantity": 2.0,
+      "quantity": 2.0,
+      "unit": "Eimer 1",
+      "article_info": {
+        "short_description": "Mozzarella Gourmini  Eimer 1 kg",
+        "long_description": "Mozzarella Gourmini  Eimer 1 kg",
+        "product_group": "05.15.05.10.01 Weichkäse aus Kuhmilch",
+        "unit": "KG"
+      }
+    },
+    {
+      "article_number": "3005",
+      "date": "2025-07-23",
+      "booking_quantity": 6.0,
+      "quantity": 6.0,
+      "unit": "Pack 1",
+      "article_info": {
+        "short_description": "Teigblätter ücgen Yufka 25 Stk./Beutel",
+        "long_description": "Teigblätter ücgen Yufka 25 Stk./Beutel",
+        "product_group": "05.25.05 Teigwaren",
+        "unit": "PK"
+      }
+    },
+    {
+      "article_number": "2217",
+      "date": "2025-07-10",
+      "booking_quantity": 20.0,
+      "quantity": 20.0,
+      "unit": "KG",
+      "article_info": {
+        "short_description": "Paprika rot Frisch  Kg",
+        "long_description": "Paprika rot frisch kg",
+        "product_group": "05.35.05 Frischgemüse",
+        "unit": "KG"
+      }
+    },
+    {
+      "article_number": "1164",
+      "date": "2025-07-10",
+      "booking_quantity": 41.0,
+      "quantity": 41.0,
+      "unit": "Pack 1",
+      "article_info": {
+        "short_description": "Mozzarella  45% F.i.Tr.  1000 g Brotform",
+        "long_description": "Mozzarella 45 % F.i.Tr. 1.000 g Brotform",
+        "product_group": "05.15.05.10.01 Weichkäse aus Kuhmilch",
+        "unit": "KG"
+      }
+    },
+    {
+      "article_number": "1390",
+      "date": "2025-07-10",
+      "booking_quantity": 80.0,
+      "quantity": 8.0,
+      "unit": "Sack 10 kg",
+      "article_info": {
+        "short_description": "Rote Zwiebeln 10 kg Sack",
+        "long_description": "Rote Zwiebeln 10 kg Sack",
+        "product_group": "05.35.05 Frischgemüse",
+        "unit": "KG"
+      }
+    },
+    {
+      "article_number": "1882",
+      "date": "2025-07-10",
+      "booking_quantity": 22.0,
+      "quantity": 22.0,
+      "unit": "Pack 1",
+      "article_info": {
+        "short_description": "Schmelzkäse Cheddar in Scheiben  1,082 kg",
+        "long_description": "Schmelzkäse Cheddar in Scheiben 1,082 kg",
+        "product_group": "05.15.05.10.20 Frisch- und Schmelzkäse",
+        "unit": "PK"
+      }
+    },
+    {
+      "article_number": "2599",
+      "date": "2025-07-10",
+      "booking_quantity": 42.515,
+      "quantity": 42.515,
+      "unit": "Beutel",
+      "article_info": {
+        "short_description": "Frisch Hähnchenbrustfilet ca. 2,5 Kg",
+        "long_description": "Frisch Hähnchenbrustfilet ca. 2,5 Kg",
+        "product_group": "05.05.20.10 Frisch",
+        "unit": "KG"
+      }
+    },
+    {
+      "article_number": "1519",
+      "date": "2025-07-10",
+      "booking_quantity": 130.0,
+      "quantity": 13.0,
+      "unit": "Pack 10 Stk.",
+      "article_info": {
+        "short_description": "Rinder Currywurst 10 x 150g in EH",
+        "long_description": "Rinder-Currywurst 150 g in EH",
+        "product_group": "05.05.05.10 Frisch",
+        "unit": "ST"
+      }
+    },
+    {
+      "article_number": "2276",
+      "date": "2025-07-03",
+      "booking_quantity": 50.0,
+      "quantity": 5.0,
+      "unit": "Karton 10 kg",
+      "article_info": {
+        "short_description": "Tomatenpulpe im Sterilbeutel 10 Kg",
+        "long_description": "Tomatenpulpe im Sterilbeutel 10 kg",
+        "product_group": "05.25.30 Konserven",
+        "unit": "KG"
+      }
+    },
+    {
+      "article_number": "1010",
+      "date": "2025-07-03",
+      "booking_quantity": 90.0,
+      "quantity": 3.0,
+      "unit": "Pack 30 Stk.",
+      "article_info": {
+        "short_description": "Eier 30 Stk.",
+        "long_description": "Eier 30 Stück",
+        "product_group": "05.25.15.15 Eier",
+        "unit": "ST"
+      }
+    },
+    {
+      "article_number": "9158",
+      "date": "2025-07-03",
+      "booking_quantity": 5.0,
+      "quantity": 2.0,
+      "unit": "Beutel 2,5 kg",
+      "article_info": {
+        "short_description": "TK Zwiebeln gewürfelt 10x10mm  2,5 KG BT",
+        "long_description": "TK Zwiebeln gewürfelt 10x10mm",
+        "product_group": "05.40.05 Gemüse",
+        "unit": "KG"
+      }
+    },
+    {
+      "article_number": "2227",
+      "date": "2025-07-03",
+      "booking_quantity": 1.0,
+      "quantity": 1.0,
+      "unit": "KG",
+      "article_info": {
+        "short_description": "Ingwer frisch",
+        "long_description": "Ingwer kg Tagespreis",
+        "product_group": "05.35.05 Frischgemüse",
+        "unit": "KG"
+      }
+    },
+    {
+      "article_number": "9019",
+      "date": "2025-07-03",
+      "booking_quantity": 1.0,
+      "quantity": 1.0,
+      "unit": "FL",
+      "article_info": {
+        "short_description": "Cock Chili Sauce (Thai Chili Huhn) 650 ml FL",
+        "long_description": "Cock Chili Sauce (Thai Chili Huhn) 650 ml Flasche",
+        "product_group": "05.45.15 Dips und Saucen",
+        "unit": "FL"
+      }
+    },
+    {
+      "article_number": "1384",
+      "date": "2025-06-28",
+      "booking_quantity": 22.0,
+      "quantity": 22.0,
+      "unit": "Karton 1",
+      "article_info": {
+        "short_description": "Eisbergsalat  9/10 Kiste Karton",
+        "long_description": "Eisbergsalat 9/10 Kiste Karton",
+        "product_group": "05.35.05 Frischgemüse",
+        "unit": "KT"
+      }
+    },
+    {
+      "article_number": "3179",
+      "date": "2025-06-28",
+      "booking_quantity": 360.0,
+      "quantity": 6.0,
+      "unit": "Karton 60 Stk.",
+      "article_info": {
+        "short_description": "TK Laugenbrezel m.Schnitt u.Salz Teigli.60x160g/KT",
+        "long_description": "TK Laugenbrezel m.Schnitt u.Salz Teigli.60x160g/KT",
+        "product_group": "05.40.10 Brotwaren",
+        "unit": "ST"
+      }
+    },
+    {
+      "article_number": "2900",
+      "date": "2025-06-28",
+      "booking_quantity": 2.0,
+      "quantity": 2.0,
+      "unit": "Pack 1",
+      "article_info": {
+        "short_description": "Döner Taschen unbedruckt 16x16  2000 Stk.",
+        "long_description": "Dönertaschen unbedruckt 16 x 16 cm 2.000 Stück",
+        "product_group": "10.05.25 Boxen, Tüten, Taschen und Papier",
+        "unit": "PK"
+      }
+    },
+    {
+      "article_number": "2297",
+      "date": "2025-06-28",
+      "booking_quantity": 25.0,
+      "quantity": 25.0,
+      "unit": "Pack 1",
+      "article_info": {
+        "short_description": "Premium Gabeln plastik schwarz Mehrweg,  50 Stk.",
+        "long_description": "Premium Gabeln plastik schwarz Mehrweg,  50 Stk.",
+        "product_group": "10.05.50 Besteck",
+        "unit": "PK"
+      }
+    },
+    {
+      "article_number": "2700",
+      "date": "2025-06-28",
+      "booking_quantity": 12.0,
+      "quantity": 12.0,
+      "unit": "Pack 1",
+      "article_info": {
+        "short_description": "Gabel 160mm Holz  100 Stk.",
+        "long_description": "Gabel 160mm Holz  100 Stk.",
+        "product_group": "10.05.50 Besteck",
+        "unit": "PK"
+      }
+    },
+    {
+      "article_number": "1366",
+      "date": "2025-06-27",
+      "booking_quantity": 20.0,
+      "quantity": 8.0,
+      "unit": "Beutel 2,5 kg",
+      "article_info": {
+        "short_description": "TK Brechbohnen 2,5 kg BT",
+        "long_description": "TK Brechbohnen 2,5 kg Beutel",
+        "product_group": "05.40.05 Gemüse",
+        "unit": "KG"
+      }
+    },
+    {
+      "article_number": "9157",
+      "date": "2025-06-27",
+      "booking_quantity": 10.0,
+      "quantity": 4.0,
+      "unit": "Beutel 2,5 kg",
+      "article_info": {
+        "short_description": "TK Karotten gewürfelt 2,5 KG BT",
+        "long_description": "TK Karotten gewürfelt 2,5 KG Beutel",
+        "product_group": "05.40.05 Gemüse",
+        "unit": "KG"
+      }
+    },
+    {
+      "article_number": "1387",
+      "date": "2025-06-27",
+      "booking_quantity": 36.0,
+      "quantity": 3.0,
+      "unit": "Karton 12 Stk.",
+      "article_info": {
+        "short_description": "Gurken Frisch 12er Karton",
+        "long_description": "Gurken Frisch  12er Karton",
+        "product_group": "05.35.05 Frischgemüse",
+        "unit": "ST"
+      }
+    },
+    {
+      "article_number": "9032",
+      "date": "2025-06-27",
+      "booking_quantity": 4.0,
+      "quantity": 4.0,
+      "unit": "Dose 1 Stk.",
+      "article_info": {
+        "short_description": "Cheddar-Käse-Dip 3/1 Dose 3000g",
+        "long_description": "Cheddar-Käse-Dip 3/1 Dose 3000g",
+        "product_group": "05.45.15 Dips und Saucen",
+        "unit": "DS"
+      }
+    },
+    {
+      "article_number": "2017",
+      "date": "2025-06-27",
+      "booking_quantity": 10.0,
+      "quantity": 1.0,
+      "unit": "Eimer 10 kg",
+      "article_info": {
+        "short_description": "Senf 10 kg Eimer mittelscharf BAUTZNER",
+        "long_description": "Senf 10 kg Eimer mittelscharf BAUTZNER",
+        "product_group": "05.45.13 Senf",
+        "unit": "KG"
+      }
+    },
+    {
+      "article_number": "2200",
+      "date": "2025-06-27",
+      "booking_quantity": 10.0,
+      "quantity": 2.0,
+      "unit": "Beutel 5",
+      "article_info": {
+        "short_description": "Basmati - Reis 5 Kg",
+        "long_description": "Basmati-Reis 5 kg",
+        "product_group": "05.25.13 Reiswaren",
+        "unit": "KG"
+      }
+    },
+    {
+      "article_number": "9291",
+      "date": "2025-06-26",
+      "booking_quantity": 20.0,
+      "quantity": 20.0,
+      "unit": "Pack 1",
+      "article_info": {
+        "short_description": "Schwarze Handschuhe Nitrile ungep. \"XL\" 100 Stk",
+        "long_description": "Schwarze Handschuhe Nitrile ungep. \"XL\" 100 Stk",
+        "product_group": "10.10.10 Handschuhe",
+        "unit": "PK"
+      }
+    },
+    {
+      "article_number": "1369",
+      "date": "2025-06-26",
+      "booking_quantity": 1600.0,
+      "quantity": 32.0,
+      "unit": "Beutel 50 Stk.",
+      "article_info": {
+        "short_description": "Falafel 50 Stk. vegan TK",
+        "long_description": "Falafel 50 Stück vegan TK",
+        "product_group": "05.07 Vegan",
+        "unit": "ST"
+      }
+    },
+    {
+      "article_number": "1397",
+      "date": "2025-06-25",
+      "booking_quantity": 20.0,
+      "quantity": 4.0,
+      "unit": "Karton 5 kg",
+      "article_info": {
+        "short_description": "Paprika Mix Frisch",
+        "long_description": "Paprika-Mix frisch",
+        "product_group": "05.35.05 Frischgemüse",
+        "unit": "KG"
+      }
+    },
+    {
+      "article_number": "2433",
+      "date": "2025-06-25",
+      "booking_quantity": 5.0,
+      "quantity": 2.0,
+      "unit": "Beutel 2,5 kg",
+      "article_info": {
+        "short_description": "TK Erdbeeren Beutel 2,5 kg",
+        "long_description": "TK Erdbeeren Beutel 2,5 kg",
+        "product_group": "05.40.06 Obst",
+        "unit": "KG"
+      }
+    },
+    {
+      "article_number": "2187",
+      "date": "2025-06-25",
+      "booking_quantity": 20.0,
+      "quantity": 2.0,
+      "unit": "Pack 10 Stk.",
+      "article_info": {
+        "short_description": "GV-Padschwamm gelb/grün mit Giffleite 15x9x4,5cm",
+        "long_description": "GV-Padschwamm gelb/grün m. Griffleiste 10x9x4,5 cm",
+        "product_group": "10.15.20 Zubehör",
+        "unit": "ST"
+      }
+    },
+    {
+      "article_number": "2186",
+      "date": "2025-06-25",
+      "booking_quantity": 10.0,
+      "quantity": 1.0,
+      "unit": "Pack 10 Stk.",
+      "article_info": {
+        "short_description": "Topfkratzer Metall extra gros d 11,5cm 10stück/pac",
+        "long_description": "Topfkratzer Metall extragroß Ø 11,5cm 10 Stk/Pack",
+        "product_group": "10.15.20 Zubehör",
+        "unit": "ST"
+      }
+    },
+    {
+      "article_number": "1113",
+      "date": "2025-06-20",
+      "booking_quantity": 2.0,
+      "quantity": 2.0,
+      "unit": "Karton 1",
+      "article_info": {
+        "short_description": "Falt Papierhandtücher für WC 5000 st.",
+        "long_description": "Faltpapierhandtücher für WC 5.000 Stück",
+        "product_group": "10.10.15 Rollen und Tücher",
+        "unit": "KT"
+      }
+    },
+    {
+      "article_number": "2169",
+      "date": "2025-06-20",
+      "booking_quantity": 8.0,
+      "quantity": 8.0,
+      "unit": "Flasche 1",
+      "article_info": {
+        "short_description": "Handdesinfektion Kirsche 0,5l.",
+        "long_description": "Handdesinfektion Kirsche 0,5 l",
+        "product_group": "10.15.15 Hygiene-Zubehör",
+        "unit": "FL"
+      }
+    },
+    {
+      "article_number": "9950",
+      "date": "2025-06-20",
+      "booking_quantity": 8.0,
+      "quantity": 8.0,
+      "unit": "Stück",
+      "article_info": {
+        "short_description": "",
+        "long_description": "",
+        "product_group": "",
+        "unit": ""
+      }
+    },
+    {
+      "article_number": "1110",
+      "date": "2025-06-20",
+      "booking_quantity": 4.0,
+      "quantity": 4.0,
+      "unit": "Rolle 1",
+      "article_info": {
+        "short_description": "Frischhaltefolie,   30 cm x 300 m",
+        "long_description": "Frischhaltefolie 30 cm x 300 m",
+        "product_group": "10.05.30 Folien",
+        "unit": "RL"
+      }
+    },
+    {
+      "article_number": "3220",
+      "date": "2025-06-19",
+      "booking_quantity": 10.0,
+      "quantity": 1.0,
+      "unit": "Eimer 10 kg",
+      "article_info": {
+        "short_description": "Pan Joghurterzeugnis 10 kg  3,8% Eimer",
+        "long_description": "Pan Joghurterzeugnis 10 kg  3,8% Eimer",
+        "product_group": "05.15.10 Joghurt",
+        "unit": "KG"
+      }
+    },
+    {
+      "article_number": "1329",
+      "date": "2025-06-18",
+      "booking_quantity": 20.0,
+      "quantity": 2.0,
+      "unit": "Kanister 10 l",
+      "article_info": {
+        "short_description": "Rapsöl 10 Liter",
+        "long_description": "Rapsöl 10 l",
+        "product_group": "05.25.20.05 Öle",
+        "unit": "LI"
+      }
+    },
+    {
+      "article_number": "1148",
+      "date": "2025-06-18",
+      "booking_quantity": 10.0,
+      "quantity": 10.0,
+      "unit": "Rolle 1",
+      "article_info": {
+        "short_description": "Müllsäcke   120 l   25 Stk./ Rolle",
+        "long_description": "Müllsäcke  25 Stück/Rolle 120 l",
+        "product_group": "10.10.20 Müllbeutel",
+        "unit": "RL"
+      }
+    },
+    {
+      "article_number": "1241",
+      "date": "2025-06-18",
+      "booking_quantity": 12.0,
+      "quantity": 1.0,
+      "unit": "KI 12",
+      "article_info": {
+        "short_description": "Coca Cola 12 x1 l Kiste",
+        "long_description": "Coca Cola 12 x1 l Kiste",
+        "product_group": "15.05.35 1,0 l Pet",
+        "unit": "FL"
+      }
+    },
+    {
+      "article_number": "23330",
+      "date": "2025-06-18",
+      "booking_quantity": 1.0,
+      "quantity": 1.0,
+      "unit": "Kiste",
+      "article_info": {
+        "short_description": "Pfand = 3,30 €  1 L Cola & Co PET",
+        "long_description": "Pfand = 3,30 € 1 l Cola & Co PET",
+        "product_group": "90.05 Pfand",
+        "unit": "ST"
+      }
+    },
+    {
+      "article_number": "2126",
+      "date": "2025-06-14",
+      "booking_quantity": 20.0,
+      "quantity": 2.0,
+      "unit": "Eimer 10 kg",
+      "article_info": {
+        "short_description": "Remia Frittierfett \" Longlife \" 10 kg Ei.",
+        "long_description": "Remia Frittierfett \"Longlife\" 10 kg Eimer",
+        "product_group": "05.25.20.10 Fette",
+        "unit": "LI"
+      }
+    },
+    {
+      "article_number": "9423",
+      "date": "2025-06-12",
+      "booking_quantity": 1.0,
+      "quantity": 1.0,
+      "unit": "Pack 1",
+      "article_info": {
+        "short_description": "Zwiebelpulver",
+        "long_description": "Zwiebelpulver",
+        "product_group": "05.25.35 Gewürze",
+        "unit": "PK"
+      }
+    },
+    {
+      "article_number": "1442",
+      "date": "2025-06-12",
+      "booking_quantity": 1.0,
+      "quantity": 1.0,
+      "unit": "Pack 1",
+      "article_info": {
+        "short_description": "Paprika edelsüß  1 Kg",
+        "long_description": "Paprika edelsüß 1 kg",
+        "product_group": "05.25.35 Gewürze",
+        "unit": "KG"
+      }
+    },
+    {
+      "article_number": "1615",
+      "date": "2025-06-12",
+      "booking_quantity": 5.0,
+      "quantity": 5.0,
+      "unit": "KG",
+      "article_info": {
+        "short_description": "Paprika grün  frisch Kg",
+        "long_description": "Paprika grün frisch kg",
+        "product_group": "05.35.05 Frischgemüse",
+        "unit": "KG"
+      }
+    },
+    {
+      "article_number": "2012",
+      "date": "2025-06-12",
+      "booking_quantity": 2.5,
+      "quantity": 1.0,
+      "unit": "Beutel 2,5 kg",
+      "article_info": {
+        "short_description": "TK Paprika-Streifen MIX ROT/GRÜN   2,5 kg  BT",
+        "long_description": "Paprika-Mix in Streifen rot/grün 2,5 kg Beutel TK",
+        "product_group": "05.40.05 Gemüse",
+        "unit": "KG"
+      }
+    },
+    {
+      "article_number": "9615",
+      "date": "2025-06-03",
+      "booking_quantity": 72.0,
+      "quantity": 3.0,
+      "unit": "KI 24",
+      "article_info": {
+        "short_description": "Carlsberg 24 x 0,33 l  MWK",
+        "long_description": "Carlsberg 24 x 0,33 l Flasche MWK",
+        "product_group": "15.20.05.05 0,33 l Flasche MWK",
+        "unit": "FL"
+      }
+    },
+    {
+      "article_number": "23342",
+      "date": "2025-06-03",
+      "booking_quantity": 3.0,
+      "quantity": 3.0,
+      "unit": "Kiste",
+      "article_info": {
+        "short_description": "Pfand = 3,42 € 24er  0,33l (24x0,08+1,50)",
+        "long_description": "Pfand = 3,42 € 24er 0,33l (24 x 0,08 + 1,50)",
+        "product_group": "90.05 Pfand",
+        "unit": "ST"
+      }
+    }
+  ]
+}

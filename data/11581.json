@@ -1,0 +1,79 @@
+{
+  "metadata": {
+    "generated_at": "2025-09-10T23:17:04.795083",
+    "client_number": "11581",
+    "data_source": "BotanBot XML Export"
+  },
+  "client_profile": {
+    "client_number": "11581",
+    "search_term": "ERDEM CATERING",
+    "status": "Kunde",
+    "tax_number": "",
+    "vat_id": "DK26755190",
+    "is_blocked": false,
+    "price_group": "(Std.-Preis)",
+    "billing_address": {
+      "salutation": "Firma",
+      "name": "Erdem Catering A/S",
+      "name3": "",
+      "street": "Sintrupvej 23",
+      "city": "Brabrand",
+      "postal_code": "8220",
+      "country": "Dänemark",
+      "phone": "+45 (7 02) 6 66 - 70",
+      "fax": "+45 (7 02) 6 16 - 70",
+      "email": "oz@erdemcatering.dk"
+    },
+    "delivery_address": {
+      "salutation": "Firma",
+      "name": "Erdem Catering A/S",
+      "name3": "",
+      "street": "Sintrupvej 23",
+      "city": "Brabrand",
+      "postal_code": "8220",
+      "country": "Dänemark",
+      "phone": "+45 (7 02) 6 66 - 70",
+      "fax": "+45 (7 02) 6 16 - 70",
+      "email": "oz@erdemcatering.dk"
+    },
+    "delivery_schedule": {
+      "monday": "",
+      "tuesday": "",
+      "wednesday": "",
+      "thursday": "",
+      "friday": "",
+      "saturday": ""
+    },
+    "settings": {
+      "webshop_enabled": false,
+      "ds_addresses": false,
+      "no_pickup_app": false,
+      "minimum_order_value": null,
+      "articles_not_in_history": ""
+    },
+    "additional_addresses": [
+      {
+        "address_number": "0",
+        "salutation": "Firma",
+        "name": "Erdem Catering A/S",
+        "name3": "",
+        "street": "Sintrupvej 23",
+        "city": "Brabrand",
+        "postal_code": "8220",
+        "country": "Dänemark",
+        "phone": "+45 (7 02) 6 66 - 70",
+        "fax": "+45 (7 02) 6 16 - 70",
+        "email": "oz@erdemcatering.dk",
+        "is_default_billing": true,
+        "is_default_delivery": true
+      }
+    ]
+  },
+  "order_statistics": {
+    "total_orders": 0,
+    "unique_articles_ordered": 0,
+    "recent_orders_count": 0,
+    "last_order_date": null
+  },
+  "order_history": []
+}

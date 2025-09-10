@@ -1,0 +1,79 @@
+{
+  "metadata": {
+    "generated_at": "2025-09-10T23:17:06.827715",
+    "client_number": "75337",
+    "data_source": "BotanBot XML Export"
+  },
+  "client_profile": {
+    "client_number": "75337",
+    "search_term": "GLOBAL TRADE",
+    "status": "Lieferant",
+    "tax_number": "",
+    "vat_id": "",
+    "is_blocked": false,
+    "price_group": "(Std.-Preis)",
+    "billing_address": {
+      "salutation": "",
+      "name": "mpo Global Trade GmbH",
+      "name3": "",
+      "street": "Alter Wandrahm 15",
+      "city": "Hamburg",
+      "postal_code": "20457",
+      "country": "Deutschland",
+      "phone": "(0 40) 7 67 58 03 - 0",
+      "fax": "(0 40) 7 67 58 03 - 21",
+      "email": "contact@mpo-gobal.com"
+    },
+    "delivery_address": {
+      "salutation": "",
+      "name": "mpo Global Trade GmbH",
+      "name3": "",
+      "street": "Alter Wandrahm 15",
+      "city": "Hamburg",
+      "postal_code": "20457",
+      "country": "Deutschland",
+      "phone": "(0 40) 7 67 58 03 - 0",
+      "fax": "(0 40) 7 67 58 03 - 21",
+      "email": "contact@mpo-gobal.com"
+    },
+    "delivery_schedule": {
+      "monday": "",
+      "tuesday": "",
+      "wednesday": "",
+      "thursday": "",
+      "friday": "",
+      "saturday": ""
+    },
+    "settings": {
+      "webshop_enabled": false,
+      "ds_addresses": false,
+      "no_pickup_app": false,
+      "minimum_order_value": null,
+      "articles_not_in_history": ""
+    },
+    "additional_addresses": [
+      {
+        "address_number": "0",
+        "salutation": "",
+        "name": "mpo Global Trade GmbH",
+        "name3": "",
+        "street": "Alter Wandrahm 15",
+        "city": "Hamburg",
+        "postal_code": "20457",
+        "country": "Deutschland",
+        "phone": "(0 40) 7 67 58 03 - 0",
+        "fax": "(0 40) 7 67 58 03 - 21",
+        "email": "contact@mpo-gobal.com",
+        "is_default_billing": true,
+        "is_default_delivery": true
+      }
+    ]
+  },
+  "order_statistics": {
+    "total_orders": 0,
+    "unique_articles_ordered": 0,
+    "recent_orders_count": 0,
+    "last_order_date": null
+  },
+  "order_history": []
+}

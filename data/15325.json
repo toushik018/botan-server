@@ -1,0 +1,392 @@
+{
+  "metadata": {
+    "generated_at": "2025-09-10T23:17:05.838101",
+    "client_number": "15325",
+    "data_source": "BotanBot XML Export"
+  },
+  "client_profile": {
+    "client_number": "15325",
+    "search_term": "ARBEITER SAMARITER BUND K",
+    "status": "Kunde",
+    "tax_number": "",
+    "vat_id": "",
+    "is_blocked": false,
+    "price_group": "(Std.-Preis)",
+    "billing_address": {
+      "salutation": "",
+      "name": "ASB Landesverband Schleswig-Holstein e.V.",
+      "name3": "RV Kiel Sanitätsdienst 13000",
+      "street": "Hamburger Chaussee 90",
+      "city": "Kiel",
+      "postal_code": "24113",
+      "country": "Deutschland",
+      "phone": "(01 71) 6 86 58 06",
+      "fax": "",
+      "email": "info@asb-kiel.de"
+    },
+    "delivery_address": {
+      "salutation": "",
+      "name": "ASB Landesverband Schleswig-Holstein e.V.",
+      "name3": "RV Kiel Sanitätsdienst 13000",
+      "street": "Hamburger Chaussee 90",
+      "city": "Kiel",
+      "postal_code": "24113",
+      "country": "Deutschland",
+      "phone": "(01 71) 6 86 58 06",
+      "fax": "",
+      "email": "info@asb-kiel.de"
+    },
+    "delivery_schedule": {
+      "monday": "",
+      "tuesday": "",
+      "wednesday": "",
+      "thursday": "",
+      "friday": "",
+      "saturday": ""
+    },
+    "settings": {
+      "webshop_enabled": true,
+      "ds_addresses": false,
+      "no_pickup_app": false,
+      "minimum_order_value": null,
+      "articles_not_in_history": ""
+    },
+    "additional_addresses": [
+      {
+        "address_number": "0",
+        "salutation": "",
+        "name": "ASB Landesverband Schleswig-Holstein e.V.",
+        "name3": "RV Kiel Sanitätsdienst 13000",
+        "street": "Hamburger Chaussee 90",
+        "city": "Kiel",
+        "postal_code": "24113",
+        "country": "Deutschland",
+        "phone": "(01 71) 6 86 58 06",
+        "fax": "",
+        "email": "info@asb-kiel.de",
+        "is_default_billing": true,
+        "is_default_delivery": true
+      }
+    ]
+  },
+  "order_statistics": {
+    "total_orders": 24,
+    "unique_articles_ordered": 24,
+    "recent_orders_count": 24,
+    "last_order_date": "2025-07-17"
+  },
+  "order_history": [
+    {
+      "article_number": "23000025",
+      "date": "2025-07-17",
+      "booking_quantity": 3816.0,
+      "quantity": 273.0,
+      "unit": "KI 12",
+      "article_info": {
+        "short_description": "Pflichtpfand Einwegartikel DPG",
+        "long_description": "Pflichtpfand Einwegartikel DPG",
+        "product_group": "90.05 Pfand",
+        "unit": "ST"
+      }
+    },
+    {
+      "article_number": "8922",
+      "date": "2025-07-17",
+      "booking_quantity": 372.0,
+      "quantity": 31.0,
+      "unit": "TR 12",
+      "article_info": {
+        "short_description": "FUZE Pfirsich 12 x 0,4 l Pet  Flasche",
+        "long_description": "Fuze Tea Pfirsich 12 x 0,4 l Pet-Flasche",
+        "product_group": "15.05.13 0,4 l Flasche",
+        "unit": "FL"
+      }
+    },
+    {
+      "article_number": "8924",
+      "date": "2025-07-17",
+      "booking_quantity": 348.0,
+      "quantity": 29.0,
+      "unit": "TR 12",
+      "article_info": {
+        "short_description": "Fuze Tea Zitrone 12 x 0,4 l Pet-Flasche",
+        "long_description": "Fuze Tea Zitrone 12 x 0,4 l Pet-Flasche",
+        "product_group": "15.05.13 0,4 l Flasche",
+        "unit": "FL"
+      }
+    },
+    {
+      "article_number": "2300025",
+      "date": "2025-07-17",
+      "booking_quantity": -2822.0,
+      "quantity": -2822.0,
+      "unit": "Dose 1 Stk.",
+      "article_info": {
+        "short_description": "Rücknahme Pflichtpfand DPG",
+        "long_description": "Rücknahme Pflichtpfand DPG",
+        "product_group": "90.05 Pfand",
+        "unit": "ST"
+      }
+    },
+    {
+      "article_number": "1224",
+      "date": "2025-07-17",
+      "booking_quantity": 156.0,
+      "quantity": 13.0,
+      "unit": "KI 12",
+      "article_info": {
+        "short_description": "Coca Cola Light 12 x 0,5 l DPG",
+        "long_description": "Coca Cola Light 12 x 0,5 l DPG",
+        "product_group": "15.05.20 0,5 l Flasche",
+        "unit": "FL"
+      }
+    },
+    {
+      "article_number": "9581",
+      "date": "2025-07-17",
+      "booking_quantity": 48.0,
+      "quantity": 4.0,
+      "unit": "KI 12",
+      "article_info": {
+        "short_description": "Coca Cola Zero 12 x 0,5 l DPG",
+        "long_description": "Coca Cola Zero 12 x 0,5 l DPG",
+        "product_group": "15.05.20 0,5 l Flasche",
+        "unit": "FL"
+      }
+    },
+    {
+      "article_number": "3101",
+      "date": "2025-06-19",
+      "booking_quantity": 84.0,
+      "quantity": 14.0,
+      "unit": "TR 6",
+      "article_info": {
+        "short_description": "DPG 6 x1,5 l.  Yurt Quellwasser",
+        "long_description": "Yurt Quellwasser DPG 6 x1,5 l.",
+        "product_group": "15.15.30 1,5 l Flasche",
+        "unit": "FL"
+      }
+    },
+    {
+      "article_number": "1223",
+      "date": "2025-06-18",
+      "booking_quantity": 408.0,
+      "quantity": 34.0,
+      "unit": "KI 12",
+      "article_info": {
+        "short_description": "Coca Cola 12 x 0,5 l DPG",
+        "long_description": "Coca Cola 12 x 0,5 l DPG",
+        "product_group": "15.05.20 0,5 l Flasche",
+        "unit": "FL"
+      }
+    },
+    {
+      "article_number": "1225",
+      "date": "2025-06-18",
+      "booking_quantity": 264.0,
+      "quantity": 22.0,
+      "unit": "KI 12",
+      "article_info": {
+        "short_description": "Mezzo Mix 12 x 0,5 l DPG",
+        "long_description": "Mezzo Mix 12 x 0,5 l DPG",
+        "product_group": "15.05.20 0,5 l Flasche",
+        "unit": "FL"
+      }
+    },
+    {
+      "article_number": "1226",
+      "date": "2025-06-18",
+      "booking_quantity": 192.0,
+      "quantity": 16.0,
+      "unit": "KI 12",
+      "article_info": {
+        "short_description": "Fanta Orange 12 x 0,5 l DPG",
+        "long_description": "Fanta Orange 12 x 0,5 l DPG",
+        "product_group": "15.05.20 0,5 l Flasche",
+        "unit": "FL"
+      }
+    },
+    {
+      "article_number": "1003",
+      "date": "2025-06-18",
+      "booking_quantity": 372.0,
+      "quantity": 31.0,
+      "unit": "KI 12",
+      "article_info": {
+        "short_description": "Lift Apfelschorle 12 x 0,5 l DPG",
+        "long_description": "Lift Apfelschorle 12 x 0,5 l DPG",
+        "product_group": "15.05.20 0,5 l Flasche",
+        "unit": "FL"
+      }
+    },
+    {
+      "article_number": "9559",
+      "date": "2025-06-18",
+      "booking_quantity": 612.0,
+      "quantity": 34.0,
+      "unit": "Karton 18",
+      "article_info": {
+        "short_description": "Vio Medium Apollinaris 18 x 0,5 l  DPG",
+        "long_description": "Apollinaris Vio Medium 18 x 0,5 l Flasche DPG",
+        "product_group": "15.15.15 0,5 l Flasche",
+        "unit": "FL"
+      }
+    },
+    {
+      "article_number": "3102",
+      "date": "2025-06-18",
+      "booking_quantity": 840.0,
+      "quantity": 35.0,
+      "unit": "TR 24",
+      "article_info": {
+        "short_description": "DPG 24 x 0,5 l. Yurt Quellwasser",
+        "long_description": "Yurt Quellwasser 24 x 0,5 l Flasche DPG",
+        "product_group": "15.15.15 0,5 l Flasche",
+        "unit": "FL"
+      }
+    },
+    {
+      "article_number": "1227",
+      "date": "2025-06-18",
+      "booking_quantity": 120.0,
+      "quantity": 10.0,
+      "unit": "KI 12",
+      "article_info": {
+        "short_description": "Sprite 12 x 0,5 l DPG",
+        "long_description": "Sprite 12 x 0,5 l DPG",
+        "product_group": "15.05.20 0,5 l Flasche",
+        "unit": "FL"
+      }
+    },
+    {
+      "article_number": "2200",
+      "date": "2025-06-13",
+      "booking_quantity": 5.0,
+      "quantity": 1.0,
+      "unit": "Beutel 5",
+      "article_info": {
+        "short_description": "Basmati - Reis 5 Kg",
+        "long_description": "Basmati-Reis 5 kg",
+        "product_group": "05.25.13 Reiswaren",
+        "unit": "KG"
+      }
+    },
+    {
+      "article_number": "2277",
+      "date": "2025-06-13",
+      "booking_quantity": 5.0,
+      "quantity": 2.0,
+      "unit": "Beutel 2,5 kg",
+      "article_info": {
+        "short_description": "TK Mango Stücke 2,5 Kg  BT",
+        "long_description": "Mangostücke 2,5 kg Beutel TK",
+        "product_group": "05.40.06 Obst",
+        "unit": "KG"
+      }
+    },
+    {
+      "article_number": "1531",
+      "date": "2025-06-13",
+      "booking_quantity": 5.0,
+      "quantity": 1.0,
+      "unit": "Eimer 5 kg",
+      "article_info": {
+        "short_description": "Apostel Proto 10+  5kg  Eimer",
+        "long_description": "Apostel Proto 10+  5 kg Eimer",
+        "product_group": "05.15.10 Joghurt",
+        "unit": "KG"
+      }
+    },
+    {
+      "article_number": "1535",
+      "date": "2025-06-13",
+      "booking_quantity": 2.0,
+      "quantity": 2.0,
+      "unit": "Pack 1",
+      "article_info": {
+        "short_description": "MILRAM H-Schlagsahne 30 %  1 Liter",
+        "long_description": "Milram H-Schlagsahne 30 % 1 l",
+        "product_group": "05.15.20 Sahne",
+        "unit": "PK"
+      }
+    },
+    {
+      "article_number": "2012",
+      "date": "2025-06-13",
+      "booking_quantity": 2.5,
+      "quantity": 1.0,
+      "unit": "Beutel 2,5 kg",
+      "article_info": {
+        "short_description": "TK Paprika-Streifen MIX ROT/GRÜN   2,5 kg  BT",
+        "long_description": "Paprika-Mix in Streifen rot/grün 2,5 kg Beutel TK",
+        "product_group": "05.40.05 Gemüse",
+        "unit": "KG"
+      }
+    },
+    {
+      "article_number": "1365",
+      "date": "2025-06-13",
+      "booking_quantity": 2.5,
+      "quantity": 1.0,
+      "unit": "Beutel 2,5 kg",
+      "article_info": {
+        "short_description": "TK Blumenkohl  30 / 60    2,5 Kg BT",
+        "long_description": "TK Blumenkohl 30/60   2,5 kg Beutel",
+        "product_group": "05.40.05 Gemüse",
+        "unit": "KG"
+      }
+    },
+    {
+      "article_number": "9872",
+      "date": "2025-06-13",
+      "booking_quantity": 3.0,
+      "quantity": 3.0,
+      "unit": "KG",
+      "article_info": {
+        "short_description": "Zucchini frisch Kg",
+        "long_description": "Zucchini frisch kg",
+        "product_group": "05.35.05 Frischgemüse",
+        "unit": "KG"
+      }
+    },
+    {
+      "article_number": "9865",
+      "date": "2025-06-13",
+      "booking_quantity": 3.18,
+      "quantity": 3.18,
+      "unit": "KG",
+      "article_info": {
+        "short_description": "Möhren frisch",
+        "long_description": "Möhren frisch",
+        "product_group": "05.35.05 Frischgemüse",
+        "unit": "KG"
+      }
+    },
+    {
+      "article_number": "9158",
+      "date": "2025-06-13",
+      "booking_quantity": 2.5,
+      "quantity": 1.0,
+      "unit": "Beutel 2,5 kg",
+      "article_info": {
+        "short_description": "TK Zwiebeln gewürfelt 10x10mm  2,5 KG BT",
+        "long_description": "TK Zwiebeln gewürfelt 10x10mm",
+        "product_group": "05.40.05 Gemüse",
+        "unit": "KG"
+      }
+    },
+    {
+      "article_number": "2141",
+      "date": "2025-06-13",
+      "booking_quantity": 5.045,
+      "quantity": 5.045,
+      "unit": "Beutel",
+      "article_info": {
+        "short_description": "TK Putenoberkeulengeschnetzeltes ca. 2,5Kg Sprehe",
+        "long_description": "TK Putenoberkeulengeschnetzeltes ca. 2,5Kg Sprehe",
+        "product_group": "05.05.20.05 TK",
+        "unit": "KG"
+      }
+    }
+  ]
+}

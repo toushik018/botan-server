@@ -1,0 +1,79 @@
+{
+  "metadata": {
+    "generated_at": "2025-09-10T23:17:06.569365",
+    "client_number": "17466",
+    "data_source": "BotanBot XML Export"
+  },
+  "client_profile": {
+    "client_number": "17466",
+    "search_term": "PIZZA NAPOLI",
+    "status": "Kunde",
+    "tax_number": "",
+    "vat_id": "",
+    "is_blocked": true,
+    "price_group": "(Std.-Preis)",
+    "billing_address": {
+      "salutation": "",
+      "name": "Pizza Taxi",
+      "name3": "Inh. Mohammad Rkad",
+      "street": "Flensburger Strasse 22 a",
+      "city": "Wanderup",
+      "postal_code": "24997",
+      "country": "Deutschland",
+      "phone": "(0 46 38) 8 99 49 77",
+      "fax": "",
+      "email": "rakad.mhamad@gmail.com"
+    },
+    "delivery_address": {
+      "salutation": "",
+      "name": "Pizza Taxi",
+      "name3": "Inh. Mohammad Rkad",
+      "street": "Flensburger Strasse 22 a",
+      "city": "Wanderup",
+      "postal_code": "24997",
+      "country": "Deutschland",
+      "phone": "(0 46 38) 8 99 49 77",
+      "fax": "",
+      "email": "rakad.mhamad@gmail.com"
+    },
+    "delivery_schedule": {
+      "monday": "1",
+      "tuesday": "",
+      "wednesday": "",
+      "thursday": "7",
+      "friday": "",
+      "saturday": ""
+    },
+    "settings": {
+      "webshop_enabled": false,
+      "ds_addresses": false,
+      "no_pickup_app": false,
+      "minimum_order_value": null,
+      "articles_not_in_history": ""
+    },
+    "additional_addresses": [
+      {
+        "address_number": "0",
+        "salutation": "",
+        "name": "Pizza Taxi",
+        "name3": "Inh. Mohammad Rkad",
+        "street": "Flensburger Strasse 22 a",
+        "city": "Wanderup",
+        "postal_code": "24997",
+        "country": "Deutschland",
+        "phone": "(0 46 38) 8 99 49 77",
+        "fax": "",
+        "email": "rakad.mhamad@gmail.com",
+        "is_default_billing": true,
+        "is_default_delivery": true
+      }
+    ]
+  },
+  "order_statistics": {
+    "total_orders": 0,
+    "unique_articles_ordered": 0,
+    "recent_orders_count": 0,
+    "last_order_date": null
+  },
+  "order_history": []
+}

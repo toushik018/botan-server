@@ -1,0 +1,79 @@
+{
+  "metadata": {
+    "generated_at": "2025-09-10T23:17:05.369951",
+    "client_number": "13636",
+    "data_source": "BotanBot XML Export"
+  },
+  "client_profile": {
+    "client_number": "13636",
+    "search_term": "",
+    "status": "Kunde",
+    "tax_number": "",
+    "vat_id": "",
+    "is_blocked": false,
+    "price_group": "(Std.-Preis)",
+    "billing_address": {
+      "salutation": "Gaststätte",
+      "name": "Koralle",
+      "name3": "Inh. Irfan Cicek",
+      "street": "Gut Damp 1",
+      "city": "Damp",
+      "postal_code": "24351",
+      "country": "Deutschland",
+      "phone": "(01 76) 90 23 08 32",
+      "fax": "",
+      "email": "irfancicek19@gmail.com"
+    },
+    "delivery_address": {
+      "salutation": "Gaststätte",
+      "name": "Koralle",
+      "name3": "Inh. Irfan Cicek",
+      "street": "Gut Damp 1",
+      "city": "Damp",
+      "postal_code": "24351",
+      "country": "Deutschland",
+      "phone": "(01 76) 90 23 08 32",
+      "fax": "",
+      "email": "irfancicek19@gmail.com"
+    },
+    "delivery_schedule": {
+      "monday": "1",
+      "tuesday": "",
+      "wednesday": "",
+      "thursday": "6",
+      "friday": "",
+      "saturday": ""
+    },
+    "settings": {
+      "webshop_enabled": false,
+      "ds_addresses": false,
+      "no_pickup_app": false,
+      "minimum_order_value": null,
+      "articles_not_in_history": "1322,1434"
+    },
+    "additional_addresses": [
+      {
+        "address_number": "0",
+        "salutation": "Gaststätte",
+        "name": "Koralle",
+        "name3": "Inh. Irfan Cicek",
+        "street": "Gut Damp 1",
+        "city": "Damp",
+        "postal_code": "24351",
+        "country": "Deutschland",
+        "phone": "(01 76) 90 23 08 32",
+        "fax": "",
+        "email": "irfancicek19@gmail.com",
+        "is_default_billing": true,
+        "is_default_delivery": true
+      }
+    ]
+  },
+  "order_statistics": {
+    "total_orders": 0,
+    "unique_articles_ordered": 0,
+    "recent_orders_count": 0,
+    "last_order_date": null
+  },
+  "order_history": []
+}

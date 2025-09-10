@@ -1,0 +1,145 @@
+{
+  "metadata": {
+    "generated_at": "2025-09-10T23:17:06.302042",
+    "client_number": "16777",
+    "data_source": "BotanBot XML Export"
+  },
+  "client_profile": {
+    "client_number": "16777",
+    "search_term": "AOMS THAI IMBISS",
+    "status": "Kunde",
+    "tax_number": "",
+    "vat_id": "",
+    "is_blocked": false,
+    "price_group": "(Std.-Preis)",
+    "billing_address": {
+      "salutation": "",
+      "name": "Aom's Thai Imbiss",
+      "name3": "Inh.: Atsarin, Inzee",
+      "street": "Johannesstr. 31",
+      "city": "Kiel",
+      "postal_code": "24143",
+      "country": "Deutschland",
+      "phone": "(0 17) 46 60 07 47",
+      "fax": "",
+      "email": "aoms.thai.imbiss@gmail.com"
+    },
+    "delivery_address": {
+      "salutation": "",
+      "name": "Aom's Thai Imbiss",
+      "name3": "Inh.: Atsarin, Inzee",
+      "street": "Johannesstr. 31",
+      "city": "Kiel",
+      "postal_code": "24143",
+      "country": "Deutschland",
+      "phone": "(0 17) 46 60 07 47",
+      "fax": "",
+      "email": "aoms.thai.imbiss@gmail.com"
+    },
+    "delivery_schedule": {
+      "monday": "",
+      "tuesday": "",
+      "wednesday": "",
+      "thursday": "",
+      "friday": "",
+      "saturday": ""
+    },
+    "settings": {
+      "webshop_enabled": true,
+      "ds_addresses": false,
+      "no_pickup_app": false,
+      "minimum_order_value": null,
+      "articles_not_in_history": ""
+    },
+    "additional_addresses": [
+      {
+        "address_number": "0",
+        "salutation": "",
+        "name": "Aom's Thai Imbiss",
+        "name3": "Inh.: Atsarin, Inzee",
+        "street": "Johannesstr. 31",
+        "city": "Kiel",
+        "postal_code": "24143",
+        "country": "Deutschland",
+        "phone": "(0 17) 46 60 07 47",
+        "fax": "",
+        "email": "aoms.thai.imbiss@gmail.com",
+        "is_default_billing": true,
+        "is_default_delivery": true
+      }
+    ]
+  },
+  "order_statistics": {
+    "total_orders": 5,
+    "unique_articles_ordered": 5,
+    "recent_orders_count": 5,
+    "last_order_date": "2025-08-15"
+  },
+  "order_history": [
+    {
+      "article_number": "9299",
+      "date": "2025-08-15",
+      "booking_quantity": 50.0,
+      "quantity": 20.0,
+      "unit": "Beutel 2,5 kg",
+      "article_info": {
+        "short_description": "Hähnchenbruststreifen gegart Halal 2,5kg Beutel",
+        "long_description": "Hähnchenbruststreifen gegart 2,5 kg Beutel halal",
+        "product_group": "05.05.20.05 TK",
+        "unit": "KG"
+      }
+    },
+    {
+      "article_number": "1041",
+      "date": "2025-08-15",
+      "booking_quantity": 2.0,
+      "quantity": 2.0,
+      "unit": "Sack",
+      "article_info": {
+        "short_description": "Weisskohl Sack,  15 Kg frisch",
+        "long_description": "Weißkohl 15 kg Sack frisch",
+        "product_group": "05.35.05 Frischgemüse",
+        "unit": "SK"
+      }
+    },
+    {
+      "article_number": "9558",
+      "date": "2025-08-15",
+      "booking_quantity": 2.0,
+      "quantity": 2.0,
+      "unit": "Kanister 1 Stk.",
+      "article_info": {
+        "short_description": "Chilisauce \"Flying Goose\" (süß) 4.5 l",
+        "long_description": "Chilisauce \"Flying Goose\" (süß) 4.5 l",
+        "product_group": "05.20.05 ASIA-Produkte",
+        "unit": "KN"
+      }
+    },
+    {
+      "article_number": "9166",
+      "date": "2025-07-26",
+      "booking_quantity": 6.0,
+      "quantity": 2.0,
+      "unit": "Karton 3 kg",
+      "article_info": {
+        "short_description": "TK Chicken - Dinos 33g, pan. 3 KG/KT",
+        "long_description": "Chicken-Dinos paniert 3 kg Karton TK",
+        "product_group": "05.05.20.05 TK",
+        "unit": "KG"
+      }
+    },
+    {
+      "article_number": "2571",
+      "date": "2025-07-26",
+      "booking_quantity": 3.0,
+      "quantity": 3.0,
+      "unit": "Beutel 1 kg",
+      "article_info": {
+        "short_description": "Plant Powerd Nuggets vegan  1 kg",
+        "long_description": "Plant Powerd Nuggets vegan  1 kg",
+        "product_group": "05.07 Vegan",
+        "unit": "KG"
+      }
+    }
+  ]
+}

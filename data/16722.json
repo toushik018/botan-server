@@ -1,0 +1,79 @@
+{
+  "metadata": {
+    "generated_at": "2025-09-10T23:17:06.284088",
+    "client_number": "16722",
+    "data_source": "BotanBot XML Export"
+  },
+  "client_profile": {
+    "client_number": "16722",
+    "search_term": "TASKAR -GETRÄNKEHANDEL-",
+    "status": "Kunde",
+    "tax_number": "",
+    "vat_id": "",
+    "is_blocked": false,
+    "price_group": "3 EK1,10",
+    "billing_address": {
+      "salutation": "Firma",
+      "name": "Foodrink Getränkehandel",
+      "name3": "Inh. Orhan Dorak",
+      "street": "Am alten Gutshof 1",
+      "city": "Boksee",
+      "postal_code": "24220",
+      "country": "Deutschland",
+      "phone": "(0 41 55) 10 46 44 91",
+      "fax": "",
+      "email": "o.dorak@gmx.de"
+    },
+    "delivery_address": {
+      "salutation": "Firma",
+      "name": "Foodrink Getränkehandel",
+      "name3": "Inh. Orhan Dorak",
+      "street": "Am alten Gutshof 1",
+      "city": "Boksee",
+      "postal_code": "24220",
+      "country": "Deutschland",
+      "phone": "(0 41 55) 10 46 44 91",
+      "fax": "",
+      "email": "o.dorak@gmx.de"
+    },
+    "delivery_schedule": {
+      "monday": "20",
+      "tuesday": "20",
+      "wednesday": "20",
+      "thursday": "20",
+      "friday": "20",
+      "saturday": "20"
+    },
+    "settings": {
+      "webshop_enabled": false,
+      "ds_addresses": false,
+      "no_pickup_app": false,
+      "minimum_order_value": null,
+      "articles_not_in_history": ""
+    },
+    "additional_addresses": [
+      {
+        "address_number": "0",
+        "salutation": "Firma",
+        "name": "Foodrink Getränkehandel",
+        "name3": "Inh. Orhan Dorak",
+        "street": "Am alten Gutshof 1",
+        "city": "Boksee",
+        "postal_code": "24220",
+        "country": "Deutschland",
+        "phone": "(0 41 55) 10 46 44 91",
+        "fax": "",
+        "email": "o.dorak@gmx.de",
+        "is_default_billing": true,
+        "is_default_delivery": true
+      }
+    ]
+  },
+  "order_statistics": {
+    "total_orders": 0,
+    "unique_articles_ordered": 0,
+    "recent_orders_count": 0,
+    "last_order_date": null
+  },
+  "order_history": []
+}

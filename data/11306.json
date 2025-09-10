@@ -1,0 +1,94 @@
+{
+  "metadata": {
+    "generated_at": "2025-09-10T23:17:04.723136",
+    "client_number": "11306",
+    "data_source": "BotanBot XML Export"
+  },
+  "client_profile": {
+    "client_number": "11306",
+    "search_term": "TRIPLE",
+    "status": "Kunde",
+    "tax_number": "",
+    "vat_id": "",
+    "is_blocked": true,
+    "price_group": "(Std.-Preis)",
+    "billing_address": {
+      "salutation": "",
+      "name": "",
+      "name3": "AMC UG",
+      "street": "Wesselstraat. 25a",
+      "city": "Hamburg",
+      "postal_code": "22399",
+      "country": "Deutschland",
+      "phone": "(04 51) 61 91 99 11",
+      "fax": "(0 40) 61 13 67 94",
+      "email": ""
+    },
+    "delivery_address": {
+      "salutation": "",
+      "name": "Mundfein Pizzawerkstatt",
+      "name3": "",
+      "street": "Geninerstr. 197",
+      "city": "Lübeck",
+      "postal_code": "23560",
+      "country": "Deutschland",
+      "phone": "(04 51) 61 91 99 11",
+      "fax": "(04 51) 61 91 99 14",
+      "email": ""
+    },
+    "delivery_schedule": {
+      "monday": "",
+      "tuesday": "",
+      "wednesday": "",
+      "thursday": "",
+      "friday": "",
+      "saturday": ""
+    },
+    "settings": {
+      "webshop_enabled": false,
+      "ds_addresses": false,
+      "no_pickup_app": false,
+      "minimum_order_value": null,
+      "articles_not_in_history": ""
+    },
+    "additional_addresses": [
+      {
+        "address_number": "1",
+        "salutation": "",
+        "name": "",
+        "name3": "AMC UG",
+        "street": "Wesselstraat. 25a",
+        "city": "Hamburg",
+        "postal_code": "22399",
+        "country": "Deutschland",
+        "phone": "(04 51) 61 91 99 11",
+        "fax": "(0 40) 61 13 67 94",
+        "email": "",
+        "is_default_billing": true,
+        "is_default_delivery": false
+      },
+      {
+        "address_number": "0",
+        "salutation": "",
+        "name": "Mundfein Pizzawerkstatt",
+        "name3": "",
+        "street": "Geninerstr. 197",
+        "city": "Lübeck",
+        "postal_code": "23560",
+        "country": "Deutschland",
+        "phone": "(04 51) 61 91 99 11",
+        "fax": "(04 51) 61 91 99 14",
+        "email": "",
+        "is_default_billing": false,
+        "is_default_delivery": true
+      }
+    ]
+  },
+  "order_statistics": {
+    "total_orders": 0,
+    "unique_articles_ordered": 0,
+    "recent_orders_count": 0,
+    "last_order_date": null
+  },
+  "order_history": []
+}

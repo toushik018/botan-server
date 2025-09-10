@@ -1,0 +1,79 @@
+{
+  "metadata": {
+    "generated_at": "2025-09-10T23:17:06.836226",
+    "client_number": "75513",
+    "data_source": "BotanBot XML Export"
+  },
+  "client_profile": {
+    "client_number": "75513",
+    "search_term": "LION FOODS",
+    "status": "Lieferant",
+    "tax_number": "",
+    "vat_id": "NL852728979B01",
+    "is_blocked": false,
+    "price_group": "(Std.-Preis)",
+    "billing_address": {
+      "salutation": "Firma",
+      "name": "Lion Foods B.V.",
+      "name3": "",
+      "street": "Kloosterpoort 35",
+      "city": "Kapelle",
+      "postal_code": "4421 SN",
+      "country": "Niederlande",
+      "phone": "+31 (1 66) 66 - 36 44",
+      "fax": "+31 (1 66) 66 88 96",
+      "email": "sales@lionfoods.nl"
+    },
+    "delivery_address": {
+      "salutation": "Firma",
+      "name": "Lion Foods B.V.",
+      "name3": "",
+      "street": "Kloosterpoort 35",
+      "city": "Kapelle",
+      "postal_code": "4421 SN",
+      "country": "Niederlande",
+      "phone": "+31 (1 66) 66 - 36 44",
+      "fax": "+31 (1 66) 66 88 96",
+      "email": "sales@lionfoods.nl"
+    },
+    "delivery_schedule": {
+      "monday": "",
+      "tuesday": "",
+      "wednesday": "",
+      "thursday": "",
+      "friday": "",
+      "saturday": ""
+    },
+    "settings": {
+      "webshop_enabled": false,
+      "ds_addresses": false,
+      "no_pickup_app": false,
+      "minimum_order_value": null,
+      "articles_not_in_history": ""
+    },
+    "additional_addresses": [
+      {
+        "address_number": "0",
+        "salutation": "Firma",
+        "name": "Lion Foods B.V.",
+        "name3": "",
+        "street": "Kloosterpoort 35",
+        "city": "Kapelle",
+        "postal_code": "4421 SN",
+        "country": "Niederlande",
+        "phone": "+31 (1 66) 66 - 36 44",
+        "fax": "+31 (1 66) 66 88 96",
+        "email": "sales@lionfoods.nl",
+        "is_default_billing": true,
+        "is_default_delivery": true
+      }
+    ]
+  },
+  "order_statistics": {
+    "total_orders": 0,
+    "unique_articles_ordered": 0,
+    "recent_orders_count": 0,
+    "last_order_date": null
+  },
+  "order_history": []
+}

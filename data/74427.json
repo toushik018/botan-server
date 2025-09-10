@@ -1,0 +1,79 @@
+{
+  "metadata": {
+    "generated_at": "2025-09-10T23:17:06.774205",
+    "client_number": "74427",
+    "data_source": "BotanBot XML Export"
+  },
+  "client_profile": {
+    "client_number": "74427",
+    "search_term": "ENTRUP-HASELBACH",
+    "status": "Lieferant",
+    "tax_number": "",
+    "vat_id": "",
+    "is_blocked": false,
+    "price_group": "(Std.-Preis)",
+    "billing_address": {
+      "salutation": "",
+      "name": "D. Entrup-Haselbach GmbH & Co.KG",
+      "name3": "KN  D36115",
+      "street": "Alte Geer 8",
+      "city": "Gevelsberg",
+      "postal_code": "58285",
+      "country": "Deutschland",
+      "phone": "(0 23 32) 75 76 76",
+      "fax": "",
+      "email": ""
+    },
+    "delivery_address": {
+      "salutation": "",
+      "name": "D. Entrup-Haselbach GmbH & Co.KG",
+      "name3": "KN  D36115",
+      "street": "Alte Geer 8",
+      "city": "Gevelsberg",
+      "postal_code": "58285",
+      "country": "Deutschland",
+      "phone": "(0 23 32) 75 76 76",
+      "fax": "",
+      "email": ""
+    },
+    "delivery_schedule": {
+      "monday": "",
+      "tuesday": "",
+      "wednesday": "",
+      "thursday": "",
+      "friday": "",
+      "saturday": ""
+    },
+    "settings": {
+      "webshop_enabled": false,
+      "ds_addresses": false,
+      "no_pickup_app": false,
+      "minimum_order_value": null,
+      "articles_not_in_history": ""
+    },
+    "additional_addresses": [
+      {
+        "address_number": "0",
+        "salutation": "",
+        "name": "D. Entrup-Haselbach GmbH & Co.KG",
+        "name3": "KN  D36115",
+        "street": "Alte Geer 8",
+        "city": "Gevelsberg",
+        "postal_code": "58285",
+        "country": "Deutschland",
+        "phone": "(0 23 32) 75 76 76",
+        "fax": "",
+        "email": "",
+        "is_default_billing": true,
+        "is_default_delivery": true
+      }
+    ]
+  },
+  "order_statistics": {
+    "total_orders": 0,
+    "unique_articles_ordered": 0,
+    "recent_orders_count": 0,
+    "last_order_date": null
+  },
+  "order_history": []
+}

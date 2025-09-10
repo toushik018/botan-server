@@ -1,0 +1,94 @@
+{
+  "metadata": {
+    "generated_at": "2025-09-10T23:17:06.047663",
+    "client_number": "16043",
+    "data_source": "BotanBot XML Export"
+  },
+  "client_profile": {
+    "client_number": "16043",
+    "search_term": "ZWEIHANDVOLL FOOD COMPANY",
+    "status": "Kunde",
+    "tax_number": "",
+    "vat_id": "",
+    "is_blocked": true,
+    "price_group": "(Std.-Preis)",
+    "billing_address": {
+      "salutation": "",
+      "name": "Zweihandvoll",
+      "name3": "Food Company GmbH & Co. KG",
+      "street": "Petershof 9",
+      "city": "Lübeck",
+      "postal_code": "23560",
+      "country": "Deutschland",
+      "phone": "(01 76) 36 30 99 28",
+      "fax": "",
+      "email": "a.tilki@birfood.de"
+    },
+    "delivery_address": {
+      "salutation": "Firma",
+      "name": "Loka Döner Meat and More",
+      "name3": "",
+      "street": "Breite Straße 23",
+      "city": "Lübeck",
+      "postal_code": "23552",
+      "country": "Deutschland",
+      "phone": "(01 76) 36 30 99 28",
+      "fax": "",
+      "email": ""
+    },
+    "delivery_schedule": {
+      "monday": "",
+      "tuesday": "",
+      "wednesday": "",
+      "thursday": "",
+      "friday": "",
+      "saturday": ""
+    },
+    "settings": {
+      "webshop_enabled": false,
+      "ds_addresses": false,
+      "no_pickup_app": false,
+      "minimum_order_value": null,
+      "articles_not_in_history": ""
+    },
+    "additional_addresses": [
+      {
+        "address_number": "0",
+        "salutation": "",
+        "name": "Zweihandvoll",
+        "name3": "Food Company GmbH & Co. KG",
+        "street": "Petershof 9",
+        "city": "Lübeck",
+        "postal_code": "23560",
+        "country": "Deutschland",
+        "phone": "(01 76) 36 30 99 28",
+        "fax": "",
+        "email": "a.tilki@birfood.de",
+        "is_default_billing": true,
+        "is_default_delivery": false
+      },
+      {
+        "address_number": "1",
+        "salutation": "Firma",
+        "name": "Loka Döner Meat and More",
+        "name3": "",
+        "street": "Breite Straße 23",
+        "city": "Lübeck",
+        "postal_code": "23552",
+        "country": "Deutschland",
+        "phone": "(01 76) 36 30 99 28",
+        "fax": "",
+        "email": "",
+        "is_default_billing": false,
+        "is_default_delivery": true
+      }
+    ]
+  },
+  "order_statistics": {
+    "total_orders": 0,
+    "unique_articles_ordered": 0,
+    "recent_orders_count": 0,
+    "last_order_date": null
+  },
+  "order_history": []
+}

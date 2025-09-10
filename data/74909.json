@@ -1,0 +1,79 @@
+{
+  "metadata": {
+    "generated_at": "2025-09-10T23:17:06.804697",
+    "client_number": "74909",
+    "data_source": "BotanBot XML Export"
+  },
+  "client_profile": {
+    "client_number": "74909",
+    "search_term": "IMCA",
+    "status": "Lieferant",
+    "tax_number": "00183180652",
+    "vat_id": "IT00183180652",
+    "is_blocked": false,
+    "price_group": "(Std.-Preis)",
+    "billing_address": {
+      "salutation": "Firma",
+      "name": "Industria Meridionale Conserve Alimentari",
+      "name3": "",
+      "street": "Via Provinciale 101",
+      "city": "Pagani (SA)",
+      "postal_code": "84016",
+      "country": "Italien",
+      "phone": "+39 (0 81) 5 15 45 75",
+      "fax": "+39 (0 81) 9 16 63",
+      "email": ""
+    },
+    "delivery_address": {
+      "salutation": "Firma",
+      "name": "Industria Meridionale Conserve Alimentari",
+      "name3": "",
+      "street": "Via Provinciale 101",
+      "city": "Pagani (SA)",
+      "postal_code": "84016",
+      "country": "Italien",
+      "phone": "+39 (0 81) 5 15 45 75",
+      "fax": "+39 (0 81) 9 16 63",
+      "email": ""
+    },
+    "delivery_schedule": {
+      "monday": "",
+      "tuesday": "",
+      "wednesday": "",
+      "thursday": "",
+      "friday": "",
+      "saturday": ""
+    },
+    "settings": {
+      "webshop_enabled": false,
+      "ds_addresses": false,
+      "no_pickup_app": false,
+      "minimum_order_value": null,
+      "articles_not_in_history": ""
+    },
+    "additional_addresses": [
+      {
+        "address_number": "0",
+        "salutation": "Firma",
+        "name": "Industria Meridionale Conserve Alimentari",
+        "name3": "",
+        "street": "Via Provinciale 101",
+        "city": "Pagani (SA)",
+        "postal_code": "84016",
+        "country": "Italien",
+        "phone": "+39 (0 81) 5 15 45 75",
+        "fax": "+39 (0 81) 9 16 63",
+        "email": "",
+        "is_default_billing": true,
+        "is_default_delivery": true
+      }
+    ]
+  },
+  "order_statistics": {
+    "total_orders": 0,
+    "unique_articles_ordered": 0,
+    "recent_orders_count": 0,
+    "last_order_date": null
+  },
+  "order_history": []
+}

@@ -1,0 +1,79 @@
+{
+  "metadata": {
+    "generated_at": "2025-09-10T23:17:04.518537",
+    "client_number": "10590",
+    "data_source": "BotanBot XML Export"
+  },
+  "client_profile": {
+    "client_number": "10590",
+    "search_term": "",
+    "status": "Kunde",
+    "tax_number": "",
+    "vat_id": "",
+    "is_blocked": false,
+    "price_group": "(Std.-Preis)",
+    "billing_address": {
+      "salutation": "",
+      "name": "Pizza Taxi",
+      "name3": "Inh.: Saleem Baig",
+      "street": "Flensburger Str. 22a",
+      "city": "Wanderup",
+      "postal_code": "24997",
+      "country": "Deutschland",
+      "phone": "(0 46 06) 9 63 - 61",
+      "fax": "",
+      "email": "pizza-taxi-wanderup@t-online.de"
+    },
+    "delivery_address": {
+      "salutation": "",
+      "name": "Pizza Taxi",
+      "name3": "Inh.: Saleem Baig",
+      "street": "Flensburger Str. 22a",
+      "city": "Wanderup",
+      "postal_code": "24997",
+      "country": "Deutschland",
+      "phone": "(0 46 06) 9 63 - 61",
+      "fax": "",
+      "email": "pizza-taxi-wanderup@t-online.de"
+    },
+    "delivery_schedule": {
+      "monday": "1",
+      "tuesday": "",
+      "wednesday": "",
+      "thursday": "7",
+      "friday": "",
+      "saturday": ""
+    },
+    "settings": {
+      "webshop_enabled": false,
+      "ds_addresses": false,
+      "no_pickup_app": false,
+      "minimum_order_value": null,
+      "articles_not_in_history": "1503,3039,3027,2208,2471"
+    },
+    "additional_addresses": [
+      {
+        "address_number": "0",
+        "salutation": "",
+        "name": "Pizza Taxi",
+        "name3": "Inh.: Saleem Baig",
+        "street": "Flensburger Str. 22a",
+        "city": "Wanderup",
+        "postal_code": "24997",
+        "country": "Deutschland",
+        "phone": "(0 46 06) 9 63 - 61",
+        "fax": "",
+        "email": "pizza-taxi-wanderup@t-online.de",
+        "is_default_billing": true,
+        "is_default_delivery": true
+      }
+    ]
+  },
+  "order_statistics": {
+    "total_orders": 0,
+    "unique_articles_ordered": 0,
+    "recent_orders_count": 0,
+    "last_order_date": null
+  },
+  "order_history": []
+}

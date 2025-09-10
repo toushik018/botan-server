@@ -1,0 +1,94 @@
+{
+  "metadata": {
+    "generated_at": "2025-09-10T23:17:05.892998",
+    "client_number": "15527",
+    "data_source": "BotanBot XML Export"
+  },
+  "client_profile": {
+    "client_number": "15527",
+    "search_term": "LUCACELLI GASTRO",
+    "status": "Kunde",
+    "tax_number": "",
+    "vat_id": "DE295959186",
+    "is_blocked": true,
+    "price_group": "(Std.-Preis)",
+    "billing_address": {
+      "salutation": "",
+      "name": "Lucacelli Gastro GmbH",
+      "name3": "",
+      "street": "Ballindamm 40",
+      "city": "Hamburg",
+      "postal_code": "20095",
+      "country": "Deutschland",
+      "phone": "(01 51) 21 03 66 76",
+      "fax": "",
+      "email": "info@lucacelli.de"
+    },
+    "delivery_address": {
+      "salutation": "",
+      "name": "Lucacelli Gastro GmbH",
+      "name3": "",
+      "street": "Ballindamm 40",
+      "city": "Hamburg",
+      "postal_code": "20095",
+      "country": "Deutschland",
+      "phone": "(01 51) 21 03 66 76",
+      "fax": "",
+      "email": "info@lucacelli.de"
+    },
+    "delivery_schedule": {
+      "monday": "",
+      "tuesday": "",
+      "wednesday": "",
+      "thursday": "",
+      "friday": "",
+      "saturday": ""
+    },
+    "settings": {
+      "webshop_enabled": false,
+      "ds_addresses": true,
+      "no_pickup_app": false,
+      "minimum_order_value": null,
+      "articles_not_in_history": "9160,9218,9184"
+    },
+    "additional_addresses": [
+      {
+        "address_number": "0",
+        "salutation": "",
+        "name": "Lucacelli Gastro GmbH",
+        "name3": "",
+        "street": "Ballindamm 40",
+        "city": "Hamburg",
+        "postal_code": "20095",
+        "country": "Deutschland",
+        "phone": "(01 51) 21 03 66 76",
+        "fax": "",
+        "email": "info@lucacelli.de",
+        "is_default_billing": true,
+        "is_default_delivery": true
+      },
+      {
+        "address_number": "1",
+        "salutation": "",
+        "name": "",
+        "name3": "",
+        "street": "",
+        "city": "",
+        "postal_code": "",
+        "country": "Deutschland",
+        "phone": "",
+        "fax": "",
+        "email": "",
+        "is_default_billing": false,
+        "is_default_delivery": false
+      }
+    ]
+  },
+  "order_statistics": {
+    "total_orders": 0,
+    "unique_articles_ordered": 0,
+    "recent_orders_count": 0,
+    "last_order_date": null
+  },
+  "order_history": []
+}

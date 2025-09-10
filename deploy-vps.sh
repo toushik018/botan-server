@@ -98,9 +98,40 @@ fi
 print_status "Building TypeScript application..."
 npx tsc
 
-# Create required directories
+# Create required directories and setup data migration
 print_status "Creating required directories..."
 mkdir -p logs data
+
+# Optional: Setup for data migration from local development
+print_status "Setting up data migration options..."
+cat > data-migration.md << 'EOL'
+# Data Migration Guide
+
+## Option 1: Upload existing data (Recommended for faster setup)
+If you have existing Adressen, Artikel, and History data:
+
+```bash
+# From your local machine, upload data to VPS
+scp -r ./data/* root@your-vps-ip:/opt/botan-server/data/
+scp ./products.json root@your-vps-ip:/opt/botan-server/
+```
+
+## Option 2: Manual FTP sync (Initial setup)
+```bash
+# On VPS, run initial sync
+cd /opt/botan-server
+npm run sync-and-convert
+```
+
+## Option 3: Restore from backup
+If you have a backup archive:
+```bash
+# Extract backup to data directory
+tar -xzf backup.tar.gz -C /opt/botan-server/
+```
+EOL
+
+print_success "Data migration guide created: data-migration.md"
 # Set up production environment file
 if [ ! -f ".env" ]; then
     cat > .env << EOL

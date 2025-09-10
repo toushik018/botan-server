@@ -1,0 +1,366 @@
+{
+  "metadata": {
+    "generated_at": "2025-09-10T23:17:06.591384",
+    "client_number": "17526",
+    "data_source": "BotanBot XML Export"
+  },
+  "client_profile": {
+    "client_number": "17526",
+    "search_term": "JELLY DONUT",
+    "status": "Kunde",
+    "tax_number": "",
+    "vat_id": "",
+    "is_blocked": false,
+    "price_group": "(Std.-Preis)",
+    "billing_address": {
+      "salutation": "",
+      "name": "Eiscafe& pizzeria Chebello",
+      "name3": "Inh. Soner Yavuz",
+      "street": "Grosse Strasse 36",
+      "city": "Flensburg",
+      "postal_code": "24937",
+      "country": "Deutschland",
+      "phone": "(0 17) 92 27 44 02",
+      "fax": "",
+      "email": "chebelloeiscafe@gmail.com"
+    },
+    "delivery_address": {
+      "salutation": "",
+      "name": "Eiscafe& pizzeria Chebello",
+      "name3": "Inh. Soner Yavuz",
+      "street": "Grosse Strasse 36",
+      "city": "Flensburg",
+      "postal_code": "24937",
+      "country": "Deutschland",
+      "phone": "(0 17) 92 27 44 02",
+      "fax": "",
+      "email": "chebelloeiscafe@gmail.com"
+    },
+    "delivery_schedule": {
+      "monday": "1",
+      "tuesday": "",
+      "wednesday": "",
+      "thursday": "4",
+      "friday": "",
+      "saturday": ""
+    },
+    "settings": {
+      "webshop_enabled": true,
+      "ds_addresses": false,
+      "no_pickup_app": false,
+      "minimum_order_value": null,
+      "articles_not_in_history": ""
+    },
+    "additional_addresses": [
+      {
+        "address_number": "0",
+        "salutation": "",
+        "name": "Eiscafe& pizzeria Chebello",
+        "name3": "Inh. Soner Yavuz",
+        "street": "Grosse Strasse 36",
+        "city": "Flensburg",
+        "postal_code": "24937",
+        "country": "Deutschland",
+        "phone": "(0 17) 92 27 44 02",
+        "fax": "",
+        "email": "chebelloeiscafe@gmail.com",
+        "is_default_billing": true,
+        "is_default_delivery": true
+      }
+    ]
+  },
+  "order_statistics": {
+    "total_orders": 22,
+    "unique_articles_ordered": 22,
+    "recent_orders_count": 22,
+    "last_order_date": "2025-08-12"
+  },
+  "order_history": [
+    {
+      "article_number": "230510",
+      "date": "2025-08-12",
+      "booking_quantity": -5.0,
+      "quantity": -5.0,
+      "unit": "ST",
+      "article_info": {
+        "short_description": "Rücknahme Pfand = 5,10 € (24 x 0,33 l Cola)",
+        "long_description": "Rücknahme Pfand = 5,10 € (24 x 0,33 l Cola)",
+        "product_group": "90.05 Pfand",
+        "unit": "ST"
+      }
+    },
+    {
+      "article_number": "230342",
+      "date": "2025-08-12",
+      "booking_quantity": -1.0,
+      "quantity": -1.0,
+      "unit": "ST",
+      "article_info": {
+        "short_description": "Rücknahme Pfand=3,42 €(24x0,33 l Bier)",
+        "long_description": "Rücknahme Pfand=3,42 €(24x0,33 l Bier)",
+        "product_group": "90.05 Pfand",
+        "unit": "ST"
+      }
+    },
+    {
+      "article_number": "1362",
+      "date": "2025-08-11",
+      "booking_quantity": 10.0,
+      "quantity": 4.0,
+      "unit": "Beutel 2,5 kg",
+      "article_info": {
+        "short_description": "Broccoli Röschen  20 / 40    2,5 Kg BT TK",
+        "long_description": "Broccoliröschen 20/40 2,5 kg Beutel TK",
+        "product_group": "05.40.05 Gemüse",
+        "unit": "KG"
+      }
+    },
+    {
+      "article_number": "1857",
+      "date": "2025-08-11",
+      "booking_quantity": 5.0,
+      "quantity": 5.0,
+      "unit": "Pack 1",
+      "article_info": {
+        "short_description": "Putenschinken geschn. 1kg (Halal)",
+        "long_description": "Putenschinken geschn. 1kg (Halal)",
+        "product_group": "05.05.20.10 Frisch",
+        "unit": "KG"
+      }
+    },
+    {
+      "article_number": "1466",
+      "date": "2025-08-11",
+      "booking_quantity": 5.0,
+      "quantity": 5.0,
+      "unit": "Pack 1",
+      "article_info": {
+        "short_description": "Rindersalami  geschn.1kg (Halal) m. Pt.Fleisch",
+        "long_description": "Rindersalami  geschn.1 kg (Halal) m. Pt.Fleisch",
+        "product_group": "05.05.05.10 Frisch",
+        "unit": "KG"
+      }
+    },
+    {
+      "article_number": "3181",
+      "date": "2025-08-11",
+      "booking_quantity": 6.0,
+      "quantity": 6.0,
+      "unit": "Pack 1",
+      "article_info": {
+        "short_description": "Sucuk parmak (Knoblauchwurst) 1kg",
+        "long_description": "Sucuk parmak (Knoblauchwurst) 1 kg",
+        "product_group": "05.05.05.10 Frisch",
+        "unit": "KG"
+      }
+    },
+    {
+      "article_number": "9583",
+      "date": "2025-08-11",
+      "booking_quantity": 48.0,
+      "quantity": 2.0,
+      "unit": "KI 24",
+      "article_info": {
+        "short_description": "Fanta Orange  24 x 0,2 l Kiste",
+        "long_description": "Fanta Orange 24 x 0,2 l Kiste",
+        "product_group": "15.05.05 0,2 l  Flasche MWK",
+        "unit": "FL"
+      }
+    },
+    {
+      "article_number": "23510",
+      "date": "2025-08-11",
+      "booking_quantity": 7.0,
+      "quantity": 7.0,
+      "unit": "Kiste",
+      "article_info": {
+        "short_description": "Pfand = 5,10 € 24er Cola & Co 0,33l",
+        "long_description": "Pfand = 5,10 € 24er Cola & Co 0,33 l",
+        "product_group": "90.05 Pfand",
+        "unit": "ST"
+      }
+    },
+    {
+      "article_number": "9582",
+      "date": "2025-08-11",
+      "booking_quantity": 72.0,
+      "quantity": 3.0,
+      "unit": "KI 24",
+      "article_info": {
+        "short_description": "Coca Cola  24 x 0,2 l Kiste",
+        "long_description": "Coca Cola 24 x 0,2 l Kiste",
+        "product_group": "15.05.05 0,2 l  Flasche MWK",
+        "unit": "FL"
+      }
+    },
+    {
+      "article_number": "1653",
+      "date": "2025-08-11",
+      "booking_quantity": 48.0,
+      "quantity": 2.0,
+      "unit": "KI 24",
+      "article_info": {
+        "short_description": "Cola ZERO  24 x 0,2 l  Flaschen",
+        "long_description": "Coca Cola Zero 24 x 0,2 l Flasche",
+        "product_group": "15.05.05 0,2 l  Flasche MWK",
+        "unit": "FL"
+      }
+    },
+    {
+      "article_number": "1340",
+      "date": "2025-08-11",
+      "booking_quantity": 3.0,
+      "quantity": 3.0,
+      "unit": "Pack 1",
+      "article_info": {
+        "short_description": "Sauce - Hollandaise Lukull  1 Liter",
+        "long_description": "Lukull Sauce Hollandaise 1 l",
+        "product_group": "05.45.30 Fertigsaucen",
+        "unit": "PK"
+      }
+    },
+    {
+      "article_number": "9058",
+      "date": "2025-08-11",
+      "booking_quantity": 2.0,
+      "quantity": 2.0,
+      "unit": "Tube 1",
+      "article_info": {
+        "short_description": "Barbecuesauce  875ml Tube",
+        "long_description": "Barbecue Sauce 875 ml Tube",
+        "product_group": "05.45.15 Dips und Saucen",
+        "unit": "TB"
+      }
+    },
+    {
+      "article_number": "2450",
+      "date": "2025-08-11",
+      "booking_quantity": 28.31,
+      "quantity": 28.31,
+      "unit": "Block",
+      "article_info": {
+        "short_description": "Mozzarella  40% Milram Block ca. 15 Kg",
+        "long_description": "Milram Mozzarella  40 % Block ca. 15 Kg",
+        "product_group": "05.15.05.05.05 Blockware",
+        "unit": "KG"
+      }
+    },
+    {
+      "article_number": "1162",
+      "date": "2025-08-11",
+      "booking_quantity": 31.205,
+      "quantity": 31.205,
+      "unit": "Block",
+      "article_info": {
+        "short_description": "Pizzakäse Gouda  48%  F.i.Tr. Milram",
+        "long_description": "Milram Pizzakäse Gouda  48 % F.i.Tr. ca. 15 Kg",
+        "product_group": "05.15.05.05.05 Blockware",
+        "unit": "KG"
+      }
+    },
+    {
+      "article_number": "1534",
+      "date": "2025-07-24",
+      "booking_quantity": 36.0,
+      "quantity": 3.0,
+      "unit": "Karton 12 Stk.",
+      "article_info": {
+        "short_description": "H-Milch 3,5 %  12 x 1 Liter",
+        "long_description": "H-Milch 3,5 %  1 Liter",
+        "product_group": "05.15.15 Milch",
+        "unit": "PK"
+      }
+    },
+    {
+      "article_number": "8913",
+      "date": "2025-07-24",
+      "booking_quantity": 48.0,
+      "quantity": 2.0,
+      "unit": "KI 24",
+      "article_info": {
+        "short_description": "Fritz Kola Zuckerfrei  24 x 0,33 l  Flaschen",
+        "long_description": "Fritz Kola Zuckerfrei 24 x 0,33 l Flasche",
+        "product_group": "15.05.10 0,3 l und 0,33 l Flasche MWK",
+        "unit": "FL"
+      }
+    },
+    {
+      "article_number": "23342",
+      "date": "2025-07-24",
+      "booking_quantity": 4.0,
+      "quantity": 4.0,
+      "unit": "Kiste",
+      "article_info": {
+        "short_description": "Pfand = 3,42 € 24er  0,33l (24x0,08+1,50)",
+        "long_description": "Pfand = 3,42 € 24er 0,33l (24 x 0,08 + 1,50)",
+        "product_group": "90.05 Pfand",
+        "unit": "ST"
+      }
+    },
+    {
+      "article_number": "8930",
+      "date": "2025-07-24",
+      "booking_quantity": 24.0,
+      "quantity": 1.0,
+      "unit": "KI 24",
+      "article_info": {
+        "short_description": "Fritz Superzero 24x0,33 l  Fl.",
+        "long_description": "Fritz Superzero  24x0,33 l Flasche",
+        "product_group": "15.05.10 0,3 l und 0,33 l Flasche MWK",
+        "unit": "FL"
+      }
+    },
+    {
+      "article_number": "8928",
+      "date": "2025-07-24",
+      "booking_quantity": 24.0,
+      "quantity": 1.0,
+      "unit": "KI 24",
+      "article_info": {
+        "short_description": "Fritz Anjola Bio Ananas-Limette 24x0,33 l  Fl.",
+        "long_description": "Fritz Anjola Bio Ananas-Limette 24x0,33 l Flasche",
+        "product_group": "15.05.10 0,3 l und 0,33 l Flasche MWK",
+        "unit": "FL"
+      }
+    },
+    {
+      "article_number": "1115",
+      "date": "2025-07-14",
+      "booking_quantity": 1.0,
+      "quantity": 1.0,
+      "unit": "Karton 1",
+      "article_info": {
+        "short_description": "Präge-Servietten,1/4-Falz weiß 33x33cm 4000 Stk.",
+        "long_description": "Präge-Servietten,1/4-Falz weiß 33x33cm 4000 Stk.",
+        "product_group": "10.05.55 Servietten",
+        "unit": "KT"
+      }
+    },
+    {
+      "article_number": "2144",
+      "date": "2025-07-14",
+      "booking_quantity": 4.0,
+      "quantity": 4.0,
+      "unit": "Pack 1",
+      "article_info": {
+        "short_description": "Trinkhalm Mehrweg 23x 0,8 cm schwarz Pack 250 Stk",
+        "long_description": "Trinkhalm Mehrweg 23x 0,8 cm schwarz Pack 250 Stk",
+        "product_group": "10.05.50 Besteck",
+        "unit": "PK"
+      }
+    },
+    {
+      "article_number": "9104",
+      "date": "2025-07-14",
+      "booking_quantity": 2.0,
+      "quantity": 2.0,
+      "unit": "Pack",
+      "article_info": {
+        "short_description": "Kraft NYC Pizza Karton 30x30x4 cm 100 Stk. braun",
+        "long_description": "Kraft NYC braun Pizza-Karton 30x30x4 cm 100 Stück",
+        "product_group": "10.05.05 Pizzakartons",
+        "unit": "PK"
+      }
+    }
+  ]
+}

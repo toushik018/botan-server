@@ -1,0 +1,340 @@
+{
+  "metadata": {
+    "generated_at": "2025-09-10T23:17:05.933371",
+    "client_number": "15672",
+    "data_source": "BotanBot XML Export"
+  },
+  "client_profile": {
+    "client_number": "15672",
+    "search_term": "FATIH CÜCEN",
+    "status": "Kunde",
+    "tax_number": "",
+    "vat_id": "",
+    "is_blocked": false,
+    "price_group": "(Std.-Preis)",
+    "billing_address": {
+      "salutation": "Mitarbeiter",
+      "name": "Fatih CÜCEN",
+      "name3": "",
+      "street": "Gorch-Fock-4",
+      "city": "Kiel",
+      "postal_code": "24159",
+      "country": "Deutschland",
+      "phone": "(01 76) 41 20 86 89",
+      "fax": "",
+      "email": "f.cuecen@botan-food.de"
+    },
+    "delivery_address": {
+      "salutation": "Mitarbeiter",
+      "name": "Fatih CÜCEN",
+      "name3": "",
+      "street": "Gorch-Fock-4",
+      "city": "Kiel",
+      "postal_code": "24159",
+      "country": "Deutschland",
+      "phone": "(01 76) 41 20 86 89",
+      "fax": "",
+      "email": "f.cuecen@botan-food.de"
+    },
+    "delivery_schedule": {
+      "monday": "",
+      "tuesday": "",
+      "wednesday": "",
+      "thursday": "",
+      "friday": "",
+      "saturday": ""
+    },
+    "settings": {
+      "webshop_enabled": true,
+      "ds_addresses": false,
+      "no_pickup_app": false,
+      "minimum_order_value": null,
+      "articles_not_in_history": ""
+    },
+    "additional_addresses": [
+      {
+        "address_number": "0",
+        "salutation": "Mitarbeiter",
+        "name": "Fatih CÜCEN",
+        "name3": "",
+        "street": "Gorch-Fock-4",
+        "city": "Kiel",
+        "postal_code": "24159",
+        "country": "Deutschland",
+        "phone": "(01 76) 41 20 86 89",
+        "fax": "",
+        "email": "f.cuecen@botan-food.de",
+        "is_default_billing": true,
+        "is_default_delivery": true
+      }
+    ]
+  },
+  "order_statistics": {
+    "total_orders": 20,
+    "unique_articles_ordered": 20,
+    "recent_orders_count": 20,
+    "last_order_date": "2025-08-20"
+  },
+  "order_history": [
+    {
+      "article_number": "230450",
+      "date": "2025-08-20",
+      "booking_quantity": -6.0,
+      "quantity": -6.0,
+      "unit": "Kiste",
+      "article_info": {
+        "short_description": "Rücknahme Pfand 4,50€ (20x0,33l Bier)",
+        "long_description": "Rücknahme Pfand 4,50€ (20x0,33l Bier)",
+        "product_group": "90.05 Pfand",
+        "unit": "ST"
+      }
+    },
+    {
+      "article_number": "2300025",
+      "date": "2025-08-20",
+      "booking_quantity": -289.0,
+      "quantity": -289.0,
+      "unit": "Dose 1 Stk.",
+      "article_info": {
+        "short_description": "Rücknahme Pflichtpfand DPG",
+        "long_description": "Rücknahme Pflichtpfand DPG",
+        "product_group": "90.05 Pfand",
+        "unit": "ST"
+      }
+    },
+    {
+      "article_number": "9632",
+      "date": "2025-08-18",
+      "booking_quantity": 140.0,
+      "quantity": 7.0,
+      "unit": "KI 20",
+      "article_info": {
+        "short_description": "Club Mate 20 x 0,5 l  MWK",
+        "long_description": "Club Mate 20 x 0,5 l MWK",
+        "product_group": "15.05.20 0,5 l Flasche",
+        "unit": "FL"
+      }
+    },
+    {
+      "article_number": "23450",
+      "date": "2025-08-18",
+      "booking_quantity": 7.0,
+      "quantity": 7.0,
+      "unit": "Kiste",
+      "article_info": {
+        "short_description": "Pfand = 4,50 €  20 x Bügel od. 12 x Mehrweg FL",
+        "long_description": "Pfand = 4,50 € 20 x Bügel- oder Mehrwegflaschen",
+        "product_group": "90.05 Pfand",
+        "unit": "ST"
+      }
+    },
+    {
+      "article_number": "3102",
+      "date": "2025-08-18",
+      "booking_quantity": 240.0,
+      "quantity": 10.0,
+      "unit": "TR 24",
+      "article_info": {
+        "short_description": "DPG 24 x 0,5 l. Yurt Quellwasser",
+        "long_description": "Yurt Quellwasser 24 x 0,5 l Flasche DPG",
+        "product_group": "15.15.15 0,5 l Flasche",
+        "unit": "FL"
+      }
+    },
+    {
+      "article_number": "23000025",
+      "date": "2025-08-18",
+      "booking_quantity": 240.0,
+      "quantity": 10.0,
+      "unit": "TR 24",
+      "article_info": {
+        "short_description": "Pflichtpfand Einwegartikel DPG",
+        "long_description": "Pflichtpfand Einwegartikel DPG",
+        "product_group": "90.05 Pfand",
+        "unit": "ST"
+      }
+    },
+    {
+      "article_number": "1536",
+      "date": "2025-08-11",
+      "booking_quantity": 40.0,
+      "quantity": 2.0,
+      "unit": "Karton 20 Stk.",
+      "article_info": {
+        "short_description": "Ayran Becher  Jghrt. -Getränk 20x250 g",
+        "long_description": "Ayran Joghurtgetränk 250 g Becher",
+        "product_group": "05.15.35 Joghurt- und Milchgetränke",
+        "unit": "ST"
+      }
+    },
+    {
+      "article_number": "1388",
+      "date": "2025-07-14",
+      "booking_quantity": 10.0,
+      "quantity": 1.0,
+      "unit": "Sack 10 kg",
+      "article_info": {
+        "short_description": "Kartoffeln \"festkochend\" 10 Kg Sack ÜBERGRÖSSE",
+        "long_description": "Kartoffeln \"festkochend\" 10 kg Sack ÜBERGRÖSSE",
+        "product_group": "05.35.05 Frischgemüse",
+        "unit": "KG"
+      }
+    },
+    {
+      "article_number": "2469",
+      "date": "2025-07-04",
+      "booking_quantity": 3.0,
+      "quantity": 3.0,
+      "unit": "Tube 1",
+      "article_info": {
+        "short_description": "Smokey HOT Cocktail 800 ml  REMIA  Tube",
+        "long_description": "Remia Smokey HOT Cocktail 800 ml Tube",
+        "product_group": "05.45.20 Spezial-Saucen",
+        "unit": "TB"
+      }
+    },
+    {
+      "article_number": "2687",
+      "date": "2025-07-04",
+      "booking_quantity": 2.0,
+      "quantity": 2.0,
+      "unit": "Beutel 1 kg",
+      "article_info": {
+        "short_description": "Spicy Chicken Burger ca. 130g gegart 1kg/Beutel",
+        "long_description": "Spicy Chicken Burger ca. 130g gegart 1kg/Beutel",
+        "product_group": "05.05.20.05 TK",
+        "unit": "BT"
+      }
+    },
+    {
+      "article_number": "2743",
+      "date": "2025-06-17",
+      "booking_quantity": 40.0,
+      "quantity": 2.0,
+      "unit": "Karton 20 Stk.",
+      "article_info": {
+        "short_description": "içim Ayran  Jghrt. -Getränk 20x250 g MHD 17.07.25",
+        "long_description": "içim Ayran  Jghrt. -Getränk 20x250 g MHD 17.07.25",
+        "product_group": "05.15.35 Joghurt- und Milchgetränke",
+        "unit": "ST"
+      }
+    },
+    {
+      "article_number": "4011",
+      "date": "2025-06-17",
+      "booking_quantity": 1.0,
+      "quantity": 1.0,
+      "unit": "KG",
+      "article_info": {
+        "short_description": "Espresso Bohnen Splendid Aroma Tradizinale 1 Kg",
+        "long_description": "Splendid Espressobohnen Aroma Tradizionale 1 kg",
+        "product_group": "05.25.45 Kaffee und Tee",
+        "unit": "KG"
+      }
+    },
+    {
+      "article_number": "1584",
+      "date": "2025-06-17",
+      "booking_quantity": 4.0,
+      "quantity": 4.0,
+      "unit": "Dose 1 Stk.",
+      "article_info": {
+        "short_description": "Weinblätter gefüllt mit Reis  400 g Dosen",
+        "long_description": "Weinblätter gefüllt mit Reis 400 g Dosen",
+        "product_group": "05.25.25 Feinkost",
+        "unit": "DS"
+      }
+    },
+    {
+      "article_number": "9218",
+      "date": "2025-06-07",
+      "booking_quantity": 7.5,
+      "quantity": 3.0,
+      "unit": "Beutel 2,5 kg",
+      "article_info": {
+        "short_description": "Hähnchenbrust Stücke 5-15g (rundum gegart) 2,5 kg",
+        "long_description": "Hähnchenbrust Stücke 5-15g (rundum gegart) 2,5 kg",
+        "product_group": "05.05.20.05 TK",
+        "unit": "KG"
+      }
+    },
+    {
+      "article_number": "1820",
+      "date": "2025-06-07",
+      "booking_quantity": 2.0,
+      "quantity": 2.0,
+      "unit": "Beutel 1 kg",
+      "article_info": {
+        "short_description": "Kibbelinge,20-25g,1 kg TK i.Backteig Fisch Nuggets",
+        "long_description": "Kibbelinge Fisch-Nuggets 20-25 g 1 kg Backteig TK",
+        "product_group": "05.10.05.10 TK",
+        "unit": "KG"
+      }
+    },
+    {
+      "article_number": "9299",
+      "date": "2025-06-07",
+      "booking_quantity": 5.0,
+      "quantity": 2.0,
+      "unit": "Beutel 2,5 kg",
+      "article_info": {
+        "short_description": "Hähnchenbruststreifen gegart Halal 2,5kg Beutel",
+        "long_description": "Hähnchenbruststreifen gegart 2,5 kg Beutel halal",
+        "product_group": "05.05.20.05 TK",
+        "unit": "KG"
+      }
+    },
+    {
+      "article_number": "2501",
+      "date": "2025-06-07",
+      "booking_quantity": 6.0,
+      "quantity": 3.0,
+      "unit": "Beutel 2kg",
+      "article_info": {
+        "short_description": "TK geg. geschn. Fleisch nach Dönerart 2kg BT Halal",
+        "long_description": "TK geg. geschn. Fleisch nach Dönerart 2kg BT Halal",
+        "product_group": "05.05.05.05 TK",
+        "unit": "KG"
+      }
+    },
+    {
+      "article_number": "5050",
+      "date": "2025-05-31",
+      "booking_quantity": 48.0,
+      "quantity": 2.0,
+      "unit": "KI 24",
+      "article_info": {
+        "short_description": "Christinen Multi Vitamin 24 x 0,33 l MWK",
+        "long_description": "Christinen Multivitamin 24 x 0,33 l MWK",
+        "product_group": "15.05.10 0,3 l und 0,33 l Flasche MWK",
+        "unit": "FL"
+      }
+    },
+    {
+      "article_number": "23342",
+      "date": "2025-05-31",
+      "booking_quantity": 2.0,
+      "quantity": 2.0,
+      "unit": "Kiste",
+      "article_info": {
+        "short_description": "Pfand = 3,42 € 24er  0,33l (24x0,08+1,50)",
+        "long_description": "Pfand = 3,42 € 24er 0,33l (24 x 0,08 + 1,50)",
+        "product_group": "90.05 Pfand",
+        "unit": "ST"
+      }
+    },
+    {
+      "article_number": "1842",
+      "date": "2025-05-27",
+      "booking_quantity": 1.0,
+      "quantity": 1.0,
+      "unit": "Karton",
+      "article_info": {
+        "short_description": "Strauchtomaten  5 kg Kiste",
+        "long_description": "Strauchtomaten  5 kg Kiste",
+        "product_group": "05.35.05 Frischgemüse",
+        "unit": "KT"
+      }
+    }
+  ]
+}

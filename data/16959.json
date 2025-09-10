@@ -1,0 +1,145 @@
+{
+  "metadata": {
+    "generated_at": "2025-09-10T23:17:06.376142",
+    "client_number": "16959",
+    "data_source": "BotanBot XML Export"
+  },
+  "client_profile": {
+    "client_number": "16959",
+    "search_term": "FASS FEUER",
+    "status": "Kunde",
+    "tax_number": "",
+    "vat_id": "",
+    "is_blocked": false,
+    "price_group": "(Std.-Preis)",
+    "billing_address": {
+      "salutation": "",
+      "name": "Fass Feuer",
+      "name3": "Inh. Daniel Busch",
+      "street": "Ottmar-Enking-Straße 53a",
+      "city": "Kiel",
+      "postal_code": "24159",
+      "country": "Deutschland",
+      "phone": "(01 76) 78 30 59 37",
+      "fax": "",
+      "email": "post@werft.bar"
+    },
+    "delivery_address": {
+      "salutation": "",
+      "name": "Fass Feuer",
+      "name3": "Inh. Daniel Busch",
+      "street": "Ottmar-Enking-Straße 53a",
+      "city": "Kiel",
+      "postal_code": "24159",
+      "country": "Deutschland",
+      "phone": "(01 76) 78 30 59 37",
+      "fax": "",
+      "email": "post@werft.bar"
+    },
+    "delivery_schedule": {
+      "monday": "",
+      "tuesday": "",
+      "wednesday": "",
+      "thursday": "",
+      "friday": "",
+      "saturday": ""
+    },
+    "settings": {
+      "webshop_enabled": false,
+      "ds_addresses": false,
+      "no_pickup_app": false,
+      "minimum_order_value": null,
+      "articles_not_in_history": ""
+    },
+    "additional_addresses": [
+      {
+        "address_number": "0",
+        "salutation": "",
+        "name": "Fass Feuer",
+        "name3": "Inh. Daniel Busch",
+        "street": "Ottmar-Enking-Straße 53a",
+        "city": "Kiel",
+        "postal_code": "24159",
+        "country": "Deutschland",
+        "phone": "(01 76) 78 30 59 37",
+        "fax": "",
+        "email": "post@werft.bar",
+        "is_default_billing": true,
+        "is_default_delivery": true
+      }
+    ]
+  },
+  "order_statistics": {
+    "total_orders": 5,
+    "unique_articles_ordered": 5,
+    "recent_orders_count": 5,
+    "last_order_date": "2025-08-21"
+  },
+  "order_history": [
+    {
+      "article_number": "1218",
+      "date": "2025-08-21",
+      "booking_quantity": 48.0,
+      "quantity": 2.0,
+      "unit": "KI 24",
+      "article_info": {
+        "short_description": "Coca Cola  24 x 0,33 l  Flaschen",
+        "long_description": "Coca Cola 24 x 0,33 l Flasche",
+        "product_group": "15.05.10 0,3 l und 0,33 l Flasche MWK",
+        "unit": "FL"
+      }
+    },
+    {
+      "article_number": "23510",
+      "date": "2025-08-21",
+      "booking_quantity": 2.0,
+      "quantity": 2.0,
+      "unit": "Kiste",
+      "article_info": {
+        "short_description": "Pfand = 5,10 € 24er Cola & Co 0,33l",
+        "long_description": "Pfand = 5,10 € 24er Cola & Co 0,33 l",
+        "product_group": "90.05 Pfand",
+        "unit": "ST"
+      }
+    },
+    {
+      "article_number": "1967",
+      "date": "2025-08-21",
+      "booking_quantity": 27.0,
+      "quantity": 3.0,
+      "unit": "Karton 9 kg",
+      "article_info": {
+        "short_description": "FRESH AVIKO POMMES 11mm Sup. Crunch 2 x 4,5 kg",
+        "long_description": "FRESH AVIKO POMMES 11mm Sup. Crunch 2 x 4,5 kg",
+        "product_group": "05.30.05 Pommes",
+        "unit": "KG"
+      }
+    },
+    {
+      "article_number": "3178",
+      "date": "2025-08-13",
+      "booking_quantity": 420.0,
+      "quantity": 7.0,
+      "unit": "Karton 60 Stk.",
+      "article_info": {
+        "short_description": "Potato Burger Bun 4 inch \"Salomon\"",
+        "long_description": "Potato Burger Bun 4 inch \"Salomon\"",
+        "product_group": "05.40.10 Brotwaren",
+        "unit": "ST"
+      }
+    },
+    {
+      "article_number": "2051",
+      "date": "2025-07-03",
+      "booking_quantity": 12.0,
+      "quantity": 12.0,
+      "unit": "Tube 1",
+      "article_info": {
+        "short_description": "Salatmayonnaise 50 % 875 ml Tube",
+        "long_description": "Salatmayonnaise 50 % 875 ml Tube",
+        "product_group": "05.45.05 Mayonnaise",
+        "unit": "TB"
+      }
+    }
+  ]
+}

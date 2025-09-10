@@ -1,0 +1,275 @@
+{
+  "metadata": {
+    "generated_at": "2025-09-10T23:17:06.293089",
+    "client_number": "16753",
+    "data_source": "BotanBot XML Export"
+  },
+  "client_profile": {
+    "client_number": "16753",
+    "search_term": "ROYAL GRILL",
+    "status": "Kunde",
+    "tax_number": "",
+    "vat_id": "",
+    "is_blocked": false,
+    "price_group": "(Std.-Preis)",
+    "billing_address": {
+      "salutation": "",
+      "name": "Royal Grill",
+      "name3": "",
+      "street": "Barnitzer Strasse 1-7 (Famila Parkplatz)",
+      "city": "Reinfeld",
+      "postal_code": "23858",
+      "country": "Deutschland",
+      "phone": "(01 59) 01 91 23 65",
+      "fax": "",
+      "email": "ercanoguz1982@hotmail.com"
+    },
+    "delivery_address": {
+      "salutation": "",
+      "name": "Royal Grill",
+      "name3": "",
+      "street": "Barnitzer Strasse 1-7 (Famila Parkplatz)",
+      "city": "Reinfeld",
+      "postal_code": "23858",
+      "country": "Deutschland",
+      "phone": "(01 59) 01 91 23 65",
+      "fax": "",
+      "email": "ercanoguz1982@hotmail.com"
+    },
+    "delivery_schedule": {
+      "monday": "",
+      "tuesday": "",
+      "wednesday": "3",
+      "thursday": "",
+      "friday": "",
+      "saturday": ""
+    },
+    "settings": {
+      "webshop_enabled": true,
+      "ds_addresses": false,
+      "no_pickup_app": false,
+      "minimum_order_value": null,
+      "articles_not_in_history": ""
+    },
+    "additional_addresses": [
+      {
+        "address_number": "0",
+        "salutation": "",
+        "name": "Royal Grill",
+        "name3": "",
+        "street": "Barnitzer Strasse 1-7 (Famila Parkplatz)",
+        "city": "Reinfeld",
+        "postal_code": "23858",
+        "country": "Deutschland",
+        "phone": "(01 59) 01 91 23 65",
+        "fax": "",
+        "email": "ercanoguz1982@hotmail.com",
+        "is_default_billing": true,
+        "is_default_delivery": true
+      }
+    ]
+  },
+  "order_statistics": {
+    "total_orders": 15,
+    "unique_articles_ordered": 15,
+    "recent_orders_count": 15,
+    "last_order_date": "2025-08-20"
+  },
+  "order_history": [
+    {
+      "article_number": "9152",
+      "date": "2025-08-20",
+      "booking_quantity": 66.0,
+      "quantity": 22.0,
+      "unit": "Karton 3 kg",
+      "article_info": {
+        "short_description": "Hähnchen-Schnitzel paniert 160g",
+        "long_description": "Hähnchenschnitzel paniert 160 g",
+        "product_group": "05.05.20.05 TK",
+        "unit": "KG"
+      }
+    },
+    {
+      "article_number": "1043",
+      "date": "2025-08-20",
+      "booking_quantity": 81.0,
+      "quantity": 27.0,
+      "unit": "Karton 3 kg",
+      "article_info": {
+        "short_description": "Sprehe Hähnchenbrustfilet natur 120 g/Stück 3 kg",
+        "long_description": "Sprehe Hähnchenbrustfilet natur 120 g/Stück 3 kg",
+        "product_group": "05.05.20.05 TK",
+        "unit": "KG"
+      }
+    },
+    {
+      "article_number": "1882",
+      "date": "2025-08-20",
+      "booking_quantity": 10.0,
+      "quantity": 10.0,
+      "unit": "Pack 1",
+      "article_info": {
+        "short_description": "Schmelzkäse Cheddar in Scheiben  1,082 kg",
+        "long_description": "Schmelzkäse Cheddar in Scheiben 1,082 kg",
+        "product_group": "05.15.05.10.20 Frisch- und Schmelzkäse",
+        "unit": "PK"
+      }
+    },
+    {
+      "article_number": "1352",
+      "date": "2025-08-20",
+      "booking_quantity": 490.0,
+      "quantity": 49.0,
+      "unit": "Karton 10 kg",
+      "article_info": {
+        "short_description": "Pommes Frites frisch 10 mm 2 x 5kg BT",
+        "long_description": "Pommes Frites frisch 10 mm 2 x 5 kg Beutel",
+        "product_group": "05.30.05 Pommes",
+        "unit": "KG"
+      }
+    },
+    {
+      "article_number": "1519",
+      "date": "2025-08-20",
+      "booking_quantity": 1060.0,
+      "quantity": 106.0,
+      "unit": "Pack 10 Stk.",
+      "article_info": {
+        "short_description": "Rinder Currywurst 10 x 150g in EH",
+        "long_description": "Rinder-Currywurst 150 g in EH",
+        "product_group": "05.05.05.10 Frisch",
+        "unit": "ST"
+      }
+    },
+    {
+      "article_number": "1338",
+      "date": "2025-08-20",
+      "booking_quantity": 80.0,
+      "quantity": 8.0,
+      "unit": "Eimer 10 kg",
+      "article_info": {
+        "short_description": "Curry Ketchup Remia  10 Kg Eimer",
+        "long_description": "Remia Curry-Ketchup 10 kg Eimer",
+        "product_group": "05.45.10 Ketchup",
+        "unit": "KG"
+      }
+    },
+    {
+      "article_number": "1553",
+      "date": "2025-08-20",
+      "booking_quantity": 5.0,
+      "quantity": 5.0,
+      "unit": "Beutel 1 kg",
+      "article_info": {
+        "short_description": "Chicken Nuggets 1 kg BT",
+        "long_description": "Chicken Nuggets 1 kg",
+        "product_group": "05.05.20.05 TK",
+        "unit": "KG"
+      }
+    },
+    {
+      "article_number": "1336",
+      "date": "2025-08-20",
+      "booking_quantity": 30.0,
+      "quantity": 3.0,
+      "unit": "Eimer 10 kg",
+      "article_info": {
+        "short_description": "Tomaten Ketchup Remia 10 Kg Eimer",
+        "long_description": "Remia Tomaten-Ketchup 10 kg Eimer",
+        "product_group": "05.45.10 Ketchup",
+        "unit": "KG"
+      }
+    },
+    {
+      "article_number": "1390",
+      "date": "2025-08-06",
+      "booking_quantity": 40.0,
+      "quantity": 4.0,
+      "unit": "Sack 10 kg",
+      "article_info": {
+        "short_description": "Rote Zwiebeln 10 kg Sack",
+        "long_description": "Rote Zwiebeln 10 kg Sack",
+        "product_group": "05.35.05 Frischgemüse",
+        "unit": "KG"
+      }
+    },
+    {
+      "article_number": "1640",
+      "date": "2025-08-06",
+      "booking_quantity": 100.0,
+      "quantity": 10.0,
+      "unit": "Eimer 10 kg",
+      "article_info": {
+        "short_description": "Salat-Mayonnaise Remia  10 Kg Eimer",
+        "long_description": "Remia Salatmayonnaise 10 kg Eimer",
+        "product_group": "05.45.05 Mayonnaise",
+        "unit": "KG"
+      }
+    },
+    {
+      "article_number": "1329",
+      "date": "2025-08-06",
+      "booking_quantity": 110.0,
+      "quantity": 11.0,
+      "unit": "Kanister 10 l",
+      "article_info": {
+        "short_description": "Rapsöl 10 Liter",
+        "long_description": "Rapsöl 10 l",
+        "product_group": "05.25.20.05 Öle",
+        "unit": "LI"
+      }
+    },
+    {
+      "article_number": "1369",
+      "date": "2025-07-30",
+      "booking_quantity": 300.0,
+      "quantity": 6.0,
+      "unit": "Beutel 50 Stk.",
+      "article_info": {
+        "short_description": "Falafel 50 Stk. vegan TK",
+        "long_description": "Falafel 50 Stück vegan TK",
+        "product_group": "05.07 Vegan",
+        "unit": "ST"
+      }
+    },
+    {
+      "article_number": "2095",
+      "date": "2025-07-30",
+      "booking_quantity": 2.0,
+      "quantity": 2.0,
+      "unit": "Beutel 1 kg",
+      "article_info": {
+        "short_description": "Chili & Cheese Nuggets 1 Kg",
+        "long_description": "Chili & Cheese Nuggets 1 kg",
+        "product_group": "05.40.15 Convenience Food",
+        "unit": "KG"
+      }
+    },
+    {
+      "article_number": "1603",
+      "date": "2025-07-16",
+      "booking_quantity": 5.0,
+      "quantity": 1.0,
+      "unit": "Eimer 5 kg",
+      "article_info": {
+        "short_description": "Senf mittelscharf 5 kg Eimer",
+        "long_description": "Senf mittelscharf 5 kg Eimer",
+        "product_group": "05.45.13 Senf",
+        "unit": "KG"
+      }
+    },
+    {
+      "article_number": "1666",
+      "date": "2025-05-28",
+      "booking_quantity": 1.0,
+      "quantity": 1.0,
+      "unit": "Karton 1",
+      "article_info": {
+        "short_description": "Becher 50 ml  rund mit Deckel 500 Stk.",
+        "long_description": "Becher 50 ml rund mit Deckel 500 Stück",
+        "product_group": "10.05.35 Feinkost- und diverse Becher",
+        "unit": "KT"
+      }
+    }
+  ]
+}

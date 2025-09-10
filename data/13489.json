@@ -1,0 +1,79 @@
+{
+  "metadata": {
+    "generated_at": "2025-09-10T23:17:05.325675",
+    "client_number": "13489",
+    "data_source": "BotanBot XML Export"
+  },
+  "client_profile": {
+    "client_number": "13489",
+    "search_term": "RESTAURANT PACO",
+    "status": "Kunde",
+    "tax_number": "",
+    "vat_id": "",
+    "is_blocked": true,
+    "price_group": "(Std.-Preis)",
+    "billing_address": {
+      "salutation": "",
+      "name": "Zagros Grill",
+      "name3": "Inh.: Govan Tely",
+      "street": "Christianstr. 78",
+      "city": "Neumünster",
+      "postal_code": "24534",
+      "country": "Deutschland",
+      "phone": "(01 76) 84 74 53 17",
+      "fax": "",
+      "email": ""
+    },
+    "delivery_address": {
+      "salutation": "",
+      "name": "Zagros Grill",
+      "name3": "Inh.: Govan Tely",
+      "street": "Christianstr. 78",
+      "city": "Neumünster",
+      "postal_code": "24534",
+      "country": "Deutschland",
+      "phone": "(01 76) 84 74 53 17",
+      "fax": "",
+      "email": ""
+    },
+    "delivery_schedule": {
+      "monday": "",
+      "tuesday": "",
+      "wednesday": "",
+      "thursday": "",
+      "friday": "",
+      "saturday": ""
+    },
+    "settings": {
+      "webshop_enabled": false,
+      "ds_addresses": false,
+      "no_pickup_app": false,
+      "minimum_order_value": null,
+      "articles_not_in_history": "1492,1545,3004"
+    },
+    "additional_addresses": [
+      {
+        "address_number": "0",
+        "salutation": "",
+        "name": "Zagros Grill",
+        "name3": "Inh.: Govan Tely",
+        "street": "Christianstr. 78",
+        "city": "Neumünster",
+        "postal_code": "24534",
+        "country": "Deutschland",
+        "phone": "(01 76) 84 74 53 17",
+        "fax": "",
+        "email": "",
+        "is_default_billing": true,
+        "is_default_delivery": true
+      }
+    ]
+  },
+  "order_statistics": {
+    "total_orders": 0,
+    "unique_articles_ordered": 0,
+    "recent_orders_count": 0,
+    "last_order_date": null
+  },
+  "order_history": []
+}

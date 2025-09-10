@@ -1,0 +1,79 @@
+{
+  "metadata": {
+    "generated_at": "2025-09-10T23:17:06.453739",
+    "client_number": "17170",
+    "data_source": "BotanBot XML Export"
+  },
+  "client_profile": {
+    "client_number": "17170",
+    "search_term": "SPORTHEIM NORTORF",
+    "status": "Kunde",
+    "tax_number": "",
+    "vat_id": "",
+    "is_blocked": false,
+    "price_group": "(Std.-Preis)",
+    "billing_address": {
+      "salutation": "Firma",
+      "name": "Sportheim TuS Nortorf",
+      "name3": "Inh. Anja Boysen & Jan Wegener",
+      "street": "Hauptstraße 99",
+      "city": "Borgdorf-Seedorf",
+      "postal_code": "24589",
+      "country": "Deutschland",
+      "phone": "(01 52) 03 77 39 44",
+      "fax": "",
+      "email": "sportheim.1859@gmail.com"
+    },
+    "delivery_address": {
+      "salutation": "Firma",
+      "name": "Sportheim TuS Nortorf",
+      "name3": "Inh. Anja Boysen & Jan Wegener",
+      "street": "Hauptstraße 99",
+      "city": "Borgdorf-Seedorf",
+      "postal_code": "24589",
+      "country": "Deutschland",
+      "phone": "(01 52) 03 77 39 44",
+      "fax": "",
+      "email": "sportheim.1859@gmail.com"
+    },
+    "delivery_schedule": {
+      "monday": "",
+      "tuesday": "6",
+      "wednesday": "",
+      "thursday": "",
+      "friday": "8",
+      "saturday": ""
+    },
+    "settings": {
+      "webshop_enabled": false,
+      "ds_addresses": false,
+      "no_pickup_app": false,
+      "minimum_order_value": null,
+      "articles_not_in_history": ""
+    },
+    "additional_addresses": [
+      {
+        "address_number": "0",
+        "salutation": "Firma",
+        "name": "Sportheim TuS Nortorf",
+        "name3": "Inh. Anja Boysen & Jan Wegener",
+        "street": "Hauptstraße 99",
+        "city": "Borgdorf-Seedorf",
+        "postal_code": "24589",
+        "country": "Deutschland",
+        "phone": "(01 52) 03 77 39 44",
+        "fax": "",
+        "email": "sportheim.1859@gmail.com",
+        "is_default_billing": true,
+        "is_default_delivery": true
+      }
+    ]
+  },
+  "order_statistics": {
+    "total_orders": 0,
+    "unique_articles_ordered": 0,
+    "recent_orders_count": 0,
+    "last_order_date": null
+  },
+  "order_history": []
+}

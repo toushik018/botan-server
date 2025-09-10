@@ -1,0 +1,79 @@
+{
+  "metadata": {
+    "generated_at": "2025-09-10T23:17:06.261572",
+    "client_number": "16672",
+    "data_source": "BotanBot XML Export"
+  },
+  "client_profile": {
+    "client_number": "16672",
+    "search_term": "CHINA TOWN",
+    "status": "Kunde",
+    "tax_number": "",
+    "vat_id": "",
+    "is_blocked": false,
+    "price_group": "(Std.-Preis)",
+    "billing_address": {
+      "salutation": "",
+      "name": "China Town und Blitz Pizza",
+      "name3": "Inh. Harpinder Singh",
+      "street": "Rendsburger Landstrasse 59",
+      "city": "Kiel",
+      "postal_code": "24113",
+      "country": "Deutschland",
+      "phone": "(04 31) 2 05 95 9C HI NA TO WN",
+      "fax": "(04 31) 2 05 95 91 BL IT ZP IZ ZA",
+      "email": ""
+    },
+    "delivery_address": {
+      "salutation": "",
+      "name": "China Town und Blitz Pizza",
+      "name3": "Inh. Harpinder Singh",
+      "street": "Rendsburger Landstrasse 59",
+      "city": "Kiel",
+      "postal_code": "24113",
+      "country": "Deutschland",
+      "phone": "(04 31) 2 05 95 9C HI NA TO WN",
+      "fax": "(04 31) 2 05 95 91 BL IT ZP IZ ZA",
+      "email": ""
+    },
+    "delivery_schedule": {
+      "monday": "",
+      "tuesday": "",
+      "wednesday": "",
+      "thursday": "",
+      "friday": "",
+      "saturday": ""
+    },
+    "settings": {
+      "webshop_enabled": false,
+      "ds_addresses": false,
+      "no_pickup_app": false,
+      "minimum_order_value": null,
+      "articles_not_in_history": "2554,2556"
+    },
+    "additional_addresses": [
+      {
+        "address_number": "0",
+        "salutation": "",
+        "name": "China Town und Blitz Pizza",
+        "name3": "Inh. Harpinder Singh",
+        "street": "Rendsburger Landstrasse 59",
+        "city": "Kiel",
+        "postal_code": "24113",
+        "country": "Deutschland",
+        "phone": "(04 31) 2 05 95 9C HI NA TO WN",
+        "fax": "(04 31) 2 05 95 91 BL IT ZP IZ ZA",
+        "email": "",
+        "is_default_billing": true,
+        "is_default_delivery": true
+      }
+    ]
+  },
+  "order_statistics": {
+    "total_orders": 0,
+    "unique_articles_ordered": 0,
+    "recent_orders_count": 0,
+    "last_order_date": null
+  },
+  "order_history": []
+}

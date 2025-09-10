@@ -1,0 +1,79 @@
+{
+  "metadata": {
+    "generated_at": "2025-09-10T23:17:05.900037",
+    "client_number": "15548",
+    "data_source": "BotanBot XML Export"
+  },
+  "client_profile": {
+    "client_number": "15548",
+    "search_term": "PIZZA FRESH",
+    "status": "Kunde",
+    "tax_number": "",
+    "vat_id": "",
+    "is_blocked": false,
+    "price_group": "(Std.-Preis)",
+    "billing_address": {
+      "salutation": "",
+      "name": "Pizza Fresh",
+      "name3": "Inh. Hasan Mahmoud",
+      "street": "Eichstraße 12",
+      "city": "Gettorf",
+      "postal_code": "24214",
+      "country": "Deutschland",
+      "phone": "(0 43 46) 6 00 23 14",
+      "fax": "",
+      "email": "service@buerokruse.de"
+    },
+    "delivery_address": {
+      "salutation": "",
+      "name": "Pizza Fresh",
+      "name3": "Inh. Hasan Mahmoud",
+      "street": "Eichstraße 12",
+      "city": "Gettorf",
+      "postal_code": "24214",
+      "country": "Deutschland",
+      "phone": "(0 43 46) 6 00 23 14",
+      "fax": "",
+      "email": "service@buerokruse.de"
+    },
+    "delivery_schedule": {
+      "monday": "",
+      "tuesday": "2",
+      "wednesday": "",
+      "thursday": "",
+      "friday": "",
+      "saturday": ""
+    },
+    "settings": {
+      "webshop_enabled": true,
+      "ds_addresses": false,
+      "no_pickup_app": false,
+      "minimum_order_value": null,
+      "articles_not_in_history": "1334,9299,1362,1535,3003,3064"
+    },
+    "additional_addresses": [
+      {
+        "address_number": "0",
+        "salutation": "",
+        "name": "Pizza Fresh",
+        "name3": "Inh. Hasan Mahmoud",
+        "street": "Eichstraße 12",
+        "city": "Gettorf",
+        "postal_code": "24214",
+        "country": "Deutschland",
+        "phone": "(0 43 46) 6 00 23 14",
+        "fax": "",
+        "email": "service@buerokruse.de",
+        "is_default_billing": true,
+        "is_default_delivery": true
+      }
+    ]
+  },
+  "order_statistics": {
+    "total_orders": 0,
+    "unique_articles_ordered": 0,
+    "recent_orders_count": 0,
+    "last_order_date": null
+  },
+  "order_history": []
+}

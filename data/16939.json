@@ -1,0 +1,119 @@
+{
+  "metadata": {
+    "generated_at": "2025-09-10T23:17:06.365567",
+    "client_number": "16939",
+    "data_source": "BotanBot XML Export"
+  },
+  "client_profile": {
+    "client_number": "16939",
+    "search_term": "MEHMET AKYOL FLEISCHVERAR",
+    "status": "Kunde",
+    "tax_number": "",
+    "vat_id": "",
+    "is_blocked": false,
+    "price_group": "(Std.-Preis)",
+    "billing_address": {
+      "salutation": "",
+      "name": "Mehmet Akyol Fleischverarbeitung",
+      "name3": "Inh. Mehmet Akyol",
+      "street": "Max Weber Strasse 18",
+      "city": "Quickborn, Kreis Pinneberg",
+      "postal_code": "25451",
+      "country": "Deutschland",
+      "phone": "(01 51) 58 37 60 33",
+      "fax": "",
+      "email": "info@akyoldoener.de"
+    },
+    "delivery_address": {
+      "salutation": "",
+      "name": "Mehmet Akyol Fleischverarbeitung",
+      "name3": "Inh. Mehmet Akyol",
+      "street": "Max Weber Strasse 18",
+      "city": "Quickborn, Kreis Pinneberg",
+      "postal_code": "25451",
+      "country": "Deutschland",
+      "phone": "(01 51) 58 37 60 33",
+      "fax": "",
+      "email": "info@akyoldoener.de"
+    },
+    "delivery_schedule": {
+      "monday": "2",
+      "tuesday": "",
+      "wednesday": "",
+      "thursday": "",
+      "friday": "",
+      "saturday": ""
+    },
+    "settings": {
+      "webshop_enabled": true,
+      "ds_addresses": false,
+      "no_pickup_app": false,
+      "minimum_order_value": null,
+      "articles_not_in_history": ""
+    },
+    "additional_addresses": [
+      {
+        "address_number": "0",
+        "salutation": "",
+        "name": "Mehmet Akyol Fleischverarbeitung",
+        "name3": "Inh. Mehmet Akyol",
+        "street": "Max Weber Strasse 18",
+        "city": "Quickborn, Kreis Pinneberg",
+        "postal_code": "25451",
+        "country": "Deutschland",
+        "phone": "(01 51) 58 37 60 33",
+        "fax": "",
+        "email": "info@akyoldoener.de",
+        "is_default_billing": true,
+        "is_default_delivery": true
+      }
+    ]
+  },
+  "order_statistics": {
+    "total_orders": 3,
+    "unique_articles_ordered": 3,
+    "recent_orders_count": 3,
+    "last_order_date": "2025-06-30"
+  },
+  "order_history": [
+    {
+      "article_number": "3220",
+      "date": "2025-06-30",
+      "booking_quantity": 4160.0,
+      "quantity": 416.0,
+      "unit": "Eimer 10 kg",
+      "article_info": {
+        "short_description": "Pan Joghurterzeugnis 10 kg  3,8% Eimer",
+        "long_description": "Pan Joghurterzeugnis 10 kg  3,8% Eimer",
+        "product_group": "05.15.10 Joghurt",
+        "unit": "KG"
+      }
+    },
+    {
+      "article_number": "9158",
+      "date": "2025-06-30",
+      "booking_quantity": 350.0,
+      "quantity": 140.0,
+      "unit": "Beutel 2,5 kg",
+      "article_info": {
+        "short_description": "TK Zwiebeln gewürfelt 10x10mm  2,5 KG BT",
+        "long_description": "TK Zwiebeln gewürfelt 10x10mm",
+        "product_group": "05.40.05 Gemüse",
+        "unit": "KG"
+      }
+    },
+    {
+      "article_number": "1396",
+      "date": "2025-06-30",
+      "booking_quantity": 30.0,
+      "quantity": 30.0,
+      "unit": "Beutel 1 kg",
+      "article_info": {
+        "short_description": "Knoblauchzehen geschält TK 1kg",
+        "long_description": "Knoblauchzehen geschält TK",
+        "product_group": "05.40.05 Gemüse",
+        "unit": "BT"
+      }
+    }
+  ]
+}

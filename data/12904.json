@@ -1,0 +1,94 @@
+{
+  "metadata": {
+    "generated_at": "2025-09-10T23:17:05.152986",
+    "client_number": "12904",
+    "data_source": "BotanBot XML Export"
+  },
+  "client_profile": {
+    "client_number": "12904",
+    "search_term": "TIME XGMBH",
+    "status": "Kunde",
+    "tax_number": "",
+    "vat_id": "",
+    "is_blocked": false,
+    "price_group": "(Std.-Preis)",
+    "billing_address": {
+      "salutation": "",
+      "name": "Time Trax GmbH",
+      "name3": "",
+      "street": "Ruhrstrasse 91",
+      "city": "Witten",
+      "postal_code": "58452",
+      "country": "Deutschland",
+      "phone": "(0 23 02) 9 84 44 25",
+      "fax": "(0 23 02) 98 44 49",
+      "email": ""
+    },
+    "delivery_address": {
+      "salutation": "",
+      "name": "Telekom Shop Kiel",
+      "name3": "",
+      "street": "Holstenstr. 96",
+      "city": "Kiel",
+      "postal_code": "24103",
+      "country": "Deutschland",
+      "phone": "",
+      "fax": "",
+      "email": ""
+    },
+    "delivery_schedule": {
+      "monday": "",
+      "tuesday": "",
+      "wednesday": "",
+      "thursday": "",
+      "friday": "",
+      "saturday": ""
+    },
+    "settings": {
+      "webshop_enabled": false,
+      "ds_addresses": false,
+      "no_pickup_app": false,
+      "minimum_order_value": null,
+      "articles_not_in_history": ""
+    },
+    "additional_addresses": [
+      {
+        "address_number": "0",
+        "salutation": "",
+        "name": "Time Trax GmbH",
+        "name3": "",
+        "street": "Ruhrstrasse 91",
+        "city": "Witten",
+        "postal_code": "58452",
+        "country": "Deutschland",
+        "phone": "(0 23 02) 9 84 44 25",
+        "fax": "(0 23 02) 98 44 49",
+        "email": "",
+        "is_default_billing": true,
+        "is_default_delivery": false
+      },
+      {
+        "address_number": "1",
+        "salutation": "",
+        "name": "Telekom Shop Kiel",
+        "name3": "",
+        "street": "Holstenstr. 96",
+        "city": "Kiel",
+        "postal_code": "24103",
+        "country": "Deutschland",
+        "phone": "",
+        "fax": "",
+        "email": "",
+        "is_default_billing": false,
+        "is_default_delivery": true
+      }
+    ]
+  },
+  "order_statistics": {
+    "total_orders": 0,
+    "unique_articles_ordered": 0,
+    "recent_orders_count": 0,
+    "last_order_date": null
+  },
+  "order_history": []
+}

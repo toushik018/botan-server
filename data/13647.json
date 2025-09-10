@@ -1,0 +1,79 @@
+{
+  "metadata": {
+    "generated_at": "2025-09-10T23:17:05.372951",
+    "client_number": "13647",
+    "data_source": "BotanBot XML Export"
+  },
+  "client_profile": {
+    "client_number": "13647",
+    "search_term": "BERLIN DÖNER",
+    "status": "Kunde",
+    "tax_number": "",
+    "vat_id": "",
+    "is_blocked": false,
+    "price_group": "(Std.-Preis)",
+    "billing_address": {
+      "salutation": "",
+      "name": "Berlin Döner",
+      "name3": "Inh. Alsuhli, Obada",
+      "street": "Rote Pforte 5",
+      "city": "Husum",
+      "postal_code": "25813",
+      "country": "Deutschland",
+      "phone": "(0 48 41) 7 72 91 71",
+      "fax": "",
+      "email": "h.alsuhli@web.de"
+    },
+    "delivery_address": {
+      "salutation": "",
+      "name": "Berlin Döner",
+      "name3": "Inh. Alsuhli, Obada",
+      "street": "Rote Pforte 5",
+      "city": "Husum",
+      "postal_code": "25813",
+      "country": "Deutschland",
+      "phone": "(0 48 41) 7 72 91 71",
+      "fax": "",
+      "email": "h.alsuhli@web.de"
+    },
+    "delivery_schedule": {
+      "monday": "",
+      "tuesday": "8",
+      "wednesday": "",
+      "thursday": "",
+      "friday": "5",
+      "saturday": ""
+    },
+    "settings": {
+      "webshop_enabled": false,
+      "ds_addresses": false,
+      "no_pickup_app": false,
+      "minimum_order_value": null,
+      "articles_not_in_history": "1077, 1161,1434"
+    },
+    "additional_addresses": [
+      {
+        "address_number": "0",
+        "salutation": "",
+        "name": "Berlin Döner",
+        "name3": "Inh. Alsuhli, Obada",
+        "street": "Rote Pforte 5",
+        "city": "Husum",
+        "postal_code": "25813",
+        "country": "Deutschland",
+        "phone": "(0 48 41) 7 72 91 71",
+        "fax": "",
+        "email": "h.alsuhli@web.de",
+        "is_default_billing": true,
+        "is_default_delivery": true
+      }
+    ]
+  },
+  "order_statistics": {
+    "total_orders": 0,
+    "unique_articles_ordered": 0,
+    "recent_orders_count": 0,
+    "last_order_date": null
+  },
+  "order_history": []
+}

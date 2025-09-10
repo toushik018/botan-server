@@ -1,0 +1,79 @@
+{
+  "metadata": {
+    "generated_at": "2025-09-10T23:17:06.816207",
+    "client_number": "75210",
+    "data_source": "BotanBot XML Export"
+  },
+  "client_profile": {
+    "client_number": "75210",
+    "search_term": "LO-LENK´S",
+    "status": "Lieferant",
+    "tax_number": "",
+    "vat_id": "",
+    "is_blocked": false,
+    "price_group": "(Std.-Preis)",
+    "billing_address": {
+      "salutation": "Firma",
+      "name": "LO Gastronomie & Getränkegroßhandel GmbH",
+      "name3": "",
+      "street": "Biberweg 28d",
+      "city": "Troisdorf",
+      "postal_code": "53842",
+      "country": "Deutschland",
+      "phone": "(0 22 41) 9 43 38 64",
+      "fax": "(0 22 41) 9 43 38 73",
+      "email": ""
+    },
+    "delivery_address": {
+      "salutation": "Firma",
+      "name": "LO Gastronomie & Getränkegroßhandel GmbH",
+      "name3": "",
+      "street": "Biberweg 28d",
+      "city": "Troisdorf",
+      "postal_code": "53842",
+      "country": "Deutschland",
+      "phone": "(0 22 41) 9 43 38 64",
+      "fax": "(0 22 41) 9 43 38 73",
+      "email": ""
+    },
+    "delivery_schedule": {
+      "monday": "",
+      "tuesday": "",
+      "wednesday": "",
+      "thursday": "",
+      "friday": "",
+      "saturday": ""
+    },
+    "settings": {
+      "webshop_enabled": false,
+      "ds_addresses": false,
+      "no_pickup_app": false,
+      "minimum_order_value": null,
+      "articles_not_in_history": ""
+    },
+    "additional_addresses": [
+      {
+        "address_number": "0",
+        "salutation": "Firma",
+        "name": "LO Gastronomie & Getränkegroßhandel GmbH",
+        "name3": "",
+        "street": "Biberweg 28d",
+        "city": "Troisdorf",
+        "postal_code": "53842",
+        "country": "Deutschland",
+        "phone": "(0 22 41) 9 43 38 64",
+        "fax": "(0 22 41) 9 43 38 73",
+        "email": "",
+        "is_default_billing": true,
+        "is_default_delivery": true
+      }
+    ]
+  },
+  "order_statistics": {
+    "total_orders": 0,
+    "unique_articles_ordered": 0,
+    "recent_orders_count": 0,
+    "last_order_date": null
+  },
+  "order_history": []
+}

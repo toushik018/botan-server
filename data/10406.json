@@ -1,0 +1,79 @@
+{
+  "metadata": {
+    "generated_at": "2025-09-10T23:17:04.453963",
+    "client_number": "10406",
+    "data_source": "BotanBot XML Export"
+  },
+  "client_profile": {
+    "client_number": "10406",
+    "search_term": "",
+    "status": "Kunde",
+    "tax_number": "",
+    "vat_id": "",
+    "is_blocked": false,
+    "price_group": "(Std.-Preis)",
+    "billing_address": {
+      "salutation": "",
+      "name": "Aspendos",
+      "name3": "Inh. Hatice Deli",
+      "street": "Rungholtplatz 3",
+      "city": "Kiel",
+      "postal_code": "24107",
+      "country": "Deutschland",
+      "phone": "(04 31) 38 67 62 08",
+      "fax": "",
+      "email": ""
+    },
+    "delivery_address": {
+      "salutation": "",
+      "name": "Aspendos",
+      "name3": "Inh. Hatice Deli",
+      "street": "Rungholtplatz 3",
+      "city": "Kiel",
+      "postal_code": "24107",
+      "country": "Deutschland",
+      "phone": "(04 31) 38 67 62 08",
+      "fax": "",
+      "email": ""
+    },
+    "delivery_schedule": {
+      "monday": "18",
+      "tuesday": "18",
+      "wednesday": "18",
+      "thursday": "18",
+      "friday": "18",
+      "saturday": ""
+    },
+    "settings": {
+      "webshop_enabled": false,
+      "ds_addresses": false,
+      "no_pickup_app": false,
+      "minimum_order_value": null,
+      "articles_not_in_history": "9181,1553"
+    },
+    "additional_addresses": [
+      {
+        "address_number": "0",
+        "salutation": "",
+        "name": "Aspendos",
+        "name3": "Inh. Hatice Deli",
+        "street": "Rungholtplatz 3",
+        "city": "Kiel",
+        "postal_code": "24107",
+        "country": "Deutschland",
+        "phone": "(04 31) 38 67 62 08",
+        "fax": "",
+        "email": "",
+        "is_default_billing": true,
+        "is_default_delivery": true
+      }
+    ]
+  },
+  "order_statistics": {
+    "total_orders": 0,
+    "unique_articles_ordered": 0,
+    "recent_orders_count": 0,
+    "last_order_date": null
+  },
+  "order_history": []
+}

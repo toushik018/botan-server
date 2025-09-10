@@ -1,0 +1,79 @@
+{
+  "metadata": {
+    "generated_at": "2025-09-10T23:17:05.022224",
+    "client_number": "12420",
+    "data_source": "BotanBot XML Export"
+  },
+  "client_profile": {
+    "client_number": "12420",
+    "search_term": "ANDREA PERLINI GASTRONOMI",
+    "status": "Kunde",
+    "tax_number": "",
+    "vat_id": "",
+    "is_blocked": false,
+    "price_group": "(Std.-Preis)",
+    "billing_address": {
+      "salutation": "",
+      "name": "Andrea Perlini Gastronomie",
+      "name3": "Inh.Andrea Perlini",
+      "street": "Theodor Heus Ring 49",
+      "city": "Kiel",
+      "postal_code": "24113",
+      "country": "Deutschland",
+      "phone": "(04 31) 54 65 48 17",
+      "fax": "",
+      "email": "andrea@perlini.de"
+    },
+    "delivery_address": {
+      "salutation": "",
+      "name": "Andrea Perlini Gastronomie",
+      "name3": "Inh.Andrea Perlini",
+      "street": "Theodor Heus Ring 49",
+      "city": "Kiel",
+      "postal_code": "24113",
+      "country": "Deutschland",
+      "phone": "(04 31) 54 65 48 17",
+      "fax": "",
+      "email": "andrea@perlini.de"
+    },
+    "delivery_schedule": {
+      "monday": "",
+      "tuesday": "",
+      "wednesday": "",
+      "thursday": "",
+      "friday": "",
+      "saturday": ""
+    },
+    "settings": {
+      "webshop_enabled": false,
+      "ds_addresses": false,
+      "no_pickup_app": false,
+      "minimum_order_value": null,
+      "articles_not_in_history": ""
+    },
+    "additional_addresses": [
+      {
+        "address_number": "0",
+        "salutation": "",
+        "name": "Andrea Perlini Gastronomie",
+        "name3": "Inh.Andrea Perlini",
+        "street": "Theodor Heus Ring 49",
+        "city": "Kiel",
+        "postal_code": "24113",
+        "country": "Deutschland",
+        "phone": "(04 31) 54 65 48 17",
+        "fax": "",
+        "email": "andrea@perlini.de",
+        "is_default_billing": true,
+        "is_default_delivery": true
+      }
+    ]
+  },
+  "order_statistics": {
+    "total_orders": 0,
+    "unique_articles_ordered": 0,
+    "recent_orders_count": 0,
+    "last_order_date": null
+  },
+  "order_history": []
+}

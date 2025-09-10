@@ -1,0 +1,79 @@
+{
+  "metadata": {
+    "generated_at": "2025-09-10T23:17:06.703115",
+    "client_number": "17732",
+    "data_source": "BotanBot XML Export"
+  },
+  "client_profile": {
+    "client_number": "17732",
+    "search_term": "DIAMANT SALON",
+    "status": "Kunde",
+    "tax_number": "",
+    "vat_id": "",
+    "is_blocked": false,
+    "price_group": "(Std.-Preis)",
+    "billing_address": {
+      "salutation": "",
+      "name": "Diamant Salon",
+      "name3": "Bewar Ibrahim Fatah",
+      "street": "Skandinaviendamm 360",
+      "city": "Kiel",
+      "postal_code": "24109",
+      "country": "Deutschland",
+      "phone": "(01 76) 24 88 06 24",
+      "fax": "",
+      "email": "bewaribrahim69@gmail.com"
+    },
+    "delivery_address": {
+      "salutation": "",
+      "name": "Diamant Salon",
+      "name3": "Bewar Ibrahim Fatah",
+      "street": "Skandinaviendamm 360",
+      "city": "Kiel",
+      "postal_code": "24109",
+      "country": "Deutschland",
+      "phone": "(01 76) 24 88 06 24",
+      "fax": "",
+      "email": "bewaribrahim69@gmail.com"
+    },
+    "delivery_schedule": {
+      "monday": "",
+      "tuesday": "",
+      "wednesday": "",
+      "thursday": "",
+      "friday": "",
+      "saturday": ""
+    },
+    "settings": {
+      "webshop_enabled": true,
+      "ds_addresses": false,
+      "no_pickup_app": false,
+      "minimum_order_value": null,
+      "articles_not_in_history": ""
+    },
+    "additional_addresses": [
+      {
+        "address_number": "0",
+        "salutation": "",
+        "name": "Diamant Salon",
+        "name3": "Bewar Ibrahim Fatah",
+        "street": "Skandinaviendamm 360",
+        "city": "Kiel",
+        "postal_code": "24109",
+        "country": "Deutschland",
+        "phone": "(01 76) 24 88 06 24",
+        "fax": "",
+        "email": "bewaribrahim69@gmail.com",
+        "is_default_billing": true,
+        "is_default_delivery": true
+      }
+    ]
+  },
+  "order_statistics": {
+    "total_orders": 0,
+    "unique_articles_ordered": 0,
+    "recent_orders_count": 0,
+    "last_order_date": null
+  },
+  "order_history": []
+}

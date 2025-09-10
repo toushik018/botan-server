@@ -1,0 +1,79 @@
+{
+  "metadata": {
+    "generated_at": "2025-09-10T23:17:05.175312",
+    "client_number": "12981",
+    "data_source": "BotanBot XML Export"
+  },
+  "client_profile": {
+    "client_number": "12981",
+    "search_term": "",
+    "status": "Kunde",
+    "tax_number": "",
+    "vat_id": "",
+    "is_blocked": false,
+    "price_group": "(Std.-Preis)",
+    "billing_address": {
+      "salutation": "",
+      "name": "Alin's Döner",
+      "name3": "Khairi Alhasan",
+      "street": "An der Schanze 43",
+      "city": "Kiel",
+      "postal_code": "24159",
+      "country": "Deutschland",
+      "phone": "(01 76) 24 48 99 90",
+      "fax": "",
+      "email": "hewar5@hotmail.com"
+    },
+    "delivery_address": {
+      "salutation": "",
+      "name": "Alin's Döner",
+      "name3": "Khairi Alhasan",
+      "street": "An der Schanze 43",
+      "city": "Kiel",
+      "postal_code": "24159",
+      "country": "Deutschland",
+      "phone": "(01 76) 24 48 99 90",
+      "fax": "",
+      "email": "hewar5@hotmail.com"
+    },
+    "delivery_schedule": {
+      "monday": "",
+      "tuesday": "",
+      "wednesday": "",
+      "thursday": "",
+      "friday": "",
+      "saturday": ""
+    },
+    "settings": {
+      "webshop_enabled": false,
+      "ds_addresses": false,
+      "no_pickup_app": false,
+      "minimum_order_value": null,
+      "articles_not_in_history": "1044,1918,1354,1352,1374,1200,1080,1948,1604"
+    },
+    "additional_addresses": [
+      {
+        "address_number": "0",
+        "salutation": "",
+        "name": "Alin's Döner",
+        "name3": "Khairi Alhasan",
+        "street": "An der Schanze 43",
+        "city": "Kiel",
+        "postal_code": "24159",
+        "country": "Deutschland",
+        "phone": "(01 76) 24 48 99 90",
+        "fax": "",
+        "email": "hewar5@hotmail.com",
+        "is_default_billing": true,
+        "is_default_delivery": true
+      }
+    ]
+  },
+  "order_statistics": {
+    "total_orders": 0,
+    "unique_articles_ordered": 0,
+    "recent_orders_count": 0,
+    "last_order_date": null
+  },
+  "order_history": []
+}

@@ -1,0 +1,79 @@
+{
+  "metadata": {
+    "generated_at": "2025-09-10T23:17:06.711624",
+    "client_number": "17743",
+    "data_source": "BotanBot XML Export"
+  },
+  "client_profile": {
+    "client_number": "17743",
+    "search_term": "SULTAN DÖNER",
+    "status": "Kunde",
+    "tax_number": "",
+    "vat_id": "",
+    "is_blocked": false,
+    "price_group": "(Std.-Preis)",
+    "billing_address": {
+      "salutation": "",
+      "name": "Sultan Döner",
+      "name3": "Ramazan Akarbulut",
+      "street": "Jersbeker Strasse 15",
+      "city": "Bargteheide",
+      "postal_code": "22941",
+      "country": "Deutschland",
+      "phone": "(01 63) 8 11 25 55",
+      "fax": "",
+      "email": ""
+    },
+    "delivery_address": {
+      "salutation": "",
+      "name": "Sultan Döner",
+      "name3": "Ramazan Akarbulut",
+      "street": "Jersbeker Strasse 15",
+      "city": "Bargteheide",
+      "postal_code": "22941",
+      "country": "Deutschland",
+      "phone": "(01 63) 8 11 25 55",
+      "fax": "",
+      "email": ""
+    },
+    "delivery_schedule": {
+      "monday": "",
+      "tuesday": "",
+      "wednesday": "3",
+      "thursday": "",
+      "friday": "",
+      "saturday": ""
+    },
+    "settings": {
+      "webshop_enabled": true,
+      "ds_addresses": false,
+      "no_pickup_app": false,
+      "minimum_order_value": null,
+      "articles_not_in_history": ""
+    },
+    "additional_addresses": [
+      {
+        "address_number": "0",
+        "salutation": "",
+        "name": "Sultan Döner",
+        "name3": "Ramazan Akarbulut",
+        "street": "Jersbeker Strasse 15",
+        "city": "Bargteheide",
+        "postal_code": "22941",
+        "country": "Deutschland",
+        "phone": "(01 63) 8 11 25 55",
+        "fax": "",
+        "email": "",
+        "is_default_billing": true,
+        "is_default_delivery": true
+      }
+    ]
+  },
+  "order_statistics": {
+    "total_orders": 0,
+    "unique_articles_ordered": 0,
+    "recent_orders_count": 0,
+    "last_order_date": null
+  },
+  "order_history": []
+}

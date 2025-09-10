@@ -1,0 +1,79 @@
+{
+  "metadata": {
+    "generated_at": "2025-09-10T23:17:06.483265",
+    "client_number": "17250",
+    "data_source": "BotanBot XML Export"
+  },
+  "client_profile": {
+    "client_number": "17250",
+    "search_term": "SCHIFFL GROUP HOLDING",
+    "status": "Kunde",
+    "tax_number": "",
+    "vat_id": "",
+    "is_blocked": false,
+    "price_group": "(Std.-Preis)",
+    "billing_address": {
+      "salutation": "Firma",
+      "name": "SCHIFFL group Holding GmbH & Co. KG",
+      "name3": "SCHIFFL IT Service GmbH",
+      "street": "Leverkusenstraße 54    Hauseingang VIII",
+      "city": "Hamburg",
+      "postal_code": "22761",
+      "country": "Deutschland",
+      "phone": "(0 40) 42 93 81 69",
+      "fax": "",
+      "email": "michel.heim@schiffl.de"
+    },
+    "delivery_address": {
+      "salutation": "Firma",
+      "name": "SCHIFFL group Holding GmbH & Co. KG",
+      "name3": "SCHIFFL IT Service GmbH",
+      "street": "Leverkusenstraße 54    Hauseingang VIII",
+      "city": "Hamburg",
+      "postal_code": "22761",
+      "country": "Deutschland",
+      "phone": "(0 40) 42 93 81 69",
+      "fax": "",
+      "email": "michel.heim@schiffl.de"
+    },
+    "delivery_schedule": {
+      "monday": "2",
+      "tuesday": "",
+      "wednesday": "",
+      "thursday": "5",
+      "friday": "",
+      "saturday": ""
+    },
+    "settings": {
+      "webshop_enabled": false,
+      "ds_addresses": false,
+      "no_pickup_app": true,
+      "minimum_order_value": null,
+      "articles_not_in_history": ""
+    },
+    "additional_addresses": [
+      {
+        "address_number": "0",
+        "salutation": "Firma",
+        "name": "SCHIFFL group Holding GmbH & Co. KG",
+        "name3": "SCHIFFL IT Service GmbH",
+        "street": "Leverkusenstraße 54    Hauseingang VIII",
+        "city": "Hamburg",
+        "postal_code": "22761",
+        "country": "Deutschland",
+        "phone": "(0 40) 42 93 81 69",
+        "fax": "",
+        "email": "michel.heim@schiffl.de",
+        "is_default_billing": true,
+        "is_default_delivery": true
+      }
+    ]
+  },
+  "order_statistics": {
+    "total_orders": 0,
+    "unique_articles_ordered": 0,
+    "recent_orders_count": 0,
+    "last_order_date": null
+  },
+  "order_history": []
+}

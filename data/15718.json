@@ -1,0 +1,327 @@
+{
+  "metadata": {
+    "generated_at": "2025-09-10T23:17:05.946394",
+    "client_number": "15718",
+    "data_source": "BotanBot XML Export"
+  },
+  "client_profile": {
+    "client_number": "15718",
+    "search_term": "DEICHPERLE",
+    "status": "Kunde",
+    "tax_number": "",
+    "vat_id": "",
+    "is_blocked": false,
+    "price_group": "(Std.-Preis)",
+    "billing_address": {
+      "salutation": "Firma",
+      "name": "Deichperle Bistro",
+      "name3": "Inh. Florian Maurischat",
+      "street": "Deichweg 24",
+      "city": "Kiel",
+      "postal_code": "24159",
+      "country": "Deutschland",
+      "phone": "(04 31) 7 75 47 54",
+      "fax": "",
+      "email": "deichperle-bistro@posteo.de"
+    },
+    "delivery_address": {
+      "salutation": "Firma",
+      "name": "Deichperle Bistro",
+      "name3": "Inh. Florian Maurischat",
+      "street": "Deichweg 24",
+      "city": "Kiel",
+      "postal_code": "24159",
+      "country": "Deutschland",
+      "phone": "(04 31) 7 75 47 54",
+      "fax": "",
+      "email": "deichperle-bistro@posteo.de"
+    },
+    "delivery_schedule": {
+      "monday": "",
+      "tuesday": "18",
+      "wednesday": "",
+      "thursday": "",
+      "friday": "18",
+      "saturday": ""
+    },
+    "settings": {
+      "webshop_enabled": true,
+      "ds_addresses": false,
+      "no_pickup_app": false,
+      "minimum_order_value": null,
+      "articles_not_in_history": ""
+    },
+    "additional_addresses": [
+      {
+        "address_number": "0",
+        "salutation": "Firma",
+        "name": "Deichperle Bistro",
+        "name3": "Inh. Florian Maurischat",
+        "street": "Deichweg 24",
+        "city": "Kiel",
+        "postal_code": "24159",
+        "country": "Deutschland",
+        "phone": "(04 31) 7 75 47 54",
+        "fax": "",
+        "email": "deichperle-bistro@posteo.de",
+        "is_default_billing": true,
+        "is_default_delivery": true
+      }
+    ]
+  },
+  "order_statistics": {
+    "total_orders": 19,
+    "unique_articles_ordered": 19,
+    "recent_orders_count": 19,
+    "last_order_date": "2025-08-19"
+  },
+  "order_history": [
+    {
+      "article_number": "9070",
+      "date": "2025-08-19",
+      "booking_quantity": 70.0,
+      "quantity": 14.0,
+      "unit": "Eimer 5 kg",
+      "article_info": {
+        "short_description": "Deutsche Remoulade 5 KG Eimer",
+        "long_description": "Deutsche Remoulade 5 kg Eimer",
+        "product_group": "05.45.20 Spezial-Saucen",
+        "unit": "KG"
+      }
+    },
+    {
+      "article_number": "1352",
+      "date": "2025-08-19",
+      "booking_quantity": 1610.0,
+      "quantity": 161.0,
+      "unit": "Karton 10 kg",
+      "article_info": {
+        "short_description": "Pommes Frites frisch 10 mm 2 x 5kg BT",
+        "long_description": "Pommes Frites frisch 10 mm 2 x 5 kg Beutel",
+        "product_group": "05.30.05 Pommes",
+        "unit": "KG"
+      }
+    },
+    {
+      "article_number": "2575",
+      "date": "2025-08-19",
+      "booking_quantity": 70.0,
+      "quantity": 14.0,
+      "unit": "Eimer 5 kg",
+      "article_info": {
+        "short_description": "Vegane Mayo 5kg Eimer",
+        "long_description": "Vegane Mayo 5 kg Eimer",
+        "product_group": "05.07 Vegan",
+        "unit": "KG"
+      }
+    },
+    {
+      "article_number": "9599",
+      "date": "2025-08-19",
+      "booking_quantity": 84.0,
+      "quantity": 7.0,
+      "unit": "Karton 12 Stk.",
+      "article_info": {
+        "short_description": "Zitronensaft 12x0,75 L",
+        "long_description": "Zitronensaft 12 x 0,75 l",
+        "product_group": "15.10.99 Sonstige",
+        "unit": "FL"
+      }
+    },
+    {
+      "article_number": "2414",
+      "date": "2025-08-19",
+      "booking_quantity": 15.0,
+      "quantity": 15.0,
+      "unit": "Karton 1",
+      "article_info": {
+        "short_description": "weiße Falt Papierhandtücher 2-lagig 3.200 st.",
+        "long_description": "Faltpapierhandtücher 2-lagig 3.200 Stück weiß",
+        "product_group": "10.10.15 Rollen und Tücher",
+        "unit": "KT"
+      }
+    },
+    {
+      "article_number": "1343",
+      "date": "2025-08-19",
+      "booking_quantity": 350.0,
+      "quantity": 35.0,
+      "unit": "Eimer 10 kg",
+      "article_info": {
+        "short_description": "Tomatenketchup \"Gold\"  10 Kg",
+        "long_description": "Gold Tomaten-Ketchup 10 kg",
+        "product_group": "05.45.10 Ketchup",
+        "unit": "KG"
+      }
+    },
+    {
+      "article_number": "1334",
+      "date": "2025-08-19",
+      "booking_quantity": 230.0,
+      "quantity": 23.0,
+      "unit": "Eimer 10 kg",
+      "article_info": {
+        "short_description": "Salatmayonnaise \"GOLD\"   10 Kg",
+        "long_description": "Gold Salatmayonnaise 10 kg",
+        "product_group": "05.45.05 Mayonnaise",
+        "unit": "KG"
+      }
+    },
+    {
+      "article_number": "9701",
+      "date": "2025-08-19",
+      "booking_quantity": 300.0,
+      "quantity": 20.0,
+      "unit": "Kanister 15 kg",
+      "article_info": {
+        "short_description": "PREP Multi Pflanzenöl Frittieröl 2x7,5 l KN",
+        "long_description": "PREP Multi Pflanzenöl Frittieröl 15 l Kanister",
+        "product_group": "05.25.20.10 Fette",
+        "unit": "LI"
+      }
+    },
+    {
+      "article_number": "1329",
+      "date": "2025-08-19",
+      "booking_quantity": 100.0,
+      "quantity": 10.0,
+      "unit": "Kanister 10 l",
+      "article_info": {
+        "short_description": "Rapsöl 10 Liter",
+        "long_description": "Rapsöl 10 l",
+        "product_group": "05.25.20.05 Öle",
+        "unit": "LI"
+      }
+    },
+    {
+      "article_number": "1560",
+      "date": "2025-08-19",
+      "booking_quantity": 60.0,
+      "quantity": 10.0,
+      "unit": "Karton 6 Stk.",
+      "article_info": {
+        "short_description": "Geschälte Tomaten  Karton 3/1 Dosen",
+        "long_description": "Geschälte Tomaten Karton 6 x 3/1 Dosen",
+        "product_group": "05.25.30 Konserven",
+        "unit": "DS"
+      }
+    },
+    {
+      "article_number": "1019",
+      "date": "2025-08-19",
+      "booking_quantity": 20.0,
+      "quantity": 20.0,
+      "unit": "Pack 1",
+      "article_info": {
+        "short_description": "Papier - Strohhalm  flexibel  200 Stk.",
+        "long_description": "Papier-Strohhalm flexibel 200 Stück",
+        "product_group": "10.05.50 Besteck",
+        "unit": "PK"
+      }
+    },
+    {
+      "article_number": "2491",
+      "date": "2025-08-19",
+      "booking_quantity": 30.0,
+      "quantity": 30.0,
+      "unit": "Dose 1 Stk.",
+      "article_info": {
+        "short_description": "Bohnen Weiß gekocht  3/1 DS",
+        "long_description": "Bohnen weiß, gekocht 3/1 Dose",
+        "product_group": "05.25.30 Konserven",
+        "unit": "DS"
+      }
+    },
+    {
+      "article_number": "9352",
+      "date": "2025-08-12",
+      "booking_quantity": 3.0,
+      "quantity": 3.0,
+      "unit": "KG",
+      "article_info": {
+        "short_description": "Eifix Vollei flüssig 1KG",
+        "long_description": "Eifix Vollei flüssig 1 kg",
+        "product_group": "05.25.15.15 Eier",
+        "unit": "KG"
+      }
+    },
+    {
+      "article_number": "2103",
+      "date": "2025-08-05",
+      "booking_quantity": 2.0,
+      "quantity": 2.0,
+      "unit": "Kanister 1 Stk.",
+      "article_info": {
+        "short_description": "Flüssigseife 10 Liter Kanister",
+        "long_description": "Flüssigseife 10 l Kanister",
+        "product_group": "10.15.15 Hygiene-Zubehör",
+        "unit": "KN"
+      }
+    },
+    {
+      "article_number": "1547",
+      "date": "2025-08-05",
+      "booking_quantity": 10.0,
+      "quantity": 1.0,
+      "unit": "Pack 10 Stk.",
+      "article_info": {
+        "short_description": "10 x 1 Kg Mehl Typ 405",
+        "long_description": "Weizenmehl Typ 405 10 x 1 Kg",
+        "product_group": "05.25.15.05 Mehl",
+        "unit": "KG"
+      }
+    },
+    {
+      "article_number": "1463",
+      "date": "2025-07-29",
+      "booking_quantity": 50.0,
+      "quantity": 5.0,
+      "unit": "Karton 10 kg",
+      "article_info": {
+        "short_description": "Raffinade Zucker 10 x 1kg",
+        "long_description": "Raffinade Zucker 10 x 1 kg",
+        "product_group": "05.25.15.10 Backzutaten",
+        "unit": "KG"
+      }
+    },
+    {
+      "article_number": "2017",
+      "date": "2025-07-29",
+      "booking_quantity": 20.0,
+      "quantity": 2.0,
+      "unit": "Eimer 10 kg",
+      "article_info": {
+        "short_description": "Senf 10 kg Eimer mittelscharf BAUTZNER",
+        "long_description": "Senf 10 kg Eimer mittelscharf BAUTZNER",
+        "product_group": "05.45.13 Senf",
+        "unit": "KG"
+      }
+    },
+    {
+      "article_number": "1406",
+      "date": "2025-07-08",
+      "booking_quantity": 80.0,
+      "quantity": 16.0,
+      "unit": "Eimer 5 kg",
+      "article_info": {
+        "short_description": "40% Speisequark 5Kg Eimer",
+        "long_description": "Speisequark 40 % 5 kg Eimer",
+        "product_group": "05.15.30 Quark / Schmand",
+        "unit": "KG"
+      }
+    },
+    {
+      "article_number": "1439",
+      "date": "2025-07-08",
+      "booking_quantity": 1.0,
+      "quantity": 1.0,
+      "unit": "Pack 1",
+      "article_info": {
+        "short_description": "Majoran  1 Kg Packung",
+        "long_description": "Majoran 1 kg Packung",
+        "product_group": "05.25.35 Gewürze",
+        "unit": "KG"
+      }
+    }
+  ]
+}

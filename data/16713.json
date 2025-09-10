@@ -1,0 +1,420 @@
+{
+  "metadata": {
+    "generated_at": "2025-09-10T23:17:06.278572",
+    "client_number": "16713",
+    "data_source": "BotanBot XML Export"
+  },
+  "client_profile": {
+    "client_number": "16713",
+    "search_term": "LUCACELLI GASTRO",
+    "status": "Kunde",
+    "tax_number": "48/716/03680",
+    "vat_id": "DE354578791",
+    "is_blocked": false,
+    "price_group": "(Std.-Preis)",
+    "billing_address": {
+      "salutation": "",
+      "name": "DSDA Systemgastronomie GmbH",
+      "name3": "",
+      "street": "Ballindamm 40",
+      "city": "Hamburg",
+      "postal_code": "20095",
+      "country": "Deutschland",
+      "phone": "(01 77) 2 77 88 09",
+      "fax": "",
+      "email": "omid@lucacelli.com"
+    },
+    "delivery_address": {
+      "salutation": "",
+      "name": "DSDA Systemgastronomie GmbH",
+      "name3": "",
+      "street": "Ballindamm 40",
+      "city": "Hamburg",
+      "postal_code": "20095",
+      "country": "Deutschland",
+      "phone": "(01 77) 2 77 88 09",
+      "fax": "",
+      "email": "omid@lucacelli.com"
+    },
+    "delivery_schedule": {
+      "monday": "2",
+      "tuesday": "",
+      "wednesday": "",
+      "thursday": "3",
+      "friday": "",
+      "saturday": ""
+    },
+    "settings": {
+      "webshop_enabled": true,
+      "ds_addresses": true,
+      "no_pickup_app": false,
+      "minimum_order_value": null,
+      "articles_not_in_history": ""
+    },
+    "additional_addresses": [
+      {
+        "address_number": "0",
+        "salutation": "",
+        "name": "DSDA Systemgastronomie GmbH",
+        "name3": "",
+        "street": "Ballindamm 40",
+        "city": "Hamburg",
+        "postal_code": "20095",
+        "country": "Deutschland",
+        "phone": "(01 77) 2 77 88 09",
+        "fax": "",
+        "email": "omid@lucacelli.com",
+        "is_default_billing": true,
+        "is_default_delivery": true
+      },
+      {
+        "address_number": "1",
+        "salutation": "",
+        "name": "",
+        "name3": "",
+        "street": "",
+        "city": "",
+        "postal_code": "",
+        "country": "Deutschland",
+        "phone": "",
+        "fax": "",
+        "email": "",
+        "is_default_billing": false,
+        "is_default_delivery": false
+      }
+    ]
+  },
+  "order_statistics": {
+    "total_orders": 25,
+    "unique_articles_ordered": 25,
+    "recent_orders_count": 25,
+    "last_order_date": "2025-08-21"
+  },
+  "order_history": [
+    {
+      "article_number": "1404",
+      "date": "2025-08-21",
+      "booking_quantity": 8.0,
+      "quantity": 8.0,
+      "unit": "Pack 1",
+      "article_info": {
+        "short_description": "Sesam Saat 1 Kg",
+        "long_description": "Sesamsaat 1 kg",
+        "product_group": "05.25.15.10 Backzutaten",
+        "unit": "KG"
+      }
+    },
+    {
+      "article_number": "1010",
+      "date": "2025-08-21",
+      "booking_quantity": 1350.0,
+      "quantity": 45.0,
+      "unit": "Pack 30 Stk.",
+      "article_info": {
+        "short_description": "Eier 30 Stk.",
+        "long_description": "Eier 30 Stück",
+        "product_group": "05.25.15.15 Eier",
+        "unit": "ST"
+      }
+    },
+    {
+      "article_number": "9181",
+      "date": "2025-08-21",
+      "booking_quantity": 101.0,
+      "quantity": 202.0,
+      "unit": "Pack 0,5 kg",
+      "article_info": {
+        "short_description": "Hinterkochschinken geschn. 500 g  Kal.130",
+        "long_description": "Hinterkochschinken geschnitten 500 g Kaliber 130",
+        "product_group": "05.05.10.10 Frisch",
+        "unit": "KG"
+      }
+    },
+    {
+      "article_number": "9183",
+      "date": "2025-08-21",
+      "booking_quantity": 108.0,
+      "quantity": 108.0,
+      "unit": "Pack 1",
+      "article_info": {
+        "short_description": "Kal. 55 BEST Salami geschnitten 1 KG   PK",
+        "long_description": "Kal. 55 BEST Salami geschnitten 1 KG   PK",
+        "product_group": "05.05.10.10 Frisch",
+        "unit": "KG"
+      }
+    },
+    {
+      "article_number": "3167",
+      "date": "2025-08-21",
+      "booking_quantity": 36.0,
+      "quantity": 36.0,
+      "unit": "Karton 1",
+      "article_info": {
+        "short_description": "Midi - Handtuchrollen   6 x rollen  2 lg Weiss",
+        "long_description": "Midi-Handtuchrollen 6 Rollen 2-lagig weiß",
+        "product_group": "10.10.15 Rollen und Tücher",
+        "unit": "PK"
+      }
+    },
+    {
+      "article_number": "1329",
+      "date": "2025-08-21",
+      "booking_quantity": 330.0,
+      "quantity": 33.0,
+      "unit": "Kanister 10 l",
+      "article_info": {
+        "short_description": "Rapsöl 10 Liter",
+        "long_description": "Rapsöl 10 l",
+        "product_group": "05.25.20.05 Öle",
+        "unit": "LI"
+      }
+    },
+    {
+      "article_number": "1534",
+      "date": "2025-08-21",
+      "booking_quantity": 672.0,
+      "quantity": 56.0,
+      "unit": "Karton 12 Stk.",
+      "article_info": {
+        "short_description": "H-Milch 3,5 %  12 x 1 Liter",
+        "long_description": "H-Milch 3,5 %  1 Liter",
+        "product_group": "05.15.15 Milch",
+        "unit": "PK"
+      }
+    },
+    {
+      "article_number": "1463",
+      "date": "2025-08-21",
+      "booking_quantity": 40.0,
+      "quantity": 4.0,
+      "unit": "Karton 10 kg",
+      "article_info": {
+        "short_description": "Raffinade Zucker 10 x 1kg",
+        "long_description": "Raffinade Zucker 10 x 1 kg",
+        "product_group": "05.25.15.10 Backzutaten",
+        "unit": "KG"
+      }
+    },
+    {
+      "article_number": "1603",
+      "date": "2025-08-21",
+      "booking_quantity": 10.0,
+      "quantity": 2.0,
+      "unit": "Eimer 5 kg",
+      "article_info": {
+        "short_description": "Senf mittelscharf 5 kg Eimer",
+        "long_description": "Senf mittelscharf 5 kg Eimer",
+        "product_group": "05.45.13 Senf",
+        "unit": "KG"
+      }
+    },
+    {
+      "article_number": "2159",
+      "date": "2025-08-21",
+      "booking_quantity": 14.0,
+      "quantity": 14.0,
+      "unit": "FL",
+      "article_info": {
+        "short_description": "Aceto Balsamico  2 l Flasche",
+        "long_description": "Aceto Balsamico 2 l Flasche",
+        "product_group": "05.25.20.15 Essige",
+        "unit": "FL"
+      }
+    },
+    {
+      "article_number": "1598",
+      "date": "2025-08-21",
+      "booking_quantity": 1.0,
+      "quantity": 1.0,
+      "unit": "Glas",
+      "article_info": {
+        "short_description": "Capperi (Kapern) 720 ml. Glas",
+        "long_description": "Capperi (Kapern) 720 ml Glas",
+        "product_group": "05.25.25 Feinkost",
+        "unit": "GL"
+      }
+    },
+    {
+      "article_number": "1799",
+      "date": "2025-08-14",
+      "booking_quantity": 9.0,
+      "quantity": 9.0,
+      "unit": "Dose 1 Stk.",
+      "article_info": {
+        "short_description": "Sardellen, 1/1 Dose (600g)",
+        "long_description": "Sardellen 1/1 Dose 600 g",
+        "product_group": "05.25.30 Konserven",
+        "unit": "DS"
+      }
+    },
+    {
+      "article_number": "1916",
+      "date": "2025-08-14",
+      "booking_quantity": 48.0,
+      "quantity": 48.0,
+      "unit": "Pack 1",
+      "article_info": {
+        "short_description": "Küchensahne 15 % 1 Liter",
+        "long_description": "Milram Küchensahne 15 % 1 l",
+        "product_group": "05.15.20 Sahne",
+        "unit": "PK"
+      }
+    },
+    {
+      "article_number": "9306",
+      "date": "2025-08-14",
+      "booking_quantity": 13.0,
+      "quantity": 13.0,
+      "unit": "Pack 1",
+      "article_info": {
+        "short_description": "Kraftbouillon Gemüse 1 KG",
+        "long_description": "Gemüsekraftbouillon 1 kg",
+        "product_group": "05.25.55 Brühen und Bouillons",
+        "unit": "KG"
+      }
+    },
+    {
+      "article_number": "9303",
+      "date": "2025-08-14",
+      "booking_quantity": 9.0,
+      "quantity": 9.0,
+      "unit": "Pack 1",
+      "article_info": {
+        "short_description": "Mondamin Fix Soßenbinder hell 1 KG",
+        "long_description": "Mondamin Soßenbinder hell 1 kg",
+        "product_group": "05.25.50 Bindemittel",
+        "unit": "KG"
+      }
+    },
+    {
+      "article_number": "1334",
+      "date": "2025-08-14",
+      "booking_quantity": 60.0,
+      "quantity": 6.0,
+      "unit": "Eimer 10 kg",
+      "article_info": {
+        "short_description": "Salatmayonnaise \"GOLD\"   10 Kg",
+        "long_description": "Gold Salatmayonnaise 10 kg",
+        "product_group": "05.45.05 Mayonnaise",
+        "unit": "KG"
+      }
+    },
+    {
+      "article_number": "1457",
+      "date": "2025-08-14",
+      "booking_quantity": 6.0,
+      "quantity": 6.0,
+      "unit": "Sack",
+      "article_info": {
+        "short_description": "Speisesalz  25 Kg Sack",
+        "long_description": "Speisesalz 25 kg Sack",
+        "product_group": "05.25.15.10 Backzutaten",
+        "unit": "SK"
+      }
+    },
+    {
+      "article_number": "1564",
+      "date": "2025-08-07",
+      "booking_quantity": 60.0,
+      "quantity": 5.0,
+      "unit": "Karton 12 Stk.",
+      "article_info": {
+        "short_description": "Ananas in Stücken  12 x 850 ml Dosen",
+        "long_description": "Ananas in Stücken 12 x 850 ml Dosen",
+        "product_group": "05.25.30 Konserven",
+        "unit": "DS"
+      }
+    },
+    {
+      "article_number": "3044",
+      "date": "2025-08-07",
+      "booking_quantity": 146.0,
+      "quantity": 146.0,
+      "unit": "Dose 1 Stk.",
+      "article_info": {
+        "short_description": "Uniferm Trennex Dose 600 ml",
+        "long_description": "Uniferm Trennex Dose 600 ml",
+        "product_group": "05.25.15.10 Backzutaten",
+        "unit": "DS"
+      }
+    },
+    {
+      "article_number": "1562",
+      "date": "2025-08-07",
+      "booking_quantity": 72.0,
+      "quantity": 6.0,
+      "unit": "Karton 12 Stk.",
+      "article_info": {
+        "short_description": "Gemüsemais  Karton 12 x 425 ml Dosen",
+        "long_description": "Gemüsemais Karton 12 x 425 ml Dosen",
+        "product_group": "05.25.30 Konserven",
+        "unit": "DS"
+      }
+    },
+    {
+      "article_number": "999999",
+      "date": "2025-08-07",
+      "booking_quantity": 0.0,
+      "quantity": 0.0,
+      "unit": "",
+      "article_info": {
+        "short_description": "",
+        "long_description": "",
+        "product_group": "",
+        "unit": ""
+      }
+    },
+    {
+      "article_number": "2014",
+      "date": "2025-07-31",
+      "booking_quantity": 2.0,
+      "quantity": 2.0,
+      "unit": "Pack 1",
+      "article_info": {
+        "short_description": "extra scharf Chili mit Kern  1kg",
+        "long_description": "Chili mit Kernen, extra scharf 1 kg",
+        "product_group": "05.25.35 Gewürze",
+        "unit": "KG"
+      }
+    },
+    {
+      "article_number": "1426",
+      "date": "2025-07-31",
+      "booking_quantity": 2.0,
+      "quantity": 2.0,
+      "unit": "Pack 1",
+      "article_info": {
+        "short_description": "Pinoli (Pinienkerne) 1 kg Pack.",
+        "long_description": "Pinoli (Pinienkerne) 1 kg Packung",
+        "product_group": "05.25.25 Feinkost",
+        "unit": "KG"
+      }
+    },
+    {
+      "article_number": "1535",
+      "date": "2025-07-03",
+      "booking_quantity": 24.0,
+      "quantity": 24.0,
+      "unit": "Pack 1",
+      "article_info": {
+        "short_description": "MILRAM H-Schlagsahne 30 %  1 Liter",
+        "long_description": "Milram H-Schlagsahne 30 % 1 l",
+        "product_group": "05.15.20 Sahne",
+        "unit": "PK"
+      }
+    },
+    {
+      "article_number": "1432",
+      "date": "2025-06-12",
+      "booking_quantity": 4.0,
+      "quantity": 2.0,
+      "unit": "Pack 2 kg",
+      "article_info": {
+        "short_description": "Hähnchen Grill Gewürz  2 Kg",
+        "long_description": "Hähnchen Grill Gewürz  2 Kg Beutel",
+        "product_group": "05.25.35 Gewürze",
+        "unit": "KG"
+      }
+    }
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "metadata": {
+    "generated_at": "2025-09-10T23:17:05.039877",
+    "client_number": "12479",
+    "data_source": "BotanBot XML Export"
+  },
+  "client_profile": {
+    "client_number": "12479",
+    "search_term": "RESTAURANT ATHEN",
+    "status": "Kunde",
+    "tax_number": "",
+    "vat_id": "",
+    "is_blocked": true,
+    "price_group": "(Std.-Preis)",
+    "billing_address": {
+      "salutation": "",
+      "name": "Restaurant Athen",
+      "name3": "",
+      "street": "Ilhkarten Weg 9",
+      "city": "Mielkendorf",
+      "postal_code": "24247",
+      "country": "Deutschland",
+      "phone": "(0 43 41) 69 - 01 01",
+      "fax": "",
+      "email": ""
+    },
+    "delivery_address": {
+      "salutation": "",
+      "name": "Restaurant Athen",
+      "name3": "",
+      "street": "Ilhkarten Weg 9",
+      "city": "Mielkendorf",
+      "postal_code": "24247",
+      "country": "Deutschland",
+      "phone": "(0 43 41) 69 - 01 01",
+      "fax": "",
+      "email": ""
+    },
+    "delivery_schedule": {
+      "monday": "",
+      "tuesday": "",
+      "wednesday": "",
+      "thursday": "",
+      "friday": "",
+      "saturday": ""
+    },
+    "settings": {
+      "webshop_enabled": false,
+      "ds_addresses": false,
+      "no_pickup_app": false,
+      "minimum_order_value": null,
+      "articles_not_in_history": ""
+    },
+    "additional_addresses": [
+      {
+        "address_number": "0",
+        "salutation": "",
+        "name": "Restaurant Athen",
+        "name3": "",
+        "street": "Ilhkarten Weg 9",
+        "city": "Mielkendorf",
+        "postal_code": "24247",
+        "country": "Deutschland",
+        "phone": "(0 43 41) 69 - 01 01",
+        "fax": "",
+        "email": "",
+        "is_default_billing": true,
+        "is_default_delivery": true
+      }
+    ]
+  },
+  "order_statistics": {
+    "total_orders": 0,
+    "unique_articles_ordered": 0,
+    "recent_orders_count": 0,
+    "last_order_date": null
+  },
+  "order_history": []
+}

@@ -1,0 +1,94 @@
+{
+  "metadata": {
+    "generated_at": "2025-09-10T23:17:05.958912",
+    "client_number": "15763",
+    "data_source": "BotanBot XML Export"
+  },
+  "client_profile": {
+    "client_number": "15763",
+    "search_term": "SULTANS KITCHEN",
+    "status": "Kunde",
+    "tax_number": "",
+    "vat_id": "",
+    "is_blocked": true,
+    "price_group": "(Std.-Preis)",
+    "billing_address": {
+      "salutation": "",
+      "name": "Sultan`s Kitchen GmbH",
+      "name3": "",
+      "street": "Bahrenfelder Kirchenweg 29",
+      "city": "Hamburg",
+      "postal_code": "22761",
+      "country": "Deutschland",
+      "phone": "(0 40) 22 60 85 04",
+      "fax": "",
+      "email": ""
+    },
+    "delivery_address": {
+      "salutation": "",
+      "name": "Sultan`s Kitchen GmbH",
+      "name3": "GF: Serkan Oral",
+      "street": "Fabriciusstraße 91",
+      "city": "Hamburg",
+      "postal_code": "22177",
+      "country": "Deutschland",
+      "phone": "",
+      "fax": "",
+      "email": "Serkan-Oral@web.de"
+    },
+    "delivery_schedule": {
+      "monday": "2",
+      "tuesday": "",
+      "wednesday": "",
+      "thursday": "5",
+      "friday": "",
+      "saturday": ""
+    },
+    "settings": {
+      "webshop_enabled": false,
+      "ds_addresses": false,
+      "no_pickup_app": false,
+      "minimum_order_value": null,
+      "articles_not_in_history": ""
+    },
+    "additional_addresses": [
+      {
+        "address_number": "0",
+        "salutation": "",
+        "name": "Sultan`s Kitchen GmbH",
+        "name3": "GF: Serkan Oral",
+        "street": "Fabriciusstraße 91",
+        "city": "Hamburg",
+        "postal_code": "22177",
+        "country": "Deutschland",
+        "phone": "",
+        "fax": "",
+        "email": "Serkan-Oral@web.de",
+        "is_default_billing": false,
+        "is_default_delivery": true
+      },
+      {
+        "address_number": "1",
+        "salutation": "",
+        "name": "Sultan`s Kitchen GmbH",
+        "name3": "",
+        "street": "Bahrenfelder Kirchenweg 29",
+        "city": "Hamburg",
+        "postal_code": "22761",
+        "country": "Deutschland",
+        "phone": "(0 40) 22 60 85 04",
+        "fax": "",
+        "email": "",
+        "is_default_billing": true,
+        "is_default_delivery": false
+      }
+    ]
+  },
+  "order_statistics": {
+    "total_orders": 0,
+    "unique_articles_ordered": 0,
+    "recent_orders_count": 0,
+    "last_order_date": null
+  },
+  "order_history": []
+}

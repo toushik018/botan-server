@@ -1,0 +1,147 @@
+{
+  "metadata": {
+    "generated_at": "2025-09-10T23:17:05.236051",
+    "client_number": "13167",
+    "data_source": "BotanBot XML Export"
+  },
+  "client_profile": {
+    "client_number": "13167",
+    "search_term": "SVEN",
+    "status": "Kunde",
+    "tax_number": "",
+    "vat_id": "",
+    "is_blocked": false,
+    "price_group": "(Std.-Preis)",
+    "billing_address": {
+      "salutation": "",
+      "name": "Sven Krohn",
+      "name3": "",
+      "street": "Kieler Straße 38",
+      "city": "Hohenwestedt",
+      "postal_code": "24594",
+      "country": "Deutschland",
+      "phone": "(01 70) 3 04 60 36",
+      "fax": "",
+      "email": "s.krohn@e-traxx.de"
+    },
+    "delivery_address": {
+      "salutation": "",
+      "name": "Sven Krohn",
+      "name3": "",
+      "street": "Kieler Straße 38",
+      "city": "Hohenwestedt",
+      "postal_code": "24594",
+      "country": "Deutschland",
+      "phone": "(01 70) 3 04 60 36",
+      "fax": "",
+      "email": "s.krohn@e-traxx.de"
+    },
+    "delivery_schedule": {
+      "monday": "",
+      "tuesday": "6",
+      "wednesday": "",
+      "thursday": "",
+      "friday": "6",
+      "saturday": ""
+    },
+    "settings": {
+      "webshop_enabled": true,
+      "ds_addresses": false,
+      "no_pickup_app": false,
+      "minimum_order_value": null,
+      "articles_not_in_history": "1576"
+    },
+    "additional_addresses": [
+      {
+        "address_number": "0",
+        "salutation": "",
+        "name": "Sven Krohn",
+        "name3": "",
+        "street": "Kieler Straße 38",
+        "city": "Hohenwestedt",
+        "postal_code": "24594",
+        "country": "Deutschland",
+        "phone": "(01 70) 3 04 60 36",
+        "fax": "",
+        "email": "s.krohn@e-traxx.de",
+        "is_default_billing": true,
+        "is_default_delivery": true
+      },
+      {
+        "address_number": "1",
+        "salutation": "",
+        "name": "Sven Krohn TEST2",
+        "name3": "",
+        "street": "Kieler Straße 38a",
+        "city": "Hohenwestedt",
+        "postal_code": "24594",
+        "country": "Deutschland",
+        "phone": "(01 70) 3 04 60 36",
+        "fax": "",
+        "email": "s.krohn@e-traxx.de",
+        "is_default_billing": false,
+        "is_default_delivery": false
+      }
+    ]
+  },
+  "order_statistics": {
+    "total_orders": 4,
+    "unique_articles_ordered": 4,
+    "recent_orders_count": 4,
+    "last_order_date": "2025-06-20"
+  },
+  "order_history": [
+    {
+      "article_number": "9500",
+      "date": "2025-06-20",
+      "booking_quantity": 24.0,
+      "quantity": 1.0,
+      "unit": "Karton 24 Stk.",
+      "article_info": {
+        "short_description": "DPG Coca Cola 24 x 0,33 l DS",
+        "long_description": "Coca Cola 24 x 0,33 l Dose DPG",
+        "product_group": "15.05.15 0,25 l und 0,33 l Dosen",
+        "unit": "DS"
+      }
+    },
+    {
+      "article_number": "23000025",
+      "date": "2025-06-20",
+      "booking_quantity": 24.0,
+      "quantity": 1.0,
+      "unit": "Karton 24 Stk.",
+      "article_info": {
+        "short_description": "Pflichtpfand Einwegartikel DPG",
+        "long_description": "Pflichtpfand Einwegartikel DPG",
+        "product_group": "90.05 Pfand",
+        "unit": "ST"
+      }
+    },
+    {
+      "article_number": "2300025",
+      "date": "2025-06-20",
+      "booking_quantity": -24.0,
+      "quantity": -24.0,
+      "unit": "Dose 1 Stk.",
+      "article_info": {
+        "short_description": "Rücknahme Pflichtpfand DPG",
+        "long_description": "Rücknahme Pflichtpfand DPG",
+        "product_group": "90.05 Pfand",
+        "unit": "ST"
+      }
+    },
+    {
+      "article_number": "1742",
+      "date": "2025-05-16",
+      "booking_quantity": 1.0,
+      "quantity": 1.0,
+      "unit": "Dose 1 Stk.",
+      "article_info": {
+        "short_description": "",
+        "long_description": "",
+        "product_group": "",
+        "unit": ""
+      }
+    }
+  ]
+}

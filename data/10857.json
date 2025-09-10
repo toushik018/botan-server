@@ -1,0 +1,79 @@
+{
+  "metadata": {
+    "generated_at": "2025-09-10T23:17:04.598021",
+    "client_number": "10857",
+    "data_source": "BotanBot XML Export"
+  },
+  "client_profile": {
+    "client_number": "10857",
+    "search_term": "",
+    "status": "Kunde",
+    "tax_number": "",
+    "vat_id": "",
+    "is_blocked": false,
+    "price_group": "(Std.-Preis)",
+    "billing_address": {
+      "salutation": "Restaurant",
+      "name": "LA PERLA",
+      "name3": "Inh. Kambaz Faqiri",
+      "street": "Lindenstr. 5",
+      "city": "Pönitz",
+      "postal_code": "23684",
+      "country": "Deutschland",
+      "phone": "(01 76) 2 66 - 0 22 40",
+      "fax": "(0 45 24) 70 33 66",
+      "email": ""
+    },
+    "delivery_address": {
+      "salutation": "Restaurant",
+      "name": "LA PERLA",
+      "name3": "Inh. Kambaz Faqiri",
+      "street": "Lindenstr. 5",
+      "city": "Pönitz",
+      "postal_code": "23684",
+      "country": "Deutschland",
+      "phone": "(01 76) 2 66 - 0 22 40",
+      "fax": "(0 45 24) 70 33 66",
+      "email": ""
+    },
+    "delivery_schedule": {
+      "monday": "",
+      "tuesday": "",
+      "wednesday": "",
+      "thursday": "",
+      "friday": "",
+      "saturday": ""
+    },
+    "settings": {
+      "webshop_enabled": false,
+      "ds_addresses": false,
+      "no_pickup_app": false,
+      "minimum_order_value": null,
+      "articles_not_in_history": ""
+    },
+    "additional_addresses": [
+      {
+        "address_number": "0",
+        "salutation": "Restaurant",
+        "name": "LA PERLA",
+        "name3": "Inh. Kambaz Faqiri",
+        "street": "Lindenstr. 5",
+        "city": "Pönitz",
+        "postal_code": "23684",
+        "country": "Deutschland",
+        "phone": "(01 76) 2 66 - 0 22 40",
+        "fax": "(0 45 24) 70 33 66",
+        "email": "",
+        "is_default_billing": true,
+        "is_default_delivery": true
+      }
+    ]
+  },
+  "order_statistics": {
+    "total_orders": 0,
+    "unique_articles_ordered": 0,
+    "recent_orders_count": 0,
+    "last_order_date": null
+  },
+  "order_history": []
+}

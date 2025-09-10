@@ -1,0 +1,457 @@
+{
+  "metadata": {
+    "generated_at": "2025-09-10T23:17:06.485269",
+    "client_number": "17259",
+    "data_source": "BotanBot XML Export"
+  },
+  "client_profile": {
+    "client_number": "17259",
+    "search_term": "MARINA BRODERSBY",
+    "status": "Kunde",
+    "tax_number": "",
+    "vat_id": "",
+    "is_blocked": false,
+    "price_group": "(Std.-Preis)",
+    "billing_address": {
+      "salutation": "",
+      "name": "Marina Brodersby",
+      "name3": "Komission: Tonne 98",
+      "street": "Marina 1",
+      "city": "Brodersby",
+      "postal_code": "24864",
+      "country": "Deutschland",
+      "phone": "(0 46 22) 21 88",
+      "fax": "",
+      "email": "cj@marina-brodersby.de"
+    },
+    "delivery_address": {
+      "salutation": "",
+      "name": "Marina Brodersby",
+      "name3": "Komission: Tonne 98",
+      "street": "Marina 1",
+      "city": "Brodersby",
+      "postal_code": "24864",
+      "country": "Deutschland",
+      "phone": "(0 46 22) 21 88",
+      "fax": "",
+      "email": "cj@marina-brodersby.de"
+    },
+    "delivery_schedule": {
+      "monday": "",
+      "tuesday": "",
+      "wednesday": "",
+      "thursday": "9",
+      "friday": "",
+      "saturday": ""
+    },
+    "settings": {
+      "webshop_enabled": true,
+      "ds_addresses": false,
+      "no_pickup_app": false,
+      "minimum_order_value": null,
+      "articles_not_in_history": "3009"
+    },
+    "additional_addresses": [
+      {
+        "address_number": "0",
+        "salutation": "",
+        "name": "Marina Brodersby",
+        "name3": "Komission: Tonne 98",
+        "street": "Marina 1",
+        "city": "Brodersby",
+        "postal_code": "24864",
+        "country": "Deutschland",
+        "phone": "(0 46 22) 21 88",
+        "fax": "",
+        "email": "cj@marina-brodersby.de",
+        "is_default_billing": true,
+        "is_default_delivery": true
+      }
+    ]
+  },
+  "order_statistics": {
+    "total_orders": 29,
+    "unique_articles_ordered": 29,
+    "recent_orders_count": 29,
+    "last_order_date": "2025-08-21"
+  },
+  "order_history": [
+    {
+      "article_number": "1820",
+      "date": "2025-08-21",
+      "booking_quantity": 466.0,
+      "quantity": 466.0,
+      "unit": "Beutel 1 kg",
+      "article_info": {
+        "short_description": "Kibbelinge,20-25g,1 kg TK i.Backteig Fisch Nuggets",
+        "long_description": "Kibbelinge Fisch-Nuggets 20-25 g 1 kg Backteig TK",
+        "product_group": "05.10.05.10 TK",
+        "unit": "KG"
+      }
+    },
+    {
+      "article_number": "1882",
+      "date": "2025-08-21",
+      "booking_quantity": 44.0,
+      "quantity": 44.0,
+      "unit": "Pack 1",
+      "article_info": {
+        "short_description": "Schmelzkäse Cheddar in Scheiben  1,082 kg",
+        "long_description": "Schmelzkäse Cheddar in Scheiben 1,082 kg",
+        "product_group": "05.15.05.10.20 Frisch- und Schmelzkäse",
+        "unit": "PK"
+      }
+    },
+    {
+      "article_number": "1393",
+      "date": "2025-08-21",
+      "booking_quantity": 3.0,
+      "quantity": 3.0,
+      "unit": "Kiste",
+      "article_info": {
+        "short_description": "Lollo Bionda 9er  Kiste",
+        "long_description": "Lollo Bionda 9 Stück Kiste",
+        "product_group": "05.35.05 Frischgemüse",
+        "unit": "KT"
+      }
+    },
+    {
+      "article_number": "2223",
+      "date": "2025-08-21",
+      "booking_quantity": 410.0,
+      "quantity": 41.0,
+      "unit": "Eimer 10 kg",
+      "article_info": {
+        "short_description": "Remia Frittierfett MAXIMUM 10 kg KT",
+        "long_description": "Remia Frittierfett MAXIMUM 10 kg KT",
+        "product_group": "05.25.20.10 Fette",
+        "unit": "KG"
+      }
+    },
+    {
+      "article_number": "9018",
+      "date": "2025-08-21",
+      "booking_quantity": 3.0,
+      "quantity": 3.0,
+      "unit": "Karton 1",
+      "article_info": {
+        "short_description": "Citrustücher 1000 Stk.  Sonderabg. EWK F. enth.",
+        "long_description": "Citrustücher 60 x 80 mm 1.000 Stück",
+        "product_group": "10.05.55 Servietten",
+        "unit": "KT"
+      }
+    },
+    {
+      "article_number": "3081",
+      "date": "2025-08-14",
+      "booking_quantity": 225.0,
+      "quantity": 90.0,
+      "unit": "Beutel 2,5 kg",
+      "article_info": {
+        "short_description": "Criss Cuts, gewürzt  2,5 Kg  BT TK",
+        "long_description": "Criss Cuts, gewürzt  2,5 Kg  BT TK",
+        "product_group": "05.30.10 weitere",
+        "unit": "KG"
+      }
+    },
+    {
+      "article_number": "1948",
+      "date": "2025-08-14",
+      "booking_quantity": 280.0,
+      "quantity": 28.0,
+      "unit": "Karton 10 kg",
+      "article_info": {
+        "short_description": "Coated Pommes 3/8  TK 4 x 2,5 Kg",
+        "long_description": "TK Coated Pommes 3/8 4 x 2,5 kg Beutel",
+        "product_group": "05.30.05 Pommes",
+        "unit": "KG"
+      }
+    },
+    {
+      "article_number": "9070",
+      "date": "2025-08-14",
+      "booking_quantity": 100.0,
+      "quantity": 20.0,
+      "unit": "Eimer 5 kg",
+      "article_info": {
+        "short_description": "Deutsche Remoulade 5 KG Eimer",
+        "long_description": "Deutsche Remoulade 5 kg Eimer",
+        "product_group": "05.45.20 Spezial-Saucen",
+        "unit": "KG"
+      }
+    },
+    {
+      "article_number": "1842",
+      "date": "2025-08-14",
+      "booking_quantity": 3.0,
+      "quantity": 3.0,
+      "unit": "Karton",
+      "article_info": {
+        "short_description": "Strauchtomaten  5 kg Kiste",
+        "long_description": "Strauchtomaten  5 kg Kiste",
+        "product_group": "05.35.05 Frischgemüse",
+        "unit": "KT"
+      }
+    },
+    {
+      "article_number": "3002",
+      "date": "2025-08-14",
+      "booking_quantity": 168.0,
+      "quantity": 7.0,
+      "unit": "Karton 24 Stk.",
+      "article_info": {
+        "short_description": "Sesambrötchen 5 -Inch (80g) 125mm 24Stk.",
+        "long_description": "Sesambrötchen 5 Inch 80 g 125 mm 24 Stück",
+        "product_group": "05.40.10 Brotwaren",
+        "unit": "ST"
+      }
+    },
+    {
+      "article_number": "1952",
+      "date": "2025-07-24",
+      "booking_quantity": 21.0,
+      "quantity": 21.0,
+      "unit": "Eimer 1",
+      "article_info": {
+        "short_description": "HELA Curry Ketchup delikat.  10 kg",
+        "long_description": "Hela Curry Ketchup delikat 10 kg",
+        "product_group": "05.45.10 Ketchup",
+        "unit": "EI"
+      }
+    },
+    {
+      "article_number": "9057",
+      "date": "2025-07-24",
+      "booking_quantity": 110.0,
+      "quantity": 11.0,
+      "unit": "Eimer 10 kg",
+      "article_info": {
+        "short_description": "Spezial Mayonaise 50 %  10 KG Eimer",
+        "long_description": "Spezial Mayonnaise 50 % 10 kg Eimer",
+        "product_group": "05.45.05 Mayonnaise",
+        "unit": "KG"
+      }
+    },
+    {
+      "article_number": "1148",
+      "date": "2025-07-24",
+      "booking_quantity": 15.0,
+      "quantity": 15.0,
+      "unit": "Rolle 1",
+      "article_info": {
+        "short_description": "Müllsäcke   120 l   25 Stk./ Rolle",
+        "long_description": "Müllsäcke  25 Stück/Rolle 120 l",
+        "product_group": "10.10.20 Müllbeutel",
+        "unit": "RL"
+      }
+    },
+    {
+      "article_number": "2476",
+      "date": "2025-07-24",
+      "booking_quantity": 12.0,
+      "quantity": 12.0,
+      "unit": "Pack",
+      "article_info": {
+        "short_description": "Thermorollen (für Kassen) 5Stk. 80mm x 50  m",
+        "long_description": "Thermorollen für Kassen 5 Stk 80 mm x 50 m",
+        "product_group": "10.20.05 Büroartikel",
+        "unit": "ST"
+      }
+    },
+    {
+      "article_number": "9061",
+      "date": "2025-07-24",
+      "booking_quantity": 21.0,
+      "quantity": 7.0,
+      "unit": "Eimer 3 kg",
+      "article_info": {
+        "short_description": "3 KG Gurkensalat weiss",
+        "long_description": "Gurkensalat weiß 3 kg",
+        "product_group": "05.35.15 Salate",
+        "unit": "KG"
+      }
+    },
+    {
+      "article_number": "1442",
+      "date": "2025-07-24",
+      "booking_quantity": 3.0,
+      "quantity": 3.0,
+      "unit": "Pack 1",
+      "article_info": {
+        "short_description": "Paprika edelsüß  1 Kg",
+        "long_description": "Paprika edelsüß 1 kg",
+        "product_group": "05.25.35 Gewürze",
+        "unit": "KG"
+      }
+    },
+    {
+      "article_number": "1427",
+      "date": "2025-07-24",
+      "booking_quantity": 3.0,
+      "quantity": 3.0,
+      "unit": "Pack 1",
+      "article_info": {
+        "short_description": "Curry Pulver  1 Kg",
+        "long_description": "Currypulver 1 kg",
+        "product_group": "05.25.35 Gewürze",
+        "unit": "KG"
+      }
+    },
+    {
+      "article_number": "9290",
+      "date": "2025-07-24",
+      "booking_quantity": 5.0,
+      "quantity": 5.0,
+      "unit": "Pack 1",
+      "article_info": {
+        "short_description": "Schwarze Handschuhe Nitrile ungep. \"M\" 100 Stk",
+        "long_description": "Schwarze Handschuhe Nitrile ungep. \"M\" 100 Stk",
+        "product_group": "10.10.10 Handschuhe",
+        "unit": "PK"
+      }
+    },
+    {
+      "article_number": "1068",
+      "date": "2025-07-24",
+      "booking_quantity": 1.0,
+      "quantity": 1.0,
+      "unit": "Pack 1",
+      "article_info": {
+        "short_description": "Menübox, 2-geteilt IP4",
+        "long_description": "Menübox 2-geteilt IP 4",
+        "product_group": "10.05.25 Boxen, Tüten, Taschen und Papier",
+        "unit": "PK"
+      }
+    },
+    {
+      "article_number": "1666",
+      "date": "2025-07-24",
+      "booking_quantity": 1.0,
+      "quantity": 1.0,
+      "unit": "Karton 1",
+      "article_info": {
+        "short_description": "Becher 50 ml  rund mit Deckel 500 Stk.",
+        "long_description": "Becher 50 ml rund mit Deckel 500 Stück",
+        "product_group": "10.05.35 Feinkost- und diverse Becher",
+        "unit": "KT"
+      }
+    },
+    {
+      "article_number": "1078",
+      "date": "2025-07-24",
+      "booking_quantity": 1.0,
+      "quantity": 1.0,
+      "unit": "Pack 1",
+      "article_info": {
+        "short_description": "Hamburger Box, Maxi  125 Stk. IP 6",
+        "long_description": "Hamburger-Box Maxi 125 Stück IP 6",
+        "product_group": "10.05.25 Boxen, Tüten, Taschen und Papier",
+        "unit": "PK"
+      }
+    },
+    {
+      "article_number": "1689",
+      "date": "2025-06-12",
+      "booking_quantity": 2.0,
+      "quantity": 2.0,
+      "unit": "Dose 1 Stk.",
+      "article_info": {
+        "short_description": "Gewürzgurken ganz 40/45 m.s. 10200ml",
+        "long_description": "Gewürzgurken ganz 40/45 m.s. 10200 ml",
+        "product_group": "05.25.30 Konserven",
+        "unit": "DS"
+      }
+    },
+    {
+      "article_number": "999999",
+      "date": "2025-06-12",
+      "booking_quantity": 0.0,
+      "quantity": 0.0,
+      "unit": "",
+      "article_info": {
+        "short_description": "",
+        "long_description": "",
+        "product_group": "",
+        "unit": ""
+      }
+    },
+    {
+      "article_number": "1122",
+      "date": "2025-06-12",
+      "booking_quantity": 2.0,
+      "quantity": 2.0,
+      "unit": "Pack 1",
+      "article_info": {
+        "short_description": "Kaffeebecher 0,2 l  Br. Pappe 100 Stk.",
+        "long_description": "Kaffeebecher 0,2 l Br. Pappe 100 Stück",
+        "product_group": "10.05.65 Trinkbecher und Deckel",
+        "unit": "PK"
+      }
+    },
+    {
+      "article_number": "4501",
+      "date": "2025-06-12",
+      "booking_quantity": 2.0,
+      "quantity": 2.0,
+      "unit": "Pack 1",
+      "article_info": {
+        "short_description": "Deckel für Kaffeebecher 0,2 l 100 Stk.",
+        "long_description": "Deckel für Kaffeebecher 0,2 l 100 Stück",
+        "product_group": "10.05.65 Trinkbecher und Deckel",
+        "unit": "PK"
+      }
+    },
+    {
+      "article_number": "1534",
+      "date": "2025-06-05",
+      "booking_quantity": 12.0,
+      "quantity": 1.0,
+      "unit": "Karton 12 Stk.",
+      "article_info": {
+        "short_description": "H-Milch 3,5 %  12 x 1 Liter",
+        "long_description": "H-Milch 3,5 %  1 Liter",
+        "product_group": "05.15.15 Milch",
+        "unit": "PK"
+      }
+    },
+    {
+      "article_number": "8917",
+      "date": "2025-05-31",
+      "booking_quantity": 24.0,
+      "quantity": 1.0,
+      "unit": "KI 24",
+      "article_info": {
+        "short_description": "Fritz Zitrone trüb 24 x 0,33 l  Flaschen",
+        "long_description": "Fritz Zitrone trüb 24 x 0,33 l Flasche",
+        "product_group": "15.05.10 0,3 l und 0,33 l Flasche MWK",
+        "unit": "FL"
+      }
+    },
+    {
+      "article_number": "23342",
+      "date": "2025-05-31",
+      "booking_quantity": 2.0,
+      "quantity": 2.0,
+      "unit": "Kiste",
+      "article_info": {
+        "short_description": "Pfand = 3,42 € 24er  0,33l (24x0,08+1,50)",
+        "long_description": "Pfand = 3,42 € 24er 0,33l (24 x 0,08 + 1,50)",
+        "product_group": "90.05 Pfand",
+        "unit": "ST"
+      }
+    },
+    {
+      "article_number": "8912",
+      "date": "2025-05-31",
+      "booking_quantity": 24.0,
+      "quantity": 1.0,
+      "unit": "KI 24",
+      "article_info": {
+        "short_description": "Fritz Kola 24 x 0,33 l  Flaschen",
+        "long_description": "Fritz Kola 24 x 0,33 l Flasche",
+        "product_group": "15.05.10 0,3 l und 0,33 l Flasche MWK",
+        "unit": "FL"
+      }
+    }
+  ]
+}

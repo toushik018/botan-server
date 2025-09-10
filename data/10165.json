@@ -1,0 +1,79 @@
+{
+  "metadata": {
+    "generated_at": "2025-09-10T23:17:04.381881",
+    "client_number": "10165",
+    "data_source": "BotanBot XML Export"
+  },
+  "client_profile": {
+    "client_number": "10165",
+    "search_term": "",
+    "status": "Kunde",
+    "tax_number": "",
+    "vat_id": "",
+    "is_blocked": true,
+    "price_group": "(Std.-Preis)",
+    "billing_address": {
+      "salutation": "Pizza Service",
+      "name": "City Pizza",
+      "name3": "Inh. Kashif Butt",
+      "street": "Prinzenstr. 4",
+      "city": "Friedrichstadt",
+      "postal_code": "25840",
+      "country": "Deutschland",
+      "phone": "(0 48 81) 93 78 01",
+      "fax": "(0 48 81) 93 78 02",
+      "email": "sumerakashif22@yahoo.com"
+    },
+    "delivery_address": {
+      "salutation": "Pizza Service",
+      "name": "City Pizza",
+      "name3": "Inh. Kashif Butt",
+      "street": "Prinzenstr. 4",
+      "city": "Friedrichstadt",
+      "postal_code": "25840",
+      "country": "Deutschland",
+      "phone": "(0 48 81) 93 78 01",
+      "fax": "(0 48 81) 93 78 02",
+      "email": "sumerakashif22@yahoo.com"
+    },
+    "delivery_schedule": {
+      "monday": "",
+      "tuesday": "",
+      "wednesday": "",
+      "thursday": "",
+      "friday": "5",
+      "saturday": ""
+    },
+    "settings": {
+      "webshop_enabled": false,
+      "ds_addresses": false,
+      "no_pickup_app": false,
+      "minimum_order_value": null,
+      "articles_not_in_history": "1330, 1354,9062,9184"
+    },
+    "additional_addresses": [
+      {
+        "address_number": "0",
+        "salutation": "Pizza Service",
+        "name": "City Pizza",
+        "name3": "Inh. Kashif Butt",
+        "street": "Prinzenstr. 4",
+        "city": "Friedrichstadt",
+        "postal_code": "25840",
+        "country": "Deutschland",
+        "phone": "(0 48 81) 93 78 01",
+        "fax": "(0 48 81) 93 78 02",
+        "email": "sumerakashif22@yahoo.com",
+        "is_default_billing": true,
+        "is_default_delivery": true
+      }
+    ]
+  },
+  "order_statistics": {
+    "total_orders": 0,
+    "unique_articles_ordered": 0,
+    "recent_orders_count": 0,
+    "last_order_date": null
+  },
+  "order_history": []
+}

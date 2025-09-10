@@ -1,0 +1,537 @@
+{
+  "metadata": {
+    "generated_at": "2025-09-10T23:17:05.920862",
+    "client_number": "15632",
+    "data_source": "BotanBot XML Export"
+  },
+  "client_profile": {
+    "client_number": "15632",
+    "search_term": "ORIRI LOUNGE",
+    "status": "Kunde",
+    "tax_number": "",
+    "vat_id": "",
+    "is_blocked": false,
+    "price_group": "(Std.-Preis)",
+    "billing_address": {
+      "salutation": "",
+      "name": "Weekend Supporters GmbH",
+      "name3": "",
+      "street": "Eichhofstrasse 1",
+      "city": "Kiel",
+      "postal_code": "24116",
+      "country": "Deutschland",
+      "phone": "(04 31) 53 03 68 77",
+      "fax": "",
+      "email": "info@oririlounge.de"
+    },
+    "delivery_address": {
+      "salutation": "",
+      "name": "Oriri Lounge",
+      "name3": "",
+      "street": "Eichhofstrasse 1",
+      "city": "Kiel",
+      "postal_code": "24116",
+      "country": "Deutschland",
+      "phone": "(04 31) 53 03 68 77",
+      "fax": "",
+      "email": "hamedabdolkarim@gmail.com"
+    },
+    "delivery_schedule": {
+      "monday": "18",
+      "tuesday": "18",
+      "wednesday": "18",
+      "thursday": "18",
+      "friday": "18",
+      "saturday": ""
+    },
+    "settings": {
+      "webshop_enabled": true,
+      "ds_addresses": false,
+      "no_pickup_app": false,
+      "minimum_order_value": 300.0,
+      "articles_not_in_history": ""
+    },
+    "additional_addresses": [
+      {
+        "address_number": "0",
+        "salutation": "",
+        "name": "Weekend Supporters GmbH",
+        "name3": "",
+        "street": "Eichhofstrasse 1",
+        "city": "Kiel",
+        "postal_code": "24116",
+        "country": "Deutschland",
+        "phone": "(04 31) 53 03 68 77",
+        "fax": "",
+        "email": "info@oririlounge.de",
+        "is_default_billing": true,
+        "is_default_delivery": false
+      },
+      {
+        "address_number": "1",
+        "salutation": "",
+        "name": "Oriri Lounge",
+        "name3": "",
+        "street": "Eichhofstrasse 1",
+        "city": "Kiel",
+        "postal_code": "24116",
+        "country": "Deutschland",
+        "phone": "(04 31) 53 03 68 77",
+        "fax": "",
+        "email": "hamedabdolkarim@gmail.com",
+        "is_default_billing": false,
+        "is_default_delivery": true
+      }
+    ]
+  },
+  "order_statistics": {
+    "total_orders": 34,
+    "unique_articles_ordered": 34,
+    "recent_orders_count": 34,
+    "last_order_date": "2025-08-21"
+  },
+  "order_history": [
+    {
+      "article_number": "230510",
+      "date": "2025-08-21",
+      "booking_quantity": -1.0,
+      "quantity": -1.0,
+      "unit": "ST",
+      "article_info": {
+        "short_description": "Rücknahme Pfand = 5,10 € (24 x 0,33 l Cola)",
+        "long_description": "Rücknahme Pfand = 5,10 € (24 x 0,33 l Cola)",
+        "product_group": "90.05 Pfand",
+        "unit": "ST"
+      }
+    },
+    {
+      "article_number": "230240",
+      "date": "2025-08-21",
+      "booking_quantity": -1.0,
+      "quantity": -1.0,
+      "unit": "Kiste",
+      "article_info": {
+        "short_description": "Rücknahme Pfand 2,40 € 6 x 0,15 + 1,50",
+        "long_description": "Rücknahme Pfand 2,40 € 6 x 0,15 + 1,50",
+        "product_group": "90.05 Pfand",
+        "unit": "KI"
+      }
+    },
+    {
+      "article_number": "2476",
+      "date": "2025-08-20",
+      "booking_quantity": 6.0,
+      "quantity": 6.0,
+      "unit": "Pack",
+      "article_info": {
+        "short_description": "Thermorollen (für Kassen) 5Stk. 80mm x 50  m",
+        "long_description": "Thermorollen für Kassen 5 Stk 80 mm x 50 m",
+        "product_group": "10.20.05 Büroartikel",
+        "unit": "ST"
+      }
+    },
+    {
+      "article_number": "9397",
+      "date": "2025-08-20",
+      "booking_quantity": 6.0,
+      "quantity": 6.0,
+      "unit": "Pack 1",
+      "article_info": {
+        "short_description": "Schwarze Handschuh Kolib. Nitrile ung. \"S\" 100 Stk",
+        "long_description": "Schwarze Handschuh Kolib. Nitrile ung. \"S\" 100 Stk",
+        "product_group": "10.10.10 Handschuhe",
+        "unit": "PK"
+      }
+    },
+    {
+      "article_number": "9852",
+      "date": "2025-08-20",
+      "booking_quantity": 255.0,
+      "quantity": 255.0,
+      "unit": "Stk",
+      "article_info": {
+        "short_description": "Zitronen frisch",
+        "long_description": "Zitronen frisch",
+        "product_group": "05.35.05 Frischgemüse",
+        "unit": "Stk"
+      }
+    },
+    {
+      "article_number": "1843",
+      "date": "2025-08-20",
+      "booking_quantity": 36.357,
+      "quantity": 36.357,
+      "unit": "KG",
+      "article_info": {
+        "short_description": "Orangen frisch",
+        "long_description": "Orangen frisch",
+        "product_group": "05.35.10 Obst",
+        "unit": "KG"
+      }
+    },
+    {
+      "article_number": "3101",
+      "date": "2025-08-20",
+      "booking_quantity": 144.0,
+      "quantity": 24.0,
+      "unit": "TR 6",
+      "article_info": {
+        "short_description": "DPG 6 x1,5 l.  Yurt Quellwasser",
+        "long_description": "Yurt Quellwasser DPG 6 x1,5 l.",
+        "product_group": "15.15.30 1,5 l Flasche",
+        "unit": "FL"
+      }
+    },
+    {
+      "article_number": "23000025",
+      "date": "2025-08-20",
+      "booking_quantity": 552.0,
+      "quantity": 41.0,
+      "unit": "TR 6",
+      "article_info": {
+        "short_description": "Pflichtpfand Einwegartikel DPG",
+        "long_description": "Pflichtpfand Einwegartikel DPG",
+        "product_group": "90.05 Pfand",
+        "unit": "ST"
+      }
+    },
+    {
+      "article_number": "9525",
+      "date": "2025-08-20",
+      "booking_quantity": 312.0,
+      "quantity": 13.0,
+      "unit": "Karton 24 Stk.",
+      "article_info": {
+        "short_description": "DPG Moloko Refresh 24x0,25l DS",
+        "long_description": "Moloko Refresh 24 x 0,25 l Dose DPG",
+        "product_group": "15.05.15 0,25 l und 0,33 l Dosen",
+        "unit": "DS"
+      }
+    },
+    {
+      "article_number": "9862",
+      "date": "2025-08-20",
+      "booking_quantity": 1026.0,
+      "quantity": 1026.0,
+      "unit": "Stk",
+      "article_info": {
+        "short_description": "Limetten frisch",
+        "long_description": "Limetten frisch",
+        "product_group": "05.35.05 Frischgemüse",
+        "unit": "ST"
+      }
+    },
+    {
+      "article_number": "9858",
+      "date": "2025-08-20",
+      "booking_quantity": 30.0,
+      "quantity": 30.0,
+      "unit": "Stück",
+      "article_info": {
+        "short_description": "Honigmelone frisch",
+        "long_description": "Honigmelone",
+        "product_group": "05.35.10 Obst",
+        "unit": "ST"
+      }
+    },
+    {
+      "article_number": "9857",
+      "date": "2025-08-20",
+      "booking_quantity": 31.0,
+      "quantity": 31.0,
+      "unit": "Stück",
+      "article_info": {
+        "short_description": "Ananas Stk. frisch",
+        "long_description": "Ananas Stück frisch",
+        "product_group": "05.35.10 Obst",
+        "unit": "ST"
+      }
+    },
+    {
+      "article_number": "3097",
+      "date": "2025-08-20",
+      "booking_quantity": 108.0,
+      "quantity": 108.0,
+      "unit": "Beutel",
+      "article_info": {
+        "short_description": "Casafiesta Tortillachips Chili 450g",
+        "long_description": "Casafiesta Tortillachips Chili 450g",
+        "product_group": "05.50.25 Gebäck",
+        "unit": "BT"
+      }
+    },
+    {
+      "article_number": "9861",
+      "date": "2025-08-20",
+      "booking_quantity": 9.0,
+      "quantity": 9.0,
+      "unit": "Kiste",
+      "article_info": {
+        "short_description": "Weintrauben \"rot\" kernlos 4,5 Kg",
+        "long_description": "Weintrauben rot kernlos 4,5 kg",
+        "product_group": "05.35.10 Obst",
+        "unit": "KI"
+      }
+    },
+    {
+      "article_number": "1329",
+      "date": "2025-08-20",
+      "booking_quantity": 20.0,
+      "quantity": 2.0,
+      "unit": "Kanister 10 l",
+      "article_info": {
+        "short_description": "Rapsöl 10 Liter",
+        "long_description": "Rapsöl 10 l",
+        "product_group": "05.25.20.05 Öle",
+        "unit": "LI"
+      }
+    },
+    {
+      "article_number": "1534",
+      "date": "2025-08-20",
+      "booking_quantity": 72.0,
+      "quantity": 6.0,
+      "unit": "Karton 12 Stk.",
+      "article_info": {
+        "short_description": "H-Milch 3,5 %  12 x 1 Liter",
+        "long_description": "H-Milch 3,5 %  1 Liter",
+        "product_group": "05.15.15 Milch",
+        "unit": "PK"
+      }
+    },
+    {
+      "article_number": "2191",
+      "date": "2025-08-20",
+      "booking_quantity": 5.0,
+      "quantity": 5.0,
+      "unit": "Pack 1",
+      "article_info": {
+        "short_description": "Trinkhalm Mehrweg 22x 0,7 cm bunte PP Pack 500 Stk",
+        "long_description": "Trinkhalm Mehrweg 22x 0,7 cm bunte PP Pack 500 Stk",
+        "product_group": "10.05.50 Besteck",
+        "unit": "PK"
+      }
+    },
+    {
+      "article_number": "9290",
+      "date": "2025-08-20",
+      "booking_quantity": 11.0,
+      "quantity": 11.0,
+      "unit": "Pack 1",
+      "article_info": {
+        "short_description": "Schwarze Handschuhe Nitrile ungep. \"M\" 100 Stk",
+        "long_description": "Schwarze Handschuhe Nitrile ungep. \"M\" 100 Stk",
+        "product_group": "10.10.10 Handschuhe",
+        "unit": "PK"
+      }
+    },
+    {
+      "article_number": "1652",
+      "date": "2025-08-20",
+      "booking_quantity": 432.0,
+      "quantity": 18.0,
+      "unit": "KI 24",
+      "article_info": {
+        "short_description": "Cola ZERO  24 x 0,33 l  Flaschen",
+        "long_description": "Coca Cola Zero 24 x 0,33 l Flasche",
+        "product_group": "15.05.10 0,3 l und 0,33 l Flasche MWK",
+        "unit": "FL"
+      }
+    },
+    {
+      "article_number": "23510",
+      "date": "2025-08-20",
+      "booking_quantity": 18.0,
+      "quantity": 18.0,
+      "unit": "Kiste",
+      "article_info": {
+        "short_description": "Pfand = 5,10 € 24er Cola & Co 0,33l",
+        "long_description": "Pfand = 5,10 € 24er Cola & Co 0,33 l",
+        "product_group": "90.05 Pfand",
+        "unit": "ST"
+      }
+    },
+    {
+      "article_number": "4011",
+      "date": "2025-08-20",
+      "booking_quantity": 6.0,
+      "quantity": 6.0,
+      "unit": "KG",
+      "article_info": {
+        "short_description": "Espresso Bohnen Splendid Aroma Tradizinale 1 Kg",
+        "long_description": "Splendid Espressobohnen Aroma Tradizionale 1 kg",
+        "product_group": "05.25.45 Kaffee und Tee",
+        "unit": "KG"
+      }
+    },
+    {
+      "article_number": "1463",
+      "date": "2025-08-20",
+      "booking_quantity": 20.0,
+      "quantity": 2.0,
+      "unit": "Karton 10 kg",
+      "article_info": {
+        "short_description": "Raffinade Zucker 10 x 1kg",
+        "long_description": "Raffinade Zucker 10 x 1 kg",
+        "product_group": "05.25.15.10 Backzutaten",
+        "unit": "KG"
+      }
+    },
+    {
+      "article_number": "9287",
+      "date": "2025-08-20",
+      "booking_quantity": 2.0,
+      "quantity": 2.0,
+      "unit": "Pack 1",
+      "article_info": {
+        "short_description": "Schwarze Handschuhe Nitrile ungep. \"L\" 100 Stk",
+        "long_description": "Schwarze Handschuhe Nitrile ungep. \"L\" 100 Stk",
+        "product_group": "10.10.10 Handschuhe",
+        "unit": "PK"
+      }
+    },
+    {
+      "article_number": "1535",
+      "date": "2025-08-13",
+      "booking_quantity": 13.0,
+      "quantity": 13.0,
+      "unit": "Pack 1",
+      "article_info": {
+        "short_description": "MILRAM H-Schlagsahne 30 %  1 Liter",
+        "long_description": "Milram H-Schlagsahne 30 % 1 l",
+        "product_group": "05.15.20 Sahne",
+        "unit": "PK"
+      }
+    },
+    {
+      "article_number": "2728",
+      "date": "2025-08-13",
+      "booking_quantity": 25.0,
+      "quantity": 25.0,
+      "unit": "Tube 1",
+      "article_info": {
+        "short_description": "Creamy Cheese Style  850ml vegan",
+        "long_description": "Creamy Cheese Style  850 ml",
+        "product_group": "05.07 Vegan",
+        "unit": "TB"
+      }
+    },
+    {
+      "article_number": "1113",
+      "date": "2025-08-13",
+      "booking_quantity": 8.0,
+      "quantity": 8.0,
+      "unit": "Karton 1",
+      "article_info": {
+        "short_description": "Falt Papierhandtücher für WC 5000 st.",
+        "long_description": "Faltpapierhandtücher für WC 5.000 Stück",
+        "product_group": "10.10.15 Rollen und Tücher",
+        "unit": "KT"
+      }
+    },
+    {
+      "article_number": "7009",
+      "date": "2025-08-06",
+      "booking_quantity": 4.0,
+      "quantity": 4.0,
+      "unit": "Karton 1",
+      "article_info": {
+        "short_description": "Karamellgebäck (Keks) 300 ST.  x 6,25g",
+        "long_description": "Karamellgebäck (Keks) 300 x 6,25 g",
+        "product_group": "05.50.25 Gebäck",
+        "unit": "KT"
+      }
+    },
+    {
+      "article_number": "1833",
+      "date": "2025-08-06",
+      "booking_quantity": 480.0,
+      "quantity": 4.0,
+      "unit": "Karton 120 Stk.",
+      "article_info": {
+        "short_description": "Honig 120 x 20 g",
+        "long_description": "Honig 120 x 20 g",
+        "product_group": "05.25.40 Brotaufstriche",
+        "unit": "PK"
+      }
+    },
+    {
+      "article_number": "2144",
+      "date": "2025-08-06",
+      "booking_quantity": 4.0,
+      "quantity": 4.0,
+      "unit": "Pack 1",
+      "article_info": {
+        "short_description": "Trinkhalm Mehrweg 23x 0,8 cm schwarz Pack 250 Stk",
+        "long_description": "Trinkhalm Mehrweg 23x 0,8 cm schwarz Pack 250 Stk",
+        "product_group": "10.05.50 Besteck",
+        "unit": "PK"
+      }
+    },
+    {
+      "article_number": "1148",
+      "date": "2025-07-30",
+      "booking_quantity": 15.0,
+      "quantity": 15.0,
+      "unit": "Rolle 1",
+      "article_info": {
+        "short_description": "Müllsäcke   120 l   25 Stk./ Rolle",
+        "long_description": "Müllsäcke  25 Stück/Rolle 120 l",
+        "product_group": "10.10.20 Müllbeutel",
+        "unit": "RL"
+      }
+    },
+    {
+      "article_number": "999999",
+      "date": "2025-07-16",
+      "booking_quantity": 0.0,
+      "quantity": 0.0,
+      "unit": "",
+      "article_info": {
+        "short_description": "",
+        "long_description": "",
+        "product_group": "",
+        "unit": ""
+      }
+    },
+    {
+      "article_number": "9527",
+      "date": "2025-07-09",
+      "booking_quantity": 24.0,
+      "quantity": 1.0,
+      "unit": "Karton 24 Stk.",
+      "article_info": {
+        "short_description": "DPG Fanta Exotic 24 x 0,33 l DS",
+        "long_description": "Fanta Exotic 24 x 0,33 l DS DPG",
+        "product_group": "15.05.15 0,25 l und 0,33 l Dosen",
+        "unit": "DS"
+      }
+    },
+    {
+      "article_number": "9526",
+      "date": "2025-07-02",
+      "booking_quantity": 72.0,
+      "quantity": 3.0,
+      "unit": "Karton 24 Stk.",
+      "article_info": {
+        "short_description": "28 Black Acai 24 x  0,25 L DPG",
+        "long_description": "28 Black Acai 24 x  0,25 l DPG",
+        "product_group": "15.05.15 0,25 l und 0,33 l Dosen",
+        "unit": "DS"
+      }
+    },
+    {
+      "article_number": "9030",
+      "date": "2025-07-02",
+      "booking_quantity": 2.0,
+      "quantity": 2.0,
+      "unit": "Karton 1",
+      "article_info": {
+        "short_description": "JUMBO-Toiletten Papier  2 lg  (6 x 380m)",
+        "long_description": "Jumbo-Toilettenpapier 2-lagig 6 x 380 m",
+        "product_group": "10.10.15 Rollen und Tücher",
+        "unit": "KT"
+      }
+    }
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "metadata": {
+    "generated_at": "2025-09-10T23:17:06.293089",
+    "client_number": "16754",
+    "data_source": "BotanBot XML Export"
+  },
+  "client_profile": {
+    "client_number": "16754",
+    "search_term": "RESTAURANT WULFSMÜHLE",
+    "status": "Kunde",
+    "tax_number": "",
+    "vat_id": "",
+    "is_blocked": false,
+    "price_group": "(Std.-Preis)",
+    "billing_address": {
+      "salutation": "Stadt",
+      "name": "Restaurant zur Wulfsmühle",
+      "name3": "",
+      "street": "Mühlenstrasse 95",
+      "city": "Tangstedt",
+      "postal_code": "25499",
+      "country": "Deutschland",
+      "phone": "(0 41 01) 8 05 48 60",
+      "fax": "",
+      "email": "info@restaurant-wulfsmuehle.de"
+    },
+    "delivery_address": {
+      "salutation": "Stadt",
+      "name": "Restaurant zur Wulfsmühle",
+      "name3": "",
+      "street": "Mühlenstrasse 95",
+      "city": "Tangstedt",
+      "postal_code": "25499",
+      "country": "Deutschland",
+      "phone": "(0 41 01) 8 05 48 60",
+      "fax": "",
+      "email": "info@restaurant-wulfsmuehle.de"
+    },
+    "delivery_schedule": {
+      "monday": "",
+      "tuesday": "",
+      "wednesday": "",
+      "thursday": "",
+      "friday": "",
+      "saturday": ""
+    },
+    "settings": {
+      "webshop_enabled": false,
+      "ds_addresses": false,
+      "no_pickup_app": false,
+      "minimum_order_value": null,
+      "articles_not_in_history": ""
+    },
+    "additional_addresses": [
+      {
+        "address_number": "0",
+        "salutation": "Stadt",
+        "name": "Restaurant zur Wulfsmühle",
+        "name3": "",
+        "street": "Mühlenstrasse 95",
+        "city": "Tangstedt",
+        "postal_code": "25499",
+        "country": "Deutschland",
+        "phone": "(0 41 01) 8 05 48 60",
+        "fax": "",
+        "email": "info@restaurant-wulfsmuehle.de",
+        "is_default_billing": true,
+        "is_default_delivery": true
+      }
+    ]
+  },
+  "order_statistics": {
+    "total_orders": 0,
+    "unique_articles_ordered": 0,
+    "recent_orders_count": 0,
+    "last_order_date": null
+  },
+  "order_history": []
+}

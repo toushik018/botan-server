@@ -1,0 +1,249 @@
+{
+  "metadata": {
+    "generated_at": "2025-09-10T23:17:04.657206",
+    "client_number": "11071",
+    "data_source": "BotanBot XML Export"
+  },
+  "client_profile": {
+    "client_number": "11071",
+    "search_term": "DON QUICHOTTE",
+    "status": "Kunde",
+    "tax_number": "",
+    "vat_id": "",
+    "is_blocked": false,
+    "price_group": "(Std.-Preis)",
+    "billing_address": {
+      "salutation": "",
+      "name": "Don Quichotte",
+      "name3": "",
+      "street": "Osdorfer Landstrasse 162a",
+      "city": "Hamburg",
+      "postal_code": "22549",
+      "country": "Deutschland",
+      "phone": "(0 40) 80 13 04",
+      "fax": "(0 40) 8 00 28 88",
+      "email": "info@osdorfermuehle.de"
+    },
+    "delivery_address": {
+      "salutation": "",
+      "name": "Don Quichotte",
+      "name3": "",
+      "street": "Osdorfer Landstrasse 162a",
+      "city": "Hamburg",
+      "postal_code": "22549",
+      "country": "Deutschland",
+      "phone": "(0 40) 80 13 04",
+      "fax": "(0 40) 8 00 28 88",
+      "email": "info@osdorfermuehle.de"
+    },
+    "delivery_schedule": {
+      "monday": "",
+      "tuesday": "",
+      "wednesday": "",
+      "thursday": "3",
+      "friday": "",
+      "saturday": ""
+    },
+    "settings": {
+      "webshop_enabled": true,
+      "ds_addresses": false,
+      "no_pickup_app": false,
+      "minimum_order_value": null,
+      "articles_not_in_history": "1639,1354,1405"
+    },
+    "additional_addresses": [
+      {
+        "address_number": "0",
+        "salutation": "",
+        "name": "Don Quichotte",
+        "name3": "",
+        "street": "Osdorfer Landstrasse 162a",
+        "city": "Hamburg",
+        "postal_code": "22549",
+        "country": "Deutschland",
+        "phone": "(0 40) 80 13 04",
+        "fax": "(0 40) 8 00 28 88",
+        "email": "info@osdorfermuehle.de",
+        "is_default_billing": true,
+        "is_default_delivery": true
+      }
+    ]
+  },
+  "order_statistics": {
+    "total_orders": 13,
+    "unique_articles_ordered": 13,
+    "recent_orders_count": 13,
+    "last_order_date": "2025-06-05"
+  },
+  "order_history": [
+    {
+      "article_number": "9174",
+      "date": "2025-06-05",
+      "booking_quantity": 3.0,
+      "quantity": 1.0,
+      "unit": "Karton 3 kg",
+      "article_info": {
+        "short_description": "Hähnchen Knusper Happen 3KG/ KT  Hanna",
+        "long_description": "Hanna Hähnchen-Knusperhappen 3 kg Karton",
+        "product_group": "05.05.20.05 TK",
+        "unit": "KG"
+      }
+    },
+    {
+      "article_number": "9085",
+      "date": "2025-06-05",
+      "booking_quantity": 2.0,
+      "quantity": 2.0,
+      "unit": "Tube 1",
+      "article_info": {
+        "short_description": "Italian Dressing, 950 ml,",
+        "long_description": "Italian Dressing 950 ml",
+        "product_group": "05.45.25 Dressings",
+        "unit": "TB"
+      }
+    },
+    {
+      "article_number": "1995",
+      "date": "2025-06-05",
+      "booking_quantity": 2.0,
+      "quantity": 2.0,
+      "unit": "Tube 1",
+      "article_info": {
+        "short_description": "French Dressing von Märker 1000ml Tube",
+        "long_description": "Märker French Dressing 1000 ml Tube",
+        "product_group": "05.45.25 Dressings",
+        "unit": "KG"
+      }
+    },
+    {
+      "article_number": "1347",
+      "date": "2025-06-05",
+      "booking_quantity": 5.0,
+      "quantity": 1.0,
+      "unit": "Eimer 5 kg",
+      "article_info": {
+        "short_description": "Sour Cream von Märker  5 Kg Eimer",
+        "long_description": "Märker Sour Cream 5 kg Eimer",
+        "product_group": "05.45.15 Dips und Saucen",
+        "unit": "KG"
+      }
+    },
+    {
+      "article_number": "1160",
+      "date": "2025-06-05",
+      "booking_quantity": 31.16,
+      "quantity": 31.16,
+      "unit": "Block",
+      "article_info": {
+        "short_description": "Pizzakäse Edamer  30% F.i.Tr. Milram",
+        "long_description": "Milram Pizzakäse Edamer 30 % F.i.Tr. ca. 15 Kg",
+        "product_group": "05.15.05.05.05 Blockware",
+        "unit": "KG"
+      }
+    },
+    {
+      "article_number": "2559",
+      "date": "2025-06-05",
+      "booking_quantity": 5.47,
+      "quantity": 5.47,
+      "unit": "Stück",
+      "article_info": {
+        "short_description": "Frisch Putenbrustfilet o. Haut  vac. ca.3 Kg",
+        "long_description": "Frisch Putenbrustfilet o. Haut  vac. ca.3 Kg",
+        "product_group": "05.05.20.10 Frisch",
+        "unit": "KG"
+      }
+    },
+    {
+      "article_number": "9181",
+      "date": "2025-06-05",
+      "booking_quantity": 1.5,
+      "quantity": 3.0,
+      "unit": "Pack 0,5 kg",
+      "article_info": {
+        "short_description": "Hinterkochschinken geschn. 500 g  Kal.130",
+        "long_description": "Hinterkochschinken geschnitten 500 g Kaliber 130",
+        "product_group": "05.05.10.10 Frisch",
+        "unit": "KG"
+      }
+    },
+    {
+      "article_number": "9183",
+      "date": "2025-06-05",
+      "booking_quantity": 2.0,
+      "quantity": 2.0,
+      "unit": "Pack 1",
+      "article_info": {
+        "short_description": "Kal. 55 BEST Salami geschnitten 1 KG   PK",
+        "long_description": "Kal. 55 BEST Salami geschnitten 1 KG   PK",
+        "product_group": "05.05.10.10 Frisch",
+        "unit": "KG"
+      }
+    },
+    {
+      "article_number": "3167",
+      "date": "2025-06-05",
+      "booking_quantity": 2.0,
+      "quantity": 2.0,
+      "unit": "Karton 1",
+      "article_info": {
+        "short_description": "Midi - Handtuchrollen   6 x rollen  2 lg Weiss",
+        "long_description": "Midi-Handtuchrollen 6 Rollen 2-lagig weiß",
+        "product_group": "10.10.15 Rollen und Tücher",
+        "unit": "PK"
+      }
+    },
+    {
+      "article_number": "3098",
+      "date": "2025-06-05",
+      "booking_quantity": 4.0,
+      "quantity": 4.0,
+      "unit": "Beutel",
+      "article_info": {
+        "short_description": "Taco Shells 20 Stk.",
+        "long_description": "Taco-Shells 20 Stück",
+        "product_group": "05.50.25 Gebäck",
+        "unit": "BT"
+      }
+    },
+    {
+      "article_number": "1560",
+      "date": "2025-06-05",
+      "booking_quantity": 24.0,
+      "quantity": 4.0,
+      "unit": "Karton 6 Stk.",
+      "article_info": {
+        "short_description": "Geschälte Tomaten  Karton 3/1 Dosen",
+        "long_description": "Geschälte Tomaten Karton 6 x 3/1 Dosen",
+        "product_group": "05.25.30 Konserven",
+        "unit": "DS"
+      }
+    },
+    {
+      "article_number": "1569",
+      "date": "2025-06-05",
+      "booking_quantity": 1.0,
+      "quantity": 1.0,
+      "unit": "Dose 1 Stk.",
+      "article_info": {
+        "short_description": "Oliven grün ohne Stein  5/1 Dosen",
+        "long_description": "Oliven grün ohne Stein 5/1 Dose",
+        "product_group": "05.25.30 Konserven",
+        "unit": "DS"
+      }
+    },
+    {
+      "article_number": "1916",
+      "date": "2025-06-05",
+      "booking_quantity": 12.0,
+      "quantity": 12.0,
+      "unit": "Pack 1",
+      "article_info": {
+        "short_description": "Küchensahne 15 % 1 Liter",
+        "long_description": "Milram Küchensahne 15 % 1 l",
+        "product_group": "05.15.20 Sahne",
+        "unit": "PK"
+      }
+    }
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "metadata": {
+    "generated_at": "2025-09-10T23:17:06.809697",
+    "client_number": "75113",
+    "data_source": "BotanBot XML Export"
+  },
+  "client_profile": {
+    "client_number": "75113",
+    "search_term": "KEHS",
+    "status": "Lieferant",
+    "tax_number": "",
+    "vat_id": "",
+    "is_blocked": false,
+    "price_group": "(Std.-Preis)",
+    "billing_address": {
+      "salutation": "Firma",
+      "name": "KEHS Kälte/Klima",
+      "name3": "",
+      "street": "Wellseedamm 15",
+      "city": "Kiel",
+      "postal_code": "24145",
+      "country": "Deutschland",
+      "phone": "(04 31) 7 19 86 25",
+      "fax": "(04 31) 7 19 86 28",
+      "email": "info@kehs.de"
+    },
+    "delivery_address": {
+      "salutation": "Firma",
+      "name": "KEHS Kälte/Klima",
+      "name3": "",
+      "street": "Wellseedamm 15",
+      "city": "Kiel",
+      "postal_code": "24145",
+      "country": "Deutschland",
+      "phone": "(04 31) 7 19 86 25",
+      "fax": "(04 31) 7 19 86 28",
+      "email": "info@kehs.de"
+    },
+    "delivery_schedule": {
+      "monday": "",
+      "tuesday": "",
+      "wednesday": "",
+      "thursday": "",
+      "friday": "",
+      "saturday": ""
+    },
+    "settings": {
+      "webshop_enabled": false,
+      "ds_addresses": false,
+      "no_pickup_app": false,
+      "minimum_order_value": null,
+      "articles_not_in_history": ""
+    },
+    "additional_addresses": [
+      {
+        "address_number": "0",
+        "salutation": "Firma",
+        "name": "KEHS Kälte/Klima",
+        "name3": "",
+        "street": "Wellseedamm 15",
+        "city": "Kiel",
+        "postal_code": "24145",
+        "country": "Deutschland",
+        "phone": "(04 31) 7 19 86 25",
+        "fax": "(04 31) 7 19 86 28",
+        "email": "info@kehs.de",
+        "is_default_billing": true,
+        "is_default_delivery": true
+      }
+    ]
+  },
+  "order_statistics": {
+    "total_orders": 0,
+    "unique_articles_ordered": 0,
+    "recent_orders_count": 0,
+    "last_order_date": null
+  },
+  "order_history": []
+}

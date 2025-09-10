@@ -1,0 +1,79 @@
+{
+  "metadata": {
+    "generated_at": "2025-09-10T23:17:05.646106",
+    "client_number": "14704",
+    "data_source": "BotanBot XML Export"
+  },
+  "client_profile": {
+    "client_number": "14704",
+    "search_term": "SABROWSKI UND WULFF",
+    "status": "Kunde",
+    "tax_number": "",
+    "vat_id": "",
+    "is_blocked": false,
+    "price_group": "(Std.-Preis)",
+    "billing_address": {
+      "salutation": "Firma",
+      "name": "Sabrowski & Wulff",
+      "name3": "",
+      "street": "Horster Damm 27",
+      "city": "Hamburg",
+      "postal_code": "21039",
+      "country": "Deutschland",
+      "phone": "(01 71) 1 08 59 50",
+      "fax": "",
+      "email": "wulff.jens@web.de"
+    },
+    "delivery_address": {
+      "salutation": "Firma",
+      "name": "Sabrowski & Wulff",
+      "name3": "",
+      "street": "Horster Damm 27",
+      "city": "Hamburg",
+      "postal_code": "21039",
+      "country": "Deutschland",
+      "phone": "(01 71) 1 08 59 50",
+      "fax": "",
+      "email": "wulff.jens@web.de"
+    },
+    "delivery_schedule": {
+      "monday": "",
+      "tuesday": "",
+      "wednesday": "",
+      "thursday": "",
+      "friday": "",
+      "saturday": ""
+    },
+    "settings": {
+      "webshop_enabled": false,
+      "ds_addresses": false,
+      "no_pickup_app": false,
+      "minimum_order_value": null,
+      "articles_not_in_history": ""
+    },
+    "additional_addresses": [
+      {
+        "address_number": "0",
+        "salutation": "Firma",
+        "name": "Sabrowski & Wulff",
+        "name3": "",
+        "street": "Horster Damm 27",
+        "city": "Hamburg",
+        "postal_code": "21039",
+        "country": "Deutschland",
+        "phone": "(01 71) 1 08 59 50",
+        "fax": "",
+        "email": "wulff.jens@web.de",
+        "is_default_billing": true,
+        "is_default_delivery": true
+      }
+    ]
+  },
+  "order_statistics": {
+    "total_orders": 0,
+    "unique_articles_ordered": 0,
+    "recent_orders_count": 0,
+    "last_order_date": null
+  },
+  "order_history": []
+}

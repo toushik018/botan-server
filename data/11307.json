@@ -1,0 +1,79 @@
+{
+  "metadata": {
+    "generated_at": "2025-09-10T23:17:04.723642",
+    "client_number": "11307",
+    "data_source": "BotanBot XML Export"
+  },
+  "client_profile": {
+    "client_number": "11307",
+    "search_term": "CHINA WOK",
+    "status": "Kunde",
+    "tax_number": "",
+    "vat_id": "",
+    "is_blocked": false,
+    "price_group": "(Std.-Preis)",
+    "billing_address": {
+      "salutation": "Lieverservice",
+      "name": "China Wok",
+      "name3": "",
+      "street": "Hafenstr. 1",
+      "city": "Mölln",
+      "postal_code": "23879",
+      "country": "Deutschland",
+      "phone": "(0 45 42) 82 66 88",
+      "fax": "",
+      "email": ""
+    },
+    "delivery_address": {
+      "salutation": "Lieverservice",
+      "name": "China Wok",
+      "name3": "",
+      "street": "Hafenstr. 1",
+      "city": "Mölln",
+      "postal_code": "23879",
+      "country": "Deutschland",
+      "phone": "(0 45 42) 82 66 88",
+      "fax": "",
+      "email": ""
+    },
+    "delivery_schedule": {
+      "monday": "",
+      "tuesday": "",
+      "wednesday": "",
+      "thursday": "",
+      "friday": "",
+      "saturday": ""
+    },
+    "settings": {
+      "webshop_enabled": false,
+      "ds_addresses": false,
+      "no_pickup_app": false,
+      "minimum_order_value": null,
+      "articles_not_in_history": ""
+    },
+    "additional_addresses": [
+      {
+        "address_number": "0",
+        "salutation": "Lieverservice",
+        "name": "China Wok",
+        "name3": "",
+        "street": "Hafenstr. 1",
+        "city": "Mölln",
+        "postal_code": "23879",
+        "country": "Deutschland",
+        "phone": "(0 45 42) 82 66 88",
+        "fax": "",
+        "email": "",
+        "is_default_billing": true,
+        "is_default_delivery": true
+      }
+    ]
+  },
+  "order_statistics": {
+    "total_orders": 0,
+    "unique_articles_ordered": 0,
+    "recent_orders_count": 0,
+    "last_order_date": null
+  },
+  "order_history": []
+}

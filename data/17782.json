@@ -1,0 +1,132 @@
+{
+  "metadata": {
+    "generated_at": "2025-09-10T23:17:06.730640",
+    "client_number": "17782",
+    "data_source": "BotanBot XML Export"
+  },
+  "client_profile": {
+    "client_number": "17782",
+    "search_term": "HABESHA ERITREA ETHIOPIAN",
+    "status": "Kunde",
+    "tax_number": "",
+    "vat_id": "",
+    "is_blocked": false,
+    "price_group": "(Std.-Preis)",
+    "billing_address": {
+      "salutation": "Firma",
+      "name": "Habesha Eritrea & Ethiopian Gaststätte Café & Bar",
+      "name3": "Russom Measho.",
+      "street": "Hamburger Chaussee 42",
+      "city": "Kiel",
+      "postal_code": "24113",
+      "country": "Deutschland",
+      "phone": "(04 31) 60 80 53 16",
+      "fax": "",
+      "email": "Zarahabeshashop@gmail.com"
+    },
+    "delivery_address": {
+      "salutation": "Firma",
+      "name": "Habesha Eritrea & Ethiopian Gaststätte Café & Bar",
+      "name3": "Russom Measho.",
+      "street": "Hamburger Chaussee 42",
+      "city": "Kiel",
+      "postal_code": "24113",
+      "country": "Deutschland",
+      "phone": "(04 31) 60 80 53 16",
+      "fax": "",
+      "email": "Zarahabeshashop@gmail.com"
+    },
+    "delivery_schedule": {
+      "monday": "",
+      "tuesday": "",
+      "wednesday": "",
+      "thursday": "",
+      "friday": "",
+      "saturday": ""
+    },
+    "settings": {
+      "webshop_enabled": true,
+      "ds_addresses": false,
+      "no_pickup_app": false,
+      "minimum_order_value": null,
+      "articles_not_in_history": ""
+    },
+    "additional_addresses": [
+      {
+        "address_number": "0",
+        "salutation": "Firma",
+        "name": "Habesha Eritrea & Ethiopian Gaststätte Café & Bar",
+        "name3": "Russom Measho.",
+        "street": "Hamburger Chaussee 42",
+        "city": "Kiel",
+        "postal_code": "24113",
+        "country": "Deutschland",
+        "phone": "(04 31) 60 80 53 16",
+        "fax": "",
+        "email": "Zarahabeshashop@gmail.com",
+        "is_default_billing": true,
+        "is_default_delivery": true
+      }
+    ]
+  },
+  "order_statistics": {
+    "total_orders": 4,
+    "unique_articles_ordered": 4,
+    "recent_orders_count": 4,
+    "last_order_date": "2025-08-13"
+  },
+  "order_history": [
+    {
+      "article_number": "1536",
+      "date": "2025-08-13",
+      "booking_quantity": 60.0,
+      "quantity": 3.0,
+      "unit": "Karton 20 Stk.",
+      "article_info": {
+        "short_description": "Ayran Becher  Jghrt. -Getränk 20x250 g",
+        "long_description": "Ayran Joghurtgetränk 250 g Becher",
+        "product_group": "05.15.35 Joghurt- und Milchgetränke",
+        "unit": "ST"
+      }
+    },
+    {
+      "article_number": "1597",
+      "date": "2025-08-13",
+      "booking_quantity": 24.0,
+      "quantity": 2.0,
+      "unit": "Karton 12 Stk.",
+      "article_info": {
+        "short_description": "Tomatenmark TUKAS  (Domates Salcasi) 12 x 850 ml",
+        "long_description": "Tomatenmark TUKAS  (Domates Salcasi) 12 x 850 ml",
+        "product_group": "05.25.30 Konserven",
+        "unit": "DS"
+      }
+    },
+    {
+      "article_number": "3102",
+      "date": "2025-08-13",
+      "booking_quantity": 144.0,
+      "quantity": 6.0,
+      "unit": "TR 24",
+      "article_info": {
+        "short_description": "DPG 24 x 0,5 l. Yurt Quellwasser",
+        "long_description": "Yurt Quellwasser 24 x 0,5 l Flasche DPG",
+        "product_group": "15.15.15 0,5 l Flasche",
+        "unit": "FL"
+      }
+    },
+    {
+      "article_number": "23000025",
+      "date": "2025-08-13",
+      "booking_quantity": 145.0,
+      "quantity": 7.0,
+      "unit": "TR 24",
+      "article_info": {
+        "short_description": "Pflichtpfand Einwegartikel DPG",
+        "long_description": "Pflichtpfand Einwegartikel DPG",
+        "product_group": "90.05 Pfand",
+        "unit": "ST"
+      }
+    }
+  ]
+}

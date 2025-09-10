@@ -1,0 +1,79 @@
+{
+  "metadata": {
+    "generated_at": "2025-09-10T23:17:05.311657",
+    "client_number": "13440",
+    "data_source": "BotanBot XML Export"
+  },
+  "client_profile": {
+    "client_number": "13440",
+    "search_term": "GOLDEN PIZZA SERVICE",
+    "status": "Kunde",
+    "tax_number": "",
+    "vat_id": "",
+    "is_blocked": false,
+    "price_group": "(Std.-Preis)",
+    "billing_address": {
+      "salutation": "",
+      "name": "Milano Pizza",
+      "name3": "",
+      "street": "Wismarscher Straße 9",
+      "city": "Gadebusch",
+      "postal_code": "19205",
+      "country": "Deutschland",
+      "phone": "(01 76) 70 - 12 19 39",
+      "fax": "",
+      "email": ""
+    },
+    "delivery_address": {
+      "salutation": "",
+      "name": "Milano Pizza",
+      "name3": "",
+      "street": "Wismarscher Straße 9",
+      "city": "Gadebusch",
+      "postal_code": "19205",
+      "country": "Deutschland",
+      "phone": "(01 76) 70 - 12 19 39",
+      "fax": "",
+      "email": ""
+    },
+    "delivery_schedule": {
+      "monday": "",
+      "tuesday": "",
+      "wednesday": "",
+      "thursday": "",
+      "friday": "",
+      "saturday": ""
+    },
+    "settings": {
+      "webshop_enabled": false,
+      "ds_addresses": false,
+      "no_pickup_app": false,
+      "minimum_order_value": null,
+      "articles_not_in_history": "1496"
+    },
+    "additional_addresses": [
+      {
+        "address_number": "0",
+        "salutation": "",
+        "name": "Milano Pizza",
+        "name3": "",
+        "street": "Wismarscher Straße 9",
+        "city": "Gadebusch",
+        "postal_code": "19205",
+        "country": "Deutschland",
+        "phone": "(01 76) 70 - 12 19 39",
+        "fax": "",
+        "email": "",
+        "is_default_billing": true,
+        "is_default_delivery": true
+      }
+    ]
+  },
+  "order_statistics": {
+    "total_orders": 0,
+    "unique_articles_ordered": 0,
+    "recent_orders_count": 0,
+    "last_order_date": null
+  },
+  "order_history": []
+}

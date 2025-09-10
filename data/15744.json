@@ -1,0 +1,94 @@
+{
+  "metadata": {
+    "generated_at": "2025-09-10T23:17:05.954912",
+    "client_number": "15744",
+    "data_source": "BotanBot XML Export"
+  },
+  "client_profile": {
+    "client_number": "15744",
+    "search_term": "SAPIDO BISTRO CITTIPARK",
+    "status": "Kunde",
+    "tax_number": "",
+    "vat_id": "",
+    "is_blocked": false,
+    "price_group": "(Std.-Preis)",
+    "billing_address": {
+      "salutation": "",
+      "name": "Lucacelli-Restaurant-Kiel UG",
+      "name3": "(haftungsbeschränkt)",
+      "street": "Eichkamp 1-5",
+      "city": "Kiel",
+      "postal_code": "24113",
+      "country": "Deutschland",
+      "phone": "(04 31) 88 82 31 95",
+      "fax": "",
+      "email": "info@lucacelli-restaurant-kiel.de"
+    },
+    "delivery_address": {
+      "salutation": "",
+      "name": "Lucacelli im Citti Park",
+      "name3": "",
+      "street": "Mühlendamm 1",
+      "city": "Kiel",
+      "postal_code": "24113",
+      "country": "Deutschland",
+      "phone": "(04 31) 88 82 31 95",
+      "fax": "",
+      "email": "info@lucacelli-restaurant-kiel.de"
+    },
+    "delivery_schedule": {
+      "monday": "18",
+      "tuesday": "",
+      "wednesday": "18",
+      "thursday": "",
+      "friday": "18",
+      "saturday": ""
+    },
+    "settings": {
+      "webshop_enabled": false,
+      "ds_addresses": true,
+      "no_pickup_app": false,
+      "minimum_order_value": null,
+      "articles_not_in_history": "9160,9218"
+    },
+    "additional_addresses": [
+      {
+        "address_number": "0",
+        "salutation": "",
+        "name": "Lucacelli-Restaurant-Kiel UG",
+        "name3": "(haftungsbeschränkt)",
+        "street": "Eichkamp 1-5",
+        "city": "Kiel",
+        "postal_code": "24113",
+        "country": "Deutschland",
+        "phone": "(04 31) 88 82 31 95",
+        "fax": "",
+        "email": "info@lucacelli-restaurant-kiel.de",
+        "is_default_billing": true,
+        "is_default_delivery": false
+      },
+      {
+        "address_number": "1",
+        "salutation": "",
+        "name": "Lucacelli im Citti Park",
+        "name3": "",
+        "street": "Mühlendamm 1",
+        "city": "Kiel",
+        "postal_code": "24113",
+        "country": "Deutschland",
+        "phone": "(04 31) 88 82 31 95",
+        "fax": "",
+        "email": "info@lucacelli-restaurant-kiel.de",
+        "is_default_billing": false,
+        "is_default_delivery": true
+      }
+    ]
+  },
+  "order_statistics": {
+    "total_orders": 0,
+    "unique_articles_ordered": 0,
+    "recent_orders_count": 0,
+    "last_order_date": null
+  },
+  "order_history": []
+}

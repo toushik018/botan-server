@@ -1,0 +1,79 @@
+{
+  "metadata": {
+    "generated_at": "2025-09-10T23:17:06.565364",
+    "client_number": "17452",
+    "data_source": "BotanBot XML Export"
+  },
+  "client_profile": {
+    "client_number": "17452",
+    "search_term": "DÖNER WORLD",
+    "status": "Kunde",
+    "tax_number": "",
+    "vat_id": "",
+    "is_blocked": true,
+    "price_group": "(Std.-Preis)",
+    "billing_address": {
+      "salutation": "",
+      "name": "Döner World",
+      "name3": "Inh. Hüseyin Coban",
+      "street": "Rendsburgerstr. 48",
+      "city": "Fockbek",
+      "postal_code": "24787",
+      "country": "Deutschland",
+      "phone": "(0 43 31) 43 51 96 - 2",
+      "fax": "",
+      "email": ""
+    },
+    "delivery_address": {
+      "salutation": "",
+      "name": "Döner World",
+      "name3": "Inh. Hüseyin Coban",
+      "street": "Rendsburgerstr. 48",
+      "city": "Fockbek",
+      "postal_code": "24787",
+      "country": "Deutschland",
+      "phone": "(0 43 31) 43 51 96 - 2",
+      "fax": "",
+      "email": ""
+    },
+    "delivery_schedule": {
+      "monday": "",
+      "tuesday": "2",
+      "wednesday": "",
+      "thursday": "",
+      "friday": "4",
+      "saturday": ""
+    },
+    "settings": {
+      "webshop_enabled": false,
+      "ds_addresses": false,
+      "no_pickup_app": false,
+      "minimum_order_value": null,
+      "articles_not_in_history": ""
+    },
+    "additional_addresses": [
+      {
+        "address_number": "0",
+        "salutation": "",
+        "name": "Döner World",
+        "name3": "Inh. Hüseyin Coban",
+        "street": "Rendsburgerstr. 48",
+        "city": "Fockbek",
+        "postal_code": "24787",
+        "country": "Deutschland",
+        "phone": "(0 43 31) 43 51 96 - 2",
+        "fax": "",
+        "email": "",
+        "is_default_billing": true,
+        "is_default_delivery": true
+      }
+    ]
+  },
+  "order_statistics": {
+    "total_orders": 0,
+    "unique_articles_ordered": 0,
+    "recent_orders_count": 0,
+    "last_order_date": null
+  },
+  "order_history": []
+}

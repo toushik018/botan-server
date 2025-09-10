@@ -1,0 +1,94 @@
+{
+  "metadata": {
+    "generated_at": "2025-09-10T23:17:06.471251",
+    "client_number": "17222",
+    "data_source": "BotanBot XML Export"
+  },
+  "client_profile": {
+    "client_number": "17222",
+    "search_term": "SPAETHE",
+    "status": "Kunde",
+    "tax_number": "",
+    "vat_id": "",
+    "is_blocked": false,
+    "price_group": "(Std.-Preis)",
+    "billing_address": {
+      "salutation": "",
+      "name": "L. C. M. Spaethe GmbH",
+      "name3": "Inh. Manuel Spaethe",
+      "street": "Imkenrade 17",
+      "city": "Sandesleben",
+      "postal_code": "23898",
+      "country": "Deutschland",
+      "phone": "(0 43 22) 75 26 11",
+      "fax": "",
+      "email": "sam@lcm-spaethe.de"
+    },
+    "delivery_address": {
+      "salutation": "Firma",
+      "name": "Sam Sportpark",
+      "name3": "L. C. M. Spaethe GmbH",
+      "street": "Moorweg 70",
+      "city": "Bordesholm",
+      "postal_code": "24582",
+      "country": "Deutschland",
+      "phone": "",
+      "fax": "(0 43 22) 75 26 11",
+      "email": "service@sportpark-sam.de"
+    },
+    "delivery_schedule": {
+      "monday": "",
+      "tuesday": "",
+      "wednesday": "8",
+      "thursday": "",
+      "friday": "8",
+      "saturday": ""
+    },
+    "settings": {
+      "webshop_enabled": false,
+      "ds_addresses": false,
+      "no_pickup_app": false,
+      "minimum_order_value": null,
+      "articles_not_in_history": ""
+    },
+    "additional_addresses": [
+      {
+        "address_number": "0",
+        "salutation": "",
+        "name": "L. C. M. Spaethe GmbH",
+        "name3": "Inh. Manuel Spaethe",
+        "street": "Imkenrade 17",
+        "city": "Sandesleben",
+        "postal_code": "23898",
+        "country": "Deutschland",
+        "phone": "(0 43 22) 75 26 11",
+        "fax": "",
+        "email": "sam@lcm-spaethe.de",
+        "is_default_billing": true,
+        "is_default_delivery": false
+      },
+      {
+        "address_number": "1",
+        "salutation": "Firma",
+        "name": "Sam Sportpark",
+        "name3": "L. C. M. Spaethe GmbH",
+        "street": "Moorweg 70",
+        "city": "Bordesholm",
+        "postal_code": "24582",
+        "country": "Deutschland",
+        "phone": "",
+        "fax": "(0 43 22) 75 26 11",
+        "email": "service@sportpark-sam.de",
+        "is_default_billing": false,
+        "is_default_delivery": true
+      }
+    ]
+  },
+  "order_statistics": {
+    "total_orders": 0,
+    "unique_articles_ordered": 0,
+    "recent_orders_count": 0,
+    "last_order_date": null
+  },
+  "order_history": []
+}

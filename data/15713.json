@@ -1,0 +1,79 @@
+{
+  "metadata": {
+    "generated_at": "2025-09-10T23:17:05.945394",
+    "client_number": "15713",
+    "data_source": "BotanBot XML Export"
+  },
+  "client_profile": {
+    "client_number": "15713",
+    "search_term": "MF BAD OLDESLOE",
+    "status": "Kunde",
+    "tax_number": "",
+    "vat_id": "",
+    "is_blocked": false,
+    "price_group": "(Std.-Preis)",
+    "billing_address": {
+      "salutation": "",
+      "name": "Mundfein Pizzawerkstatt",
+      "name3": "Inh. Mandip Sing Cheema",
+      "street": "Bergstedter Chaussee 77",
+      "city": "Hamburg",
+      "postal_code": "22395",
+      "country": "Deutschland",
+      "phone": "(01 76) 84 - 30 30 44",
+      "fax": "",
+      "email": "m.cheema@mundfein.de"
+    },
+    "delivery_address": {
+      "salutation": "",
+      "name": "Mundfein Pizzawerkstatt",
+      "name3": "Inh. Mandip Sing Cheema",
+      "street": "Bergstedter Chaussee 77",
+      "city": "Hamburg",
+      "postal_code": "22395",
+      "country": "Deutschland",
+      "phone": "(01 76) 84 - 30 30 44",
+      "fax": "",
+      "email": "m.cheema@mundfein.de"
+    },
+    "delivery_schedule": {
+      "monday": "",
+      "tuesday": "",
+      "wednesday": "",
+      "thursday": "",
+      "friday": "",
+      "saturday": ""
+    },
+    "settings": {
+      "webshop_enabled": false,
+      "ds_addresses": true,
+      "no_pickup_app": false,
+      "minimum_order_value": null,
+      "articles_not_in_history": "1763"
+    },
+    "additional_addresses": [
+      {
+        "address_number": "0",
+        "salutation": "",
+        "name": "Mundfein Pizzawerkstatt",
+        "name3": "Inh. Mandip Sing Cheema",
+        "street": "Bergstedter Chaussee 77",
+        "city": "Hamburg",
+        "postal_code": "22395",
+        "country": "Deutschland",
+        "phone": "(01 76) 84 - 30 30 44",
+        "fax": "",
+        "email": "m.cheema@mundfein.de",
+        "is_default_billing": true,
+        "is_default_delivery": true
+      }
+    ]
+  },
+  "order_statistics": {
+    "total_orders": 0,
+    "unique_articles_ordered": 0,
+    "recent_orders_count": 0,
+    "last_order_date": null
+  },
+  "order_history": []
+}

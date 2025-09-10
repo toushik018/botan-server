@@ -1,0 +1,938 @@
+{
+  "metadata": {
+    "generated_at": "2025-09-10T23:17:06.645942",
+    "client_number": "17660",
+    "data_source": "BotanBot XML Export"
+  },
+  "client_profile": {
+    "client_number": "17660",
+    "search_term": "ALL IN ONE",
+    "status": "Kunde",
+    "tax_number": "",
+    "vat_id": "",
+    "is_blocked": false,
+    "price_group": "(Std.-Preis)",
+    "billing_address": {
+      "salutation": "",
+      "name": "All in One",
+      "name3": "Inh. Nadine Wende-Cicek",
+      "street": "Jachmannstr. 38",
+      "city": "Kiel",
+      "postal_code": "24143",
+      "country": "Deutschland",
+      "phone": "(04 31) 66 70 52 85",
+      "fax": "",
+      "email": "berlin1978gk@gmail.com"
+    },
+    "delivery_address": {
+      "salutation": "",
+      "name": "All in One",
+      "name3": "Inh. Nadine Wende-Cicek",
+      "street": "Jachmannstr. 38",
+      "city": "Kiel",
+      "postal_code": "24143",
+      "country": "Deutschland",
+      "phone": "(04 31) 66 70 52 85",
+      "fax": "",
+      "email": "berlin1978gk@gmail.com"
+    },
+    "delivery_schedule": {
+      "monday": "19",
+      "tuesday": "19",
+      "wednesday": "19",
+      "thursday": "19",
+      "friday": "19",
+      "saturday": ""
+    },
+    "settings": {
+      "webshop_enabled": true,
+      "ds_addresses": false,
+      "no_pickup_app": false,
+      "minimum_order_value": null,
+      "articles_not_in_history": ""
+    },
+    "additional_addresses": [
+      {
+        "address_number": "0",
+        "salutation": "",
+        "name": "All in One",
+        "name3": "Inh. Nadine Wende-Cicek",
+        "street": "Jachmannstr. 38",
+        "city": "Kiel",
+        "postal_code": "24143",
+        "country": "Deutschland",
+        "phone": "(04 31) 66 70 52 85",
+        "fax": "",
+        "email": "berlin1978gk@gmail.com",
+        "is_default_billing": true,
+        "is_default_delivery": true
+      }
+    ]
+  },
+  "order_statistics": {
+    "total_orders": 66,
+    "unique_articles_ordered": 66,
+    "recent_orders_count": 66,
+    "last_order_date": "2025-08-20"
+  },
+  "order_history": [
+    {
+      "article_number": "230150",
+      "date": "2025-08-20",
+      "booking_quantity": -80.0,
+      "quantity": -80.0,
+      "unit": "KI 1",
+      "article_info": {
+        "short_description": "Rücknahme Pfand Kiste",
+        "long_description": "Rücknahme Pfand Kiste",
+        "product_group": "90.05 Pfand",
+        "unit": "ST"
+      }
+    },
+    {
+      "article_number": "1721",
+      "date": "2025-08-19",
+      "booking_quantity": 48.0,
+      "quantity": 2.0,
+      "unit": "Karton 24 Stk.",
+      "article_info": {
+        "short_description": "Oldesloer Weizenkorn 24 x 0,04 l   ( 32 % )",
+        "long_description": "Oldesloer Weizenkorn 32 % 24 x 0,04 l Flaschen",
+        "product_group": "15.25.10 0,04 l Flasche",
+        "unit": "FL"
+      }
+    },
+    {
+      "article_number": "9554",
+      "date": "2025-08-19",
+      "booking_quantity": 36.0,
+      "quantity": 3.0,
+      "unit": "KI 12",
+      "article_info": {
+        "short_description": "HELLA Classic 12 x 1 l   Kiste",
+        "long_description": "Hella Classic 12 x 1 l Kiste  Flasche",
+        "product_group": "15.15.25 1,0 l Flasche MWK",
+        "unit": "FL"
+      }
+    },
+    {
+      "article_number": "23450",
+      "date": "2025-08-19",
+      "booking_quantity": 8.0,
+      "quantity": 8.0,
+      "unit": "Kiste",
+      "article_info": {
+        "short_description": "Pfand = 4,50 €  20 x Bügel od. 12 x Mehrweg FL",
+        "long_description": "Pfand = 4,50 € 20 x Bügel- oder Mehrwegflaschen",
+        "product_group": "90.05 Pfand",
+        "unit": "ST"
+      }
+    },
+    {
+      "article_number": "1239",
+      "date": "2025-08-19",
+      "booking_quantity": 18.0,
+      "quantity": 3.0,
+      "unit": "KI 6",
+      "article_info": {
+        "short_description": "Uludag 6 x 1 l  Flasche",
+        "long_description": "Uludag 6 x 1 l  Flasche",
+        "product_group": "15.05.35 1,0 l Pet",
+        "unit": "FL"
+      }
+    },
+    {
+      "article_number": "23000025",
+      "date": "2025-08-19",
+      "booking_quantity": 1230.0,
+      "quantity": 74.0,
+      "unit": "KI 6",
+      "article_info": {
+        "short_description": "Pflichtpfand Einwegartikel DPG",
+        "long_description": "Pflichtpfand Einwegartikel DPG",
+        "product_group": "90.05 Pfand",
+        "unit": "ST"
+      }
+    },
+    {
+      "article_number": "9573",
+      "date": "2025-08-19",
+      "booking_quantity": 60.0,
+      "quantity": 5.0,
+      "unit": "KI 12",
+      "article_info": {
+        "short_description": "HELLA Naturell 12 x 1 l   Kiste",
+        "long_description": "HELLA Naturell 12 x 1 l   Kiste",
+        "product_group": "15.15.25 1,0 l Flasche MWK",
+        "unit": "FL"
+      }
+    },
+    {
+      "article_number": "1201",
+      "date": "2025-08-19",
+      "booking_quantity": 240.0,
+      "quantity": 10.0,
+      "unit": "TR 24",
+      "article_info": {
+        "short_description": "Holsten Pils  24 x 0,5 l DS",
+        "long_description": "Holsten Pilsener 24 x 0,5 l Dose",
+        "product_group": "15.20.05.15 0,5 l Dosen DPG",
+        "unit": "DS"
+      }
+    },
+    {
+      "article_number": "2008",
+      "date": "2025-08-19",
+      "booking_quantity": 50.0,
+      "quantity": 2.0,
+      "unit": "Karton 25 Stk.",
+      "article_info": {
+        "short_description": "Snickers 24 x 50g Riegel",
+        "long_description": "Snickers 24 x 50g Riegel",
+        "product_group": "05.50.05 Riegelware",
+        "unit": "ST"
+      }
+    },
+    {
+      "article_number": "23310",
+      "date": "2025-08-19",
+      "booking_quantity": 9.0,
+      "quantity": 9.0,
+      "unit": "Kiste",
+      "article_info": {
+        "short_description": "Pfand = 3,10 € 20er Kiste Bier 0,5l",
+        "long_description": "Pfand = 3,10 € 20er Kiste Bier 0,5 l",
+        "product_group": "90.05 Pfand",
+        "unit": "ST"
+      }
+    },
+    {
+      "article_number": "9557",
+      "date": "2025-08-19",
+      "booking_quantity": 108.0,
+      "quantity": 6.0,
+      "unit": "Karton 18",
+      "article_info": {
+        "short_description": "Vio Still Ap.18 x 0,5 l DPG",
+        "long_description": "Apollinaris Vio Still 18 x 0,5 l DPG Flasche Kiste",
+        "product_group": "15.15.15 0,5 l Flasche",
+        "unit": "FL"
+      }
+    },
+    {
+      "article_number": "8922",
+      "date": "2025-08-19",
+      "booking_quantity": 60.0,
+      "quantity": 5.0,
+      "unit": "TR 12",
+      "article_info": {
+        "short_description": "FUZE Pfirsich 12 x 0,4 l Pet  Flasche",
+        "long_description": "Fuze Tea Pfirsich 12 x 0,4 l Pet-Flasche",
+        "product_group": "15.05.13 0,4 l Flasche",
+        "unit": "FL"
+      }
+    },
+    {
+      "article_number": "1197",
+      "date": "2025-08-19",
+      "booking_quantity": 135.0,
+      "quantity": 5.0,
+      "unit": "KI 27",
+      "article_info": {
+        "short_description": "Holsten Export 27 x 0,33 l Flaschen",
+        "long_description": "Holsten Export 27 x 0,33 l Flasche",
+        "product_group": "15.20.05.05 0,33 l Flasche MWK",
+        "unit": "FL"
+      }
+    },
+    {
+      "article_number": "23366",
+      "date": "2025-08-19",
+      "booking_quantity": 6.0,
+      "quantity": 6.0,
+      "unit": "Kiste",
+      "article_info": {
+        "short_description": "Pfand 3,66 € = 27 x 0,08 € + 1,50 €",
+        "long_description": "Pfand 3,66 € = 27 x 0,08 € + 1,50 €",
+        "product_group": "90.05 Pfand",
+        "unit": "KI"
+      }
+    },
+    {
+      "article_number": "1236",
+      "date": "2025-08-19",
+      "booking_quantity": 54.0,
+      "quantity": 9.0,
+      "unit": "TR 6",
+      "article_info": {
+        "short_description": "Uludag Gazoz 6 x 0,5 l Flasche",
+        "long_description": "Uludag Gazoz 6 x 0,5 l Flasche",
+        "product_group": "15.05.20 0,5 l Flasche",
+        "unit": "FL"
+      }
+    },
+    {
+      "article_number": "3013",
+      "date": "2025-08-19",
+      "booking_quantity": 30.0,
+      "quantity": 5.0,
+      "unit": "Karton 6 Stk.",
+      "article_info": {
+        "short_description": "Christ. Multivitamin 6 x 1 L. DPG",
+        "long_description": "Christinen Multivitamin 6 x 1 l DPG",
+        "product_group": "15.10.10 Christinen",
+        "unit": "FL"
+      }
+    },
+    {
+      "article_number": "1301",
+      "date": "2025-08-19",
+      "booking_quantity": 90.0,
+      "quantity": 9.0,
+      "unit": "Karton 10 Stk",
+      "article_info": {
+        "short_description": "Capri-Sun Kirsch, 10 x 0,2 l",
+        "long_description": "Capri-Sun Kirsch, 10 x 0,2 l",
+        "product_group": "15.10.20 Capri Sonne",
+        "unit": "ST"
+      }
+    },
+    {
+      "article_number": "1303",
+      "date": "2025-08-19",
+      "booking_quantity": 70.0,
+      "quantity": 7.0,
+      "unit": "Karton 10 Stk",
+      "article_info": {
+        "short_description": "Capri-Sun Multi-Vitamin, 10 x 0,2 l",
+        "long_description": "Capri-Sun  Multivitamin 10 x 0,2 l",
+        "product_group": "15.10.20 Capri Sonne",
+        "unit": "ST"
+      }
+    },
+    {
+      "article_number": "3138",
+      "date": "2025-08-19",
+      "booking_quantity": 96.0,
+      "quantity": 8.0,
+      "unit": "Karton 12 Stk.",
+      "article_info": {
+        "short_description": "Durstlöscher Eistee Pfirsich 12 x 0,5 L Tetrapack",
+        "long_description": "Durstlöscher Eistee Pfirsich 12 x 0,5 l Tetra Pak",
+        "product_group": "15.05.22 0,5 l Tetra Pack",
+        "unit": "ST"
+      }
+    },
+    {
+      "article_number": "3012",
+      "date": "2025-08-19",
+      "booking_quantity": 120.0,
+      "quantity": 5.0,
+      "unit": "TR 24",
+      "article_info": {
+        "short_description": "Elephant Bier 24 x 0,5 l  Dosen DPG",
+        "long_description": "Elephant Bier 24 x 0,5 l Dose DPG",
+        "product_group": "15.20.05.15 0,5 l Dosen DPG",
+        "unit": "DS"
+      }
+    },
+    {
+      "article_number": "1207",
+      "date": "2025-08-19",
+      "booking_quantity": 96.0,
+      "quantity": 4.0,
+      "unit": "Karton 24 Stk.",
+      "article_info": {
+        "short_description": "Paderborner 24 x 0,5 l Dose  DPG",
+        "long_description": "Paderborner 24 x 0,5 l Dose DPG",
+        "product_group": "15.20.05.15 0,5 l Dosen DPG",
+        "unit": "DS"
+      }
+    },
+    {
+      "article_number": "9500",
+      "date": "2025-08-19",
+      "booking_quantity": 72.0,
+      "quantity": 3.0,
+      "unit": "Karton 24 Stk.",
+      "article_info": {
+        "short_description": "DPG Coca Cola 24 x 0,33 l DS",
+        "long_description": "Coca Cola 24 x 0,33 l Dose DPG",
+        "product_group": "15.05.15 0,25 l und 0,33 l Dosen",
+        "unit": "DS"
+      }
+    },
+    {
+      "article_number": "9527",
+      "date": "2025-08-19",
+      "booking_quantity": 48.0,
+      "quantity": 2.0,
+      "unit": "Karton 24 Stk.",
+      "article_info": {
+        "short_description": "DPG Fanta Exotic 24 x 0,33 l DS",
+        "long_description": "Fanta Exotic 24 x 0,33 l DS DPG",
+        "product_group": "15.05.15 0,25 l und 0,33 l Dosen",
+        "unit": "DS"
+      }
+    },
+    {
+      "article_number": "9404",
+      "date": "2025-08-19",
+      "booking_quantity": 40.0,
+      "quantity": 2.0,
+      "unit": "KI 20",
+      "article_info": {
+        "short_description": "PADERBORNER Pils. 20 x 0,5 l FL MWK",
+        "long_description": "Paderborner Pilsener 20 x 0,5 l Flasche MWK",
+        "product_group": "15.20.05.10 0,5 l Flasche MWK",
+        "unit": "FL"
+      }
+    },
+    {
+      "article_number": "9411",
+      "date": "2025-08-19",
+      "booking_quantity": 20.0,
+      "quantity": 1.0,
+      "unit": "KI 20",
+      "article_info": {
+        "short_description": "PADERBORNER Export. 20 x 0,5 l FL MWK",
+        "long_description": "Paderborner Export 20 x 0,5 l Flasche MWK",
+        "product_group": "15.20.05.10 0,5 l Flasche MWK",
+        "unit": "FL"
+      }
+    },
+    {
+      "article_number": "1199",
+      "date": "2025-08-19",
+      "booking_quantity": 20.0,
+      "quantity": 1.0,
+      "unit": "KI 20",
+      "article_info": {
+        "short_description": "Oettinger Pils 20 x 0,5 l FL",
+        "long_description": "Oettinger Pils 20 x 0,5 l Flasche",
+        "product_group": "15.20.05.10 0,5 l Flasche MWK",
+        "unit": "FL"
+      }
+    },
+    {
+      "article_number": "1186",
+      "date": "2025-08-19",
+      "booking_quantity": 27.0,
+      "quantity": 1.0,
+      "unit": "KI 27",
+      "article_info": {
+        "short_description": "Holsten Edel 27 x 0,33 l Flaschen",
+        "long_description": "Holsten Edel 27 x 0,33 l Flasche",
+        "product_group": "15.20.05.05 0,33 l Flasche MWK",
+        "unit": "FL"
+      }
+    },
+    {
+      "article_number": "2078",
+      "date": "2025-08-19",
+      "booking_quantity": 24.0,
+      "quantity": 2.0,
+      "unit": "Karton 12 Stk.",
+      "article_info": {
+        "short_description": "Durstlöscher Orange 12 x 0,5 L Tetrapack",
+        "long_description": "Durstlöscher Orange 12 x 0,5 l Tetra Pak",
+        "product_group": "15.05.22 0,5 l Tetra Pack",
+        "unit": "ST"
+      }
+    },
+    {
+      "article_number": "9508",
+      "date": "2025-08-19",
+      "booking_quantity": 48.0,
+      "quantity": 2.0,
+      "unit": "Karton 24 Stk.",
+      "article_info": {
+        "short_description": "DPG Fanta Cassis 24 x 0,33 DS",
+        "long_description": "DPG Fanta Cassis 24 x 0,33 DS",
+        "product_group": "15.05.15 0,25 l und 0,33 l Dosen",
+        "unit": "DS"
+      }
+    },
+    {
+      "article_number": "9506",
+      "date": "2025-08-19",
+      "booking_quantity": 24.0,
+      "quantity": 1.0,
+      "unit": "Karton 24 Stk.",
+      "article_info": {
+        "short_description": "DPG Coca Cola ZERO 24 x 0,33 l DS",
+        "long_description": "Coca Cola Zero 24 x 0,33 l Dose DPG",
+        "product_group": "15.05.15 0,25 l und 0,33 l Dosen",
+        "unit": "DS"
+      }
+    },
+    {
+      "article_number": "9502",
+      "date": "2025-08-19",
+      "booking_quantity": 24.0,
+      "quantity": 1.0,
+      "unit": "Karton 24 Stk.",
+      "article_info": {
+        "short_description": "DPG Sprite 24 x 0,33 l DS",
+        "long_description": "Sprite 24 x 0,33 l Dose DPG",
+        "product_group": "15.05.15 0,25 l und 0,33 l Dosen",
+        "unit": "DS"
+      }
+    },
+    {
+      "article_number": "2007",
+      "date": "2025-08-19",
+      "booking_quantity": 24.0,
+      "quantity": 1.0,
+      "unit": "Karton 24 Stk.",
+      "article_info": {
+        "short_description": "Nuts 24 x 42g  Rg",
+        "long_description": "Nuts 24 x 42 g Riegel",
+        "product_group": "05.50.05 Riegelware",
+        "unit": "ST"
+      }
+    },
+    {
+      "article_number": "2004",
+      "date": "2025-08-19",
+      "booking_quantity": 25.0,
+      "quantity": 1.0,
+      "unit": "Karton 25 Stk.",
+      "article_info": {
+        "short_description": "Mars  24 x 51 g  Rg",
+        "long_description": "Mars 24 x 51 g Riegel",
+        "product_group": "05.50.05 Riegelware",
+        "unit": "ST"
+      }
+    },
+    {
+      "article_number": "1718",
+      "date": "2025-07-11",
+      "booking_quantity": 48.0,
+      "quantity": 2.0,
+      "unit": "Karton 24 Stk.",
+      "article_info": {
+        "short_description": "Jägermeister 24 x 0,04 l",
+        "long_description": "Jägermeister 35 % 24 x 0,04 l Flaschen",
+        "product_group": "15.25.10 0,04 l Flasche",
+        "unit": "FL"
+      }
+    },
+    {
+      "article_number": "23342",
+      "date": "2025-07-11",
+      "booking_quantity": 6.0,
+      "quantity": 6.0,
+      "unit": "Kiste",
+      "article_info": {
+        "short_description": "Pfand = 3,42 € 24er  0,33l (24x0,08+1,50)",
+        "long_description": "Pfand = 3,42 € 24er 0,33l (24 x 0,08 + 1,50)",
+        "product_group": "90.05 Pfand",
+        "unit": "ST"
+      }
+    },
+    {
+      "article_number": "1174",
+      "date": "2025-07-11",
+      "booking_quantity": 72.0,
+      "quantity": 3.0,
+      "unit": "KI 24",
+      "article_info": {
+        "short_description": "Holsten Pils  24 x 0,33 l Fl.",
+        "long_description": "Holsten Pilsener 24 x 0,33 l Flasche",
+        "product_group": "15.20.05.05 0,33 l Flasche MWK",
+        "unit": "FL"
+      }
+    },
+    {
+      "article_number": "1711",
+      "date": "2025-07-11",
+      "booking_quantity": 24.0,
+      "quantity": 2.0,
+      "unit": "Karton 12 Stk.",
+      "article_info": {
+        "short_description": "Oldesloer Weizenkorn 32%  12 x 0,2 l Fl.",
+        "long_description": "Oldesloer Weizenkorn 32 %  12 x 0,2 l Flaschen",
+        "product_group": "15.25.20 0,2 l Flasche",
+        "unit": "FL"
+      }
+    },
+    {
+      "article_number": "1180",
+      "date": "2025-07-11",
+      "booking_quantity": 60.0,
+      "quantity": 3.0,
+      "unit": "KI 20",
+      "article_info": {
+        "short_description": "Oettinger Export 20 x 0,5l FL",
+        "long_description": "Oettinger Export 20 x 0,5 l Flasche",
+        "product_group": "15.20.05.10 0,5 l Flasche MWK",
+        "unit": "FL"
+      }
+    },
+    {
+      "article_number": "9581",
+      "date": "2025-07-11",
+      "booking_quantity": 36.0,
+      "quantity": 3.0,
+      "unit": "KI 12",
+      "article_info": {
+        "short_description": "Coca Cola Zero 12 x 0,5 l DPG",
+        "long_description": "Coca Cola Zero 12 x 0,5 l DPG",
+        "product_group": "15.05.20 0,5 l Flasche",
+        "unit": "FL"
+      }
+    },
+    {
+      "article_number": "2081",
+      "date": "2025-07-11",
+      "booking_quantity": 72.0,
+      "quantity": 6.0,
+      "unit": "Karton 12 Stk.",
+      "article_info": {
+        "short_description": "Durstlöscher Multi 12 x 0,5 L Tetrapack",
+        "long_description": "Durstlöscher Multivitamin 12 x 0,5 l Tetra Pak",
+        "product_group": "15.05.22 0,5 l Tetra Pack",
+        "unit": "ST"
+      }
+    },
+    {
+      "article_number": "1302",
+      "date": "2025-07-11",
+      "booking_quantity": 20.0,
+      "quantity": 2.0,
+      "unit": "Karton 10 Stk",
+      "article_info": {
+        "short_description": "Capri-Sun Orange, 10 x 0,2 l",
+        "long_description": "Capri-Sun Orange 10 x 0,2 l",
+        "product_group": "15.10.20 Capri Sonne",
+        "unit": "ST"
+      }
+    },
+    {
+      "article_number": "2430",
+      "date": "2025-07-11",
+      "booking_quantity": 20.0,
+      "quantity": 1.0,
+      "unit": "KI 20",
+      "article_info": {
+        "short_description": "Corona Bier 20 x 0,355 l",
+        "long_description": "Corona Extra 20 x 0,355 l Flasche",
+        "product_group": "15.20.05.05 0,33 l Flasche MWK",
+        "unit": "FL"
+      }
+    },
+    {
+      "article_number": "1719",
+      "date": "2025-07-11",
+      "booking_quantity": 24.0,
+      "quantity": 1.0,
+      "unit": "Karton 24 Stk.",
+      "article_info": {
+        "short_description": "Küstennebel 24x 0,04 l.",
+        "long_description": "Küstennebel 21,8 % 24 x 0,04 l Flaschen",
+        "product_group": "15.25.10 0,04 l Flasche",
+        "unit": "FL"
+      }
+    },
+    {
+      "article_number": "1223",
+      "date": "2025-07-11",
+      "booking_quantity": 24.0,
+      "quantity": 2.0,
+      "unit": "KI 12",
+      "article_info": {
+        "short_description": "Coca Cola 12 x 0,5 l DPG",
+        "long_description": "Coca Cola 12 x 0,5 l DPG",
+        "product_group": "15.05.20 0,5 l Flasche",
+        "unit": "FL"
+      }
+    },
+    {
+      "article_number": "1226",
+      "date": "2025-07-11",
+      "booking_quantity": 12.0,
+      "quantity": 1.0,
+      "unit": "KI 12",
+      "article_info": {
+        "short_description": "Fanta Orange 12 x 0,5 l DPG",
+        "long_description": "Fanta Orange 12 x 0,5 l DPG",
+        "product_group": "15.05.20 0,5 l Flasche",
+        "unit": "FL"
+      }
+    },
+    {
+      "article_number": "1702",
+      "date": "2025-07-11",
+      "booking_quantity": 12.0,
+      "quantity": 1.0,
+      "unit": "Karton 12 Stk.",
+      "article_info": {
+        "short_description": "Jägermeister 12 x 0,10 Fl  35 %",
+        "long_description": "Jägermeister 12 x 0,10 Fl  35 %",
+        "product_group": "15.25.15 0,1 l Flasche",
+        "unit": "FL"
+      }
+    },
+    {
+      "article_number": "2660",
+      "date": "2025-07-04",
+      "booking_quantity": 20.0,
+      "quantity": 1.0,
+      "unit": "KI 20",
+      "article_info": {
+        "short_description": "Lech Poln. Bier 0,5L",
+        "long_description": "Lech Poln. Bier 0,5L",
+        "product_group": "15.20.05.10 0,5 l Flasche MWK",
+        "unit": "FL"
+      }
+    },
+    {
+      "article_number": "3102",
+      "date": "2025-07-04",
+      "booking_quantity": 48.0,
+      "quantity": 2.0,
+      "unit": "TR 24",
+      "article_info": {
+        "short_description": "DPG 24 x 0,5 l. Yurt Quellwasser",
+        "long_description": "Yurt Quellwasser 24 x 0,5 l Flasche DPG",
+        "product_group": "15.15.15 0,5 l Flasche",
+        "unit": "FL"
+      }
+    },
+    {
+      "article_number": "1243",
+      "date": "2025-07-04",
+      "booking_quantity": 12.0,
+      "quantity": 1.0,
+      "unit": "KI 12",
+      "article_info": {
+        "short_description": "Fanta Orange 12 x 1 l Kiste",
+        "long_description": "Fanta Orange 12 x 1 l Kiste",
+        "product_group": "15.05.35 1,0 l Pet",
+        "unit": "FL"
+      }
+    },
+    {
+      "article_number": "23330",
+      "date": "2025-07-04",
+      "booking_quantity": 2.0,
+      "quantity": 2.0,
+      "unit": "Kiste",
+      "article_info": {
+        "short_description": "Pfand = 3,30 €  1 L Cola & Co PET",
+        "long_description": "Pfand = 3,30 € 1 l Cola & Co PET",
+        "product_group": "90.05 Pfand",
+        "unit": "ST"
+      }
+    },
+    {
+      "article_number": "1241",
+      "date": "2025-07-04",
+      "booking_quantity": 12.0,
+      "quantity": 1.0,
+      "unit": "KI 12",
+      "article_info": {
+        "short_description": "Coca Cola 12 x1 l Kiste",
+        "long_description": "Coca Cola 12 x1 l Kiste",
+        "product_group": "15.05.35 1,0 l Pet",
+        "unit": "FL"
+      }
+    },
+    {
+      "article_number": "8924",
+      "date": "2025-06-18",
+      "booking_quantity": 48.0,
+      "quantity": 4.0,
+      "unit": "TR 12",
+      "article_info": {
+        "short_description": "Fuze Tea Zitrone 12 x 0,4 l Pet-Flasche",
+        "long_description": "Fuze Tea Zitrone 12 x 0,4 l Pet-Flasche",
+        "product_group": "15.05.13 0,4 l Flasche",
+        "unit": "FL"
+      }
+    },
+    {
+      "article_number": "1227",
+      "date": "2025-06-18",
+      "booking_quantity": 24.0,
+      "quantity": 2.0,
+      "unit": "KI 12",
+      "article_info": {
+        "short_description": "Sprite 12 x 0,5 l DPG",
+        "long_description": "Sprite 12 x 0,5 l DPG",
+        "product_group": "15.05.20 0,5 l Flasche",
+        "unit": "FL"
+      }
+    },
+    {
+      "article_number": "5050",
+      "date": "2025-06-18",
+      "booking_quantity": 24.0,
+      "quantity": 1.0,
+      "unit": "KI 24",
+      "article_info": {
+        "short_description": "Christinen Multi Vitamin 24 x 0,33 l MWK",
+        "long_description": "Christinen Multivitamin 24 x 0,33 l MWK",
+        "product_group": "15.05.10 0,3 l und 0,33 l Flasche MWK",
+        "unit": "FL"
+      }
+    },
+    {
+      "article_number": "9680",
+      "date": "2025-06-11",
+      "booking_quantity": 0.0,
+      "quantity": 0.0,
+      "unit": "Fass",
+      "article_info": {
+        "short_description": "Holsten Pilsener 20-Ltr EW Draught Master Modular",
+        "long_description": "Holsten Pilsener 20-Ltr EW Draught Master Modular",
+        "product_group": "15.20.05.20 Fass",
+        "unit": "Fa"
+      }
+    },
+    {
+      "article_number": "9681",
+      "date": "2025-06-11",
+      "booking_quantity": 0.0,
+      "quantity": 0.0,
+      "unit": "Fass",
+      "article_info": {
+        "short_description": "Carlsberg Beer 20-Ltr EW Draught Master Modular",
+        "long_description": "Carlsberg Beer 20-Ltr EW Draught Master Modular",
+        "product_group": "15.20.05.20 Fass",
+        "unit": "Fa"
+      }
+    },
+    {
+      "article_number": "1657",
+      "date": "2025-06-11",
+      "booking_quantity": 24.0,
+      "quantity": 1.0,
+      "unit": "TR 24",
+      "article_info": {
+        "short_description": "5.0 Original Pils  24 x 0,5 L Dose  DPG",
+        "long_description": "5.0 Original Pils 24 x 0,5 l Dose DPG",
+        "product_group": "15.20.05.15 0,5 l Dosen DPG",
+        "unit": "DS"
+      }
+    },
+    {
+      "article_number": "2010",
+      "date": "2025-06-11",
+      "booking_quantity": 24.0,
+      "quantity": 1.0,
+      "unit": "Karton 24 Stk.",
+      "article_info": {
+        "short_description": "Kitkat  24 x 41,5 g  Rg.",
+        "long_description": "Kitkat 24 x 41,5 g Riegel",
+        "product_group": "05.50.05 Riegelware",
+        "unit": "ST"
+      }
+    },
+    {
+      "article_number": "2006",
+      "date": "2025-06-11",
+      "booking_quantity": 24.0,
+      "quantity": 1.0,
+      "unit": "Karton 24 Stk.",
+      "article_info": {
+        "short_description": "Lion 24 x 42g Riegel",
+        "long_description": "Lion 24 x 42 g Riegel",
+        "product_group": "05.50.05 Riegelware",
+        "unit": "ST"
+      }
+    },
+    {
+      "article_number": "2743",
+      "date": "2025-06-11",
+      "booking_quantity": 80.0,
+      "quantity": 4.0,
+      "unit": "Karton 20 Stk.",
+      "article_info": {
+        "short_description": "içim Ayran  Jghrt. -Getränk 20x250 g MHD 17.07.25",
+        "long_description": "içim Ayran  Jghrt. -Getränk 20x250 g MHD 17.07.25",
+        "product_group": "05.15.35 Joghurt- und Milchgetränke",
+        "unit": "ST"
+      }
+    },
+    {
+      "article_number": "230342",
+      "date": "2025-06-07",
+      "booking_quantity": -3.0,
+      "quantity": -3.0,
+      "unit": "ST",
+      "article_info": {
+        "short_description": "Rücknahme Pfand=3,42 €(24x0,33 l Bier)",
+        "long_description": "Rücknahme Pfand=3,42 €(24x0,33 l Bier)",
+        "product_group": "90.05 Pfand",
+        "unit": "ST"
+      }
+    },
+    {
+      "article_number": "9649",
+      "date": "2025-06-06",
+      "booking_quantity": 24.0,
+      "quantity": 1.0,
+      "unit": "KI 24",
+      "article_info": {
+        "short_description": "Heineken Pils 24 x 0,33 L",
+        "long_description": "Heineken Pils 24 x 0,33 L",
+        "product_group": "15.20.05.05 0,33 l Flasche MWK",
+        "unit": "FL"
+      }
+    },
+    {
+      "article_number": "8902",
+      "date": "2025-06-06",
+      "booking_quantity": 24.0,
+      "quantity": 1.0,
+      "unit": "Karton 24 Stk.",
+      "article_info": {
+        "short_description": "Gazoz fire of Istanbul 24 x 0,33 Dose DPG",
+        "long_description": "Gazoz fire of Istanbul 24 x 0,33 Dose DPG",
+        "product_group": "15.05.15 0,25 l und 0,33 l Dosen",
+        "unit": "DS"
+      }
+    },
+    {
+      "article_number": "1978",
+      "date": "2025-06-06",
+      "booking_quantity": 24.0,
+      "quantity": 1.0,
+      "unit": "Karton 24 Stk.",
+      "article_info": {
+        "short_description": "Fanta Lemon & Elderflower 24 x 0,33 l Dose DPG",
+        "long_description": "Fanta Lemon & Elderflower 24 x 0,33 l Dose DPG",
+        "product_group": "15.05.15 0,25 l und 0,33 l Dosen",
+        "unit": "DS"
+      }
+    },
+    {
+      "article_number": "8912",
+      "date": "2025-06-06",
+      "booking_quantity": 24.0,
+      "quantity": 1.0,
+      "unit": "KI 24",
+      "article_info": {
+        "short_description": "Fritz Kola 24 x 0,33 l  Flaschen",
+        "long_description": "Fritz Kola 24 x 0,33 l Flasche",
+        "product_group": "15.05.10 0,3 l und 0,33 l Flasche MWK",
+        "unit": "FL"
+      }
+    },
+    {
+      "article_number": "2746",
+      "date": "2025-06-06",
+      "booking_quantity": 24.0,
+      "quantity": 1.0,
+      "unit": "Karton 24 Stk.",
+      "article_info": {
+        "short_description": "Powerade Mountain Blast 0,33l Dose DPG",
+        "long_description": "Powerade Mountain Blast 0,33l Dose DPG",
+        "product_group": "15.05.15 0,25 l und 0,33 l Dosen",
+        "unit": "DS"
+      }
+    }
+  ]
+}

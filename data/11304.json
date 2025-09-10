@@ -1,0 +1,379 @@
+{
+  "metadata": {
+    "generated_at": "2025-09-10T23:17:04.722137",
+    "client_number": "11304",
+    "data_source": "BotanBot XML Export"
+  },
+  "client_profile": {
+    "client_number": "11304",
+    "search_term": "",
+    "status": "Kunde",
+    "tax_number": "",
+    "vat_id": "",
+    "is_blocked": false,
+    "price_group": "(Std.-Preis)",
+    "billing_address": {
+      "salutation": "",
+      "name": "Mundfein Pizzawerkstatt",
+      "name3": "Gabriele  Schümann - Uffmann",
+      "street": "Dithmarscher Platz 5",
+      "city": "Itzehoe",
+      "postal_code": "25524",
+      "country": "Deutschland",
+      "phone": "(0 48 21) 7 79 61 61",
+      "fax": "(0 48 21) 4 08 42 15",
+      "email": "s.graf@mundfein.de"
+    },
+    "delivery_address": {
+      "salutation": "",
+      "name": "Mundfein Pizzawerkstatt",
+      "name3": "Gabriele  Schümann - Uffmann",
+      "street": "Dithmarscher Platz 5",
+      "city": "Itzehoe",
+      "postal_code": "25524",
+      "country": "Deutschland",
+      "phone": "(0 48 21) 7 79 61 61",
+      "fax": "(0 48 21) 4 08 42 15",
+      "email": "s.graf@mundfein.de"
+    },
+    "delivery_schedule": {
+      "monday": "",
+      "tuesday": "6",
+      "wednesday": "",
+      "thursday": "",
+      "friday": "6",
+      "saturday": ""
+    },
+    "settings": {
+      "webshop_enabled": true,
+      "ds_addresses": true,
+      "no_pickup_app": false,
+      "minimum_order_value": null,
+      "articles_not_in_history": ""
+    },
+    "additional_addresses": [
+      {
+        "address_number": "0",
+        "salutation": "",
+        "name": "Mundfein Pizzawerkstatt",
+        "name3": "Gabriele  Schümann - Uffmann",
+        "street": "Dithmarscher Platz 5",
+        "city": "Itzehoe",
+        "postal_code": "25524",
+        "country": "Deutschland",
+        "phone": "(0 48 21) 7 79 61 61",
+        "fax": "(0 48 21) 4 08 42 15",
+        "email": "s.graf@mundfein.de",
+        "is_default_billing": true,
+        "is_default_delivery": true
+      }
+    ]
+  },
+  "order_statistics": {
+    "total_orders": 23,
+    "unique_articles_ordered": 23,
+    "recent_orders_count": 23,
+    "last_order_date": "2025-08-15"
+  },
+  "order_history": [
+    {
+      "article_number": "23342",
+      "date": "2025-08-15",
+      "booking_quantity": 24.0,
+      "quantity": 24.0,
+      "unit": "Kiste",
+      "article_info": {
+        "short_description": "Pfand = 3,42 € 24er  0,33l (24x0,08+1,50)",
+        "long_description": "Pfand = 3,42 € 24er 0,33l (24 x 0,08 + 1,50)",
+        "product_group": "90.05 Pfand",
+        "unit": "ST"
+      }
+    },
+    {
+      "article_number": "1518",
+      "date": "2025-08-15",
+      "booking_quantity": 56.0,
+      "quantity": 56.0,
+      "unit": "Pack 1",
+      "article_info": {
+        "short_description": "Parmak Sucuk EfePasa 1kg",
+        "long_description": "Efepasa Parmak Sucuk 1 kg",
+        "product_group": "05.05.05.10 Frisch",
+        "unit": "KG"
+      }
+    },
+    {
+      "article_number": "9181",
+      "date": "2025-08-15",
+      "booking_quantity": 114.0,
+      "quantity": 228.0,
+      "unit": "Pack 0,5 kg",
+      "article_info": {
+        "short_description": "Hinterkochschinken geschn. 500 g  Kal.130",
+        "long_description": "Hinterkochschinken geschnitten 500 g Kaliber 130",
+        "product_group": "05.05.10.10 Frisch",
+        "unit": "KG"
+      }
+    },
+    {
+      "article_number": "1576",
+      "date": "2025-08-15",
+      "booking_quantity": 94.0,
+      "quantity": 94.0,
+      "unit": "Dose 1 Stk.",
+      "article_info": {
+        "short_description": "Thunfisch in Öl in Dose 1,705 kg",
+        "long_description": "Thunfisch in Öl in Dose  1,705 kg",
+        "product_group": "05.25.30 Konserven",
+        "unit": "DS"
+      }
+    },
+    {
+      "article_number": "1525",
+      "date": "2025-08-15",
+      "booking_quantity": 135.0,
+      "quantity": 27.0,
+      "unit": "Beutel 5",
+      "article_info": {
+        "short_description": "Barilla PENNE RIGATE 5 kg",
+        "long_description": "Barilla Penne Rigate 5 kg",
+        "product_group": "05.25.10 Nudelwaren",
+        "unit": "KG"
+      }
+    },
+    {
+      "article_number": "1563",
+      "date": "2025-08-15",
+      "booking_quantity": 59.0,
+      "quantity": 59.0,
+      "unit": "Dose 1 Stk.",
+      "article_info": {
+        "short_description": "Ananas in Stücken  2,65 l Dose",
+        "long_description": "Ananas in Stücken 2,65 l Dose",
+        "product_group": "05.25.30 Konserven",
+        "unit": "DS"
+      }
+    },
+    {
+      "article_number": "8912",
+      "date": "2025-08-15",
+      "booking_quantity": 168.0,
+      "quantity": 7.0,
+      "unit": "KI 24",
+      "article_info": {
+        "short_description": "Fritz Kola 24 x 0,33 l  Flaschen",
+        "long_description": "Fritz Kola 24 x 0,33 l Flasche",
+        "product_group": "15.05.10 0,3 l und 0,33 l Flasche MWK",
+        "unit": "FL"
+      }
+    },
+    {
+      "article_number": "8913",
+      "date": "2025-08-15",
+      "booking_quantity": 144.0,
+      "quantity": 6.0,
+      "unit": "KI 24",
+      "article_info": {
+        "short_description": "Fritz Kola Zuckerfrei  24 x 0,33 l  Flaschen",
+        "long_description": "Fritz Kola Zuckerfrei 24 x 0,33 l Flasche",
+        "product_group": "15.05.10 0,3 l und 0,33 l Flasche MWK",
+        "unit": "FL"
+      }
+    },
+    {
+      "article_number": "1093",
+      "date": "2025-08-15",
+      "booking_quantity": 8.0,
+      "quantity": 8.0,
+      "unit": "Flasche 1",
+      "article_info": {
+        "short_description": "Sriracha Chilisauce 730 ml Flasche \"Flying Goose\"",
+        "long_description": "Sriracha Chilisauce 730 ml Flasche \"Flying Goose\"",
+        "product_group": "05.20.05 ASIA-Produkte",
+        "unit": "FL"
+      }
+    },
+    {
+      "article_number": "230150",
+      "date": "2025-08-09",
+      "booking_quantity": -27.0,
+      "quantity": -27.0,
+      "unit": "KI 1",
+      "article_info": {
+        "short_description": "Rücknahme Pfand Kiste",
+        "long_description": "Rücknahme Pfand Kiste",
+        "product_group": "90.05 Pfand",
+        "unit": "ST"
+      }
+    },
+    {
+      "article_number": "230342",
+      "date": "2025-08-09",
+      "booking_quantity": -6.0,
+      "quantity": -6.0,
+      "unit": "ST",
+      "article_info": {
+        "short_description": "Rücknahme Pfand=3,42 €(24x0,33 l Bier)",
+        "long_description": "Rücknahme Pfand=3,42 €(24x0,33 l Bier)",
+        "product_group": "90.05 Pfand",
+        "unit": "ST"
+      }
+    },
+    {
+      "article_number": "1278",
+      "date": "2025-08-08",
+      "booking_quantity": 78.0,
+      "quantity": 13.0,
+      "unit": "Karton 6 Stk.",
+      "article_info": {
+        "short_description": "Pinot Grigio 6 x 0,75 l",
+        "long_description": "Pinot Grigio 6 x 0,75 l",
+        "product_group": "15.30.10 Italien",
+        "unit": "FL"
+      }
+    },
+    {
+      "article_number": "8916",
+      "date": "2025-08-08",
+      "booking_quantity": 72.0,
+      "quantity": 3.0,
+      "unit": "KI 24",
+      "article_info": {
+        "short_description": "Fritz Orange 24 x 0,33 l  Flaschen",
+        "long_description": "Fritz Orange 24 x 0,33 l Flasche",
+        "product_group": "15.05.10 0,3 l und 0,33 l Flasche MWK",
+        "unit": "FL"
+      }
+    },
+    {
+      "article_number": "1527",
+      "date": "2025-08-08",
+      "booking_quantity": 60.0,
+      "quantity": 12.0,
+      "unit": "Beutel 5",
+      "article_info": {
+        "short_description": "Barilla Spaghetti No. 5 5 kg",
+        "long_description": "Barilla Spaghetti No. 5 5 kg",
+        "product_group": "05.25.10 Nudelwaren",
+        "unit": "KG"
+      }
+    },
+    {
+      "article_number": "8917",
+      "date": "2025-08-08",
+      "booking_quantity": 48.0,
+      "quantity": 2.0,
+      "unit": "KI 24",
+      "article_info": {
+        "short_description": "Fritz Zitrone trüb 24 x 0,33 l  Flaschen",
+        "long_description": "Fritz Zitrone trüb 24 x 0,33 l Flasche",
+        "product_group": "15.05.10 0,3 l und 0,33 l Flasche MWK",
+        "unit": "FL"
+      }
+    },
+    {
+      "article_number": "1172",
+      "date": "2025-08-08",
+      "booking_quantity": 100.0,
+      "quantity": 5.0,
+      "unit": "KI 20",
+      "article_info": {
+        "short_description": "Beck´s  Pils 20 x 0,5 l Fl.",
+        "long_description": "Beck´s Pils 20 x 0,5 l Flasche",
+        "product_group": "15.20.05.10 0,5 l Flasche MWK",
+        "unit": "FL"
+      }
+    },
+    {
+      "article_number": "23310",
+      "date": "2025-08-08",
+      "booking_quantity": 5.0,
+      "quantity": 5.0,
+      "unit": "Kiste",
+      "article_info": {
+        "short_description": "Pfand = 3,10 € 20er Kiste Bier 0,5l",
+        "long_description": "Pfand = 3,10 € 20er Kiste Bier 0,5 l",
+        "product_group": "90.05 Pfand",
+        "unit": "ST"
+      }
+    },
+    {
+      "article_number": "1410",
+      "date": "2025-08-01",
+      "booking_quantity": 14.0,
+      "quantity": 14.0,
+      "unit": "Flasche",
+      "article_info": {
+        "short_description": "Prosecco  0,75 L.",
+        "long_description": "Prosecco 0,75 l",
+        "product_group": "15.35.05 Prosecco",
+        "unit": "FL"
+      }
+    },
+    {
+      "article_number": "8918",
+      "date": "2025-08-01",
+      "booking_quantity": 72.0,
+      "quantity": 3.0,
+      "unit": "KI 24",
+      "article_info": {
+        "short_description": "Fritz Kola Mischmasch  24 x 0,33 l  Flaschen",
+        "long_description": "Fritz Kola Mischmasch 24 x 0,33 l Flasche",
+        "product_group": "15.05.10 0,3 l und 0,33 l Flasche MWK",
+        "unit": "FL"
+      }
+    },
+    {
+      "article_number": "1609",
+      "date": "2025-07-11",
+      "booking_quantity": 48.0,
+      "quantity": 8.0,
+      "unit": "Karton 6 Stk.",
+      "article_info": {
+        "short_description": "Merlot  0,75 L.",
+        "long_description": "Merlot  0,75 l",
+        "product_group": "15.30.10 Italien",
+        "unit": "FL"
+      }
+    },
+    {
+      "article_number": "8911",
+      "date": "2025-07-04",
+      "booking_quantity": 48.0,
+      "quantity": 2.0,
+      "unit": "KI 24",
+      "article_info": {
+        "short_description": "Fritz Apfelschorle BIO 24 x 0,33 l  Flaschen",
+        "long_description": "Fritz Apfelschorle Bio 24 x 0,33 l Flasche",
+        "product_group": "15.05.10 0,3 l und 0,33 l Flasche MWK",
+        "unit": "FL"
+      }
+    },
+    {
+      "article_number": "2600",
+      "date": "2025-07-04",
+      "booking_quantity": 24.0,
+      "quantity": 1.0,
+      "unit": "KI 24",
+      "article_info": {
+        "short_description": "MW Glas  Viva con Agua \"laut\" 24 x 0,33 l FL",
+        "long_description": "MW Glas  Viva con Agua \"laut\" 24 x 0,33 l FL",
+        "product_group": "15.05.10 0,3 l und 0,33 l Flasche MWK",
+        "unit": "FL"
+      }
+    },
+    {
+      "article_number": "3057",
+      "date": "2025-06-13",
+      "booking_quantity": 3.0,
+      "quantity": 3.0,
+      "unit": "Rolle 1",
+      "article_info": {
+        "short_description": "TRANSP. Fleischsäcke 25 ST 120l.(Lebensmittelecht)",
+        "long_description": "TRANSP. Fleischsäcke 25 ST 120l.(Lebensmittelecht)",
+        "product_group": "10.10.20 Müllbeutel",
+        "unit": "RL"
+      }
+    }
+  ]
+}

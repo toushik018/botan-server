@@ -1,0 +1,79 @@
+{
+  "metadata": {
+    "generated_at": "2025-09-10T23:17:06.055173",
+    "client_number": "16063",
+    "data_source": "BotanBot XML Export"
+  },
+  "client_profile": {
+    "client_number": "16063",
+    "search_term": "ZIELL KEBAB",
+    "status": "Kunde",
+    "tax_number": "2801731270",
+    "vat_id": "",
+    "is_blocked": true,
+    "price_group": "(Std.-Preis)",
+    "billing_address": {
+      "salutation": "",
+      "name": "Pideci Döner Pizzaria",
+      "name3": "Inh.:  Orhan Cig",
+      "street": "Bahnhofstrasse 10",
+      "city": "Rendsburg",
+      "postal_code": "24768",
+      "country": "Deutschland",
+      "phone": "(0 43 31) 8 70 27 70",
+      "fax": "",
+      "email": "oezlem.cig@hotmail.com"
+    },
+    "delivery_address": {
+      "salutation": "",
+      "name": "Pideci Döner Pizzaria",
+      "name3": "Inh.:  Orhan Cig",
+      "street": "Bahnhofstrasse 10",
+      "city": "Rendsburg",
+      "postal_code": "24768",
+      "country": "Deutschland",
+      "phone": "(0 43 31) 8 70 27 70",
+      "fax": "",
+      "email": "oezlem.cig@hotmail.com"
+    },
+    "delivery_schedule": {
+      "monday": "",
+      "tuesday": "",
+      "wednesday": "",
+      "thursday": "",
+      "friday": "",
+      "saturday": ""
+    },
+    "settings": {
+      "webshop_enabled": false,
+      "ds_addresses": false,
+      "no_pickup_app": false,
+      "minimum_order_value": null,
+      "articles_not_in_history": "1492"
+    },
+    "additional_addresses": [
+      {
+        "address_number": "0",
+        "salutation": "",
+        "name": "Pideci Döner Pizzaria",
+        "name3": "Inh.:  Orhan Cig",
+        "street": "Bahnhofstrasse 10",
+        "city": "Rendsburg",
+        "postal_code": "24768",
+        "country": "Deutschland",
+        "phone": "(0 43 31) 8 70 27 70",
+        "fax": "",
+        "email": "oezlem.cig@hotmail.com",
+        "is_default_billing": true,
+        "is_default_delivery": true
+      }
+    ]
+  },
+  "order_statistics": {
+    "total_orders": 0,
+    "unique_articles_ordered": 0,
+    "recent_orders_count": 0,
+    "last_order_date": null
+  },
+  "order_history": []
+}

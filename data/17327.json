@@ -1,0 +1,79 @@
+{
+  "metadata": {
+    "generated_at": "2025-09-10T23:17:06.511797",
+    "client_number": "17327",
+    "data_source": "BotanBot XML Export"
+  },
+  "client_profile": {
+    "client_number": "17327",
+    "search_term": "LOGO",
+    "status": "Kunde",
+    "tax_number": "",
+    "vat_id": "",
+    "is_blocked": false,
+    "price_group": "(Std.-Preis)",
+    "billing_address": {
+      "salutation": "",
+      "name": "Croque Bonjour",
+      "name3": "Inh. Rawend Alibrahem",
+      "street": "Hansaring 177",
+      "city": "Neumünster",
+      "postal_code": "24534",
+      "country": "Deutschland",
+      "phone": "(01 76) 34 10 59 00",
+      "fax": "",
+      "email": "rawend.1995@gmail.com"
+    },
+    "delivery_address": {
+      "salutation": "",
+      "name": "Croque Bonjour",
+      "name3": "Inh. Rawend Alibrahem",
+      "street": "Hansaring 177",
+      "city": "Neumünster",
+      "postal_code": "24534",
+      "country": "Deutschland",
+      "phone": "(01 76) 34 10 59 00",
+      "fax": "",
+      "email": "rawend.1995@gmail.com"
+    },
+    "delivery_schedule": {
+      "monday": "",
+      "tuesday": "",
+      "wednesday": "",
+      "thursday": "",
+      "friday": "8",
+      "saturday": ""
+    },
+    "settings": {
+      "webshop_enabled": false,
+      "ds_addresses": false,
+      "no_pickup_app": false,
+      "minimum_order_value": null,
+      "articles_not_in_history": "9500,9501,9502,9503,9504,9506,9535,9527,"
+    },
+    "additional_addresses": [
+      {
+        "address_number": "0",
+        "salutation": "",
+        "name": "Croque Bonjour",
+        "name3": "Inh. Rawend Alibrahem",
+        "street": "Hansaring 177",
+        "city": "Neumünster",
+        "postal_code": "24534",
+        "country": "Deutschland",
+        "phone": "(01 76) 34 10 59 00",
+        "fax": "",
+        "email": "rawend.1995@gmail.com",
+        "is_default_billing": true,
+        "is_default_delivery": true
+      }
+    ]
+  },
+  "order_statistics": {
+    "total_orders": 0,
+    "unique_articles_ordered": 0,
+    "recent_orders_count": 0,
+    "last_order_date": null
+  },
+  "order_history": []
+}

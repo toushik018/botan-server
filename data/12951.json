@@ -1,0 +1,79 @@
+{
+  "metadata": {
+    "generated_at": "2025-09-10T23:17:05.166806",
+    "client_number": "12951",
+    "data_source": "BotanBot XML Export"
+  },
+  "client_profile": {
+    "client_number": "12951",
+    "search_term": "MANHATTEN PIZZA-SERVICE",
+    "status": "Kunde",
+    "tax_number": "41/117/01798",
+    "vat_id": "",
+    "is_blocked": false,
+    "price_group": "(Std.-Preis)",
+    "billing_address": {
+      "salutation": "",
+      "name": "MANHATTEN PIZZA-SERVICE",
+      "name3": "",
+      "street": "Griegstraße 126",
+      "city": "Hamburg",
+      "postal_code": "22763",
+      "country": "Deutschland",
+      "phone": "(0 17) 29 00 23 13",
+      "fax": "",
+      "email": "baljitdh15.02@gmail.com"
+    },
+    "delivery_address": {
+      "salutation": "",
+      "name": "MANHATTEN PIZZA-SERVICE",
+      "name3": "",
+      "street": "Griegstraße 126",
+      "city": "Hamburg",
+      "postal_code": "22763",
+      "country": "Deutschland",
+      "phone": "(0 17) 29 00 23 13",
+      "fax": "",
+      "email": "baljitdh15.02@gmail.com"
+    },
+    "delivery_schedule": {
+      "monday": "",
+      "tuesday": "",
+      "wednesday": "",
+      "thursday": "",
+      "friday": "",
+      "saturday": ""
+    },
+    "settings": {
+      "webshop_enabled": false,
+      "ds_addresses": false,
+      "no_pickup_app": false,
+      "minimum_order_value": null,
+      "articles_not_in_history": ""
+    },
+    "additional_addresses": [
+      {
+        "address_number": "0",
+        "salutation": "",
+        "name": "MANHATTEN PIZZA-SERVICE",
+        "name3": "",
+        "street": "Griegstraße 126",
+        "city": "Hamburg",
+        "postal_code": "22763",
+        "country": "Deutschland",
+        "phone": "(0 17) 29 00 23 13",
+        "fax": "",
+        "email": "baljitdh15.02@gmail.com",
+        "is_default_billing": true,
+        "is_default_delivery": true
+      }
+    ]
+  },
+  "order_statistics": {
+    "total_orders": 0,
+    "unique_articles_ordered": 0,
+    "recent_orders_count": 0,
+    "last_order_date": null
+  },
+  "order_history": []
+}

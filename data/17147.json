@@ -1,0 +1,94 @@
+{
+  "metadata": {
+    "generated_at": "2025-09-10T23:17:06.447234",
+    "client_number": "17147",
+    "data_source": "BotanBot XML Export"
+  },
+  "client_profile": {
+    "client_number": "17147",
+    "search_term": "MEYDAN SARAYI",
+    "status": "Kunde",
+    "tax_number": "",
+    "vat_id": "",
+    "is_blocked": false,
+    "price_group": "(Std.-Preis)",
+    "billing_address": {
+      "salutation": "",
+      "name": "Meydan Sarayi",
+      "name3": "Inh. Seref Balat",
+      "street": "Angelburger Strasse 17-19",
+      "city": "Flensburg",
+      "postal_code": "24937",
+      "country": "Deutschland",
+      "phone": "(01 74) 9 77 17 08",
+      "fax": "",
+      "email": "seref.456@hotmail.com"
+    },
+    "delivery_address": {
+      "salutation": "",
+      "name": "Meydan Sarayi",
+      "name3": "Galeri",
+      "street": "Holm 66",
+      "city": "Flensburg",
+      "postal_code": "24937",
+      "country": "Deutschland",
+      "phone": "(01 74) 9 77 17 08",
+      "fax": "",
+      "email": "seref.456@hotmail.com"
+    },
+    "delivery_schedule": {
+      "monday": "",
+      "tuesday": "",
+      "wednesday": "",
+      "thursday": "",
+      "friday": "",
+      "saturday": ""
+    },
+    "settings": {
+      "webshop_enabled": false,
+      "ds_addresses": false,
+      "no_pickup_app": false,
+      "minimum_order_value": null,
+      "articles_not_in_history": ""
+    },
+    "additional_addresses": [
+      {
+        "address_number": "0",
+        "salutation": "",
+        "name": "Meydan Sarayi",
+        "name3": "Inh. Seref Balat",
+        "street": "Angelburger Strasse 17-19",
+        "city": "Flensburg",
+        "postal_code": "24937",
+        "country": "Deutschland",
+        "phone": "(01 74) 9 77 17 08",
+        "fax": "",
+        "email": "seref.456@hotmail.com",
+        "is_default_billing": true,
+        "is_default_delivery": false
+      },
+      {
+        "address_number": "1",
+        "salutation": "",
+        "name": "Meydan Sarayi",
+        "name3": "Galeri",
+        "street": "Holm 66",
+        "city": "Flensburg",
+        "postal_code": "24937",
+        "country": "Deutschland",
+        "phone": "(01 74) 9 77 17 08",
+        "fax": "",
+        "email": "seref.456@hotmail.com",
+        "is_default_billing": false,
+        "is_default_delivery": true
+      }
+    ]
+  },
+  "order_statistics": {
+    "total_orders": 0,
+    "unique_articles_ordered": 0,
+    "recent_orders_count": 0,
+    "last_order_date": null
+  },
+  "order_history": []
+}

@@ -1,0 +1,94 @@
+{
+  "metadata": {
+    "generated_at": "2025-09-10T23:17:06.869343",
+    "client_number": "76408",
+    "data_source": "BotanBot XML Export"
+  },
+  "client_profile": {
+    "client_number": "76408",
+    "search_term": "HOBUM",
+    "status": "Lieferant",
+    "tax_number": "",
+    "vat_id": "DE329056158",
+    "is_blocked": false,
+    "price_group": "(Std.-Preis)",
+    "billing_address": {
+      "salutation": "",
+      "name": "Vandemoortele Europe NV",
+      "name3": "Deutsche Zweigniederlassung",
+      "street": "Altensenner Weg 68",
+      "city": "Herford",
+      "postal_code": "32052",
+      "country": "Deutschland",
+      "phone": "(0 52 21) 76 72 10",
+      "fax": "(0 52 21) 76 72 50",
+      "email": "bestellung-lipids@vandemoortele.com"
+    },
+    "delivery_address": {
+      "salutation": "",
+      "name": "HOBUM Oele u. Fette GmbH",
+      "name3": "",
+      "street": "Seehafenstr. 2",
+      "city": "Hamburg",
+      "postal_code": "21079",
+      "country": "Deutschland",
+      "phone": "(0 40) 77 11 42 90",
+      "fax": "",
+      "email": ""
+    },
+    "delivery_schedule": {
+      "monday": "",
+      "tuesday": "",
+      "wednesday": "",
+      "thursday": "",
+      "friday": "",
+      "saturday": ""
+    },
+    "settings": {
+      "webshop_enabled": false,
+      "ds_addresses": false,
+      "no_pickup_app": false,
+      "minimum_order_value": null,
+      "articles_not_in_history": ""
+    },
+    "additional_addresses": [
+      {
+        "address_number": "0",
+        "salutation": "",
+        "name": "Vandemoortele Europe NV",
+        "name3": "Deutsche Zweigniederlassung",
+        "street": "Altensenner Weg 68",
+        "city": "Herford",
+        "postal_code": "32052",
+        "country": "Deutschland",
+        "phone": "(0 52 21) 76 72 10",
+        "fax": "(0 52 21) 76 72 50",
+        "email": "bestellung-lipids@vandemoortele.com",
+        "is_default_billing": true,
+        "is_default_delivery": false
+      },
+      {
+        "address_number": "1",
+        "salutation": "",
+        "name": "HOBUM Oele u. Fette GmbH",
+        "name3": "",
+        "street": "Seehafenstr. 2",
+        "city": "Hamburg",
+        "postal_code": "21079",
+        "country": "Deutschland",
+        "phone": "(0 40) 77 11 42 90",
+        "fax": "",
+        "email": "",
+        "is_default_billing": false,
+        "is_default_delivery": true
+      }
+    ]
+  },
+  "order_statistics": {
+    "total_orders": 0,
+    "unique_articles_ordered": 0,
+    "recent_orders_count": 0,
+    "last_order_date": null
+  },
+  "order_history": []
+}

@@ -1,0 +1,94 @@
+{
+  "metadata": {
+    "generated_at": "2025-09-10T23:17:05.427535",
+    "client_number": "13836",
+    "data_source": "BotanBot XML Export"
+  },
+  "client_profile": {
+    "client_number": "13836",
+    "search_term": "HANSE MARKT PRODUKTION VE",
+    "status": "Kunde",
+    "tax_number": "",
+    "vat_id": "",
+    "is_blocked": false,
+    "price_group": "(Std.-Preis)",
+    "billing_address": {
+      "salutation": "",
+      "name": "Hans Werner Rüth",
+      "name3": "",
+      "street": "Jungmann Strasse 8",
+      "city": "Hamburg",
+      "postal_code": "22605",
+      "country": "Deutschland",
+      "phone": "(01 72) 4 56 90 07",
+      "fax": "(0 40) 4 30 48 94",
+      "email": "hw.rueth@gmx.de"
+    },
+    "delivery_address": {
+      "salutation": "",
+      "name": "Hans Werner Rüth",
+      "name3": "Hamburg Altona",
+      "street": "Altonaer Poststrasse bei Ikea",
+      "city": "Hamburg",
+      "postal_code": "22767",
+      "country": "Deutschland",
+      "phone": "(01 72) 4 56 90 07",
+      "fax": "(0 40) 4 30 48 94",
+      "email": "hw.rueth@gmx.de"
+    },
+    "delivery_schedule": {
+      "monday": "",
+      "tuesday": "",
+      "wednesday": "",
+      "thursday": "",
+      "friday": "",
+      "saturday": ""
+    },
+    "settings": {
+      "webshop_enabled": false,
+      "ds_addresses": false,
+      "no_pickup_app": false,
+      "minimum_order_value": null,
+      "articles_not_in_history": ""
+    },
+    "additional_addresses": [
+      {
+        "address_number": "0",
+        "salutation": "",
+        "name": "Hans Werner Rüth",
+        "name3": "",
+        "street": "Jungmann Strasse 8",
+        "city": "Hamburg",
+        "postal_code": "22605",
+        "country": "Deutschland",
+        "phone": "(01 72) 4 56 90 07",
+        "fax": "(0 40) 4 30 48 94",
+        "email": "hw.rueth@gmx.de",
+        "is_default_billing": true,
+        "is_default_delivery": false
+      },
+      {
+        "address_number": "1",
+        "salutation": "",
+        "name": "Hans Werner Rüth",
+        "name3": "Hamburg Altona",
+        "street": "Altonaer Poststrasse bei Ikea",
+        "city": "Hamburg",
+        "postal_code": "22767",
+        "country": "Deutschland",
+        "phone": "(01 72) 4 56 90 07",
+        "fax": "(0 40) 4 30 48 94",
+        "email": "hw.rueth@gmx.de",
+        "is_default_billing": false,
+        "is_default_delivery": true
+      }
+    ]
+  },
+  "order_statistics": {
+    "total_orders": 0,
+    "unique_articles_ordered": 0,
+    "recent_orders_count": 0,
+    "last_order_date": null
+  },
+  "order_history": []
+}

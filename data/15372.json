@@ -1,0 +1,94 @@
+{
+  "metadata": {
+    "generated_at": "2025-09-10T23:17:05.850119",
+    "client_number": "15372",
+    "data_source": "BotanBot XML Export"
+  },
+  "client_profile": {
+    "client_number": "15372",
+    "search_term": "DÖNER STAND HALLE",
+    "status": "Kunde",
+    "tax_number": "",
+    "vat_id": "",
+    "is_blocked": true,
+    "price_group": "(Std.-Preis)",
+    "billing_address": {
+      "salutation": "",
+      "name": "Martino S. GmbH & Co. KG",
+      "name3": "",
+      "street": "An der Halle 400 Nr. 1",
+      "city": "Kiel",
+      "postal_code": "24143",
+      "country": "Deutschland",
+      "phone": "(01 52) 34 21 79 76",
+      "fax": "",
+      "email": "nz@martino-s.de"
+    },
+    "delivery_address": {
+      "salutation": "",
+      "name": "Eatalia",
+      "name3": "im Citti Park (Lieferanteneingang)",
+      "street": "Langberger Weg 4",
+      "city": "Flensburg",
+      "postal_code": "24941",
+      "country": "Deutschland",
+      "phone": "(01 52) 34 21 79 76",
+      "fax": "",
+      "email": ""
+    },
+    "delivery_schedule": {
+      "monday": "",
+      "tuesday": "",
+      "wednesday": "",
+      "thursday": "",
+      "friday": "",
+      "saturday": ""
+    },
+    "settings": {
+      "webshop_enabled": false,
+      "ds_addresses": false,
+      "no_pickup_app": false,
+      "minimum_order_value": null,
+      "articles_not_in_history": ""
+    },
+    "additional_addresses": [
+      {
+        "address_number": "0",
+        "salutation": "",
+        "name": "Martino S. GmbH & Co. KG",
+        "name3": "",
+        "street": "An der Halle 400 Nr. 1",
+        "city": "Kiel",
+        "postal_code": "24143",
+        "country": "Deutschland",
+        "phone": "(01 52) 34 21 79 76",
+        "fax": "",
+        "email": "nz@martino-s.de",
+        "is_default_billing": true,
+        "is_default_delivery": false
+      },
+      {
+        "address_number": "1",
+        "salutation": "",
+        "name": "Eatalia",
+        "name3": "im Citti Park (Lieferanteneingang)",
+        "street": "Langberger Weg 4",
+        "city": "Flensburg",
+        "postal_code": "24941",
+        "country": "Deutschland",
+        "phone": "(01 52) 34 21 79 76",
+        "fax": "",
+        "email": "",
+        "is_default_billing": false,
+        "is_default_delivery": true
+      }
+    ]
+  },
+  "order_statistics": {
+    "total_orders": 0,
+    "unique_articles_ordered": 0,
+    "recent_orders_count": 0,
+    "last_order_date": null
+  },
+  "order_history": []
+}

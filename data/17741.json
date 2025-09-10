@@ -1,0 +1,210 @@
+{
+  "metadata": {
+    "generated_at": "2025-09-10T23:17:06.710625",
+    "client_number": "17741",
+    "data_source": "BotanBot XML Export"
+  },
+  "client_profile": {
+    "client_number": "17741",
+    "search_term": "SIDE CAPPU VINO GRÖMITZ",
+    "status": "Kunde",
+    "tax_number": "",
+    "vat_id": "",
+    "is_blocked": false,
+    "price_group": "(Std.-Preis)",
+    "billing_address": {
+      "salutation": "",
+      "name": "Sea Side und Cappu Vino Grömitz OHG",
+      "name3": "",
+      "street": "Kurpromenade 54",
+      "city": "Grömitz",
+      "postal_code": "23743",
+      "country": "Deutschland",
+      "phone": "(0 45 62) 2 58 80",
+      "fax": "",
+      "email": "office@seasidegroemitz.de"
+    },
+    "delivery_address": {
+      "salutation": "",
+      "name": "Sea Side und Cappu Vino Grömitz OHG",
+      "name3": "",
+      "street": "Kurpromenade 54",
+      "city": "Grömitz",
+      "postal_code": "23743",
+      "country": "Deutschland",
+      "phone": "(0 45 62) 2 58 80",
+      "fax": "",
+      "email": "office@seasidegroemitz.de"
+    },
+    "delivery_schedule": {
+      "monday": "3",
+      "tuesday": "",
+      "wednesday": "",
+      "thursday": "",
+      "friday": "3",
+      "saturday": ""
+    },
+    "settings": {
+      "webshop_enabled": true,
+      "ds_addresses": false,
+      "no_pickup_app": false,
+      "minimum_order_value": null,
+      "articles_not_in_history": ""
+    },
+    "additional_addresses": [
+      {
+        "address_number": "0",
+        "salutation": "",
+        "name": "Sea Side und Cappu Vino Grömitz OHG",
+        "name3": "",
+        "street": "Kurpromenade 54",
+        "city": "Grömitz",
+        "postal_code": "23743",
+        "country": "Deutschland",
+        "phone": "(0 45 62) 2 58 80",
+        "fax": "",
+        "email": "office@seasidegroemitz.de",
+        "is_default_billing": true,
+        "is_default_delivery": true
+      }
+    ]
+  },
+  "order_statistics": {
+    "total_orders": 10,
+    "unique_articles_ordered": 10,
+    "recent_orders_count": 10,
+    "last_order_date": "2025-08-18"
+  },
+  "order_history": [
+    {
+      "article_number": "1535",
+      "date": "2025-08-18",
+      "booking_quantity": 194.0,
+      "quantity": 194.0,
+      "unit": "Pack 1",
+      "article_info": {
+        "short_description": "MILRAM H-Schlagsahne 30 %  1 Liter",
+        "long_description": "Milram H-Schlagsahne 30 % 1 l",
+        "product_group": "05.15.20 Sahne",
+        "unit": "PK"
+      }
+    },
+    {
+      "article_number": "3230",
+      "date": "2025-08-18",
+      "booking_quantity": 1590.0,
+      "quantity": 32.0,
+      "unit": "Karton 30 Stk.",
+      "article_info": {
+        "short_description": "Brioche Bun Homestyle 125mm  75 Stk./Karton TK",
+        "long_description": "Brioche Bun Homestyle 125mm  75 Stk./Karton TK",
+        "product_group": "05.40.10 Brotwaren",
+        "unit": "ST"
+      }
+    },
+    {
+      "article_number": "1532",
+      "date": "2025-08-18",
+      "booking_quantity": 5.0,
+      "quantity": 1.0,
+      "unit": "Eimer 5 kg",
+      "article_info": {
+        "short_description": "Vollmilch Joghurt 3,5%  Milram 5 Kg Eimer",
+        "long_description": "Milram Vollmilch-Joghurt 3,5 % 5 kg Eimer",
+        "product_group": "05.15.10 Joghurt",
+        "unit": "KG"
+      }
+    },
+    {
+      "article_number": "1967",
+      "date": "2025-08-18",
+      "booking_quantity": 54.0,
+      "quantity": 6.0,
+      "unit": "Karton 9 kg",
+      "article_info": {
+        "short_description": "FRESH AVIKO POMMES 11mm Sup. Crunch 2 x 4,5 kg",
+        "long_description": "FRESH AVIKO POMMES 11mm Sup. Crunch 2 x 4,5 kg",
+        "product_group": "05.30.05 Pommes",
+        "unit": "KG"
+      }
+    },
+    {
+      "article_number": "1786",
+      "date": "2025-08-18",
+      "booking_quantity": 6.0,
+      "quantity": 6.0,
+      "unit": "Dose 1 Stk.",
+      "article_info": {
+        "short_description": "Guacamole Classic 500g TK",
+        "long_description": "Guacamole Classic 500 g TK",
+        "product_group": "05.45.20 Spezial-Saucen",
+        "unit": "DS"
+      }
+    },
+    {
+      "article_number": "1329",
+      "date": "2025-08-15",
+      "booking_quantity": 90.0,
+      "quantity": 9.0,
+      "unit": "Kanister 10 l",
+      "article_info": {
+        "short_description": "Rapsöl 10 Liter",
+        "long_description": "Rapsöl 10 l",
+        "product_group": "05.25.20.05 Öle",
+        "unit": "LI"
+      }
+    },
+    {
+      "article_number": "9038",
+      "date": "2025-08-04",
+      "booking_quantity": 20.0,
+      "quantity": 2.0,
+      "unit": "Karton 10 Stk",
+      "article_info": {
+        "short_description": "Körner Baguette 10 ST / KT ca. 60 cm TK",
+        "long_description": "Körnerbaguette 10 Stück/Karton ca. 60 cm TK",
+        "product_group": "05.40.10 Brotwaren",
+        "unit": "ST"
+      }
+    },
+    {
+      "article_number": "9158",
+      "date": "2025-08-04",
+      "booking_quantity": 10.0,
+      "quantity": 4.0,
+      "unit": "Beutel 2,5 kg",
+      "article_info": {
+        "short_description": "TK Zwiebeln gewürfelt 10x10mm  2,5 KG BT",
+        "long_description": "TK Zwiebeln gewürfelt 10x10mm",
+        "product_group": "05.40.05 Gemüse",
+        "unit": "KG"
+      }
+    },
+    {
+      "article_number": "1367",
+      "date": "2025-08-04",
+      "booking_quantity": 5.0,
+      "quantity": 2.0,
+      "unit": "Beutel 2,5 kg",
+      "article_info": {
+        "short_description": "Markerbsen TK  2,5 Kg BT",
+        "long_description": "Markerbsen  2,5 kg Beutel TK",
+        "product_group": "05.40.05 Gemüse",
+        "unit": "KG"
+      }
+    },
+    {
+      "article_number": "1916",
+      "date": "2025-07-18",
+      "booking_quantity": 12.0,
+      "quantity": 12.0,
+      "unit": "Pack 1",
+      "article_info": {
+        "short_description": "Küchensahne 15 % 1 Liter",
+        "long_description": "Milram Küchensahne 15 % 1 l",
+        "product_group": "05.15.20 Sahne",
+        "unit": "PK"
+      }
+    }
+  ]
+}

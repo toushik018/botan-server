@@ -1,0 +1,626 @@
+{
+  "metadata": {
+    "generated_at": "2025-09-10T23:17:06.136579",
+    "client_number": "16324",
+    "data_source": "BotanBot XML Export"
+  },
+  "client_profile": {
+    "client_number": "16324",
+    "search_term": "VITA FRESH",
+    "status": "Kunde",
+    "tax_number": "",
+    "vat_id": "",
+    "is_blocked": false,
+    "price_group": "(Std.-Preis)",
+    "billing_address": {
+      "salutation": "",
+      "name": "Vita Fresh",
+      "name3": "Inh. Saadet Koca",
+      "street": "Kiebitzweg 2",
+      "city": "Schenefeld bei Hamburg",
+      "postal_code": "22869",
+      "country": "Deutschland",
+      "phone": "(01 78) 7 24 90 13",
+      "fax": "",
+      "email": "vitafresh@outlook.de"
+    },
+    "delivery_address": {
+      "salutation": "",
+      "name": "Vita Fresh",
+      "name3": "Inh. Saadet Koca",
+      "street": "Kiebitzweg 2",
+      "city": "Schenefeld bei Hamburg",
+      "postal_code": "22869",
+      "country": "Deutschland",
+      "phone": "(01 78) 7 24 90 13",
+      "fax": "",
+      "email": "vitafresh@outlook.de"
+    },
+    "delivery_schedule": {
+      "monday": "2",
+      "tuesday": "",
+      "wednesday": "",
+      "thursday": "3",
+      "friday": "",
+      "saturday": ""
+    },
+    "settings": {
+      "webshop_enabled": true,
+      "ds_addresses": false,
+      "no_pickup_app": false,
+      "minimum_order_value": null,
+      "articles_not_in_history": ""
+    },
+    "additional_addresses": [
+      {
+        "address_number": "0",
+        "salutation": "",
+        "name": "Vita Fresh",
+        "name3": "Inh. Saadet Koca",
+        "street": "Kiebitzweg 2",
+        "city": "Schenefeld bei Hamburg",
+        "postal_code": "22869",
+        "country": "Deutschland",
+        "phone": "(01 78) 7 24 90 13",
+        "fax": "",
+        "email": "vitafresh@outlook.de",
+        "is_default_billing": true,
+        "is_default_delivery": true
+      }
+    ]
+  },
+  "order_statistics": {
+    "total_orders": 42,
+    "unique_articles_ordered": 42,
+    "recent_orders_count": 42,
+    "last_order_date": "2025-08-05"
+  },
+  "order_history": [
+    {
+      "article_number": "230510",
+      "date": "2025-08-05",
+      "booking_quantity": -23.0,
+      "quantity": -23.0,
+      "unit": "ST",
+      "article_info": {
+        "short_description": "Rücknahme Pfand = 5,10 € (24 x 0,33 l Cola)",
+        "long_description": "Rücknahme Pfand = 5,10 € (24 x 0,33 l Cola)",
+        "product_group": "90.05 Pfand",
+        "unit": "ST"
+      }
+    },
+    {
+      "article_number": "230150",
+      "date": "2025-08-05",
+      "booking_quantity": -6.0,
+      "quantity": -6.0,
+      "unit": "KI 1",
+      "article_info": {
+        "short_description": "Rücknahme Pfand Kiste",
+        "long_description": "Rücknahme Pfand Kiste",
+        "product_group": "90.05 Pfand",
+        "unit": "ST"
+      }
+    },
+    {
+      "article_number": "9299",
+      "date": "2025-08-04",
+      "booking_quantity": 130.0,
+      "quantity": 52.0,
+      "unit": "Beutel 2,5 kg",
+      "article_info": {
+        "short_description": "Hähnchenbruststreifen gegart Halal 2,5kg Beutel",
+        "long_description": "Hähnchenbruststreifen gegart 2,5 kg Beutel halal",
+        "product_group": "05.05.20.05 TK",
+        "unit": "KG"
+      }
+    },
+    {
+      "article_number": "2160",
+      "date": "2025-08-04",
+      "booking_quantity": 108.0,
+      "quantity": 36.0,
+      "unit": "Pack 3 kg",
+      "article_info": {
+        "short_description": "Deli. Garkartoffeln rund 3KG Btl.",
+        "long_description": "Deli. Garkartoffeln rund 3 kg Beutel",
+        "product_group": "05.30.10 weitere",
+        "unit": "KG"
+      }
+    },
+    {
+      "article_number": "1532",
+      "date": "2025-08-04",
+      "booking_quantity": 10.0,
+      "quantity": 2.0,
+      "unit": "Eimer 5 kg",
+      "article_info": {
+        "short_description": "Vollmilch Joghurt 3,5%  Milram 5 Kg Eimer",
+        "long_description": "Milram Vollmilch-Joghurt 3,5 % 5 kg Eimer",
+        "product_group": "05.15.10 Joghurt",
+        "unit": "KG"
+      }
+    },
+    {
+      "article_number": "1958",
+      "date": "2025-08-04",
+      "booking_quantity": 50.0,
+      "quantity": 24.0,
+      "unit": "Beutel 2kg",
+      "article_info": {
+        "short_description": "Gouda Käse 48 %  Gerieben (Milram) 2 Kg Beutel",
+        "long_description": "Milram Gouda gerieben 48 % 2 kg Beutel",
+        "product_group": "05.15.05.05.15 Schnitt- und Raspelware",
+        "unit": "KG"
+      }
+    },
+    {
+      "article_number": "1688",
+      "date": "2025-08-04",
+      "booking_quantity": 60.0,
+      "quantity": 60.0,
+      "unit": "Pack 1",
+      "article_info": {
+        "short_description": "geschn. Käse Gouda 48% in Scheiben Milram 1 Kg",
+        "long_description": "geschn. Käse Gouda 48% in Scheiben Milram 1 Kg",
+        "product_group": "05.15.05.05.15 Schnitt- und Raspelware",
+        "unit": "KG"
+      }
+    },
+    {
+      "article_number": "9577",
+      "date": "2025-08-04",
+      "booking_quantity": 120.0,
+      "quantity": 5.0,
+      "unit": "KI 24",
+      "article_info": {
+        "short_description": "Apollinaris Vio Naturell 24 x 0,25L MWK",
+        "long_description": "Apollinaris Vio Naturell 24 x 0,25 l Flasche MWK",
+        "product_group": "15.15.05 0,25 l Flasche",
+        "unit": "FL"
+      }
+    },
+    {
+      "article_number": "23510",
+      "date": "2025-08-04",
+      "booking_quantity": 13.0,
+      "quantity": 13.0,
+      "unit": "Kiste",
+      "article_info": {
+        "short_description": "Pfand = 5,10 € 24er Cola & Co 0,33l",
+        "long_description": "Pfand = 5,10 € 24er Cola & Co 0,33 l",
+        "product_group": "90.05 Pfand",
+        "unit": "ST"
+      }
+    },
+    {
+      "article_number": "9575",
+      "date": "2025-08-04",
+      "booking_quantity": 72.0,
+      "quantity": 3.0,
+      "unit": "KI 24",
+      "article_info": {
+        "short_description": "Apollinaris Selection mit Kohlensäure  24 x 0,25 L",
+        "long_description": "Apollinaris Selection Kohlensäure 24x0,25l Flasche",
+        "product_group": "15.15.05 0,25 l Flasche",
+        "unit": "FL"
+      }
+    },
+    {
+      "article_number": "1576",
+      "date": "2025-08-04",
+      "booking_quantity": 18.0,
+      "quantity": 18.0,
+      "unit": "Dose 1 Stk.",
+      "article_info": {
+        "short_description": "Thunfisch in Öl in Dose 1,705 kg",
+        "long_description": "Thunfisch in Öl in Dose  1,705 kg",
+        "product_group": "05.25.30 Konserven",
+        "unit": "DS"
+      }
+    },
+    {
+      "article_number": "9181",
+      "date": "2025-08-04",
+      "booking_quantity": 7.5,
+      "quantity": 15.0,
+      "unit": "Pack 0,5 kg",
+      "article_info": {
+        "short_description": "Hinterkochschinken geschn. 500 g  Kal.130",
+        "long_description": "Hinterkochschinken geschnitten 500 g Kaliber 130",
+        "product_group": "05.05.10.10 Frisch",
+        "unit": "KG"
+      }
+    },
+    {
+      "article_number": "1466",
+      "date": "2025-08-04",
+      "booking_quantity": 9.0,
+      "quantity": 9.0,
+      "unit": "Pack 1",
+      "article_info": {
+        "short_description": "Rindersalami  geschn.1kg (Halal) m. Pt.Fleisch",
+        "long_description": "Rindersalami  geschn.1 kg (Halal) m. Pt.Fleisch",
+        "product_group": "05.05.05.10 Frisch",
+        "unit": "KG"
+      }
+    },
+    {
+      "article_number": "2910",
+      "date": "2025-08-04",
+      "booking_quantity": 96.0,
+      "quantity": 4.0,
+      "unit": "KI 24",
+      "article_info": {
+        "short_description": "MW  24 x 0,3 l Fuze Tea Pfirsich",
+        "long_description": "Fuze Tea Pfirsich MW  24 x 0,3 l",
+        "product_group": "15.05.10 0,3 l und 0,33 l Flasche MWK",
+        "unit": "FL"
+      }
+    },
+    {
+      "article_number": "1561",
+      "date": "2025-08-04",
+      "booking_quantity": 36.0,
+      "quantity": 36.0,
+      "unit": "Dose 1 Stk.",
+      "article_info": {
+        "short_description": "Gemüsemais  Karton 2,65 l Dosen",
+        "long_description": "Gemüsemais Karton 2,65 l Dose",
+        "product_group": "05.25.30 Konserven",
+        "unit": "DS"
+      }
+    },
+    {
+      "article_number": "1528",
+      "date": "2025-08-04",
+      "booking_quantity": 30.0,
+      "quantity": 6.0,
+      "unit": "Beutel 5",
+      "article_info": {
+        "short_description": "Barilla Fusilli No.98  5 kg",
+        "long_description": "Barilla Fusilli No. 98 5 kg",
+        "product_group": "05.25.10 Nudelwaren",
+        "unit": "KG"
+      }
+    },
+    {
+      "article_number": "1842",
+      "date": "2025-08-04",
+      "booking_quantity": 2.0,
+      "quantity": 2.0,
+      "unit": "Karton",
+      "article_info": {
+        "short_description": "Strauchtomaten  5 kg Kiste",
+        "long_description": "Strauchtomaten  5 kg Kiste",
+        "product_group": "05.35.05 Frischgemüse",
+        "unit": "KT"
+      }
+    },
+    {
+      "article_number": "1379",
+      "date": "2025-08-04",
+      "booking_quantity": 10.0,
+      "quantity": 4.0,
+      "unit": "Beutel 2,5 kg",
+      "article_info": {
+        "short_description": "Kaiser gemüse  2,5  Kg Beutel TK",
+        "long_description": "Kaisergemüse 2,5 kg Beutel TK",
+        "product_group": "05.40.05 Gemüse",
+        "unit": "KG"
+      }
+    },
+    {
+      "article_number": "1798",
+      "date": "2025-08-04",
+      "booking_quantity": 3.0,
+      "quantity": 3.0,
+      "unit": "Pack 1",
+      "article_info": {
+        "short_description": "Putenbrust geschnitten, geräuchert  500g",
+        "long_description": "Putenbrust geschnitten, geräuchert  500 g",
+        "product_group": "05.05.20.10 Frisch",
+        "unit": "PK"
+      }
+    },
+    {
+      "article_number": "2720",
+      "date": "2025-08-04",
+      "booking_quantity": 5.0,
+      "quantity": 5.0,
+      "unit": "Flasche",
+      "article_info": {
+        "short_description": "Soße mit Granatapfelgeschmack (Nar Sos) 1kg",
+        "long_description": "Soße mit Granatapfelgeschmack (Nar Sos) 1kg",
+        "product_group": "05.25.20.15 Essige",
+        "unit": "FL"
+      }
+    },
+    {
+      "article_number": "4013",
+      "date": "2025-08-04",
+      "booking_quantity": 1.0,
+      "quantity": 1.0,
+      "unit": "KG",
+      "article_info": {
+        "short_description": "Zitronen Tea Instant 1 Kg",
+        "long_description": "Zitronen Tea Instant 1 Kg",
+        "product_group": "05.25.45 Kaffee und Tee",
+        "unit": "KG"
+      }
+    },
+    {
+      "article_number": "1455",
+      "date": "2025-08-04",
+      "booking_quantity": 1.0,
+      "quantity": 1.0,
+      "unit": "Pack 1",
+      "article_info": {
+        "short_description": "Sumach Original Türkisch  1 Kg Packung",
+        "long_description": "Sumach Original Türkisch 1 kg Packung",
+        "product_group": "05.25.35 Gewürze",
+        "unit": "KG"
+      }
+    },
+    {
+      "article_number": "1337",
+      "date": "2025-08-04",
+      "booking_quantity": 15.0,
+      "quantity": 1.0,
+      "unit": "Karton 15",
+      "article_info": {
+        "short_description": "1l Rapsöl",
+        "long_description": "Rapsöl 1 l",
+        "product_group": "05.25.20.05 Öle",
+        "unit": "FL"
+      }
+    },
+    {
+      "article_number": "9669",
+      "date": "2025-08-04",
+      "booking_quantity": 1.0,
+      "quantity": 1.0,
+      "unit": "Stück",
+      "article_info": {
+        "short_description": "Tahin Sesampaste 1550g Glas",
+        "long_description": "Tahin Sesampaste 1550g Glas",
+        "product_group": "05.25.40 Brotaufstriche",
+        "unit": "ST"
+      }
+    },
+    {
+      "article_number": "1567",
+      "date": "2025-07-10",
+      "booking_quantity": 6.0,
+      "quantity": 6.0,
+      "unit": "Dose 1 Stk.",
+      "article_info": {
+        "short_description": "Oliven schwarz ohne stein,   5/1 Dosen",
+        "long_description": "Oliven schwarz ohne Stein 5/1 Dose",
+        "product_group": "05.25.30 Konserven",
+        "unit": "DS"
+      }
+    },
+    {
+      "article_number": "2452",
+      "date": "2025-07-10",
+      "booking_quantity": 24.0,
+      "quantity": 24.0,
+      "unit": "Dose 1 Stk.",
+      "article_info": {
+        "short_description": "Kichererbsen  3/1 DS",
+        "long_description": "Kichererbsen 3/1 Dose",
+        "product_group": "05.25.30 Konserven",
+        "unit": "DS"
+      }
+    },
+    {
+      "article_number": "9057",
+      "date": "2025-07-10",
+      "booking_quantity": 20.0,
+      "quantity": 2.0,
+      "unit": "Eimer 10 kg",
+      "article_info": {
+        "short_description": "Spezial Mayonaise 50 %  10 KG Eimer",
+        "long_description": "Spezial Mayonnaise 50 % 10 kg Eimer",
+        "product_group": "05.45.05 Mayonnaise",
+        "unit": "KG"
+      }
+    },
+    {
+      "article_number": "1580",
+      "date": "2025-07-10",
+      "booking_quantity": 12.0,
+      "quantity": 12.0,
+      "unit": "Dose 1 Stk.",
+      "article_info": {
+        "short_description": "Rote Kidney Bohnen 3/1 Dose",
+        "long_description": "Rote Kidneybohnen 3/1 Dose",
+        "product_group": "05.25.30 Konserven",
+        "unit": "DS"
+      }
+    },
+    {
+      "article_number": "2277",
+      "date": "2025-07-10",
+      "booking_quantity": 20.0,
+      "quantity": 8.0,
+      "unit": "Beutel 2,5 kg",
+      "article_info": {
+        "short_description": "TK Mango Stücke 2,5 Kg  BT",
+        "long_description": "Mangostücke 2,5 kg Beutel TK",
+        "product_group": "05.40.06 Obst",
+        "unit": "KG"
+      }
+    },
+    {
+      "article_number": "1946",
+      "date": "2025-07-10",
+      "booking_quantity": 1.0,
+      "quantity": 1.0,
+      "unit": "Eimer 1",
+      "article_info": {
+        "short_description": "Mozzarella Gourmini  Eimer 1 kg",
+        "long_description": "Mozzarella Gourmini  Eimer 1 kg",
+        "product_group": "05.15.05.10.01 Weichkäse aus Kuhmilch",
+        "unit": "KG"
+      }
+    },
+    {
+      "article_number": "2203",
+      "date": "2025-07-10",
+      "booking_quantity": 25.0,
+      "quantity": 5.0,
+      "unit": "Beutel 5",
+      "article_info": {
+        "short_description": "Pilavlik Bulgur 5kg",
+        "long_description": "Pilavlik Bulgur 5 kg",
+        "product_group": "05.25.25 Feinkost",
+        "unit": "KG"
+      }
+    },
+    {
+      "article_number": "2134",
+      "date": "2025-07-07",
+      "booking_quantity": 15.0,
+      "quantity": 5.0,
+      "unit": "Eimer 3 kg",
+      "article_info": {
+        "short_description": "3 Kg American Dressing Eimer",
+        "long_description": "American Dressing Eimer 3 Kg Wernsing",
+        "product_group": "05.45.25 Dressings",
+        "unit": "KG"
+      }
+    },
+    {
+      "article_number": "1403",
+      "date": "2025-07-07",
+      "booking_quantity": 20.0,
+      "quantity": 20.0,
+      "unit": "Pack 1",
+      "article_info": {
+        "short_description": "Röst Zwiebeln 500g",
+        "long_description": "Röstzwiebeln 500 g",
+        "product_group": "05.25.35 Gewürze",
+        "unit": "PK"
+      }
+    },
+    {
+      "article_number": "2433",
+      "date": "2025-07-07",
+      "booking_quantity": 10.0,
+      "quantity": 4.0,
+      "unit": "Beutel 2,5 kg",
+      "article_info": {
+        "short_description": "TK Erdbeeren Beutel 2,5 kg",
+        "long_description": "TK Erdbeeren Beutel 2,5 kg",
+        "product_group": "05.40.06 Obst",
+        "unit": "KG"
+      }
+    },
+    {
+      "article_number": "1362",
+      "date": "2025-07-07",
+      "booking_quantity": 20.0,
+      "quantity": 8.0,
+      "unit": "Beutel 2,5 kg",
+      "article_info": {
+        "short_description": "Broccoli Röschen  20 / 40    2,5 Kg BT TK",
+        "long_description": "Broccoliröschen 20/40 2,5 kg Beutel TK",
+        "product_group": "05.40.05 Gemüse",
+        "unit": "KG"
+      }
+    },
+    {
+      "article_number": "2157",
+      "date": "2025-07-07",
+      "booking_quantity": 9.0,
+      "quantity": 3.0,
+      "unit": "Eimer 3 kg",
+      "article_info": {
+        "short_description": "3 Kg Joghurt Dressing Eimer",
+        "long_description": "Joghurt Dressing 3 kg Eimer",
+        "product_group": "05.45.25 Dressings",
+        "unit": "KG"
+      }
+    },
+    {
+      "article_number": "1533",
+      "date": "2025-07-07",
+      "booking_quantity": 5.0,
+      "quantity": 1.0,
+      "unit": "Eimer 5 kg",
+      "article_info": {
+        "short_description": "Speisequark Mager  5 Kg Eimer",
+        "long_description": "Speisequark mager 5 kg Eimer",
+        "product_group": "05.15.30 Quark / Schmand",
+        "unit": "KG"
+      }
+    },
+    {
+      "article_number": "2911",
+      "date": "2025-07-07",
+      "booking_quantity": 24.0,
+      "quantity": 1.0,
+      "unit": "KI 24",
+      "article_info": {
+        "short_description": "MW  24 x 0,3 l Fuze Tea Zitrone",
+        "long_description": "Fuze Tea Zitrone MW  24 x 0,3 l",
+        "product_group": "15.05.10 0,3 l und 0,33 l Flasche MWK",
+        "unit": "FL"
+      }
+    },
+    {
+      "article_number": "1454",
+      "date": "2025-07-07",
+      "booking_quantity": 2.0,
+      "quantity": 2.0,
+      "unit": "Pack 1",
+      "article_info": {
+        "short_description": "Schwarzkümmel   1 Kg Packung",
+        "long_description": "Schwarzkümmel 1 kg Packung",
+        "product_group": "05.25.35 Gewürze",
+        "unit": "KG"
+      }
+    },
+    {
+      "article_number": "1404",
+      "date": "2025-07-07",
+      "booking_quantity": 2.0,
+      "quantity": 2.0,
+      "unit": "Pack 1",
+      "article_info": {
+        "short_description": "Sesam Saat 1 Kg",
+        "long_description": "Sesamsaat 1 kg",
+        "product_group": "05.25.15.10 Backzutaten",
+        "unit": "KG"
+      }
+    },
+    {
+      "article_number": "1589",
+      "date": "2025-06-19",
+      "booking_quantity": 6.0,
+      "quantity": 6.0,
+      "unit": "Dose 1 Stk.",
+      "article_info": {
+        "short_description": "Jalapeno Scheiben  3/1 Dose",
+        "long_description": "Jalapenos in Scheiben 3/1 Dose",
+        "product_group": "05.25.30 Konserven",
+        "unit": "DS"
+      }
+    },
+    {
+      "article_number": "9084",
+      "date": "2025-06-19",
+      "booking_quantity": 3.0,
+      "quantity": 3.0,
+      "unit": "Tube 1",
+      "article_info": {
+        "short_description": "Joghurt Dressing, 1000 ml,  MÄRKER",
+        "long_description": "Märker Joghurt Dressing 1000 ml",
+        "product_group": "05.45.25 Dressings",
+        "unit": "TB"
+      }
+    }
+  ]
+}

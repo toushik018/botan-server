@@ -1,0 +1,288 @@
+{
+  "metadata": {
+    "generated_at": "2025-09-10T23:17:06.375142",
+    "client_number": "16954",
+    "data_source": "BotanBot XML Export"
+  },
+  "client_profile": {
+    "client_number": "16954",
+    "search_term": "MATTHIAS STENGEL",
+    "status": "Kunde",
+    "tax_number": "",
+    "vat_id": "",
+    "is_blocked": false,
+    "price_group": "(Std.-Preis)",
+    "billing_address": {
+      "salutation": "Firma",
+      "name": "Matthias Stengel",
+      "name3": "",
+      "street": "Ostanger 2",
+      "city": "Kiel",
+      "postal_code": "24149",
+      "country": "Deutschland",
+      "phone": "(01 76) 84 47 41 08",
+      "fax": "",
+      "email": "flammlachs@kabelmail.de"
+    },
+    "delivery_address": {
+      "salutation": "Firma",
+      "name": "Matthias Stengel",
+      "name3": "",
+      "street": "Ostanger 2",
+      "city": "Kiel",
+      "postal_code": "24149",
+      "country": "Deutschland",
+      "phone": "(01 76) 84 47 41 08",
+      "fax": "",
+      "email": "flammlachs@kabelmail.de"
+    },
+    "delivery_schedule": {
+      "monday": "",
+      "tuesday": "",
+      "wednesday": "",
+      "thursday": "",
+      "friday": "",
+      "saturday": ""
+    },
+    "settings": {
+      "webshop_enabled": true,
+      "ds_addresses": false,
+      "no_pickup_app": false,
+      "minimum_order_value": null,
+      "articles_not_in_history": ""
+    },
+    "additional_addresses": [
+      {
+        "address_number": "0",
+        "salutation": "Firma",
+        "name": "Matthias Stengel",
+        "name3": "",
+        "street": "Ostanger 2",
+        "city": "Kiel",
+        "postal_code": "24149",
+        "country": "Deutschland",
+        "phone": "(01 76) 84 47 41 08",
+        "fax": "",
+        "email": "flammlachs@kabelmail.de",
+        "is_default_billing": true,
+        "is_default_delivery": true
+      }
+    ]
+  },
+  "order_statistics": {
+    "total_orders": 16,
+    "unique_articles_ordered": 16,
+    "recent_orders_count": 16,
+    "last_order_date": "2025-07-11"
+  },
+  "order_history": [
+    {
+      "article_number": "1350",
+      "date": "2025-07-11",
+      "booking_quantity": 10.0,
+      "quantity": 2.0,
+      "unit": "Eimer 5 kg",
+      "article_info": {
+        "short_description": "Tzatziki   5 Kg Eimer",
+        "long_description": "Tzatziki 5 kg Eimer",
+        "product_group": "05.45.15 Dips und Saucen",
+        "unit": "KG"
+      }
+    },
+    {
+      "article_number": "1352",
+      "date": "2025-07-11",
+      "booking_quantity": 110.0,
+      "quantity": 11.0,
+      "unit": "Karton 10 kg",
+      "article_info": {
+        "short_description": "Pommes Frites frisch 10 mm 2 x 5kg BT",
+        "long_description": "Pommes Frites frisch 10 mm 2 x 5 kg Beutel",
+        "product_group": "05.30.05 Pommes",
+        "unit": "KG"
+      }
+    },
+    {
+      "article_number": "1394",
+      "date": "2025-07-11",
+      "booking_quantity": 5.0,
+      "quantity": 1.0,
+      "unit": "Eimer 5 kg",
+      "article_info": {
+        "short_description": "Weisskrautsalat Pik. 5 kg EI",
+        "long_description": "Weißkrautsalat pikant 5 kg Eimer",
+        "product_group": "05.35.15 Salate",
+        "unit": "KG"
+      }
+    },
+    {
+      "article_number": "1658",
+      "date": "2025-07-11",
+      "booking_quantity": 10.0,
+      "quantity": 1.0,
+      "unit": "Karton 10 kg",
+      "article_info": {
+        "short_description": "Gyros - Spieß, gefroren, 10 kg/ KT",
+        "long_description": "Gyros - Spieß, gefroren, 10 kg/ KT",
+        "product_group": "05.05.10.05 TK",
+        "unit": "KG"
+      }
+    },
+    {
+      "article_number": "3037",
+      "date": "2025-07-11",
+      "booking_quantity": 20.0,
+      "quantity": 2.0,
+      "unit": "Pack 10 Stk.",
+      "article_info": {
+        "short_description": "TK Döner Brot",
+        "long_description": "Dönerbrot TK",
+        "product_group": "05.40.10 Brotwaren",
+        "unit": "ST"
+      }
+    },
+    {
+      "article_number": "1351",
+      "date": "2025-06-27",
+      "booking_quantity": 20.0,
+      "quantity": 4.0,
+      "unit": "Eimer 5 kg",
+      "article_info": {
+        "short_description": "Salatmayonaise \"GOLD\"  5kg Eimer",
+        "long_description": "Salatmayonaise \"GOLD\"  5kg Eimer",
+        "product_group": "05.45.05 Mayonnaise",
+        "unit": "KG"
+      }
+    },
+    {
+      "article_number": "1517",
+      "date": "2025-06-27",
+      "booking_quantity": 30.0,
+      "quantity": 3.0,
+      "unit": "Pack 10 Stk.",
+      "article_info": {
+        "short_description": "Curryknacker 180g in EH",
+        "long_description": "Curryknacker 180g in EH",
+        "product_group": "05.05.10.10 Frisch",
+        "unit": "ST"
+      }
+    },
+    {
+      "article_number": "1513",
+      "date": "2025-06-27",
+      "booking_quantity": 240.0,
+      "quantity": 12.0,
+      "unit": "Beutel 20 Stk.",
+      "article_info": {
+        "short_description": "Curryknacker 160g in EH",
+        "long_description": "Curryknacker 160 g in EH",
+        "product_group": "05.05.10.10 Frisch",
+        "unit": "ST"
+      }
+    },
+    {
+      "article_number": "2140",
+      "date": "2025-06-27",
+      "booking_quantity": 3.0,
+      "quantity": 3.0,
+      "unit": "Tube 1",
+      "article_info": {
+        "short_description": "Senf mittelscharf 1000 ml Tube",
+        "long_description": "Senf mittelscharf 1000 ml Tube BAUTZNER",
+        "product_group": "05.45.13 Senf",
+        "unit": "ST"
+      }
+    },
+    {
+      "article_number": "2429",
+      "date": "2025-06-27",
+      "booking_quantity": 40.0,
+      "quantity": 2.0,
+      "unit": "Beutel 20 Stk.",
+      "article_info": {
+        "short_description": "Festival Schinkenkrakauer 20 x 150g",
+        "long_description": "Festival Schinkenkrakauer 20 x 150g",
+        "product_group": "05.05.10.10 Frisch",
+        "unit": "ST"
+      }
+    },
+    {
+      "article_number": "2428",
+      "date": "2025-06-27",
+      "booking_quantity": 100.0,
+      "quantity": 5.0,
+      "unit": "Beutel 20 Stk.",
+      "article_info": {
+        "short_description": "Festival Rostbratwurst 20 x 150g",
+        "long_description": "Festival Rostbratwurst 20 x 150g",
+        "product_group": "05.05.10.10 Frisch",
+        "unit": "ST"
+      }
+    },
+    {
+      "article_number": "3400",
+      "date": "2025-06-27",
+      "booking_quantity": 112.0,
+      "quantity": 1.0,
+      "unit": "Karton 112 Stk.",
+      "article_info": {
+        "short_description": "Baguette-Brötchen geschnitten 60g gebacken",
+        "long_description": "Baguette-Brötchen geschnitten 60 g gebacken",
+        "product_group": "05.40.10 Brotwaren",
+        "unit": "ST"
+      }
+    },
+    {
+      "article_number": "1380",
+      "date": "2025-05-31",
+      "booking_quantity": 1.0,
+      "quantity": 1.0,
+      "unit": "Beutel 1 kg",
+      "article_info": {
+        "short_description": "Red Hot Chili Poppers 1kg",
+        "long_description": "Red Hot Chili Poppers 1 kg",
+        "product_group": "05.40.15 Convenience Food",
+        "unit": "KG"
+      }
+    },
+    {
+      "article_number": "1383",
+      "date": "2025-05-31",
+      "booking_quantity": 6.0,
+      "quantity": 2.0,
+      "unit": "Kiste 3 Kg",
+      "article_info": {
+        "short_description": "Champignons frisch Kiste 3 Kg",
+        "long_description": "Champignons frisch 3 kg Kiste",
+        "product_group": "05.35.05 Frischgemüse",
+        "unit": "KG"
+      }
+    },
+    {
+      "article_number": "2050",
+      "date": "2025-05-31",
+      "booking_quantity": 2.0,
+      "quantity": 1.0,
+      "unit": "Pack 2 kg",
+      "article_info": {
+        "short_description": "Knoblauchsauce 2 Kg",
+        "long_description": "Knoblauchsauce 2 kg",
+        "product_group": "05.45.15 Dips und Saucen",
+        "unit": "KG"
+      }
+    },
+    {
+      "article_number": "1901",
+      "date": "2025-05-24",
+      "booking_quantity": 5.0,
+      "quantity": 1.0,
+      "unit": "Eimer 5 kg",
+      "article_info": {
+        "short_description": "5 kg Eimer Tomaten Ketchup",
+        "long_description": "Tomaten-Ketchup 5 kg Eimer",
+        "product_group": "05.45.10 Ketchup",
+        "unit": "KG"
+      }
+    }
+  ]
+}

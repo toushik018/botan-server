@@ -1,0 +1,79 @@
+{
+  "metadata": {
+    "generated_at": "2025-09-10T23:17:05.397001",
+    "client_number": "13738",
+    "data_source": "BotanBot XML Export"
+  },
+  "client_profile": {
+    "client_number": "13738",
+    "search_term": "VERANSTANTUNGSSERVICE BRE",
+    "status": "Kunde",
+    "tax_number": "",
+    "vat_id": "",
+    "is_blocked": false,
+    "price_group": "(Std.-Preis)",
+    "billing_address": {
+      "salutation": "Firma",
+      "name": "Veranstaltungsservice Breuel",
+      "name3": "Inh.. Erich Breuel",
+      "street": "Schmiedekoppel 3",
+      "city": "Kastorf",
+      "postal_code": "23847",
+      "country": "Deutschland",
+      "phone": "(01 72) 4 01 11 72",
+      "fax": "(0 45 01) 82 89 38",
+      "email": "ericbreuel@aol.com"
+    },
+    "delivery_address": {
+      "salutation": "Firma",
+      "name": "Veranstaltungsservice Breuel",
+      "name3": "Inh.. Erich Breuel",
+      "street": "Schmiedekoppel 3",
+      "city": "Kastorf",
+      "postal_code": "23847",
+      "country": "Deutschland",
+      "phone": "(01 72) 4 01 11 72",
+      "fax": "(0 45 01) 82 89 38",
+      "email": "ericbreuel@aol.com"
+    },
+    "delivery_schedule": {
+      "monday": "",
+      "tuesday": "5",
+      "wednesday": "",
+      "thursday": "",
+      "friday": "",
+      "saturday": ""
+    },
+    "settings": {
+      "webshop_enabled": false,
+      "ds_addresses": false,
+      "no_pickup_app": false,
+      "minimum_order_value": null,
+      "articles_not_in_history": ""
+    },
+    "additional_addresses": [
+      {
+        "address_number": "0",
+        "salutation": "Firma",
+        "name": "Veranstaltungsservice Breuel",
+        "name3": "Inh.. Erich Breuel",
+        "street": "Schmiedekoppel 3",
+        "city": "Kastorf",
+        "postal_code": "23847",
+        "country": "Deutschland",
+        "phone": "(01 72) 4 01 11 72",
+        "fax": "(0 45 01) 82 89 38",
+        "email": "ericbreuel@aol.com",
+        "is_default_billing": true,
+        "is_default_delivery": true
+      }
+    ]
+  },
+  "order_statistics": {
+    "total_orders": 0,
+    "unique_articles_ordered": 0,
+    "recent_orders_count": 0,
+    "last_order_date": null
+  },
+  "order_history": []
+}

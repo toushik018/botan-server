@@ -1,0 +1,79 @@
+{
+  "metadata": {
+    "generated_at": "2025-09-10T23:17:06.759165",
+    "client_number": "74223",
+    "data_source": "BotanBot XML Export"
+  },
+  "client_profile": {
+    "client_number": "74223",
+    "search_term": "DORN BIERVERTRIEBSGES",
+    "status": "Lieferant",
+    "tax_number": "",
+    "vat_id": "",
+    "is_blocked": false,
+    "price_group": "(Std.-Preis)",
+    "billing_address": {
+      "salutation": "Firma",
+      "name": "Dorn Biervertriebsges. mbH",
+      "name3": "Kd.-Nr.: 33070",
+      "street": "Gärtnerstraße 45",
+      "city": "Kiel",
+      "postal_code": "24113",
+      "country": "Deutschland",
+      "phone": "(04 31) 6 66 76 66",
+      "fax": "(04 31) 6 66 76 48",
+      "email": "service@dorn-getraenke.de"
+    },
+    "delivery_address": {
+      "salutation": "Firma",
+      "name": "Dorn Biervertriebsges. mbH",
+      "name3": "Kd.-Nr.: 33070",
+      "street": "Gärtnerstraße 45",
+      "city": "Kiel",
+      "postal_code": "24113",
+      "country": "Deutschland",
+      "phone": "(04 31) 6 66 76 66",
+      "fax": "(04 31) 6 66 76 48",
+      "email": "service@dorn-getraenke.de"
+    },
+    "delivery_schedule": {
+      "monday": "",
+      "tuesday": "",
+      "wednesday": "",
+      "thursday": "",
+      "friday": "",
+      "saturday": ""
+    },
+    "settings": {
+      "webshop_enabled": false,
+      "ds_addresses": false,
+      "no_pickup_app": false,
+      "minimum_order_value": null,
+      "articles_not_in_history": ""
+    },
+    "additional_addresses": [
+      {
+        "address_number": "0",
+        "salutation": "Firma",
+        "name": "Dorn Biervertriebsges. mbH",
+        "name3": "Kd.-Nr.: 33070",
+        "street": "Gärtnerstraße 45",
+        "city": "Kiel",
+        "postal_code": "24113",
+        "country": "Deutschland",
+        "phone": "(04 31) 6 66 76 66",
+        "fax": "(04 31) 6 66 76 48",
+        "email": "service@dorn-getraenke.de",
+        "is_default_billing": true,
+        "is_default_delivery": true
+      }
+    ]
+  },
+  "order_statistics": {
+    "total_orders": 0,
+    "unique_articles_ordered": 0,
+    "recent_orders_count": 0,
+    "last_order_date": null
+  },
+  "order_history": []
+}

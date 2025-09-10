@@ -1,0 +1,79 @@
+{
+  "metadata": {
+    "generated_at": "2025-09-10T23:17:05.888499",
+    "client_number": "15512",
+    "data_source": "BotanBot XML Export"
+  },
+  "client_profile": {
+    "client_number": "15512",
+    "search_term": "FORTUNA CATERING",
+    "status": "Kunde",
+    "tax_number": "",
+    "vat_id": "GB264949360",
+    "is_blocked": false,
+    "price_group": "(Std.-Preis)",
+    "billing_address": {
+      "salutation": "",
+      "name": "WWBM Ltd.",
+      "name3": "",
+      "street": "31-33 commercial road",
+      "city": "Poole Dorset",
+      "postal_code": "Bh14 0hu",
+      "country": "Großbritannien und Nordirland",
+      "phone": "(01 76) 82 12 14 65",
+      "fax": "",
+      "email": "info@lafortuna-catering.de"
+    },
+    "delivery_address": {
+      "salutation": "",
+      "name": "WWBM Ltd.",
+      "name3": "",
+      "street": "31-33 commercial road",
+      "city": "Poole Dorset",
+      "postal_code": "Bh14 0hu",
+      "country": "Großbritannien und Nordirland",
+      "phone": "(01 76) 82 12 14 65",
+      "fax": "",
+      "email": "info@lafortuna-catering.de"
+    },
+    "delivery_schedule": {
+      "monday": "",
+      "tuesday": "",
+      "wednesday": "",
+      "thursday": "",
+      "friday": "",
+      "saturday": ""
+    },
+    "settings": {
+      "webshop_enabled": false,
+      "ds_addresses": false,
+      "no_pickup_app": false,
+      "minimum_order_value": null,
+      "articles_not_in_history": ""
+    },
+    "additional_addresses": [
+      {
+        "address_number": "0",
+        "salutation": "",
+        "name": "WWBM Ltd.",
+        "name3": "",
+        "street": "31-33 commercial road",
+        "city": "Poole Dorset",
+        "postal_code": "Bh14 0hu",
+        "country": "Großbritannien und Nordirland",
+        "phone": "(01 76) 82 12 14 65",
+        "fax": "",
+        "email": "info@lafortuna-catering.de",
+        "is_default_billing": true,
+        "is_default_delivery": true
+      }
+    ]
+  },
+  "order_statistics": {
+    "total_orders": 0,
+    "unique_articles_ordered": 0,
+    "recent_orders_count": 0,
+    "last_order_date": null
+  },
+  "order_history": []
+}

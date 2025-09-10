@@ -1,0 +1,314 @@
+{
+  "metadata": {
+    "generated_at": "2025-09-10T23:17:05.316165",
+    "client_number": "13458",
+    "data_source": "BotanBot XML Export"
+  },
+  "client_profile": {
+    "client_number": "13458",
+    "search_term": "M&H",
+    "status": "Kunde",
+    "tax_number": "",
+    "vat_id": "",
+    "is_blocked": false,
+    "price_group": "(Std.-Preis)",
+    "billing_address": {
+      "salutation": "",
+      "name": "M & H Burger GmbH",
+      "name3": "",
+      "street": "Bramfelder Chaussee 215",
+      "city": "Hamburg",
+      "postal_code": "22177",
+      "country": "Deutschland",
+      "phone": "(0 40) 33 98 - 72 17",
+      "fax": "",
+      "email": "mohamed_hussein@hotmail.de"
+    },
+    "delivery_address": {
+      "salutation": "",
+      "name": "M & H Burger GmbH",
+      "name3": "",
+      "street": "Bramfelder Chaussee 215",
+      "city": "Hamburg",
+      "postal_code": "22177",
+      "country": "Deutschland",
+      "phone": "(0 40) 33 98 - 72 17",
+      "fax": "",
+      "email": "mohamed_hussein@hotmail.de"
+    },
+    "delivery_schedule": {
+      "monday": "2",
+      "tuesday": "",
+      "wednesday": "",
+      "thursday": "8",
+      "friday": "",
+      "saturday": ""
+    },
+    "settings": {
+      "webshop_enabled": true,
+      "ds_addresses": false,
+      "no_pickup_app": false,
+      "minimum_order_value": null,
+      "articles_not_in_history": "2120"
+    },
+    "additional_addresses": [
+      {
+        "address_number": "0",
+        "salutation": "",
+        "name": "M & H Burger GmbH",
+        "name3": "",
+        "street": "Bramfelder Chaussee 215",
+        "city": "Hamburg",
+        "postal_code": "22177",
+        "country": "Deutschland",
+        "phone": "(0 40) 33 98 - 72 17",
+        "fax": "",
+        "email": "mohamed_hussein@hotmail.de",
+        "is_default_billing": true,
+        "is_default_delivery": true
+      }
+    ]
+  },
+  "order_statistics": {
+    "total_orders": 18,
+    "unique_articles_ordered": 18,
+    "recent_orders_count": 18,
+    "last_order_date": "2025-08-21"
+  },
+  "order_history": [
+    {
+      "article_number": "3003",
+      "date": "2025-08-21",
+      "booking_quantity": 2544.0,
+      "quantity": 53.0,
+      "unit": "Karton 48 Stk.",
+      "article_info": {
+        "short_description": "Sesam Brötchen 4-Inch (55g) 100mm  4x 12 Stk.",
+        "long_description": "Sesambrötchen 4 Inch 55 g 100 mm 4 x 12 Stück",
+        "product_group": "05.40.10 Brotwaren",
+        "unit": "ST"
+      }
+    },
+    {
+      "article_number": "2687",
+      "date": "2025-08-21",
+      "booking_quantity": 199.0,
+      "quantity": 199.0,
+      "unit": "Beutel 1 kg",
+      "article_info": {
+        "short_description": "Spicy Chicken Burger ca. 130g gegart 1kg/Beutel",
+        "long_description": "Spicy Chicken Burger ca. 130g gegart 1kg/Beutel",
+        "product_group": "05.05.20.05 TK",
+        "unit": "BT"
+      }
+    },
+    {
+      "article_number": "1490",
+      "date": "2025-08-21",
+      "booking_quantity": 3120.0,
+      "quantity": 39.0,
+      "unit": "Karton 80 Stk.",
+      "article_info": {
+        "short_description": "Best Burger 80 x 62,5 g Halal",
+        "long_description": "Best Burger 80 x 62,5 g Halal",
+        "product_group": "05.05.05.05 TK",
+        "unit": "ST"
+      }
+    },
+    {
+      "article_number": "1864",
+      "date": "2025-08-21",
+      "booking_quantity": 427.5,
+      "quantity": 171.0,
+      "unit": "Beutel 2,5 kg",
+      "article_info": {
+        "short_description": "Twister, gewürzt 2,5 Kg  BT TK",
+        "long_description": "Twister gewürzt 4 x 2,5 kg/Beutel TK",
+        "product_group": "05.30.10 weitere",
+        "unit": "KG"
+      }
+    },
+    {
+      "article_number": "3002",
+      "date": "2025-08-18",
+      "booking_quantity": 4584.0,
+      "quantity": 191.0,
+      "unit": "Karton 24 Stk.",
+      "article_info": {
+        "short_description": "Sesambrötchen 5 -Inch (80g) 125mm 24Stk.",
+        "long_description": "Sesambrötchen 5 Inch 80 g 125 mm 24 Stück",
+        "product_group": "05.40.10 Brotwaren",
+        "unit": "ST"
+      }
+    },
+    {
+      "article_number": "1475",
+      "date": "2025-08-04",
+      "booking_quantity": 15.0,
+      "quantity": 15.0,
+      "unit": "Karton 1",
+      "article_info": {
+        "short_description": "Hähnchen-Formschnitzel pan. 125g,  3kg",
+        "long_description": "Hähnchen-Formschnitzel paniert 125g/Stück 3 kg",
+        "product_group": "05.05.20.05 TK",
+        "unit": "KT"
+      }
+    },
+    {
+      "article_number": "2721",
+      "date": "2025-07-14",
+      "booking_quantity": 1350.0,
+      "quantity": 25.0,
+      "unit": "Karton 54 Stk.",
+      "article_info": {
+        "short_description": "Smash Burger 54 x 80g TK",
+        "long_description": "Smash Burger 54 x 80g TK",
+        "product_group": "05.05.05.05 TK",
+        "unit": "ST"
+      }
+    },
+    {
+      "article_number": "1489",
+      "date": "2025-06-30",
+      "booking_quantity": 2600.0,
+      "quantity": 52.0,
+      "unit": "Karton 50 Stk.",
+      "article_info": {
+        "short_description": "Best Burger 50 x 100g Halal",
+        "long_description": "Best Burger 50 x 100g Halal",
+        "product_group": "05.05.05.05 TK",
+        "unit": "ST"
+      }
+    },
+    {
+      "article_number": "9174",
+      "date": "2025-06-30",
+      "booking_quantity": 51.0,
+      "quantity": 17.0,
+      "unit": "Karton 3 kg",
+      "article_info": {
+        "short_description": "Hähnchen Knusper Happen 3KG/ KT  Hanna",
+        "long_description": "Hanna Hähnchen-Knusperhappen 3 kg Karton",
+        "product_group": "05.05.20.05 TK",
+        "unit": "KG"
+      }
+    },
+    {
+      "article_number": "1377",
+      "date": "2025-06-26",
+      "booking_quantity": 40.0,
+      "quantity": 4.0,
+      "unit": "Karton 10 kg",
+      "article_info": {
+        "short_description": "Pommes Frites TK Julienne 4 x 2,5 Kg",
+        "long_description": "Pommes Frites Julienne 4 x 2,5 kg Beutel TK",
+        "product_group": "05.30.05 Pommes",
+        "unit": "KG"
+      }
+    },
+    {
+      "article_number": "1375",
+      "date": "2025-06-19",
+      "booking_quantity": 20.0,
+      "quantity": 8.0,
+      "unit": "Beutel 2,5 kg",
+      "article_info": {
+        "short_description": "Potato Wedges TK gewür. 2,5 kg",
+        "long_description": "Potato Wedges gewürzt  2,5 kg TK",
+        "product_group": "05.30.10 weitere",
+        "unit": "KG"
+      }
+    },
+    {
+      "article_number": "1947",
+      "date": "2025-06-16",
+      "booking_quantity": 10.0,
+      "quantity": 1.0,
+      "unit": "Karton 10 kg",
+      "article_info": {
+        "short_description": "Coated Pommes Julienne  TK 4 x 2,5 Kg",
+        "long_description": "TK Coated Pommes Julienne 4 x 2,5 kg Beutel",
+        "product_group": "05.30.05 Pommes",
+        "unit": "KG"
+      }
+    },
+    {
+      "article_number": "3240",
+      "date": "2025-06-16",
+      "booking_quantity": 30.0,
+      "quantity": 1.0,
+      "unit": "Karton 30 Stk.",
+      "article_info": {
+        "short_description": "Potato Bun 4 inch 11cm 80 Stk. TK \"Level up\"",
+        "long_description": "Potato Bun 4 inch 11cm 80 Stk. TK \"Level up\"",
+        "product_group": "05.40.10 Brotwaren",
+        "unit": "ST"
+      }
+    },
+    {
+      "article_number": "2053",
+      "date": "2025-06-07",
+      "booking_quantity": 4.5,
+      "quantity": 1.0,
+      "unit": "Eimer 4,5 KG",
+      "article_info": {
+        "short_description": "Knoblauchcreme 4,5 Kg Märker",
+        "long_description": "Märker Knoblauchcreme 4,5 kg",
+        "product_group": "05.45.15 Dips und Saucen",
+        "unit": "KG"
+      }
+    },
+    {
+      "article_number": "2269",
+      "date": "2025-06-05",
+      "booking_quantity": 10.0,
+      "quantity": 1.0,
+      "unit": "Karton 10 kg",
+      "article_info": {
+        "short_description": "TK Süsskartoffelpommes  4x2,5 kg",
+        "long_description": "TK Süßkartoffelpommes 4 x 2,5 kg Beutel",
+        "product_group": "05.30.05 Pommes",
+        "unit": "KG"
+      }
+    },
+    {
+      "article_number": "999999",
+      "date": "2025-05-30",
+      "booking_quantity": 0.0,
+      "quantity": 0.0,
+      "unit": "",
+      "article_info": {
+        "short_description": "",
+        "long_description": "",
+        "product_group": "",
+        "unit": ""
+      }
+    },
+    {
+      "article_number": "3500",
+      "date": "2025-05-26",
+      "booking_quantity": 12.0,
+      "quantity": 12.0,
+      "unit": "Pack 1",
+      "article_info": {
+        "short_description": "Truthan Bacon  500g",
+        "long_description": "Truthan Bacon 500g",
+        "product_group": "05.05.20.05 TK",
+        "unit": "PK"
+      }
+    },
+    {
+      "article_number": "3403",
+      "date": "2025-05-26",
+      "booking_quantity": 10.0,
+      "quantity": 1.0,
+      "unit": "Karton 10 kg",
+      "article_info": {
+        "short_description": "TK Aviko Super Crunch Pommes 9,5mm 4x2,5 KG",
+        "long_description": "TK Aviko Super Crunch Pommes 9,5mm 4x2,5 KG",
+        "product_group": "05.30.05 Pommes",
+        "unit": "KG"
+      }
+    }
+  ]
+}

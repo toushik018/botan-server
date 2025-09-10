@@ -1,0 +1,79 @@
+{
+  "metadata": {
+    "generated_at": "2025-09-10T23:17:05.768525",
+    "client_number": "15101",
+    "data_source": "BotanBot XML Export"
+  },
+  "client_profile": {
+    "client_number": "15101",
+    "search_term": "",
+    "status": "Kunde",
+    "tax_number": "",
+    "vat_id": "",
+    "is_blocked": false,
+    "price_group": "(Std.-Preis)",
+    "billing_address": {
+      "salutation": "Firma",
+      "name": "Mezopotamien Grill Haus",
+      "name3": "Inh. Shikhmosa",
+      "street": "Grosse Paaschburg 41",
+      "city": "Itzehoe",
+      "postal_code": "25524",
+      "country": "Deutschland",
+      "phone": "(01 52) 51 42 52 77",
+      "fax": "",
+      "email": ""
+    },
+    "delivery_address": {
+      "salutation": "Firma",
+      "name": "Mezopotamien Grill Haus",
+      "name3": "Inh. Shikhmosa",
+      "street": "Grosse Paaschburg 41",
+      "city": "Itzehoe",
+      "postal_code": "25524",
+      "country": "Deutschland",
+      "phone": "(01 52) 51 42 52 77",
+      "fax": "",
+      "email": ""
+    },
+    "delivery_schedule": {
+      "monday": "",
+      "tuesday": "",
+      "wednesday": "",
+      "thursday": "",
+      "friday": "",
+      "saturday": ""
+    },
+    "settings": {
+      "webshop_enabled": false,
+      "ds_addresses": false,
+      "no_pickup_app": false,
+      "minimum_order_value": null,
+      "articles_not_in_history": "1513"
+    },
+    "additional_addresses": [
+      {
+        "address_number": "0",
+        "salutation": "Firma",
+        "name": "Mezopotamien Grill Haus",
+        "name3": "Inh. Shikhmosa",
+        "street": "Grosse Paaschburg 41",
+        "city": "Itzehoe",
+        "postal_code": "25524",
+        "country": "Deutschland",
+        "phone": "(01 52) 51 42 52 77",
+        "fax": "",
+        "email": "",
+        "is_default_billing": true,
+        "is_default_delivery": true
+      }
+    ]
+  },
+  "order_statistics": {
+    "total_orders": 0,
+    "unique_articles_ordered": 0,
+    "recent_orders_count": 0,
+    "last_order_date": null
+  },
+  "order_history": []
+}

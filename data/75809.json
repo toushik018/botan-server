@@ -1,0 +1,79 @@
+{
+  "metadata": {
+    "generated_at": "2025-09-10T23:17:06.845736",
+    "client_number": "75809",
+    "data_source": "BotanBot XML Export"
+  },
+  "client_profile": {
+    "client_number": "75809",
+    "search_term": "REWE",
+    "status": "Lieferant",
+    "tax_number": "",
+    "vat_id": "",
+    "is_blocked": false,
+    "price_group": "(Std.-Preis)",
+    "billing_address": {
+      "salutation": "Firma",
+      "name": "REWE-Foodservice GmbH & Co.",
+      "name3": "Betrieb Hamburg Kd. Nr. 49133",
+      "street": "Dratelnstr. 20",
+      "city": "Hamburg",
+      "postal_code": "22041",
+      "country": "Deutschland",
+      "phone": "(0 80) 01 72 27 22",
+      "fax": "(01 80) 18 19 18 - 1",
+      "email": ""
+    },
+    "delivery_address": {
+      "salutation": "Firma",
+      "name": "REWE-Foodservice GmbH & Co.",
+      "name3": "Betrieb Hamburg Kd. Nr. 49133",
+      "street": "Dratelnstr. 20",
+      "city": "Hamburg",
+      "postal_code": "22041",
+      "country": "Deutschland",
+      "phone": "(0 80) 01 72 27 22",
+      "fax": "(01 80) 18 19 18 - 1",
+      "email": ""
+    },
+    "delivery_schedule": {
+      "monday": "30",
+      "tuesday": "",
+      "wednesday": "",
+      "thursday": "30",
+      "friday": "",
+      "saturday": ""
+    },
+    "settings": {
+      "webshop_enabled": false,
+      "ds_addresses": false,
+      "no_pickup_app": false,
+      "minimum_order_value": null,
+      "articles_not_in_history": ""
+    },
+    "additional_addresses": [
+      {
+        "address_number": "0",
+        "salutation": "Firma",
+        "name": "REWE-Foodservice GmbH & Co.",
+        "name3": "Betrieb Hamburg Kd. Nr. 49133",
+        "street": "Dratelnstr. 20",
+        "city": "Hamburg",
+        "postal_code": "22041",
+        "country": "Deutschland",
+        "phone": "(0 80) 01 72 27 22",
+        "fax": "(01 80) 18 19 18 - 1",
+        "email": "",
+        "is_default_billing": true,
+        "is_default_delivery": true
+      }
+    ]
+  },
+  "order_statistics": {
+    "total_orders": 0,
+    "unique_articles_ordered": 0,
+    "recent_orders_count": 0,
+    "last_order_date": null
+  },
+  "order_history": []
+}

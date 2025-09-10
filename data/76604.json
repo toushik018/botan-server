@@ -1,0 +1,79 @@
+{
+  "metadata": {
+    "generated_at": "2025-09-10T23:17:06.878418",
+    "client_number": "76604",
+    "data_source": "BotanBot XML Export"
+  },
+  "client_profile": {
+    "client_number": "76604",
+    "search_term": "GOLPOL",
+    "status": "Lieferant",
+    "tax_number": "",
+    "vat_id": "PL7881460773",
+    "is_blocked": false,
+    "price_group": "(Std.-Preis)",
+    "billing_address": {
+      "salutation": "",
+      "name": "P.H.U. GOLPOL",
+      "name3": "Zbigniew Golczak",
+      "street": "Wielichowo-Wies Czeresniowa 1",
+      "city": "Pl-Wielichowo",
+      "postal_code": "64-050",
+      "country": "Polen",
+      "phone": "+48 (6 90) 22 35 70",
+      "fax": "",
+      "email": "golpol1@wp.pl"
+    },
+    "delivery_address": {
+      "salutation": "",
+      "name": "P.H.U. GOLPOL",
+      "name3": "Zbigniew Golczak",
+      "street": "Wielichowo-Wies Czeresniowa 1",
+      "city": "Pl-Wielichowo",
+      "postal_code": "64-050",
+      "country": "Polen",
+      "phone": "+48 (6 90) 22 35 70",
+      "fax": "",
+      "email": "golpol1@wp.pl"
+    },
+    "delivery_schedule": {
+      "monday": "30",
+      "tuesday": "",
+      "wednesday": "",
+      "thursday": "",
+      "friday": "30",
+      "saturday": ""
+    },
+    "settings": {
+      "webshop_enabled": false,
+      "ds_addresses": false,
+      "no_pickup_app": false,
+      "minimum_order_value": null,
+      "articles_not_in_history": ""
+    },
+    "additional_addresses": [
+      {
+        "address_number": "0",
+        "salutation": "",
+        "name": "P.H.U. GOLPOL",
+        "name3": "Zbigniew Golczak",
+        "street": "Wielichowo-Wies Czeresniowa 1",
+        "city": "Pl-Wielichowo",
+        "postal_code": "64-050",
+        "country": "Polen",
+        "phone": "+48 (6 90) 22 35 70",
+        "fax": "",
+        "email": "golpol1@wp.pl",
+        "is_default_billing": true,
+        "is_default_delivery": true
+      }
+    ]
+  },
+  "order_statistics": {
+    "total_orders": 0,
+    "unique_articles_ordered": 0,
+    "recent_orders_count": 0,
+    "last_order_date": null
+  },
+  "order_history": []
+}

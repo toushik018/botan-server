@@ -1,0 +1,79 @@
+{
+  "metadata": {
+    "generated_at": "2025-09-10T23:17:05.186834",
+    "client_number": "13030",
+    "data_source": "BotanBot XML Export"
+  },
+  "client_profile": {
+    "client_number": "13030",
+    "search_term": "MOUSSA`S PIZZERIA",
+    "status": "Kunde",
+    "tax_number": "",
+    "vat_id": "",
+    "is_blocked": false,
+    "price_group": "(Std.-Preis)",
+    "billing_address": {
+      "salutation": "",
+      "name": "Moussa`s Pizzeria",
+      "name3": "Inh. Ali Kabul",
+      "street": "Süderstrasse 36",
+      "city": "Harrislee",
+      "postal_code": "24955",
+      "country": "Deutschland",
+      "phone": "(04 61) 12 07 96 07",
+      "fax": "(04 61) 50 58 - 8 39",
+      "email": ""
+    },
+    "delivery_address": {
+      "salutation": "",
+      "name": "Moussa`s Pizzeria",
+      "name3": "Inh. Ali Kabul",
+      "street": "Süderstrasse 36",
+      "city": "Harrislee",
+      "postal_code": "24955",
+      "country": "Deutschland",
+      "phone": "(04 61) 12 07 96 07",
+      "fax": "(04 61) 50 58 - 8 39",
+      "email": ""
+    },
+    "delivery_schedule": {
+      "monday": "",
+      "tuesday": "",
+      "wednesday": "",
+      "thursday": "",
+      "friday": "",
+      "saturday": ""
+    },
+    "settings": {
+      "webshop_enabled": false,
+      "ds_addresses": false,
+      "no_pickup_app": false,
+      "minimum_order_value": null,
+      "articles_not_in_history": ""
+    },
+    "additional_addresses": [
+      {
+        "address_number": "0",
+        "salutation": "",
+        "name": "Moussa`s Pizzeria",
+        "name3": "Inh. Ali Kabul",
+        "street": "Süderstrasse 36",
+        "city": "Harrislee",
+        "postal_code": "24955",
+        "country": "Deutschland",
+        "phone": "(04 61) 12 07 96 07",
+        "fax": "(04 61) 50 58 - 8 39",
+        "email": "",
+        "is_default_billing": true,
+        "is_default_delivery": true
+      }
+    ]
+  },
+  "order_statistics": {
+    "total_orders": 0,
+    "unique_articles_ordered": 0,
+    "recent_orders_count": 0,
+    "last_order_date": null
+  },
+  "order_history": []
+}

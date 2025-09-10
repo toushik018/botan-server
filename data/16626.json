@@ -1,0 +1,79 @@
+{
+  "metadata": {
+    "generated_at": "2025-09-10T23:17:06.245209",
+    "client_number": "16626",
+    "data_source": "BotanBot XML Export"
+  },
+  "client_profile": {
+    "client_number": "16626",
+    "search_term": "MASALA DARBAR",
+    "status": "Kunde",
+    "tax_number": "",
+    "vat_id": "",
+    "is_blocked": false,
+    "price_group": "(Std.-Preis)",
+    "billing_address": {
+      "salutation": "",
+      "name": "Masala Darbar",
+      "name3": "Inh. Muzamil Siddiqui",
+      "street": "Pfaffenstraße 1-5",
+      "city": "Lübeck",
+      "postal_code": "23552",
+      "country": "Deutschland",
+      "phone": "(01 76) 61 86 81 29",
+      "fax": "",
+      "email": "muzzam@hotmail.com"
+    },
+    "delivery_address": {
+      "salutation": "",
+      "name": "Masala Darbar",
+      "name3": "Inh. Muzamil Siddiqui",
+      "street": "Pfaffenstraße 1-5",
+      "city": "Lübeck",
+      "postal_code": "23552",
+      "country": "Deutschland",
+      "phone": "(01 76) 61 86 81 29",
+      "fax": "",
+      "email": "muzzam@hotmail.com"
+    },
+    "delivery_schedule": {
+      "monday": "",
+      "tuesday": "",
+      "wednesday": "7",
+      "thursday": "",
+      "friday": "",
+      "saturday": ""
+    },
+    "settings": {
+      "webshop_enabled": false,
+      "ds_addresses": false,
+      "no_pickup_app": false,
+      "minimum_order_value": null,
+      "articles_not_in_history": ""
+    },
+    "additional_addresses": [
+      {
+        "address_number": "0",
+        "salutation": "",
+        "name": "Masala Darbar",
+        "name3": "Inh. Muzamil Siddiqui",
+        "street": "Pfaffenstraße 1-5",
+        "city": "Lübeck",
+        "postal_code": "23552",
+        "country": "Deutschland",
+        "phone": "(01 76) 61 86 81 29",
+        "fax": "",
+        "email": "muzzam@hotmail.com",
+        "is_default_billing": true,
+        "is_default_delivery": true
+      }
+    ]
+  },
+  "order_statistics": {
+    "total_orders": 0,
+    "unique_articles_ordered": 0,
+    "recent_orders_count": 0,
+    "last_order_date": null
+  },
+  "order_history": []
+}

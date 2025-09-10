@@ -1,0 +1,394 @@
+{
+  "metadata": {
+    "generated_at": "2025-09-10T23:17:06.621416",
+    "client_number": "17603",
+    "data_source": "BotanBot XML Export"
+  },
+  "client_profile": {
+    "client_number": "17603",
+    "search_term": "CHUTNEY INDIAN FOOD",
+    "status": "Kunde",
+    "tax_number": "",
+    "vat_id": "",
+    "is_blocked": false,
+    "price_group": "(Std.-Preis)",
+    "billing_address": {
+      "salutation": "",
+      "name": "Street Kitchen SY GmbH",
+      "name3": "",
+      "street": "Jenkelweg 11",
+      "city": "Hamburg",
+      "postal_code": "22119",
+      "country": "Deutschland",
+      "phone": "(0 17) 62 06 - 6 59 96",
+      "fax": "",
+      "email": "chutney.norderstedt@gmail.com"
+    },
+    "delivery_address": {
+      "salutation": "",
+      "name": "Chutney Indian Food",
+      "name3": "",
+      "street": "Berliner Allee 38",
+      "city": "Norderstedt",
+      "postal_code": "22850",
+      "country": "Deutschland",
+      "phone": "",
+      "fax": "",
+      "email": "chutney.norderstedt@gmail.com"
+    },
+    "delivery_schedule": {
+      "monday": "",
+      "tuesday": "3",
+      "wednesday": "",
+      "thursday": "",
+      "friday": "",
+      "saturday": ""
+    },
+    "settings": {
+      "webshop_enabled": true,
+      "ds_addresses": false,
+      "no_pickup_app": false,
+      "minimum_order_value": null,
+      "articles_not_in_history": ""
+    },
+    "additional_addresses": [
+      {
+        "address_number": "0",
+        "salutation": "",
+        "name": "Street Kitchen SY GmbH",
+        "name3": "",
+        "street": "Jenkelweg 11",
+        "city": "Hamburg",
+        "postal_code": "22119",
+        "country": "Deutschland",
+        "phone": "(0 17) 62 06 - 6 59 96",
+        "fax": "",
+        "email": "chutney.norderstedt@gmail.com",
+        "is_default_billing": true,
+        "is_default_delivery": false
+      },
+      {
+        "address_number": "1",
+        "salutation": "",
+        "name": "Chutney Indian Food",
+        "name3": "",
+        "street": "Berliner Allee 38",
+        "city": "Norderstedt",
+        "postal_code": "22850",
+        "country": "Deutschland",
+        "phone": "",
+        "fax": "",
+        "email": "chutney.norderstedt@gmail.com",
+        "is_default_billing": false,
+        "is_default_delivery": true
+      }
+    ]
+  },
+  "order_statistics": {
+    "total_orders": 23,
+    "unique_articles_ordered": 23,
+    "recent_orders_count": 23,
+    "last_order_date": "2025-08-20"
+  },
+  "order_history": [
+    {
+      "article_number": "2300025",
+      "date": "2025-08-20",
+      "booking_quantity": -660.0,
+      "quantity": -660.0,
+      "unit": "Dose 1 Stk.",
+      "article_info": {
+        "short_description": "Rücknahme Pflichtpfand DPG",
+        "long_description": "Rücknahme Pflichtpfand DPG",
+        "product_group": "90.05 Pfand",
+        "unit": "ST"
+      }
+    },
+    {
+      "article_number": "1532",
+      "date": "2025-08-19",
+      "booking_quantity": 100.0,
+      "quantity": 20.0,
+      "unit": "Eimer 5 kg",
+      "article_info": {
+        "short_description": "Vollmilch Joghurt 3,5%  Milram 5 Kg Eimer",
+        "long_description": "Milram Vollmilch-Joghurt 3,5 % 5 kg Eimer",
+        "product_group": "05.15.10 Joghurt",
+        "unit": "KG"
+      }
+    },
+    {
+      "article_number": "23000025",
+      "date": "2025-08-19",
+      "booking_quantity": 1626.0,
+      "quantity": 124.0,
+      "unit": "Karton 18",
+      "article_info": {
+        "short_description": "Pflichtpfand Einwegartikel DPG",
+        "long_description": "Pflichtpfand Einwegartikel DPG",
+        "product_group": "90.05 Pfand",
+        "unit": "ST"
+      }
+    },
+    {
+      "article_number": "9557",
+      "date": "2025-08-19",
+      "booking_quantity": 216.0,
+      "quantity": 12.0,
+      "unit": "Karton 18",
+      "article_info": {
+        "short_description": "Vio Still Ap.18 x 0,5 l DPG",
+        "long_description": "Apollinaris Vio Still 18 x 0,5 l DPG Flasche Kiste",
+        "product_group": "15.15.15 0,5 l Flasche",
+        "unit": "FL"
+      }
+    },
+    {
+      "article_number": "9581",
+      "date": "2025-08-19",
+      "booking_quantity": 240.0,
+      "quantity": 20.0,
+      "unit": "KI 12",
+      "article_info": {
+        "short_description": "Coca Cola Zero 12 x 0,5 l DPG",
+        "long_description": "Coca Cola Zero 12 x 0,5 l DPG",
+        "product_group": "15.05.20 0,5 l Flasche",
+        "unit": "FL"
+      }
+    },
+    {
+      "article_number": "1227",
+      "date": "2025-08-19",
+      "booking_quantity": 84.0,
+      "quantity": 7.0,
+      "unit": "KI 12",
+      "article_info": {
+        "short_description": "Sprite 12 x 0,5 l DPG",
+        "long_description": "Sprite 12 x 0,5 l DPG",
+        "product_group": "15.05.20 0,5 l Flasche",
+        "unit": "FL"
+      }
+    },
+    {
+      "article_number": "1225",
+      "date": "2025-08-19",
+      "booking_quantity": 132.0,
+      "quantity": 11.0,
+      "unit": "KI 12",
+      "article_info": {
+        "short_description": "Mezzo Mix 12 x 0,5 l DPG",
+        "long_description": "Mezzo Mix 12 x 0,5 l DPG",
+        "product_group": "15.05.20 0,5 l Flasche",
+        "unit": "FL"
+      }
+    },
+    {
+      "article_number": "1226",
+      "date": "2025-08-19",
+      "booking_quantity": 132.0,
+      "quantity": 11.0,
+      "unit": "KI 12",
+      "article_info": {
+        "short_description": "Fanta Orange 12 x 0,5 l DPG",
+        "long_description": "Fanta Orange 12 x 0,5 l DPG",
+        "product_group": "15.05.20 0,5 l Flasche",
+        "unit": "FL"
+      }
+    },
+    {
+      "article_number": "1223",
+      "date": "2025-08-19",
+      "booking_quantity": 264.0,
+      "quantity": 22.0,
+      "unit": "KI 12",
+      "article_info": {
+        "short_description": "Coca Cola 12 x 0,5 l DPG",
+        "long_description": "Coca Cola 12 x 0,5 l DPG",
+        "product_group": "15.05.20 0,5 l Flasche",
+        "unit": "FL"
+      }
+    },
+    {
+      "article_number": "8924",
+      "date": "2025-08-19",
+      "booking_quantity": 96.0,
+      "quantity": 8.0,
+      "unit": "TR 12",
+      "article_info": {
+        "short_description": "Fuze Tea Zitrone 12 x 0,4 l Pet-Flasche",
+        "long_description": "Fuze Tea Zitrone 12 x 0,4 l Pet-Flasche",
+        "product_group": "15.05.13 0,4 l Flasche",
+        "unit": "FL"
+      }
+    },
+    {
+      "article_number": "8922",
+      "date": "2025-08-19",
+      "booking_quantity": 120.0,
+      "quantity": 10.0,
+      "unit": "TR 12",
+      "article_info": {
+        "short_description": "FUZE Pfirsich 12 x 0,4 l Pet  Flasche",
+        "long_description": "Fuze Tea Pfirsich 12 x 0,4 l Pet-Flasche",
+        "product_group": "15.05.13 0,4 l Flasche",
+        "unit": "FL"
+      }
+    },
+    {
+      "article_number": "3210",
+      "date": "2025-08-19",
+      "booking_quantity": 42.0,
+      "quantity": 42.0,
+      "unit": "Pack 1",
+      "article_info": {
+        "short_description": "Deckel für MW-Schale, transparent 50 Stk.",
+        "long_description": "Deckel für MW-Schale, transparent 50 Stk.",
+        "product_group": "10.05.65 Trinkbecher und Deckel",
+        "unit": "PK"
+      }
+    },
+    {
+      "article_number": "3200",
+      "date": "2025-08-19",
+      "booking_quantity": 42.0,
+      "quantity": 42.0,
+      "unit": "Pack 1",
+      "article_info": {
+        "short_description": "MW-Schale, 2 fach, schwarz, PP 50 Stk.",
+        "long_description": "MW-Schale, 2 fach, schwarz, PP 50 Stk.",
+        "product_group": "10.05.45 Papp- und Menüteller",
+        "unit": "PK"
+      }
+    },
+    {
+      "article_number": "1329",
+      "date": "2025-08-19",
+      "booking_quantity": 90.0,
+      "quantity": 9.0,
+      "unit": "Kanister 10 l",
+      "article_info": {
+        "short_description": "Rapsöl 10 Liter",
+        "long_description": "Rapsöl 10 l",
+        "product_group": "05.25.20.05 Öle",
+        "unit": "LI"
+      }
+    },
+    {
+      "article_number": "1535",
+      "date": "2025-08-19",
+      "booking_quantity": 100.0,
+      "quantity": 100.0,
+      "unit": "Pack 1",
+      "article_info": {
+        "short_description": "MILRAM H-Schlagsahne 30 %  1 Liter",
+        "long_description": "Milram H-Schlagsahne 30 % 1 l",
+        "product_group": "05.15.20 Sahne",
+        "unit": "PK"
+      }
+    },
+    {
+      "article_number": "1003",
+      "date": "2025-08-19",
+      "booking_quantity": 72.0,
+      "quantity": 6.0,
+      "unit": "KI 12",
+      "article_info": {
+        "short_description": "Lift Apfelschorle 12 x 0,5 l DPG",
+        "long_description": "Lift Apfelschorle 12 x 0,5 l DPG",
+        "product_group": "15.05.20 0,5 l Flasche",
+        "unit": "FL"
+      }
+    },
+    {
+      "article_number": "9559",
+      "date": "2025-08-19",
+      "booking_quantity": 162.0,
+      "quantity": 9.0,
+      "unit": "Karton 18",
+      "article_info": {
+        "short_description": "Vio Medium Apollinaris 18 x 0,5 l  DPG",
+        "long_description": "Apollinaris Vio Medium 18 x 0,5 l Flasche DPG",
+        "product_group": "15.15.15 0,5 l Flasche",
+        "unit": "FL"
+      }
+    },
+    {
+      "article_number": "1224",
+      "date": "2025-07-22",
+      "booking_quantity": 72.0,
+      "quantity": 6.0,
+      "unit": "KI 12",
+      "article_info": {
+        "short_description": "Coca Cola Light 12 x 0,5 l DPG",
+        "long_description": "Coca Cola Light 12 x 0,5 l DPG",
+        "product_group": "15.05.20 0,5 l Flasche",
+        "unit": "FL"
+      }
+    },
+    {
+      "article_number": "9700",
+      "date": "2025-07-01",
+      "booking_quantity": 15.0,
+      "quantity": 1.0,
+      "unit": "Kanister 15 kg",
+      "article_info": {
+        "short_description": "Romi Xtra Frittieröl  15 l KN",
+        "long_description": "Romi Xtra Frittieröl 15 l Kanister",
+        "product_group": "05.25.20.10 Fette",
+        "unit": "LI"
+      }
+    },
+    {
+      "article_number": "2727",
+      "date": "2025-07-01",
+      "booking_quantity": 8.0,
+      "quantity": 1.0,
+      "unit": "Karton 8 Stk.",
+      "article_info": {
+        "short_description": "Tork Univ. Spenderserv. 1-lg. 21,6x33cm 9000Stk.",
+        "long_description": "Tork Univ. Spenderserv. 1-lg. 21,6x33cm 9000Stk.",
+        "product_group": "10.05.55 Servietten",
+        "unit": "Stk"
+      }
+    },
+    {
+      "article_number": "1457",
+      "date": "2025-07-01",
+      "booking_quantity": 1.0,
+      "quantity": 1.0,
+      "unit": "Sack",
+      "article_info": {
+        "short_description": "Speisesalz  25 Kg Sack",
+        "long_description": "Speisesalz 25 kg Sack",
+        "product_group": "05.25.15.10 Backzutaten",
+        "unit": "SK"
+      }
+    },
+    {
+      "article_number": "9569",
+      "date": "2025-06-10",
+      "booking_quantity": 36.0,
+      "quantity": 2.0,
+      "unit": "Karton 18",
+      "article_info": {
+        "short_description": "Vio Spritzig 18 x 0,5 l  DPG",
+        "long_description": "Vio Spritzig 18 x 0,5 l  DPG",
+        "product_group": "15.15.15 0,5 l Flasche",
+        "unit": "FL"
+      }
+    },
+    {
+      "article_number": "4530",
+      "date": "2025-06-10",
+      "booking_quantity": 10.0,
+      "quantity": 10.0,
+      "unit": "Pack",
+      "article_info": {
+        "short_description": "Trinkbecher Pappe 0,4 l. neutral / 50 Stk. Beutel",
+        "long_description": "Trinkbecher Pappe 0,4 l. neutral / 50 Stk. Beutel",
+        "product_group": "10.05.65 Trinkbecher und Deckel",
+        "unit": "PK"
+      }
+    }
+  ]
+}

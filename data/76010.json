@@ -1,0 +1,79 @@
+{
+  "metadata": {
+    "generated_at": "2025-09-10T23:17:06.855243",
+    "client_number": "76010",
+    "data_source": "BotanBot XML Export"
+  },
+  "client_profile": {
+    "client_number": "76010",
+    "search_term": "STERILTOM",
+    "status": "Lieferant",
+    "tax_number": "",
+    "vat_id": "IT01072770330",
+    "is_blocked": false,
+    "price_group": "(Std.-Preis)",
+    "billing_address": {
+      "salutation": "Firma",
+      "name": "Steriltom S.R.L.",
+      "name3": "",
+      "street": "Via Provinciale, 90 Loc. Casaliggio",
+      "city": "Gragnano Trebbiense (Pc) Italy",
+      "postal_code": "29010",
+      "country": "Italien",
+      "phone": "+39 (05) 23 78 98 11",
+      "fax": "+39 (05) 23 78 83 23",
+      "email": "steriltom@steriltom.com"
+    },
+    "delivery_address": {
+      "salutation": "Firma",
+      "name": "Steriltom S.R.L.",
+      "name3": "",
+      "street": "Via Provinciale, 90 Loc. Casaliggio",
+      "city": "Gragnano Trebbiense (Pc) Italy",
+      "postal_code": "29010",
+      "country": "Italien",
+      "phone": "+39 (05) 23 78 98 11",
+      "fax": "+39 (05) 23 78 83 23",
+      "email": "steriltom@steriltom.com"
+    },
+    "delivery_schedule": {
+      "monday": "",
+      "tuesday": "",
+      "wednesday": "",
+      "thursday": "",
+      "friday": "",
+      "saturday": ""
+    },
+    "settings": {
+      "webshop_enabled": false,
+      "ds_addresses": false,
+      "no_pickup_app": false,
+      "minimum_order_value": null,
+      "articles_not_in_history": ""
+    },
+    "additional_addresses": [
+      {
+        "address_number": "0",
+        "salutation": "Firma",
+        "name": "Steriltom S.R.L.",
+        "name3": "",
+        "street": "Via Provinciale, 90 Loc. Casaliggio",
+        "city": "Gragnano Trebbiense (Pc) Italy",
+        "postal_code": "29010",
+        "country": "Italien",
+        "phone": "+39 (05) 23 78 98 11",
+        "fax": "+39 (05) 23 78 83 23",
+        "email": "steriltom@steriltom.com",
+        "is_default_billing": true,
+        "is_default_delivery": true
+      }
+    ]
+  },
+  "order_statistics": {
+    "total_orders": 0,
+    "unique_articles_ordered": 0,
+    "recent_orders_count": 0,
+    "last_order_date": null
+  },
+  "order_history": []
+}

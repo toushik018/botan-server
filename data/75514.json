@@ -1,0 +1,79 @@
+{
+  "metadata": {
+    "generated_at": "2025-09-10T23:17:06.836226",
+    "client_number": "75514",
+    "data_source": "BotanBot XML Export"
+  },
+  "client_profile": {
+    "client_number": "75514",
+    "search_term": "OILTRADE",
+    "status": "Lieferant",
+    "tax_number": "",
+    "vat_id": "NL820943149B01",
+    "is_blocked": false,
+    "price_group": "(Std.-Preis)",
+    "billing_address": {
+      "salutation": "Firma",
+      "name": "OTR OILTRADE B.V.",
+      "name3": "",
+      "street": "Expeditiestraat 7",
+      "city": "Giessen",
+      "postal_code": "4283JE",
+      "country": "Niederlande",
+      "phone": "+31 (1 83) 76 37 95",
+      "fax": "",
+      "email": "info@oiltrade.nl"
+    },
+    "delivery_address": {
+      "salutation": "Firma",
+      "name": "OTR OILTRADE B.V.",
+      "name3": "",
+      "street": "Expeditiestraat 7",
+      "city": "Giessen",
+      "postal_code": "4283JE",
+      "country": "Niederlande",
+      "phone": "+31 (1 83) 76 37 95",
+      "fax": "",
+      "email": "info@oiltrade.nl"
+    },
+    "delivery_schedule": {
+      "monday": "",
+      "tuesday": "",
+      "wednesday": "",
+      "thursday": "",
+      "friday": "",
+      "saturday": ""
+    },
+    "settings": {
+      "webshop_enabled": false,
+      "ds_addresses": false,
+      "no_pickup_app": false,
+      "minimum_order_value": null,
+      "articles_not_in_history": ""
+    },
+    "additional_addresses": [
+      {
+        "address_number": "0",
+        "salutation": "Firma",
+        "name": "OTR OILTRADE B.V.",
+        "name3": "",
+        "street": "Expeditiestraat 7",
+        "city": "Giessen",
+        "postal_code": "4283JE",
+        "country": "Niederlande",
+        "phone": "+31 (1 83) 76 37 95",
+        "fax": "",
+        "email": "info@oiltrade.nl",
+        "is_default_billing": true,
+        "is_default_delivery": true
+      }
+    ]
+  },
+  "order_statistics": {
+    "total_orders": 0,
+    "unique_articles_ordered": 0,
+    "recent_orders_count": 0,
+    "last_order_date": null
+  },
+  "order_history": []
+}

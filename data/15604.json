@@ -1,0 +1,139 @@
+{
+  "metadata": {
+    "generated_at": "2025-09-10T23:17:05.913858",
+    "client_number": "15604",
+    "data_source": "BotanBot XML Export"
+  },
+  "client_profile": {
+    "client_number": "15604",
+    "search_term": "THYSSENKRUPP KIEL",
+    "status": "Kunde",
+    "tax_number": "",
+    "vat_id": "",
+    "is_blocked": false,
+    "price_group": "(Std.-Preis)",
+    "billing_address": {
+      "salutation": "Firma",
+      "name": "Thyssenkrupp delicate GmbH",
+      "name3": "",
+      "street": "Altendorfer Str. 103",
+      "city": "Essen",
+      "postal_code": "45143",
+      "country": "Deutschland",
+      "phone": "(02 01) 84 56 90 06 45",
+      "fax": "(02 01) 20 18 44 55 36 49",
+      "email": "tobias.zaika@thyssenkrupp.com"
+    },
+    "delivery_address": {
+      "salutation": "Firma",
+      "name": "Thyssenkrupp delicate GmbH",
+      "name3": "",
+      "street": "Altendorfer Str. 103",
+      "city": "Essen",
+      "postal_code": "45143",
+      "country": "Deutschland",
+      "phone": "(02 01) 84 56 90 06 45",
+      "fax": "(02 01) 20 18 44 55 36 49",
+      "email": "tobias.zaika@thyssenkrupp.com"
+    },
+    "delivery_schedule": {
+      "monday": "19",
+      "tuesday": "19",
+      "wednesday": "19",
+      "thursday": "19",
+      "friday": "19",
+      "saturday": ""
+    },
+    "settings": {
+      "webshop_enabled": false,
+      "ds_addresses": false,
+      "no_pickup_app": false,
+      "minimum_order_value": null,
+      "articles_not_in_history": ""
+    },
+    "additional_addresses": [
+      {
+        "address_number": "0",
+        "salutation": "Firma",
+        "name": "Thyssenkrupp delicate GmbH",
+        "name3": "",
+        "street": "Altendorfer Str. 103",
+        "city": "Essen",
+        "postal_code": "45143",
+        "country": "Deutschland",
+        "phone": "(02 01) 84 56 90 06 45",
+        "fax": "(02 01) 20 18 44 55 36 49",
+        "email": "tobias.zaika@thyssenkrupp.com",
+        "is_default_billing": true,
+        "is_default_delivery": true
+      },
+      {
+        "address_number": "1",
+        "salutation": "Firma",
+        "name": "Thyssenkrupp Kiel",
+        "name3": "6303 Kiosk Gebäude 334 (Zentralkantine)",
+        "street": "Werftstraße 112-114",
+        "city": "Kiel",
+        "postal_code": "24143",
+        "country": "Deutschland",
+        "phone": "",
+        "fax": "",
+        "email": "tobias.zaika@thyssenkrupp.com",
+        "is_default_billing": false,
+        "is_default_delivery": false
+      },
+      {
+        "address_number": "2",
+        "salutation": "Firma",
+        "name": "Thyssenkrupp Kiel",
+        "name3": "6306 Foodtruck Kiel Gebäude 350",
+        "street": "Werftstraße 112-114",
+        "city": "Kiel",
+        "postal_code": "24143",
+        "country": "Deutschland",
+        "phone": "",
+        "fax": "",
+        "email": "tobias.zaika@thyssenkrupp.com",
+        "is_default_billing": false,
+        "is_default_delivery": false
+      },
+      {
+        "address_number": "3",
+        "salutation": "Firma",
+        "name": "Thyssenkrupp Kiel",
+        "name3": "6302 Betriebsrestaurant Kiel Gebäude 350",
+        "street": "Werftstraße 112-114",
+        "city": "Kiel",
+        "postal_code": "24143",
+        "country": "Deutschland",
+        "phone": "",
+        "fax": "",
+        "email": "tobias.zaika@thyssenkrupp.com",
+        "is_default_billing": false,
+        "is_default_delivery": false
+      },
+      {
+        "address_number": "4",
+        "salutation": "Firma",
+        "name": "Thyssenkrupp Kiel",
+        "name3": "6303 Kiosk Gebäude 380",
+        "street": "Werfstr. 112 -114",
+        "city": "Kiel",
+        "postal_code": "24143",
+        "country": "Deutschland",
+        "phone": "",
+        "fax": "",
+        "email": "",
+        "is_default_billing": false,
+        "is_default_delivery": false
+      }
+    ]
+  },
+  "order_statistics": {
+    "total_orders": 0,
+    "unique_articles_ordered": 0,
+    "recent_orders_count": 0,
+    "last_order_date": null
+  },
+  "order_history": []
+}

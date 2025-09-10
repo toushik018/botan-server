@@ -1,0 +1,79 @@
+{
+  "metadata": {
+    "generated_at": "2025-09-10T23:17:04.959667",
+    "client_number": "12194",
+    "data_source": "BotanBot XML Export"
+  },
+  "client_profile": {
+    "client_number": "12194",
+    "search_term": "MIR TOSUN DÖNER PRODUKTIO",
+    "status": "Kunde",
+    "tax_number": "1129126986",
+    "vat_id": "",
+    "is_blocked": false,
+    "price_group": "(Std.-Preis)",
+    "billing_address": {
+      "salutation": "Firma",
+      "name": "MIR DÖNER PRODUKTION GmbH",
+      "name3": "",
+      "street": "Gutenbergring 1-5",
+      "city": "Norderstedt",
+      "postal_code": "22844",
+      "country": "Deutschland",
+      "phone": "(0 40) 44 46 55 82",
+      "fax": "(0 40) 51 31 88 39",
+      "email": ""
+    },
+    "delivery_address": {
+      "salutation": "Firma",
+      "name": "MIR DÖNER PRODUKTION GmbH",
+      "name3": "",
+      "street": "Gutenbergring 1-5",
+      "city": "Norderstedt",
+      "postal_code": "22844",
+      "country": "Deutschland",
+      "phone": "(0 40) 44 46 55 82",
+      "fax": "(0 40) 51 31 88 39",
+      "email": ""
+    },
+    "delivery_schedule": {
+      "monday": "",
+      "tuesday": "",
+      "wednesday": "",
+      "thursday": "",
+      "friday": "",
+      "saturday": ""
+    },
+    "settings": {
+      "webshop_enabled": false,
+      "ds_addresses": false,
+      "no_pickup_app": false,
+      "minimum_order_value": null,
+      "articles_not_in_history": ""
+    },
+    "additional_addresses": [
+      {
+        "address_number": "0",
+        "salutation": "Firma",
+        "name": "MIR DÖNER PRODUKTION GmbH",
+        "name3": "",
+        "street": "Gutenbergring 1-5",
+        "city": "Norderstedt",
+        "postal_code": "22844",
+        "country": "Deutschland",
+        "phone": "(0 40) 44 46 55 82",
+        "fax": "(0 40) 51 31 88 39",
+        "email": "",
+        "is_default_billing": true,
+        "is_default_delivery": true
+      }
+    ]
+  },
+  "order_statistics": {
+    "total_orders": 0,
+    "unique_articles_ordered": 0,
+    "recent_orders_count": 0,
+    "last_order_date": null
+  },
+  "order_history": []
+}

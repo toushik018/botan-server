@@ -1,0 +1,79 @@
+{
+  "metadata": {
+    "generated_at": "2025-09-10T23:17:06.817213",
+    "client_number": "75213",
+    "data_source": "BotanBot XML Export"
+  },
+  "client_profile": {
+    "client_number": "75213",
+    "search_term": "HAMBURG",
+    "status": "Lieferant",
+    "tax_number": "",
+    "vat_id": "",
+    "is_blocked": false,
+    "price_group": "(Std.-Preis)",
+    "billing_address": {
+      "salutation": "Firma",
+      "name": "LFT Hamburg",
+      "name3": "",
+      "street": "Lagerstr.11",
+      "city": "Hamburg",
+      "postal_code": "20357",
+      "country": "Deutschland",
+      "phone": "(0 40) 4 30 45 82",
+      "fax": "(0 40) 4 30 45 84",
+      "email": ""
+    },
+    "delivery_address": {
+      "salutation": "Firma",
+      "name": "LFT Hamburg",
+      "name3": "",
+      "street": "Lagerstr.11",
+      "city": "Hamburg",
+      "postal_code": "20357",
+      "country": "Deutschland",
+      "phone": "(0 40) 4 30 45 82",
+      "fax": "(0 40) 4 30 45 84",
+      "email": ""
+    },
+    "delivery_schedule": {
+      "monday": "",
+      "tuesday": "",
+      "wednesday": "",
+      "thursday": "",
+      "friday": "",
+      "saturday": ""
+    },
+    "settings": {
+      "webshop_enabled": false,
+      "ds_addresses": false,
+      "no_pickup_app": false,
+      "minimum_order_value": null,
+      "articles_not_in_history": ""
+    },
+    "additional_addresses": [
+      {
+        "address_number": "0",
+        "salutation": "Firma",
+        "name": "LFT Hamburg",
+        "name3": "",
+        "street": "Lagerstr.11",
+        "city": "Hamburg",
+        "postal_code": "20357",
+        "country": "Deutschland",
+        "phone": "(0 40) 4 30 45 82",
+        "fax": "(0 40) 4 30 45 84",
+        "email": "",
+        "is_default_billing": true,
+        "is_default_delivery": true
+      }
+    ]
+  },
+  "order_statistics": {
+    "total_orders": 0,
+    "unique_articles_ordered": 0,
+    "recent_orders_count": 0,
+    "last_order_date": null
+  },
+  "order_history": []
+}

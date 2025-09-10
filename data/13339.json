@@ -1,0 +1,94 @@
+{
+  "metadata": {
+    "generated_at": "2025-09-10T23:17:05.281616",
+    "client_number": "13339",
+    "data_source": "BotanBot XML Export"
+  },
+  "client_profile": {
+    "client_number": "13339",
+    "search_term": "SYSTEMGASTRONOMIE",
+    "status": "Kunde",
+    "tax_number": "",
+    "vat_id": "",
+    "is_blocked": true,
+    "price_group": "(Std.-Preis)",
+    "billing_address": {
+      "salutation": "",
+      "name": "Dritte SYDMS UG (haftungsbeschränkt)",
+      "name3": "",
+      "street": "Am Dalmannkai 8",
+      "city": "Hamburg",
+      "postal_code": "20457",
+      "country": "Deutschland",
+      "phone": "(04 31) 8 88 04 88",
+      "fax": "",
+      "email": "m.neumann@kgi-gastronomie.de"
+    },
+    "delivery_address": {
+      "salutation": "",
+      "name": "Liefersons Lieferservice",
+      "name3": "",
+      "street": "Eichkamp 5-7",
+      "city": "Kiel",
+      "postal_code": "24116",
+      "country": "Deutschland",
+      "phone": "(04 31) 8 88 04 88",
+      "fax": "",
+      "email": ""
+    },
+    "delivery_schedule": {
+      "monday": "",
+      "tuesday": "",
+      "wednesday": "",
+      "thursday": "",
+      "friday": "",
+      "saturday": ""
+    },
+    "settings": {
+      "webshop_enabled": false,
+      "ds_addresses": true,
+      "no_pickup_app": false,
+      "minimum_order_value": null,
+      "articles_not_in_history": "1947,9218"
+    },
+    "additional_addresses": [
+      {
+        "address_number": "0",
+        "salutation": "",
+        "name": "Dritte SYDMS UG (haftungsbeschränkt)",
+        "name3": "",
+        "street": "Am Dalmannkai 8",
+        "city": "Hamburg",
+        "postal_code": "20457",
+        "country": "Deutschland",
+        "phone": "(04 31) 8 88 04 88",
+        "fax": "",
+        "email": "m.neumann@kgi-gastronomie.de",
+        "is_default_billing": true,
+        "is_default_delivery": false
+      },
+      {
+        "address_number": "1",
+        "salutation": "",
+        "name": "Liefersons Lieferservice",
+        "name3": "",
+        "street": "Eichkamp 5-7",
+        "city": "Kiel",
+        "postal_code": "24116",
+        "country": "Deutschland",
+        "phone": "(04 31) 8 88 04 88",
+        "fax": "",
+        "email": "",
+        "is_default_billing": false,
+        "is_default_delivery": true
+      }
+    ]
+  },
+  "order_statistics": {
+    "total_orders": 0,
+    "unique_articles_ordered": 0,
+    "recent_orders_count": 0,
+    "last_order_date": null
+  },
+  "order_history": []
+}

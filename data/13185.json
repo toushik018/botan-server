@@ -1,0 +1,94 @@
+{
+  "metadata": {
+    "generated_at": "2025-09-10T23:17:05.240050",
+    "client_number": "13185",
+    "data_source": "BotanBot XML Export"
+  },
+  "client_profile": {
+    "client_number": "13185",
+    "search_term": "COSACO",
+    "status": "Kunde",
+    "tax_number": "",
+    "vat_id": "",
+    "is_blocked": false,
+    "price_group": "(Std.-Preis)",
+    "billing_address": {
+      "salutation": "Firma",
+      "name": "Cell it ! GmbH & Co. KG",
+      "name3": "",
+      "street": "Haart 224",
+      "city": "Neumünster",
+      "postal_code": "24539",
+      "country": "Deutschland",
+      "phone": "(04 31) 53 03 21 41",
+      "fax": "(04 31) 5 30 32 14 31",
+      "email": ""
+    },
+    "delivery_address": {
+      "salutation": "Firma",
+      "name": "Cell it !",
+      "name3": "2. Etage",
+      "street": "Hopfenstrasse 1 a-d",
+      "city": "Kiel",
+      "postal_code": "24103",
+      "country": "Deutschland",
+      "phone": "(04 31) 53 03 21 43",
+      "fax": "",
+      "email": ""
+    },
+    "delivery_schedule": {
+      "monday": "",
+      "tuesday": "",
+      "wednesday": "",
+      "thursday": "",
+      "friday": "",
+      "saturday": ""
+    },
+    "settings": {
+      "webshop_enabled": false,
+      "ds_addresses": false,
+      "no_pickup_app": false,
+      "minimum_order_value": null,
+      "articles_not_in_history": ""
+    },
+    "additional_addresses": [
+      {
+        "address_number": "0",
+        "salutation": "Firma",
+        "name": "Cell it !",
+        "name3": "2. Etage",
+        "street": "Hopfenstrasse 1 a-d",
+        "city": "Kiel",
+        "postal_code": "24103",
+        "country": "Deutschland",
+        "phone": "(04 31) 53 03 21 43",
+        "fax": "",
+        "email": "",
+        "is_default_billing": false,
+        "is_default_delivery": true
+      },
+      {
+        "address_number": "1",
+        "salutation": "Firma",
+        "name": "Cell it ! GmbH & Co. KG",
+        "name3": "",
+        "street": "Haart 224",
+        "city": "Neumünster",
+        "postal_code": "24539",
+        "country": "Deutschland",
+        "phone": "(04 31) 53 03 21 41",
+        "fax": "(04 31) 5 30 32 14 31",
+        "email": "",
+        "is_default_billing": true,
+        "is_default_delivery": false
+      }
+    ]
+  },
+  "order_statistics": {
+    "total_orders": 0,
+    "unique_articles_ordered": 0,
+    "recent_orders_count": 0,
+    "last_order_date": null
+  },
+  "order_history": []
+}

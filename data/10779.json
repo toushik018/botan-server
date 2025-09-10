@@ -1,0 +1,79 @@
+{
+  "metadata": {
+    "generated_at": "2025-09-10T23:17:04.574601",
+    "client_number": "10779",
+    "data_source": "BotanBot XML Export"
+  },
+  "client_profile": {
+    "client_number": "10779",
+    "search_term": "",
+    "status": "Kunde",
+    "tax_number": "",
+    "vat_id": "",
+    "is_blocked": false,
+    "price_group": "(Std.-Preis)",
+    "billing_address": {
+      "salutation": "",
+      "name": "Capri Pizzaservice",
+      "name3": "Inh. Mamood, Tanveer Ahmed",
+      "street": "Ostpreussenring 2",
+      "city": "Lübeck",
+      "postal_code": "23569",
+      "country": "Deutschland",
+      "phone": "(04 51) 30 71 - 3 71",
+      "fax": "(04 51) 3 07 17 35",
+      "email": "tanveer@web.de"
+    },
+    "delivery_address": {
+      "salutation": "",
+      "name": "Capri Pizzaservice",
+      "name3": "Inh. Mamood, Tanveer Ahmed",
+      "street": "Ostpreussenring 2",
+      "city": "Lübeck",
+      "postal_code": "23569",
+      "country": "Deutschland",
+      "phone": "(04 51) 30 71 - 3 71",
+      "fax": "(04 51) 3 07 17 35",
+      "email": "tanveer@web.de"
+    },
+    "delivery_schedule": {
+      "monday": "",
+      "tuesday": "5",
+      "wednesday": "",
+      "thursday": "",
+      "friday": "",
+      "saturday": ""
+    },
+    "settings": {
+      "webshop_enabled": false,
+      "ds_addresses": false,
+      "no_pickup_app": false,
+      "minimum_order_value": null,
+      "articles_not_in_history": "1564"
+    },
+    "additional_addresses": [
+      {
+        "address_number": "0",
+        "salutation": "",
+        "name": "Capri Pizzaservice",
+        "name3": "Inh. Mamood, Tanveer Ahmed",
+        "street": "Ostpreussenring 2",
+        "city": "Lübeck",
+        "postal_code": "23569",
+        "country": "Deutschland",
+        "phone": "(04 51) 30 71 - 3 71",
+        "fax": "(04 51) 3 07 17 35",
+        "email": "tanveer@web.de",
+        "is_default_billing": true,
+        "is_default_delivery": true
+      }
+    ]
+  },
+  "order_statistics": {
+    "total_orders": 0,
+    "unique_articles_ordered": 0,
+    "recent_orders_count": 0,
+    "last_order_date": null
+  },
+  "order_history": []
+}

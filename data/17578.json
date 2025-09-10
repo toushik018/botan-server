@@ -1,0 +1,79 @@
+{
+  "metadata": {
+    "generated_at": "2025-09-10T23:17:06.610908",
+    "client_number": "17578",
+    "data_source": "BotanBot XML Export"
+  },
+  "client_profile": {
+    "client_number": "17578",
+    "search_term": "BUTTJES BEACH BIKINI",
+    "status": "Kunde",
+    "tax_number": "",
+    "vat_id": "",
+    "is_blocked": false,
+    "price_group": "(Std.-Preis)",
+    "billing_address": {
+      "salutation": "",
+      "name": "Buttje’s Beach Bar UG / Ute im Bikini",
+      "name3": "GF Michael Schramm",
+      "street": "Falckensteiner Strand 71",
+      "city": "Kiel",
+      "postal_code": "24159",
+      "country": "Deutschland",
+      "phone": "(01 62) 9 49 03 53",
+      "fax": "",
+      "email": "info@ute-im-bikini.de"
+    },
+    "delivery_address": {
+      "salutation": "",
+      "name": "Buttje’s Beach Bar UG / Ute im Bikini",
+      "name3": "GF Michael Schramm",
+      "street": "Falckensteiner Strand 71",
+      "city": "Kiel",
+      "postal_code": "24159",
+      "country": "Deutschland",
+      "phone": "(01 62) 9 49 03 53",
+      "fax": "",
+      "email": "info@ute-im-bikini.de"
+    },
+    "delivery_schedule": {
+      "monday": "",
+      "tuesday": "18",
+      "wednesday": "",
+      "thursday": "",
+      "friday": "18",
+      "saturday": ""
+    },
+    "settings": {
+      "webshop_enabled": false,
+      "ds_addresses": false,
+      "no_pickup_app": false,
+      "minimum_order_value": null,
+      "articles_not_in_history": ""
+    },
+    "additional_addresses": [
+      {
+        "address_number": "0",
+        "salutation": "",
+        "name": "Buttje’s Beach Bar UG / Ute im Bikini",
+        "name3": "GF Michael Schramm",
+        "street": "Falckensteiner Strand 71",
+        "city": "Kiel",
+        "postal_code": "24159",
+        "country": "Deutschland",
+        "phone": "(01 62) 9 49 03 53",
+        "fax": "",
+        "email": "info@ute-im-bikini.de",
+        "is_default_billing": true,
+        "is_default_delivery": true
+      }
+    ]
+  },
+  "order_statistics": {
+    "total_orders": 0,
+    "unique_articles_ordered": 0,
+    "recent_orders_count": 0,
+    "last_order_date": null
+  },
+  "order_history": []
+}

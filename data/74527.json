@@ -1,0 +1,79 @@
+{
+  "metadata": {
+    "generated_at": "2025-09-10T23:17:06.781658",
+    "client_number": "74527",
+    "data_source": "BotanBot XML Export"
+  },
+  "client_profile": {
+    "client_number": "74527",
+    "search_term": "ELBEGARTEN",
+    "status": "Lieferant",
+    "tax_number": "18 290 41682",
+    "vat_id": "DE286582156",
+    "is_blocked": false,
+    "price_group": "(Std.-Preis)",
+    "billing_address": {
+      "salutation": "",
+      "name": "Elbegarten GmbH",
+      "name3": "",
+      "street": "Grillchaussee 126",
+      "city": "Glückstadt",
+      "postal_code": "25348",
+      "country": "Deutschland",
+      "phone": "(0 40) 32 52 86 - 0",
+      "fax": "(0 40) 32 52 86 - 2 99",
+      "email": "info@elbegarten.com"
+    },
+    "delivery_address": {
+      "salutation": "",
+      "name": "Elbegarten GmbH",
+      "name3": "",
+      "street": "Grillchaussee 126",
+      "city": "Glückstadt",
+      "postal_code": "25348",
+      "country": "Deutschland",
+      "phone": "(0 40) 32 52 86 - 0",
+      "fax": "(0 40) 32 52 86 - 2 99",
+      "email": "info@elbegarten.com"
+    },
+    "delivery_schedule": {
+      "monday": "",
+      "tuesday": "",
+      "wednesday": "",
+      "thursday": "",
+      "friday": "",
+      "saturday": ""
+    },
+    "settings": {
+      "webshop_enabled": false,
+      "ds_addresses": false,
+      "no_pickup_app": false,
+      "minimum_order_value": null,
+      "articles_not_in_history": ""
+    },
+    "additional_addresses": [
+      {
+        "address_number": "0",
+        "salutation": "",
+        "name": "Elbegarten GmbH",
+        "name3": "",
+        "street": "Grillchaussee 126",
+        "city": "Glückstadt",
+        "postal_code": "25348",
+        "country": "Deutschland",
+        "phone": "(0 40) 32 52 86 - 0",
+        "fax": "(0 40) 32 52 86 - 2 99",
+        "email": "info@elbegarten.com",
+        "is_default_billing": true,
+        "is_default_delivery": true
+      }
+    ]
+  },
+  "order_statistics": {
+    "total_orders": 0,
+    "unique_articles_ordered": 0,
+    "recent_orders_count": 0,
+    "last_order_date": null
+  },
+  "order_history": []
+}

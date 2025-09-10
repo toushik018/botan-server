@@ -1,0 +1,79 @@
+{
+  "metadata": {
+    "generated_at": "2025-09-10T23:17:05.089424",
+    "client_number": "12657",
+    "data_source": "BotanBot XML Export"
+  },
+  "client_profile": {
+    "client_number": "12657",
+    "search_term": "ISTANBUL DÖNER",
+    "status": "Kunde",
+    "tax_number": "",
+    "vat_id": "",
+    "is_blocked": false,
+    "price_group": "(Std.-Preis)",
+    "billing_address": {
+      "salutation": "",
+      "name": "Istanbul Döner",
+      "name3": "Inh. Muhammed Gül",
+      "street": "Niederstr. 14",
+      "city": "Lütjenburg",
+      "postal_code": "24321",
+      "country": "Deutschland",
+      "phone": "(0 43 81) 4 09 49 42",
+      "fax": "",
+      "email": "istanbuldonerlutjenburg@gmail.com"
+    },
+    "delivery_address": {
+      "salutation": "",
+      "name": "Istanbul Döner",
+      "name3": "Inh. Muhammed Gül",
+      "street": "Niederstr. 14",
+      "city": "Lütjenburg",
+      "postal_code": "24321",
+      "country": "Deutschland",
+      "phone": "(0 43 81) 4 09 49 42",
+      "fax": "",
+      "email": "istanbuldonerlutjenburg@gmail.com"
+    },
+    "delivery_schedule": {
+      "monday": "7",
+      "tuesday": "",
+      "wednesday": "",
+      "thursday": "",
+      "friday": "2",
+      "saturday": ""
+    },
+    "settings": {
+      "webshop_enabled": false,
+      "ds_addresses": false,
+      "no_pickup_app": false,
+      "minimum_order_value": null,
+      "articles_not_in_history": "1334,1640,9003,1568,1570,1602,1553,1114, 1604,1640, 1352,1472,"
+    },
+    "additional_addresses": [
+      {
+        "address_number": "0",
+        "salutation": "",
+        "name": "Istanbul Döner",
+        "name3": "Inh. Muhammed Gül",
+        "street": "Niederstr. 14",
+        "city": "Lütjenburg",
+        "postal_code": "24321",
+        "country": "Deutschland",
+        "phone": "(0 43 81) 4 09 49 42",
+        "fax": "",
+        "email": "istanbuldonerlutjenburg@gmail.com",
+        "is_default_billing": true,
+        "is_default_delivery": true
+      }
+    ]
+  },
+  "order_statistics": {
+    "total_orders": 0,
+    "unique_articles_ordered": 0,
+    "recent_orders_count": 0,
+    "last_order_date": null
+  },
+  "order_history": []
+}

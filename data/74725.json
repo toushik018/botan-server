@@ -1,0 +1,79 @@
+{
+  "metadata": {
+    "generated_at": "2025-09-10T23:17:06.793170",
+    "client_number": "74725",
+    "data_source": "BotanBot XML Export"
+  },
+  "client_profile": {
+    "client_number": "74725",
+    "search_term": "GREENLAND",
+    "status": "Lieferant",
+    "tax_number": "6011412503",
+    "vat_id": "",
+    "is_blocked": false,
+    "price_group": "(Std.-Preis)",
+    "billing_address": {
+      "salutation": "",
+      "name": "Greenland Seafood Europe GmbH",
+      "name3": "Kundennummer: 121880",
+      "street": "Eduard-Schopf-Allee 1",
+      "city": "Bremen",
+      "postal_code": "28217",
+      "country": "Deutschland",
+      "phone": "(04 21) 83 96 20",
+      "fax": "(04 21) 8 39 62 49",
+      "email": ""
+    },
+    "delivery_address": {
+      "salutation": "",
+      "name": "Greenland Seafood Europe GmbH",
+      "name3": "Kundennummer: 121880",
+      "street": "Eduard-Schopf-Allee 1",
+      "city": "Bremen",
+      "postal_code": "28217",
+      "country": "Deutschland",
+      "phone": "(04 21) 83 96 20",
+      "fax": "(04 21) 8 39 62 49",
+      "email": ""
+    },
+    "delivery_schedule": {
+      "monday": "",
+      "tuesday": "",
+      "wednesday": "",
+      "thursday": "",
+      "friday": "",
+      "saturday": ""
+    },
+    "settings": {
+      "webshop_enabled": false,
+      "ds_addresses": false,
+      "no_pickup_app": false,
+      "minimum_order_value": null,
+      "articles_not_in_history": ""
+    },
+    "additional_addresses": [
+      {
+        "address_number": "0",
+        "salutation": "",
+        "name": "Greenland Seafood Europe GmbH",
+        "name3": "Kundennummer: 121880",
+        "street": "Eduard-Schopf-Allee 1",
+        "city": "Bremen",
+        "postal_code": "28217",
+        "country": "Deutschland",
+        "phone": "(04 21) 83 96 20",
+        "fax": "(04 21) 8 39 62 49",
+        "email": "",
+        "is_default_billing": true,
+        "is_default_delivery": true
+      }
+    ]
+  },
+  "order_statistics": {
+    "total_orders": 0,
+    "unique_articles_ordered": 0,
+    "recent_orders_count": 0,
+    "last_order_date": null
+  },
+  "order_history": []
+}

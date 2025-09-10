@@ -1,0 +1,79 @@
+{
+  "metadata": {
+    "generated_at": "2025-09-10T23:17:06.308554",
+    "client_number": "16795",
+    "data_source": "BotanBot XML Export"
+  },
+  "client_profile": {
+    "client_number": "16795",
+    "search_term": "STAUERS HOTEL",
+    "status": "Kunde",
+    "tax_number": "",
+    "vat_id": "",
+    "is_blocked": false,
+    "price_group": "(Std.-Preis)",
+    "billing_address": {
+      "salutation": "Firma",
+      "name": "Stauers Hotel am See",
+      "name3": "Inh. M. Rahbari",
+      "street": "Gerold Damm 2-4",
+      "city": "Bosau",
+      "postal_code": "23715",
+      "country": "Deutschland",
+      "phone": "(0 45 27) 99 40",
+      "fax": "",
+      "email": "Hotel@strauershotel.de"
+    },
+    "delivery_address": {
+      "salutation": "Firma",
+      "name": "Stauers Hotel am See",
+      "name3": "Inh. M. Rahbari",
+      "street": "Gerold Damm 2-4",
+      "city": "Bosau",
+      "postal_code": "23715",
+      "country": "Deutschland",
+      "phone": "(0 45 27) 99 40",
+      "fax": "",
+      "email": "Hotel@strauershotel.de"
+    },
+    "delivery_schedule": {
+      "monday": "",
+      "tuesday": "",
+      "wednesday": "",
+      "thursday": "",
+      "friday": "",
+      "saturday": ""
+    },
+    "settings": {
+      "webshop_enabled": false,
+      "ds_addresses": false,
+      "no_pickup_app": false,
+      "minimum_order_value": null,
+      "articles_not_in_history": ""
+    },
+    "additional_addresses": [
+      {
+        "address_number": "0",
+        "salutation": "Firma",
+        "name": "Stauers Hotel am See",
+        "name3": "Inh. M. Rahbari",
+        "street": "Gerold Damm 2-4",
+        "city": "Bosau",
+        "postal_code": "23715",
+        "country": "Deutschland",
+        "phone": "(0 45 27) 99 40",
+        "fax": "",
+        "email": "Hotel@strauershotel.de",
+        "is_default_billing": true,
+        "is_default_delivery": true
+      }
+    ]
+  },
+  "order_statistics": {
+    "total_orders": 0,
+    "unique_articles_ordered": 0,
+    "recent_orders_count": 0,
+    "last_order_date": null
+  },
+  "order_history": []
+}

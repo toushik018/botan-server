@@ -1,0 +1,94 @@
+{
+  "metadata": {
+    "generated_at": "2025-09-10T23:17:05.867957",
+    "client_number": "15435",
+    "data_source": "BotanBot XML Export"
+  },
+  "client_profile": {
+    "client_number": "15435",
+    "search_term": "",
+    "status": "Kunde",
+    "tax_number": "",
+    "vat_id": "",
+    "is_blocked": false,
+    "price_group": "(Std.-Preis)",
+    "billing_address": {
+      "salutation": "",
+      "name": "Catering Kristina Barsegan",
+      "name3": "Inh.: Kristina Barsegan",
+      "street": "Wasserwerksweg 17",
+      "city": "Schwentinental",
+      "postal_code": "24222",
+      "country": "Deutschland",
+      "phone": "(01 76) 82 12 14 65",
+      "fax": "",
+      "email": "barsegan@hotmail.com"
+    },
+    "delivery_address": {
+      "salutation": "",
+      "name": "Kombüse",
+      "name3": "Inh.: Kristina Barsegan",
+      "street": "Blücherbrücke",
+      "city": "Kiel",
+      "postal_code": "24105",
+      "country": "Deutschland",
+      "phone": "(01 76) 82 12 14 65",
+      "fax": "",
+      "email": "barsegan@hotmail.com"
+    },
+    "delivery_schedule": {
+      "monday": "18",
+      "tuesday": "18",
+      "wednesday": "18",
+      "thursday": "18",
+      "friday": "18",
+      "saturday": ""
+    },
+    "settings": {
+      "webshop_enabled": false,
+      "ds_addresses": false,
+      "no_pickup_app": false,
+      "minimum_order_value": null,
+      "articles_not_in_history": "1625,1626,3400,9617"
+    },
+    "additional_addresses": [
+      {
+        "address_number": "0",
+        "salutation": "",
+        "name": "Catering Kristina Barsegan",
+        "name3": "Inh.: Kristina Barsegan",
+        "street": "Wasserwerksweg 17",
+        "city": "Schwentinental",
+        "postal_code": "24222",
+        "country": "Deutschland",
+        "phone": "(01 76) 82 12 14 65",
+        "fax": "",
+        "email": "barsegan@hotmail.com",
+        "is_default_billing": true,
+        "is_default_delivery": false
+      },
+      {
+        "address_number": "2",
+        "salutation": "",
+        "name": "Kombüse",
+        "name3": "Inh.: Kristina Barsegan",
+        "street": "Blücherbrücke",
+        "city": "Kiel",
+        "postal_code": "24105",
+        "country": "Deutschland",
+        "phone": "(01 76) 82 12 14 65",
+        "fax": "",
+        "email": "barsegan@hotmail.com",
+        "is_default_billing": false,
+        "is_default_delivery": true
+      }
+    ]
+  },
+  "order_statistics": {
+    "total_orders": 0,
+    "unique_articles_ordered": 0,
+    "recent_orders_count": 0,
+    "last_order_date": null
+  },
+  "order_history": []
+}

@@ -1,0 +1,79 @@
+{
+  "metadata": {
+    "generated_at": "2025-09-10T23:17:06.529814",
+    "client_number": "17352",
+    "data_source": "BotanBot XML Export"
+  },
+  "client_profile": {
+    "client_number": "17352",
+    "search_term": "SARAY",
+    "status": "Kunde",
+    "tax_number": "",
+    "vat_id": "",
+    "is_blocked": false,
+    "price_group": "(Std.-Preis)",
+    "billing_address": {
+      "salutation": "",
+      "name": "Han Pizza Kebab House",
+      "name3": "Inh. Muhammed Eren Bugrahan",
+      "street": "Großer Wulfhagen 46",
+      "city": "Uetersen",
+      "postal_code": "25436",
+      "country": "Deutschland",
+      "phone": "(0 41 22) 9 81 57 74",
+      "fax": "",
+      "email": "muhammederenbugrahan@icloud.com"
+    },
+    "delivery_address": {
+      "salutation": "",
+      "name": "Han Pizza Kebab House",
+      "name3": "Inh. Muhammed Eren Bugrahan",
+      "street": "Großer Wulfhagen 46",
+      "city": "Uetersen",
+      "postal_code": "25436",
+      "country": "Deutschland",
+      "phone": "(0 41 22) 9 81 57 74",
+      "fax": "",
+      "email": "muhammederenbugrahan@icloud.com"
+    },
+    "delivery_schedule": {
+      "monday": "",
+      "tuesday": "",
+      "wednesday": "5",
+      "thursday": "",
+      "friday": "",
+      "saturday": ""
+    },
+    "settings": {
+      "webshop_enabled": false,
+      "ds_addresses": false,
+      "no_pickup_app": false,
+      "minimum_order_value": null,
+      "articles_not_in_history": ""
+    },
+    "additional_addresses": [
+      {
+        "address_number": "0",
+        "salutation": "",
+        "name": "Han Pizza Kebab House",
+        "name3": "Inh. Muhammed Eren Bugrahan",
+        "street": "Großer Wulfhagen 46",
+        "city": "Uetersen",
+        "postal_code": "25436",
+        "country": "Deutschland",
+        "phone": "(0 41 22) 9 81 57 74",
+        "fax": "",
+        "email": "muhammederenbugrahan@icloud.com",
+        "is_default_billing": true,
+        "is_default_delivery": true
+      }
+    ]
+  },
+  "order_statistics": {
+    "total_orders": 0,
+    "unique_articles_ordered": 0,
+    "recent_orders_count": 0,
+    "last_order_date": null
+  },
+  "order_history": []
+}

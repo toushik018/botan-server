@@ -1,0 +1,79 @@
+{
+  "metadata": {
+    "generated_at": "2025-09-10T23:17:06.376142",
+    "client_number": "16957",
+    "data_source": "BotanBot XML Export"
+  },
+  "client_profile": {
+    "client_number": "16957",
+    "search_term": "AQUA BISTRO",
+    "status": "Kunde",
+    "tax_number": "",
+    "vat_id": "",
+    "is_blocked": false,
+    "price_group": "(Std.-Preis)",
+    "billing_address": {
+      "salutation": "",
+      "name": "Aqua Bistro",
+      "name3": "Inh. Fawas Al Fido",
+      "street": "An der Untereider 29 - 31",
+      "city": "Rendsburg",
+      "postal_code": "24768",
+      "country": "Deutschland",
+      "phone": "(0 17) 49 39 59 44",
+      "fax": "",
+      "email": ""
+    },
+    "delivery_address": {
+      "salutation": "",
+      "name": "Aqua Bistro",
+      "name3": "Inh. Fawas Al Fido",
+      "street": "An der Untereider 29 - 31",
+      "city": "Rendsburg",
+      "postal_code": "24768",
+      "country": "Deutschland",
+      "phone": "(0 17) 49 39 59 44",
+      "fax": "",
+      "email": ""
+    },
+    "delivery_schedule": {
+      "monday": "",
+      "tuesday": "2",
+      "wednesday": "",
+      "thursday": "",
+      "friday": "4",
+      "saturday": ""
+    },
+    "settings": {
+      "webshop_enabled": false,
+      "ds_addresses": false,
+      "no_pickup_app": false,
+      "minimum_order_value": null,
+      "articles_not_in_history": ""
+    },
+    "additional_addresses": [
+      {
+        "address_number": "0",
+        "salutation": "",
+        "name": "Aqua Bistro",
+        "name3": "Inh. Fawas Al Fido",
+        "street": "An der Untereider 29 - 31",
+        "city": "Rendsburg",
+        "postal_code": "24768",
+        "country": "Deutschland",
+        "phone": "(0 17) 49 39 59 44",
+        "fax": "",
+        "email": "",
+        "is_default_billing": true,
+        "is_default_delivery": true
+      }
+    ]
+  },
+  "order_statistics": {
+    "total_orders": 0,
+    "unique_articles_ordered": 0,
+    "recent_orders_count": 0,
+    "last_order_date": null
+  },
+  "order_history": []
+}

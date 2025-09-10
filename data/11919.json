@@ -1,0 +1,94 @@
+{
+  "metadata": {
+    "generated_at": "2025-09-10T23:17:04.885175",
+    "client_number": "11919",
+    "data_source": "BotanBot XML Export"
+  },
+  "client_profile": {
+    "client_number": "11919",
+    "search_term": "MF BAD OLDESLOE",
+    "status": "Kunde",
+    "tax_number": "",
+    "vat_id": "",
+    "is_blocked": true,
+    "price_group": "(Std.-Preis)",
+    "billing_address": {
+      "salutation": "",
+      "name": "DT Systemgastronomie GmbH",
+      "name3": "Hauptniederlassung",
+      "street": "Gutenbergring 26a",
+      "city": "Norderstedt",
+      "postal_code": "22848",
+      "country": "Deutschland",
+      "phone": "",
+      "fax": "",
+      "email": "toni@dt-systemgastronomie.de"
+    },
+    "delivery_address": {
+      "salutation": "",
+      "name": "Mundfein Pizzawerkstatt",
+      "name3": "",
+      "street": "Hamburger Str. 3",
+      "city": "Bad Oldesloe",
+      "postal_code": "23843",
+      "country": "Deutschland",
+      "phone": "(0 45 31) 6 79 88 44",
+      "fax": "(0 45 31) 6 79 88 41",
+      "email": ""
+    },
+    "delivery_schedule": {
+      "monday": "",
+      "tuesday": "",
+      "wednesday": "",
+      "thursday": "",
+      "friday": "",
+      "saturday": ""
+    },
+    "settings": {
+      "webshop_enabled": false,
+      "ds_addresses": true,
+      "no_pickup_app": false,
+      "minimum_order_value": null,
+      "articles_not_in_history": ""
+    },
+    "additional_addresses": [
+      {
+        "address_number": "1",
+        "salutation": "",
+        "name": "Mundfein Pizzawerkstatt",
+        "name3": "",
+        "street": "Hamburger Str. 3",
+        "city": "Bad Oldesloe",
+        "postal_code": "23843",
+        "country": "Deutschland",
+        "phone": "(0 45 31) 6 79 88 44",
+        "fax": "(0 45 31) 6 79 88 41",
+        "email": "",
+        "is_default_billing": false,
+        "is_default_delivery": true
+      },
+      {
+        "address_number": "0",
+        "salutation": "",
+        "name": "DT Systemgastronomie GmbH",
+        "name3": "Hauptniederlassung",
+        "street": "Gutenbergring 26a",
+        "city": "Norderstedt",
+        "postal_code": "22848",
+        "country": "Deutschland",
+        "phone": "",
+        "fax": "",
+        "email": "toni@dt-systemgastronomie.de",
+        "is_default_billing": true,
+        "is_default_delivery": false
+      }
+    ]
+  },
+  "order_statistics": {
+    "total_orders": 0,
+    "unique_articles_ordered": 0,
+    "recent_orders_count": 0,
+    "last_order_date": null
+  },
+  "order_history": []
+}

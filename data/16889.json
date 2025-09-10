@@ -1,0 +1,79 @@
+{
+  "metadata": {
+    "generated_at": "2025-09-10T23:17:06.345568",
+    "client_number": "16889",
+    "data_source": "BotanBot XML Export"
+  },
+  "client_profile": {
+    "client_number": "16889",
+    "search_term": "CLUBHAUS STRANDE",
+    "status": "Kunde",
+    "tax_number": "",
+    "vat_id": "",
+    "is_blocked": false,
+    "price_group": "(Std.-Preis)",
+    "billing_address": {
+      "salutation": "Firma",
+      "name": "Clubhaus KYC Strande",
+      "name3": "Inh. Julia Labs",
+      "street": "Strandstr. 8",
+      "city": "Strande",
+      "postal_code": "24229",
+      "country": "Deutschland",
+      "phone": "(0 43 49) 14 31",
+      "fax": "",
+      "email": "buero@clubhaus-kyc.de"
+    },
+    "delivery_address": {
+      "salutation": "Firma",
+      "name": "Clubhaus KYC Strande",
+      "name3": "Inh. Julia Labs",
+      "street": "Strandstr. 8",
+      "city": "Strande",
+      "postal_code": "24229",
+      "country": "Deutschland",
+      "phone": "(0 43 49) 14 31",
+      "fax": "",
+      "email": "buero@clubhaus-kyc.de"
+    },
+    "delivery_schedule": {
+      "monday": "",
+      "tuesday": "",
+      "wednesday": "",
+      "thursday": "",
+      "friday": "",
+      "saturday": ""
+    },
+    "settings": {
+      "webshop_enabled": false,
+      "ds_addresses": false,
+      "no_pickup_app": false,
+      "minimum_order_value": null,
+      "articles_not_in_history": ""
+    },
+    "additional_addresses": [
+      {
+        "address_number": "0",
+        "salutation": "Firma",
+        "name": "Clubhaus KYC Strande",
+        "name3": "Inh. Julia Labs",
+        "street": "Strandstr. 8",
+        "city": "Strande",
+        "postal_code": "24229",
+        "country": "Deutschland",
+        "phone": "(0 43 49) 14 31",
+        "fax": "",
+        "email": "buero@clubhaus-kyc.de",
+        "is_default_billing": true,
+        "is_default_delivery": true
+      }
+    ]
+  },
+  "order_statistics": {
+    "total_orders": 0,
+    "unique_articles_ordered": 0,
+    "recent_orders_count": 0,
+    "last_order_date": null
+  },
+  "order_history": []
+}

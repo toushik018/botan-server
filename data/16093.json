@@ -1,0 +1,79 @@
+{
+  "metadata": {
+    "generated_at": "2025-09-10T23:17:06.062173",
+    "client_number": "16093",
+    "data_source": "BotanBot XML Export"
+  },
+  "client_profile": {
+    "client_number": "16093",
+    "search_term": "JASMINE SCHAMI",
+    "status": "Kunde",
+    "tax_number": "",
+    "vat_id": "",
+    "is_blocked": false,
+    "price_group": "(Std.-Preis)",
+    "billing_address": {
+      "salutation": "",
+      "name": "Jasmine Schami",
+      "name3": "Inh. Mohamad Hawaj",
+      "street": "Ostlandstr. 1",
+      "city": "Rendsburg",
+      "postal_code": "24768",
+      "country": "Deutschland",
+      "phone": "(01 76) 34 11 40 23",
+      "fax": "",
+      "email": "mhd.hj.72@gmail.com"
+    },
+    "delivery_address": {
+      "salutation": "",
+      "name": "Jasmine Schami",
+      "name3": "Inh. Mohamad Hawaj",
+      "street": "Ostlandstr. 1",
+      "city": "Rendsburg",
+      "postal_code": "24768",
+      "country": "Deutschland",
+      "phone": "(01 76) 34 11 40 23",
+      "fax": "",
+      "email": "mhd.hj.72@gmail.com"
+    },
+    "delivery_schedule": {
+      "monday": "",
+      "tuesday": "",
+      "wednesday": "",
+      "thursday": "",
+      "friday": "4",
+      "saturday": ""
+    },
+    "settings": {
+      "webshop_enabled": false,
+      "ds_addresses": false,
+      "no_pickup_app": false,
+      "minimum_order_value": null,
+      "articles_not_in_history": ""
+    },
+    "additional_addresses": [
+      {
+        "address_number": "0",
+        "salutation": "",
+        "name": "Jasmine Schami",
+        "name3": "Inh. Mohamad Hawaj",
+        "street": "Ostlandstr. 1",
+        "city": "Rendsburg",
+        "postal_code": "24768",
+        "country": "Deutschland",
+        "phone": "(01 76) 34 11 40 23",
+        "fax": "",
+        "email": "mhd.hj.72@gmail.com",
+        "is_default_billing": true,
+        "is_default_delivery": true
+      }
+    ]
+  },
+  "order_statistics": {
+    "total_orders": 0,
+    "unique_articles_ordered": 0,
+    "recent_orders_count": 0,
+    "last_order_date": null
+  },
+  "order_history": []
+}

@@ -1,0 +1,79 @@
+{
+  "metadata": {
+    "generated_at": "2025-09-10T23:17:06.410102",
+    "client_number": "17051",
+    "data_source": "BotanBot XML Export"
+  },
+  "client_profile": {
+    "client_number": "17051",
+    "search_term": "PIZZA FRESH",
+    "status": "Kunde",
+    "tax_number": "",
+    "vat_id": "",
+    "is_blocked": false,
+    "price_group": "(Std.-Preis)",
+    "billing_address": {
+      "salutation": "",
+      "name": "Pizza Fresh",
+      "name3": "Selman Calmaz",
+      "street": "Am Markt 17",
+      "city": "Kropp",
+      "postal_code": "24848",
+      "country": "Deutschland",
+      "phone": "(0 46 24) 4 57 74 80",
+      "fax": "",
+      "email": "pizzafreshkropp@gmail.com"
+    },
+    "delivery_address": {
+      "salutation": "",
+      "name": "Pizza Fresh",
+      "name3": "Selman Calmaz",
+      "street": "Am Markt 17",
+      "city": "Kropp",
+      "postal_code": "24848",
+      "country": "Deutschland",
+      "phone": "(0 46 24) 4 57 74 80",
+      "fax": "",
+      "email": "pizzafreshkropp@gmail.com"
+    },
+    "delivery_schedule": {
+      "monday": "",
+      "tuesday": "",
+      "wednesday": "",
+      "thursday": "",
+      "friday": "",
+      "saturday": ""
+    },
+    "settings": {
+      "webshop_enabled": false,
+      "ds_addresses": false,
+      "no_pickup_app": false,
+      "minimum_order_value": null,
+      "articles_not_in_history": ""
+    },
+    "additional_addresses": [
+      {
+        "address_number": "0",
+        "salutation": "",
+        "name": "Pizza Fresh",
+        "name3": "Selman Calmaz",
+        "street": "Am Markt 17",
+        "city": "Kropp",
+        "postal_code": "24848",
+        "country": "Deutschland",
+        "phone": "(0 46 24) 4 57 74 80",
+        "fax": "",
+        "email": "pizzafreshkropp@gmail.com",
+        "is_default_billing": true,
+        "is_default_delivery": true
+      }
+    ]
+  },
+  "order_statistics": {
+    "total_orders": 0,
+    "unique_articles_ordered": 0,
+    "recent_orders_count": 0,
+    "last_order_date": null
+  },
+  "order_history": []
+}

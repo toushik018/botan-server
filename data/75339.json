@@ -1,0 +1,79 @@
+{
+  "metadata": {
+    "generated_at": "2025-09-10T23:17:06.827715",
+    "client_number": "75339",
+    "data_source": "BotanBot XML Export"
+  },
+  "client_profile": {
+    "client_number": "75339",
+    "search_term": "MELGUSTO FOODSERVICE",
+    "status": "Lieferant",
+    "tax_number": "",
+    "vat_id": "DE367733811",
+    "is_blocked": false,
+    "price_group": "(Std.-Preis)",
+    "billing_address": {
+      "salutation": "",
+      "name": "Melgusto Foodservice GmbH",
+      "name3": "",
+      "street": "Dessauerstrasse 68",
+      "city": "Mülheim an der Ruhr",
+      "postal_code": "45472",
+      "country": "Deutschland",
+      "phone": "(0 20) 87 82 24 70",
+      "fax": "",
+      "email": "info@tagaygroup.de"
+    },
+    "delivery_address": {
+      "salutation": "",
+      "name": "Melgusto Foodservice GmbH",
+      "name3": "",
+      "street": "Dessauerstrasse 68",
+      "city": "Mülheim an der Ruhr",
+      "postal_code": "45472",
+      "country": "Deutschland",
+      "phone": "(0 20) 87 82 24 70",
+      "fax": "",
+      "email": "info@tagaygroup.de"
+    },
+    "delivery_schedule": {
+      "monday": "",
+      "tuesday": "",
+      "wednesday": "",
+      "thursday": "",
+      "friday": "",
+      "saturday": ""
+    },
+    "settings": {
+      "webshop_enabled": false,
+      "ds_addresses": false,
+      "no_pickup_app": false,
+      "minimum_order_value": null,
+      "articles_not_in_history": ""
+    },
+    "additional_addresses": [
+      {
+        "address_number": "0",
+        "salutation": "",
+        "name": "Melgusto Foodservice GmbH",
+        "name3": "",
+        "street": "Dessauerstrasse 68",
+        "city": "Mülheim an der Ruhr",
+        "postal_code": "45472",
+        "country": "Deutschland",
+        "phone": "(0 20) 87 82 24 70",
+        "fax": "",
+        "email": "info@tagaygroup.de",
+        "is_default_billing": true,
+        "is_default_delivery": true
+      }
+    ]
+  },
+  "order_statistics": {
+    "total_orders": 0,
+    "unique_articles_ordered": 0,
+    "recent_orders_count": 0,
+    "last_order_date": null
+  },
+  "order_history": []
+}

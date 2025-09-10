@@ -1,0 +1,79 @@
+{
+  "metadata": {
+    "generated_at": "2025-09-10T23:17:06.844736",
+    "client_number": "75806",
+    "data_source": "BotanBot XML Export"
+  },
+  "client_profile": {
+    "client_number": "75806",
+    "search_term": "SMILDE ROMI SMILFOOD",
+    "status": "Lieferant",
+    "tax_number": "",
+    "vat_id": "NL003197487B10",
+    "is_blocked": false,
+    "price_group": "(Std.-Preis)",
+    "billing_address": {
+      "salutation": "Firma",
+      "name": "Smilde foods BV",
+      "name3": "",
+      "street": "",
+      "city": "Aach, Hegau",
+      "postal_code": "",
+      "country": "Niederlande",
+      "phone": "+31 (5 13) 63 96 39",
+      "fax": "(08 00) 18 44 88 - 6",
+      "email": ""
+    },
+    "delivery_address": {
+      "salutation": "Firma",
+      "name": "Smilde foods BV",
+      "name3": "",
+      "street": "",
+      "city": "Aach, Hegau",
+      "postal_code": "",
+      "country": "Niederlande",
+      "phone": "+31 (5 13) 63 96 39",
+      "fax": "(08 00) 18 44 88 - 6",
+      "email": ""
+    },
+    "delivery_schedule": {
+      "monday": "",
+      "tuesday": "",
+      "wednesday": "",
+      "thursday": "",
+      "friday": "",
+      "saturday": ""
+    },
+    "settings": {
+      "webshop_enabled": false,
+      "ds_addresses": false,
+      "no_pickup_app": false,
+      "minimum_order_value": null,
+      "articles_not_in_history": ""
+    },
+    "additional_addresses": [
+      {
+        "address_number": "0",
+        "salutation": "Firma",
+        "name": "Smilde foods BV",
+        "name3": "",
+        "street": "",
+        "city": "Aach, Hegau",
+        "postal_code": "",
+        "country": "Niederlande",
+        "phone": "+31 (5 13) 63 96 39",
+        "fax": "(08 00) 18 44 88 - 6",
+        "email": "",
+        "is_default_billing": true,
+        "is_default_delivery": true
+      }
+    ]
+  },
+  "order_statistics": {
+    "total_orders": 0,
+    "unique_articles_ordered": 0,
+    "recent_orders_count": 0,
+    "last_order_date": null
+  },
+  "order_history": []
+}

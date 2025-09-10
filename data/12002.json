@@ -1,0 +1,79 @@
+{
+  "metadata": {
+    "generated_at": "2025-09-10T23:17:04.910699",
+    "client_number": "12002",
+    "data_source": "BotanBot XML Export"
+  },
+  "client_profile": {
+    "client_number": "12002",
+    "search_term": "G & E GASTRO GMBH & CO. K",
+    "status": "Kunde",
+    "tax_number": "",
+    "vat_id": "",
+    "is_blocked": false,
+    "price_group": "(Std.-Preis)",
+    "billing_address": {
+      "salutation": "",
+      "name": "G & E Gastro GmbH & CO. KG",
+      "name3": "Cup & Cino",
+      "street": "Alte  Feuerwache",
+      "city": "KIEL",
+      "postal_code": "24103",
+      "country": "Deutschland",
+      "phone": "(04 31) 23 71 - 4 54",
+      "fax": "(04 31) 2 37 14 55",
+      "email": ""
+    },
+    "delivery_address": {
+      "salutation": "",
+      "name": "G & E Gastro GmbH & CO. KG",
+      "name3": "Cup & Cino",
+      "street": "Alte  Feuerwache",
+      "city": "KIEL",
+      "postal_code": "24103",
+      "country": "Deutschland",
+      "phone": "(04 31) 23 71 - 4 54",
+      "fax": "(04 31) 2 37 14 55",
+      "email": ""
+    },
+    "delivery_schedule": {
+      "monday": "",
+      "tuesday": "",
+      "wednesday": "",
+      "thursday": "",
+      "friday": "",
+      "saturday": ""
+    },
+    "settings": {
+      "webshop_enabled": false,
+      "ds_addresses": false,
+      "no_pickup_app": false,
+      "minimum_order_value": null,
+      "articles_not_in_history": ""
+    },
+    "additional_addresses": [
+      {
+        "address_number": "0",
+        "salutation": "",
+        "name": "G & E Gastro GmbH & CO. KG",
+        "name3": "Cup & Cino",
+        "street": "Alte  Feuerwache",
+        "city": "KIEL",
+        "postal_code": "24103",
+        "country": "Deutschland",
+        "phone": "(04 31) 23 71 - 4 54",
+        "fax": "(04 31) 2 37 14 55",
+        "email": "",
+        "is_default_billing": true,
+        "is_default_delivery": true
+      }
+    ]
+  },
+  "order_statistics": {
+    "total_orders": 0,
+    "unique_articles_ordered": 0,
+    "recent_orders_count": 0,
+    "last_order_date": null
+  },
+  "order_history": []
+}

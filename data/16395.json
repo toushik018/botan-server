@@ -1,0 +1,79 @@
+{
+  "metadata": {
+    "generated_at": "2025-09-10T23:17:06.165620",
+    "client_number": "16395",
+    "data_source": "BotanBot XML Export"
+  },
+  "client_profile": {
+    "client_number": "16395",
+    "search_term": "EMIS CAFE",
+    "status": "Kunde",
+    "tax_number": "",
+    "vat_id": "",
+    "is_blocked": false,
+    "price_group": "(Std.-Preis)",
+    "billing_address": {
+      "salutation": "",
+      "name": "Emis Cafe",
+      "name3": "Inh. Senol Caliskan",
+      "street": "Lauenburger Strasse 14",
+      "city": "Büchen",
+      "postal_code": "21514",
+      "country": "Deutschland",
+      "phone": "",
+      "fax": "",
+      "email": "s.caliskan1968@gmail.com"
+    },
+    "delivery_address": {
+      "salutation": "",
+      "name": "Emis Cafe",
+      "name3": "Inh. Senol Caliskan",
+      "street": "Lauenburger Strasse 14",
+      "city": "Büchen",
+      "postal_code": "21514",
+      "country": "Deutschland",
+      "phone": "",
+      "fax": "",
+      "email": "s.caliskan1968@gmail.com"
+    },
+    "delivery_schedule": {
+      "monday": "6",
+      "tuesday": "",
+      "wednesday": "",
+      "thursday": "",
+      "friday": "",
+      "saturday": ""
+    },
+    "settings": {
+      "webshop_enabled": false,
+      "ds_addresses": false,
+      "no_pickup_app": false,
+      "minimum_order_value": null,
+      "articles_not_in_history": ""
+    },
+    "additional_addresses": [
+      {
+        "address_number": "0",
+        "salutation": "",
+        "name": "Emis Cafe",
+        "name3": "Inh. Senol Caliskan",
+        "street": "Lauenburger Strasse 14",
+        "city": "Büchen",
+        "postal_code": "21514",
+        "country": "Deutschland",
+        "phone": "",
+        "fax": "",
+        "email": "s.caliskan1968@gmail.com",
+        "is_default_billing": true,
+        "is_default_delivery": true
+      }
+    ]
+  },
+  "order_statistics": {
+    "total_orders": 0,
+    "unique_articles_ordered": 0,
+    "recent_orders_count": 0,
+    "last_order_date": null
+  },
+  "order_history": []
+}

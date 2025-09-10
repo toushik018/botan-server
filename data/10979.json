@@ -1,0 +1,79 @@
+{
+  "metadata": {
+    "generated_at": "2025-09-10T23:17:04.632152",
+    "client_number": "10979",
+    "data_source": "BotanBot XML Export"
+  },
+  "client_profile": {
+    "client_number": "10979",
+    "search_term": "ÖZBERK",
+    "status": "Kunde",
+    "tax_number": "",
+    "vat_id": "FI 20422059",
+    "is_blocked": false,
+    "price_group": "(Std.-Preis)",
+    "billing_address": {
+      "salutation": "Firma",
+      "name": "Tmi : 07 Özberk",
+      "name3": "",
+      "street": "Keskuskatu 17",
+      "city": "Seinäjoki",
+      "postal_code": "60100",
+      "country": "Finnland",
+      "phone": "+358 (6 41) 4 14 41 - 0",
+      "fax": "",
+      "email": "ibrahimozberk@hotmail.com"
+    },
+    "delivery_address": {
+      "salutation": "Firma",
+      "name": "Tmi : 07 Özberk",
+      "name3": "",
+      "street": "Keskuskatu 17",
+      "city": "Seinäjoki",
+      "postal_code": "60100",
+      "country": "Finnland",
+      "phone": "+358 (6 41) 4 14 41 - 0",
+      "fax": "",
+      "email": "ibrahimozberk@hotmail.com"
+    },
+    "delivery_schedule": {
+      "monday": "",
+      "tuesday": "",
+      "wednesday": "",
+      "thursday": "",
+      "friday": "",
+      "saturday": ""
+    },
+    "settings": {
+      "webshop_enabled": false,
+      "ds_addresses": false,
+      "no_pickup_app": false,
+      "minimum_order_value": null,
+      "articles_not_in_history": ""
+    },
+    "additional_addresses": [
+      {
+        "address_number": "0",
+        "salutation": "Firma",
+        "name": "Tmi : 07 Özberk",
+        "name3": "",
+        "street": "Keskuskatu 17",
+        "city": "Seinäjoki",
+        "postal_code": "60100",
+        "country": "Finnland",
+        "phone": "+358 (6 41) 4 14 41 - 0",
+        "fax": "",
+        "email": "ibrahimozberk@hotmail.com",
+        "is_default_billing": true,
+        "is_default_delivery": true
+      }
+    ]
+  },
+  "order_statistics": {
+    "total_orders": 0,
+    "unique_articles_ordered": 0,
+    "recent_orders_count": 0,
+    "last_order_date": null
+  },
+  "order_history": []
+}

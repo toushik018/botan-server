@@ -1,0 +1,94 @@
+{
+  "metadata": {
+    "generated_at": "2025-09-10T23:17:06.630924",
+    "client_number": "17621",
+    "data_source": "BotanBot XML Export"
+  },
+  "client_profile": {
+    "client_number": "17621",
+    "search_term": "NIGHTLIFE SOLUTION",
+    "status": "Kunde",
+    "tax_number": "",
+    "vat_id": "",
+    "is_blocked": false,
+    "price_group": "(Std.-Preis)",
+    "billing_address": {
+      "salutation": "",
+      "name": "Nightlife Solution GmbH",
+      "name3": "",
+      "street": "Spaldingstraße 210  (7. OG)",
+      "city": "Hamburg",
+      "postal_code": "20097",
+      "country": "Deutschland",
+      "phone": "",
+      "fax": "",
+      "email": "r.laube@nightlife-solutions.de"
+    },
+    "delivery_address": {
+      "salutation": "",
+      "name": "Nightlife Solution GmbH",
+      "name3": "",
+      "street": "Spaldingstraße 210  (7. OG)",
+      "city": "Hamburg",
+      "postal_code": "20097",
+      "country": "Deutschland",
+      "phone": "",
+      "fax": "",
+      "email": "r.laube@nightlife-solutions.de"
+    },
+    "delivery_schedule": {
+      "monday": "",
+      "tuesday": "",
+      "wednesday": "",
+      "thursday": "",
+      "friday": "",
+      "saturday": ""
+    },
+    "settings": {
+      "webshop_enabled": false,
+      "ds_addresses": false,
+      "no_pickup_app": false,
+      "minimum_order_value": null,
+      "articles_not_in_history": ""
+    },
+    "additional_addresses": [
+      {
+        "address_number": "0",
+        "salutation": "",
+        "name": "Nightlife Solution GmbH",
+        "name3": "",
+        "street": "Spaldingstraße 210  (7. OG)",
+        "city": "Hamburg",
+        "postal_code": "20097",
+        "country": "Deutschland",
+        "phone": "",
+        "fax": "",
+        "email": "r.laube@nightlife-solutions.de",
+        "is_default_billing": true,
+        "is_default_delivery": true
+      },
+      {
+        "address_number": "2",
+        "salutation": "",
+        "name": "Kombüse",
+        "name3": "Inh.: Kristina Barsegan",
+        "street": "Blücherbrücke",
+        "city": "Kiel",
+        "postal_code": "24105",
+        "country": "Deutschland",
+        "phone": "(01 76) 82 12 14 65",
+        "fax": "",
+        "email": "barsegan@hotmail.com",
+        "is_default_billing": false,
+        "is_default_delivery": false
+      }
+    ]
+  },
+  "order_statistics": {
+    "total_orders": 0,
+    "unique_articles_ordered": 0,
+    "recent_orders_count": 0,
+    "last_order_date": null
+  },
+  "order_history": []
+}

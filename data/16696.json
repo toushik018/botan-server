@@ -1,0 +1,79 @@
+{
+  "metadata": {
+    "generated_at": "2025-09-10T23:17:06.268082",
+    "client_number": "16696",
+    "data_source": "BotanBot XML Export"
+  },
+  "client_profile": {
+    "client_number": "16696",
+    "search_term": "KARTOFFELVERTRIEB HINRIC",
+    "status": "Kunde",
+    "tax_number": "",
+    "vat_id": "",
+    "is_blocked": true,
+    "price_group": "(Std.-Preis)",
+    "billing_address": {
+      "salutation": "",
+      "name": "Hinrichs-Hölandt",
+      "name3": "Inh. Horst Hinrichs",
+      "street": "Kölau 10",
+      "city": "Suhlendorf",
+      "postal_code": "29562",
+      "country": "Deutschland",
+      "phone": "(0 58 20) 15 50",
+      "fax": "",
+      "email": "b.behn@kartoffelvertrieb-hinrichs.de"
+    },
+    "delivery_address": {
+      "salutation": "",
+      "name": "Hinrichs-Hölandt",
+      "name3": "Inh. Horst Hinrichs",
+      "street": "Kölau 10",
+      "city": "Suhlendorf",
+      "postal_code": "29562",
+      "country": "Deutschland",
+      "phone": "(0 58 20) 15 50",
+      "fax": "",
+      "email": "b.behn@kartoffelvertrieb-hinrichs.de"
+    },
+    "delivery_schedule": {
+      "monday": "",
+      "tuesday": "",
+      "wednesday": "",
+      "thursday": "",
+      "friday": "",
+      "saturday": ""
+    },
+    "settings": {
+      "webshop_enabled": false,
+      "ds_addresses": false,
+      "no_pickup_app": false,
+      "minimum_order_value": null,
+      "articles_not_in_history": ""
+    },
+    "additional_addresses": [
+      {
+        "address_number": "0",
+        "salutation": "",
+        "name": "Hinrichs-Hölandt",
+        "name3": "Inh. Horst Hinrichs",
+        "street": "Kölau 10",
+        "city": "Suhlendorf",
+        "postal_code": "29562",
+        "country": "Deutschland",
+        "phone": "(0 58 20) 15 50",
+        "fax": "",
+        "email": "b.behn@kartoffelvertrieb-hinrichs.de",
+        "is_default_billing": true,
+        "is_default_delivery": true
+      }
+    ]
+  },
+  "order_statistics": {
+    "total_orders": 0,
+    "unique_articles_ordered": 0,
+    "recent_orders_count": 0,
+    "last_order_date": null
+  },
+  "order_history": []
+}

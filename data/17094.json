@@ -1,0 +1,79 @@
+{
+  "metadata": {
+    "generated_at": "2025-09-10T23:17:06.428217",
+    "client_number": "17094",
+    "data_source": "BotanBot XML Export"
+  },
+  "client_profile": {
+    "client_number": "17094",
+    "search_term": "SMILEYS PIZZA KALTENKIRCH",
+    "status": "Kunde",
+    "tax_number": "",
+    "vat_id": "",
+    "is_blocked": false,
+    "price_group": "(Std.-Preis)",
+    "billing_address": {
+      "salutation": "",
+      "name": "Smileys Pizza Kaltenkirchen",
+      "name3": "Awis GbR",
+      "street": "Werner von Siemens Straße 6",
+      "city": "Kaltenkirchen",
+      "postal_code": "24568",
+      "country": "Deutschland",
+      "phone": "(0 41 91) 7 22 61 60",
+      "fax": "",
+      "email": "behnisch.awis@gmail.com"
+    },
+    "delivery_address": {
+      "salutation": "",
+      "name": "Smileys Pizza Kaltenkirchen",
+      "name3": "Awis GbR",
+      "street": "Werner von Siemens Straße 6",
+      "city": "Kaltenkirchen",
+      "postal_code": "24568",
+      "country": "Deutschland",
+      "phone": "(0 41 91) 7 22 61 60",
+      "fax": "",
+      "email": "behnisch.awis@gmail.com"
+    },
+    "delivery_schedule": {
+      "monday": "",
+      "tuesday": "3",
+      "wednesday": "",
+      "thursday": "8",
+      "friday": "",
+      "saturday": ""
+    },
+    "settings": {
+      "webshop_enabled": false,
+      "ds_addresses": false,
+      "no_pickup_app": false,
+      "minimum_order_value": 400.0,
+      "articles_not_in_history": ""
+    },
+    "additional_addresses": [
+      {
+        "address_number": "0",
+        "salutation": "",
+        "name": "Smileys Pizza Kaltenkirchen",
+        "name3": "Awis GbR",
+        "street": "Werner von Siemens Straße 6",
+        "city": "Kaltenkirchen",
+        "postal_code": "24568",
+        "country": "Deutschland",
+        "phone": "(0 41 91) 7 22 61 60",
+        "fax": "",
+        "email": "behnisch.awis@gmail.com",
+        "is_default_billing": true,
+        "is_default_delivery": true
+      }
+    ]
+  },
+  "order_statistics": {
+    "total_orders": 0,
+    "unique_articles_ordered": 0,
+    "recent_orders_count": 0,
+    "last_order_date": null
+  },
+  "order_history": []
+}

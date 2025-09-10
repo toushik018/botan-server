@@ -1,0 +1,79 @@
+{
+  "metadata": {
+    "generated_at": "2025-09-10T23:17:06.764262",
+    "client_number": "74306",
+    "data_source": "BotanBot XML Export"
+  },
+  "client_profile": {
+    "client_number": "74306",
+    "search_term": "GROßHANDEL",
+    "status": "Lieferant",
+    "tax_number": "",
+    "vat_id": "",
+    "is_blocked": false,
+    "price_group": "(Std.-Preis)",
+    "billing_address": {
+      "salutation": "Firma",
+      "name": "CAN Großhandel GmbH & Co. KG",
+      "name3": "",
+      "street": "Gustav-Hagemann-Str. 46",
+      "city": "Salzgitter",
+      "postal_code": "38229",
+      "country": "Deutschland",
+      "phone": "(0 53 41) 7 90 68 60",
+      "fax": "(0 53 41) 7 90 68 63",
+      "email": ""
+    },
+    "delivery_address": {
+      "salutation": "Firma",
+      "name": "CAN Großhandel GmbH & Co. KG",
+      "name3": "",
+      "street": "Gustav-Hagemann-Str. 46",
+      "city": "Salzgitter",
+      "postal_code": "38229",
+      "country": "Deutschland",
+      "phone": "(0 53 41) 7 90 68 60",
+      "fax": "(0 53 41) 7 90 68 63",
+      "email": ""
+    },
+    "delivery_schedule": {
+      "monday": "",
+      "tuesday": "",
+      "wednesday": "",
+      "thursday": "",
+      "friday": "",
+      "saturday": ""
+    },
+    "settings": {
+      "webshop_enabled": false,
+      "ds_addresses": false,
+      "no_pickup_app": false,
+      "minimum_order_value": null,
+      "articles_not_in_history": ""
+    },
+    "additional_addresses": [
+      {
+        "address_number": "0",
+        "salutation": "Firma",
+        "name": "CAN Großhandel GmbH & Co. KG",
+        "name3": "",
+        "street": "Gustav-Hagemann-Str. 46",
+        "city": "Salzgitter",
+        "postal_code": "38229",
+        "country": "Deutschland",
+        "phone": "(0 53 41) 7 90 68 60",
+        "fax": "(0 53 41) 7 90 68 63",
+        "email": "",
+        "is_default_billing": true,
+        "is_default_delivery": true
+      }
+    ]
+  },
+  "order_statistics": {
+    "total_orders": 0,
+    "unique_articles_ordered": 0,
+    "recent_orders_count": 0,
+    "last_order_date": null
+  },
+  "order_history": []
+}

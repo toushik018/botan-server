@@ -1,0 +1,94 @@
+{
+  "metadata": {
+    "generated_at": "2025-09-10T23:17:06.259572",
+    "client_number": "16661",
+    "data_source": "BotanBot XML Export"
+  },
+  "client_profile": {
+    "client_number": "16661",
+    "search_term": "EINHANDWERK PIZZA MANIFAK",
+    "status": "Kunde",
+    "tax_number": "",
+    "vat_id": "",
+    "is_blocked": false,
+    "price_group": "(Std.-Preis)",
+    "billing_address": {
+      "salutation": "",
+      "name": "Einhandwerk Pizza  Manufaktur",
+      "name3": "Inh.: Suzan Wenskat",
+      "street": "Hindenburgstrasse 47",
+      "city": "Bad Schwartau",
+      "postal_code": "23611",
+      "country": "Deutschland",
+      "phone": "(04 51) 88 06 55 26",
+      "fax": "",
+      "email": "gueltekintilki@icloud.com"
+    },
+    "delivery_address": {
+      "salutation": "",
+      "name": "Einhandwerk Pizza  Manufaktur",
+      "name3": "Inh.: Suzan Wenskat",
+      "street": "Hindenburgstrasse 47",
+      "city": "Bad Schwartau",
+      "postal_code": "23611",
+      "country": "Deutschland",
+      "phone": "(04 51) 88 06 55 26",
+      "fax": "",
+      "email": "gueltekintilki@icloud.com"
+    },
+    "delivery_schedule": {
+      "monday": "",
+      "tuesday": "",
+      "wednesday": "4",
+      "thursday": "",
+      "friday": "",
+      "saturday": ""
+    },
+    "settings": {
+      "webshop_enabled": false,
+      "ds_addresses": false,
+      "no_pickup_app": false,
+      "minimum_order_value": null,
+      "articles_not_in_history": ""
+    },
+    "additional_addresses": [
+      {
+        "address_number": "0",
+        "salutation": "",
+        "name": "Einhandwerk Pizza  Manufaktur",
+        "name3": "Inh.: Suzan Wenskat",
+        "street": "Hindenburgstrasse 47",
+        "city": "Bad Schwartau",
+        "postal_code": "23611",
+        "country": "Deutschland",
+        "phone": "(04 51) 88 06 55 26",
+        "fax": "",
+        "email": "gueltekintilki@icloud.com",
+        "is_default_billing": true,
+        "is_default_delivery": true
+      },
+      {
+        "address_number": "1",
+        "salutation": "",
+        "name": "Einhandwerk Pizza Manufaktur",
+        "name3": "",
+        "street": "Ziegelstr. 34",
+        "city": "Lübeck",
+        "postal_code": "23556",
+        "country": "Deutschland",
+        "phone": "(04 51) 40 79 54 44",
+        "fax": "",
+        "email": "gueltekintilki@icloud.com",
+        "is_default_billing": false,
+        "is_default_delivery": false
+      }
+    ]
+  },
+  "order_statistics": {
+    "total_orders": 0,
+    "unique_articles_ordered": 0,
+    "recent_orders_count": 0,
+    "last_order_date": null
+  },
+  "order_history": []
+}

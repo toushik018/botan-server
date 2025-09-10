@@ -1,0 +1,105 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ArtikelListe>
+<ArtikelAnzahl>1</ArtikelAnzahl>
+<Artikel>
+    <ArtNr info="Artikelnummer" type="WideString"><![CDATA[3179]]></ArtNr>
+    <BarCd info="Barcode" type="WideString"><![CDATA[]]></BarCd>
+    <KuBez1 info="Kurzbezeichnung 1" type="WideString"><![CDATA[TK Laugenbrezel m.Schnitt u.Salz Teigli.60x160g/KT]]></KuBez1>
+    <KuBez6 info="Kurzbezeichnung 6" type="WideString"><![CDATA[TK Laugenbrezel m.Schnitt u.Salz Teigli.60x160g/KT]]></KuBez6>
+    <Gew info="Gewicht" type="Float"><![CDATA[]]></Gew>
+    <Einh info="Einheit" type="WideString"><![CDATA[ST]]></Einh>
+    <PreisMge info="Preise gelten für Menge" type="Float"><![CDATA[1]]></PreisMge>
+    <StSchl info="Steuerschlüssel" type="WideString"><![CDATA[2 Mehrwertsteuer 7%]]></StSchl>
+    <WgrNr info="Warengruppennummer" type="WideString"><![CDATA[05.40.10]]></WgrNr>
+    <WgrNrInfo info="Warengruppe" type="WideString"><![CDATA[05.40.10 Brotwaren]]></WgrNrInfo>
+    <Vk0_PreisNt info="Vk0->Preis (Netto)" type="Float"><![CDATA[0,4990]]></Vk0_PreisNt>
+    <Vk0_SPr info="Vk0->Sonderpreis" type="Float"><![CDATA[]]></Vk0_SPr>
+    <Vk0_SVonDat info="Vk0->Sonderpreis gültig ab Datum" type="Date"><![CDATA[]]></Vk0_SVonDat>
+    <Vk0_SBisDat info="Vk0->Sonderpreis gültig bis Datum" type="Date"><![CDATA[]]></Vk0_SBisDat>
+    <Vk4_PreisNt info="Vk4->Preis (Netto)" type="Float"><![CDATA[0,4090]]></Vk4_PreisNt>
+    <Vk4_SPr info="Vk4->Sonderpreis" type="Float"><![CDATA[]]></Vk4_SPr>
+    <Vk4_SVonDat info="Vk4->Sonderpreis gültig ab Datum" type="Date"><![CDATA[]]></Vk4_SVonDat>
+    <Vk4_SBisDat info="Vk4->Sonderpreis gültig bis Datum" type="Date"><![CDATA[]]></Vk4_SBisDat>
+    <Vk5_PreisNt info="Vk5->Preis (Netto)" type="Float"><![CDATA[0,4090]]></Vk5_PreisNt>
+    <Vk5_SPr info="Vk5->Sonderpreis" type="Float"><![CDATA[]]></Vk5_SPr>
+    <Vk5_SVonDat info="Vk5->Sonderpreis gültig ab Datum" type="Date"><![CDATA[]]></Vk5_SVonDat>
+    <Vk5_SBisDat info="Vk5->Sonderpreis gültig bis Datum" type="Date"><![CDATA[]]></Vk5_SBisDat>
+    <Lief_LiefZt info="Lieferzeit (in Tagen)" type="Float"><![CDATA[7]]></Lief_LiefZt>
+    <Sel2 info="Artikel mit Gewicht?" type="Boolean"><![CDATA[Nein]]></Sel2>
+    <Sel3 info="Bestellartikel (6z)?" type="Boolean"><![CDATA[Nein]]></Sel3>
+    <Sel4 info="Nur Vorbestellung?" type="Boolean"><![CDATA[Nein]]></Sel4>
+    <Sel6 info="2. Einheit" type="WideString"><![CDATA[]]></Sel6>
+    <Sel15 info="Min Gewicht Stück" type="Float"><![CDATA[]]></Sel15>
+    <Sel16 info="Max Gewicht Stück" type="Float"><![CDATA[]]></Sel16>
+    <Sel25 info="DS-Artikel" type="Boolean"><![CDATA[Nein]]></Sel25>
+    <Sel81 info="Döner Imbiss" type="Boolean"><![CDATA[Nein]]></Sel81>
+    <Sel82 info="Wurst Imbiss" type="Boolean"><![CDATA[Nein]]></Sel82>
+    <Sel83 info="Cafe" type="Boolean"><![CDATA[Nein]]></Sel83>
+    <Sel84 info="Italiener" type="Boolean"><![CDATA[Nein]]></Sel84>
+    <Sel85 info="Grieche" type="Boolean"><![CDATA[Nein]]></Sel85>
+    <Sel86 info="Asiatische Küche" type="Boolean"><![CDATA[Nein]]></Sel86>
+    <Sel87 info="International" type="Boolean"><![CDATA[Nein]]></Sel87>
+    <Sel88 info="Orient" type="Boolean"><![CDATA[Nein]]></Sel88>
+    <Sel89 info="Balkan" type="Boolean"><![CDATA[Nein]]></Sel89>
+    <Sel90 info="Supermärkte" type="Boolean"><![CDATA[Nein]]></Sel90>
+    <Sel91 info="Bäckerei" type="Boolean"><![CDATA[Nein]]></Sel91>
+    <Sel92 info="Kiosk" type="Boolean"><![CDATA[Nein]]></Sel92>
+    <Sel93 info="Pizza Lieferdienst" type="Boolean"><![CDATA[Nein]]></Sel93>
+    <Sel94 info="Burger Manufaktur" type="Boolean"><![CDATA[Nein]]></Sel94>
+    <Sel95 info="Bars und Clubs" type="Boolean"><![CDATA[Nein]]></Sel95>
+    <Sel100 info="Artikel wird Webshop bereitgestellt" type="Boolean"><![CDATA[Nein]]></Sel100>
+    <Sel101 info="Artikel für Kunden" type="WideString"><![CDATA[]]></Sel101>
+    <Sel102 info="Bilder freigegeben" type="Boolean"><![CDATA[Ja]]></Sel102>
+    <GspKz info="Ist Gesperrt" type="Boolean"><![CDATA[Nein]]></GspKz>
+    <Sel115 info="Text bei Gesperrt" type="WideString"><![CDATA[]]></Sel115>
+    <Sel116 info="WebShop-Kennzeichen" type="Boolean"><![CDATA[Ja]]></Sel116>
+    <WShopKz info="WebShop-Kennzeichen" type="Boolean"><![CDATA[Ja]]></WShopKz>
+    <Sel117 info="Sort. f. Favoriten" type="WideString"><![CDATA[7054010000021211800]]></Sel117>
+    <Sel118 info="Sprungmenge" type="Integer"><![CDATA[0]]></Sel118>
+    <Sel119 info="Alternativ-Artikel" type="WideString"><![CDATA[]]></Sel119>
+    <Vk0_ZuschlBet info="Vk0->Zuschlagsbetrag" type="Float"><![CDATA[]]></Vk0_ZuschlBet>
+    <Sel122 info="Rabattfähig (APP)" type="Boolean"><![CDATA[Nein]]></Sel122>
+    <Sel123 info="Suchfeld" type="Blob"><![CDATA[]]></Sel123>
+    <Sel27 info="TK" type="Boolean"><![CDATA[Ja]]></Sel27>
+    <BildDatei1><![CDATA[3179_LAUGENBREZEL_TEIGLIN.png]]></BildDatei1>
+    <BildDatei2><![CDATA[]]></BildDatei2>
+    <BildDatei3><![CDATA[]]></BildDatei3>
+    <BildDatei4><![CDATA[]]></BildDatei4>
+    <BildDatei5><![CDATA[]]></BildDatei5>
+    <EinhFakt><![CDATA[Karton 60 Stk.]]></EinhFakt>
+    <MgeFakt><![CDATA[60]]></MgeFakt>
+  <ArtikelZusaetze>
+  </ArtikelZusaetze>
+  <ArtikelKategorien>
+  </ArtikelKategorien>
+  <ArtikelAbweichende>
+  <ArtikelAbweichend>
+    <AdrNr info="Adressnummer" type="WideString"><![CDATA[16948]]></AdrNr>
+    <ArtNr info="Artikelnummer" type="WideString"><![CDATA[3179]]></ArtNr>
+    <AbwPr info="Abweichender Preis" type="Float"><![CDATA[0,4094]]></AbwPr>
+    <GspAbDat info="Gesperrt ab Datum" type="Date"><![CDATA[]]></GspAbDat>
+    <GspBisDat info="Gesperrt bis Datum" type="Date"><![CDATA[]]></GspBisDat>
+    <GspKz info="Ist Gesperrt" type="Boolean"><![CDATA[Nein]]></GspKz>
+    <Grp info="Gruppe" type="Integer"><![CDATA[(Nicht angegeben)]]></Grp>
+    <ArtBez info="Artikel Bezeichnung" type="Blob"><![CDATA[]]></ArtBez>
+    <PreisMge info="Preise gelten für Menge" type="Float"><![CDATA[1]]></PreisMge>
+    <Rab0_Pr info="Rab0->Rabattpreis" type="Float"><![CDATA[]]></Rab0_Pr>
+    <Rab0_Sz info="Rab0->Rabattsatz" type="Float"><![CDATA[]]></Rab0_Sz>
+    <Rab0_Mge info="Rab0->Rabattmenge" type="Float"><![CDATA[]]></Rab0_Mge>
+    <Rab1_Pr info="Rab1->Rabattpreis" type="Float"><![CDATA[]]></Rab1_Pr>
+    <Rab1_Sz info="Rab1->Rabattsatz" type="Float"><![CDATA[]]></Rab1_Sz>
+    <Rab1_Mge info="Rab1->Rabattmenge" type="Float"><![CDATA[]]></Rab1_Mge>
+    <Rab2_Pr info="Rab2->Rabattpreis" type="Float"><![CDATA[]]></Rab2_Pr>
+    <Rab2_Sz info="Rab2->Rabattsatz" type="Float"><![CDATA[]]></Rab2_Sz>
+    <Rab2_Mge info="Rab2->Rabattmenge" type="Float"><![CDATA[]]></Rab2_Mge>
+    <Rab3_Pr info="Rab3->Rabattpreis" type="Float"><![CDATA[]]></Rab3_Pr>
+    <Rab3_Sz info="Rab3->Rabattsatz" type="Float"><![CDATA[]]></Rab3_Sz>
+    <Rab3_Mge info="Rab3->Rabattmenge" type="Float"><![CDATA[]]></Rab3_Mge>
+  </ArtikelAbweichend>
+  </ArtikelAbweichende>
+  <Dokumente>
+  </Dokumente>
+  <GebindeListe>
+  </GebindeListe>
+</Artikel>
+</ArtikelListe>

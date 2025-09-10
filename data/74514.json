@@ -1,0 +1,79 @@
+{
+  "metadata": {
+    "generated_at": "2025-09-10T23:17:06.778233",
+    "client_number": "74514",
+    "data_source": "BotanBot XML Export"
+  },
+  "client_profile": {
+    "client_number": "74514",
+    "search_term": "PRODUKTION NORD FOOD",
+    "status": "Lieferant",
+    "tax_number": "",
+    "vat_id": "",
+    "is_blocked": false,
+    "price_group": "1 DS",
+    "billing_address": {
+      "salutation": "",
+      "name": "Nord Food Produktion UG",
+      "name3": "Lieferant DS Produktion",
+      "street": "Eichkamp 1-5",
+      "city": "Kiel",
+      "postal_code": "24116",
+      "country": "Deutschland",
+      "phone": "(04 31) 69 12 69 68",
+      "fax": "",
+      "email": ""
+    },
+    "delivery_address": {
+      "salutation": "",
+      "name": "Nord Food Produktion UG",
+      "name3": "Lieferant DS Produktion",
+      "street": "Eichkamp 1-5",
+      "city": "Kiel",
+      "postal_code": "24116",
+      "country": "Deutschland",
+      "phone": "(04 31) 69 12 69 68",
+      "fax": "",
+      "email": ""
+    },
+    "delivery_schedule": {
+      "monday": "",
+      "tuesday": "",
+      "wednesday": "",
+      "thursday": "",
+      "friday": "",
+      "saturday": ""
+    },
+    "settings": {
+      "webshop_enabled": false,
+      "ds_addresses": false,
+      "no_pickup_app": false,
+      "minimum_order_value": null,
+      "articles_not_in_history": ""
+    },
+    "additional_addresses": [
+      {
+        "address_number": "0",
+        "salutation": "",
+        "name": "Nord Food Produktion UG",
+        "name3": "Lieferant DS Produktion",
+        "street": "Eichkamp 1-5",
+        "city": "Kiel",
+        "postal_code": "24116",
+        "country": "Deutschland",
+        "phone": "(04 31) 69 12 69 68",
+        "fax": "",
+        "email": "",
+        "is_default_billing": true,
+        "is_default_delivery": true
+      }
+    ]
+  },
+  "order_statistics": {
+    "total_orders": 0,
+    "unique_articles_ordered": 0,
+    "recent_orders_count": 0,
+    "last_order_date": null
+  },
+  "order_history": []
+}

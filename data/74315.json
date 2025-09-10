@@ -1,0 +1,79 @@
+{
+  "metadata": {
+    "generated_at": "2025-09-10T23:17:06.766261",
+    "client_number": "74315",
+    "data_source": "BotanBot XML Export"
+  },
+  "client_profile": {
+    "client_number": "74315",
+    "search_term": "CEM GETRÄNKE",
+    "status": "Lieferant",
+    "tax_number": "317/5039/3160",
+    "vat_id": "",
+    "is_blocked": false,
+    "price_group": "(Std.-Preis)",
+    "billing_address": {
+      "salutation": "Firma",
+      "name": "Cem Getränke",
+      "name3": "",
+      "street": "Lessingstr. 60",
+      "city": "Dortmund",
+      "postal_code": "44147",
+      "country": "Deutschland",
+      "phone": "(02 31) 88 05 81 54",
+      "fax": "(02 31) 9 93 65 88",
+      "email": ""
+    },
+    "delivery_address": {
+      "salutation": "Firma",
+      "name": "Cem Getränke",
+      "name3": "",
+      "street": "Lessingstr. 60",
+      "city": "Dortmund",
+      "postal_code": "44147",
+      "country": "Deutschland",
+      "phone": "(02 31) 88 05 81 54",
+      "fax": "(02 31) 9 93 65 88",
+      "email": ""
+    },
+    "delivery_schedule": {
+      "monday": "",
+      "tuesday": "",
+      "wednesday": "",
+      "thursday": "",
+      "friday": "",
+      "saturday": ""
+    },
+    "settings": {
+      "webshop_enabled": false,
+      "ds_addresses": false,
+      "no_pickup_app": false,
+      "minimum_order_value": null,
+      "articles_not_in_history": ""
+    },
+    "additional_addresses": [
+      {
+        "address_number": "0",
+        "salutation": "Firma",
+        "name": "Cem Getränke",
+        "name3": "",
+        "street": "Lessingstr. 60",
+        "city": "Dortmund",
+        "postal_code": "44147",
+        "country": "Deutschland",
+        "phone": "(02 31) 88 05 81 54",
+        "fax": "(02 31) 9 93 65 88",
+        "email": "",
+        "is_default_billing": true,
+        "is_default_delivery": true
+      }
+    ]
+  },
+  "order_statistics": {
+    "total_orders": 0,
+    "unique_articles_ordered": 0,
+    "recent_orders_count": 0,
+    "last_order_date": null
+  },
+  "order_history": []
+}

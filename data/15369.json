@@ -1,0 +1,79 @@
+{
+  "metadata": {
+    "generated_at": "2025-09-10T23:17:05.849119",
+    "client_number": "15369",
+    "data_source": "BotanBot XML Export"
+  },
+  "client_profile": {
+    "client_number": "15369",
+    "search_term": "WARSTEINER BRAUEREI",
+    "status": "Kunde",
+    "tax_number": "",
+    "vat_id": "",
+    "is_blocked": false,
+    "price_group": "(Std.-Preis)",
+    "billing_address": {
+      "salutation": "Firma",
+      "name": "Warsteiner Brauerei",
+      "name3": "Haus Cramer KG",
+      "street": "Domring 4-10",
+      "city": "Warstein",
+      "postal_code": "59581",
+      "country": "Deutschland",
+      "phone": "(0 45 23) 99 00 42",
+      "fax": "(0 45 23) 99 00 43",
+      "email": "mrutz@warsteiner.com"
+    },
+    "delivery_address": {
+      "salutation": "Firma",
+      "name": "Warsteiner Brauerei",
+      "name3": "Haus Cramer KG",
+      "street": "Domring 4-10",
+      "city": "Warstein",
+      "postal_code": "59581",
+      "country": "Deutschland",
+      "phone": "(0 45 23) 99 00 42",
+      "fax": "(0 45 23) 99 00 43",
+      "email": "mrutz@warsteiner.com"
+    },
+    "delivery_schedule": {
+      "monday": "",
+      "tuesday": "",
+      "wednesday": "",
+      "thursday": "",
+      "friday": "",
+      "saturday": ""
+    },
+    "settings": {
+      "webshop_enabled": false,
+      "ds_addresses": false,
+      "no_pickup_app": false,
+      "minimum_order_value": null,
+      "articles_not_in_history": ""
+    },
+    "additional_addresses": [
+      {
+        "address_number": "0",
+        "salutation": "Firma",
+        "name": "Warsteiner Brauerei",
+        "name3": "Haus Cramer KG",
+        "street": "Domring 4-10",
+        "city": "Warstein",
+        "postal_code": "59581",
+        "country": "Deutschland",
+        "phone": "(0 45 23) 99 00 42",
+        "fax": "(0 45 23) 99 00 43",
+        "email": "mrutz@warsteiner.com",
+        "is_default_billing": true,
+        "is_default_delivery": true
+      }
+    ]
+  },
+  "order_statistics": {
+    "total_orders": 0,
+    "unique_articles_ordered": 0,
+    "recent_orders_count": 0,
+    "last_order_date": null
+  },
+  "order_history": []
+}

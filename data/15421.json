@@ -1,0 +1,79 @@
+{
+  "metadata": {
+    "generated_at": "2025-09-10T23:17:05.863956",
+    "client_number": "15421",
+    "data_source": "BotanBot XML Export"
+  },
+  "client_profile": {
+    "client_number": "15421",
+    "search_term": "GASTSTÄTTE SUCHSDORFER SP",
+    "status": "Kunde",
+    "tax_number": "",
+    "vat_id": "",
+    "is_blocked": true,
+    "price_group": "(Std.-Preis)",
+    "billing_address": {
+      "salutation": "Firma",
+      "name": "Gaststätte im Suchsdorfer Sportheim",
+      "name3": "Christian Johannsen",
+      "street": "Alter Steenbeker Weg 24",
+      "city": "Kiel",
+      "postal_code": "24107",
+      "country": "Deutschland",
+      "phone": "(01 77) 47 85 - 4 09",
+      "fax": "",
+      "email": "c.johannsen74@gmx.de"
+    },
+    "delivery_address": {
+      "salutation": "Firma",
+      "name": "Gaststätte im Suchsdorfer Sportheim",
+      "name3": "Christian Johannsen",
+      "street": "Alter Steenbeker Weg 24",
+      "city": "Kiel",
+      "postal_code": "24107",
+      "country": "Deutschland",
+      "phone": "(01 77) 47 85 - 4 09",
+      "fax": "",
+      "email": "c.johannsen74@gmx.de"
+    },
+    "delivery_schedule": {
+      "monday": "",
+      "tuesday": "",
+      "wednesday": "",
+      "thursday": "",
+      "friday": "",
+      "saturday": ""
+    },
+    "settings": {
+      "webshop_enabled": false,
+      "ds_addresses": false,
+      "no_pickup_app": false,
+      "minimum_order_value": null,
+      "articles_not_in_history": ""
+    },
+    "additional_addresses": [
+      {
+        "address_number": "0",
+        "salutation": "Firma",
+        "name": "Gaststätte im Suchsdorfer Sportheim",
+        "name3": "Christian Johannsen",
+        "street": "Alter Steenbeker Weg 24",
+        "city": "Kiel",
+        "postal_code": "24107",
+        "country": "Deutschland",
+        "phone": "(01 77) 47 85 - 4 09",
+        "fax": "",
+        "email": "c.johannsen74@gmx.de",
+        "is_default_billing": true,
+        "is_default_delivery": true
+      }
+    ]
+  },
+  "order_statistics": {
+    "total_orders": 0,
+    "unique_articles_ordered": 0,
+    "recent_orders_count": 0,
+    "last_order_date": null
+  },
+  "order_history": []
+}

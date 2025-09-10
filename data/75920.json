@@ -1,0 +1,79 @@
+{
+  "metadata": {
+    "generated_at": "2025-09-10T23:17:06.851735",
+    "client_number": "75920",
+    "data_source": "BotanBot XML Export"
+  },
+  "client_profile": {
+    "client_number": "75920",
+    "search_term": "SACHSENMILCH",
+    "status": "Lieferant",
+    "tax_number": "",
+    "vat_id": "DE813909973",
+    "is_blocked": false,
+    "price_group": "(Std.-Preis)",
+    "billing_address": {
+      "salutation": "Firma",
+      "name": "Sachsenmilch Leppersdorf GmbH",
+      "name3": "",
+      "street": "An den Breiten",
+      "city": "Wachau OT Leppersdorf",
+      "postal_code": "01454",
+      "country": "Deutschland",
+      "phone": "(0 35 28) 4 34 27 10",
+      "fax": "(0 35 28) 43 47 70",
+      "email": "matthias.haugg@sachsenmilch.de"
+    },
+    "delivery_address": {
+      "salutation": "Firma",
+      "name": "Sachsenmilch Leppersdorf GmbH",
+      "name3": "",
+      "street": "An den Breiten",
+      "city": "Wachau OT Leppersdorf",
+      "postal_code": "01454",
+      "country": "Deutschland",
+      "phone": "(0 35 28) 4 34 27 10",
+      "fax": "(0 35 28) 43 47 70",
+      "email": "matthias.haugg@sachsenmilch.de"
+    },
+    "delivery_schedule": {
+      "monday": "",
+      "tuesday": "",
+      "wednesday": "",
+      "thursday": "",
+      "friday": "",
+      "saturday": ""
+    },
+    "settings": {
+      "webshop_enabled": false,
+      "ds_addresses": false,
+      "no_pickup_app": false,
+      "minimum_order_value": null,
+      "articles_not_in_history": ""
+    },
+    "additional_addresses": [
+      {
+        "address_number": "0",
+        "salutation": "Firma",
+        "name": "Sachsenmilch Leppersdorf GmbH",
+        "name3": "",
+        "street": "An den Breiten",
+        "city": "Wachau OT Leppersdorf",
+        "postal_code": "01454",
+        "country": "Deutschland",
+        "phone": "(0 35 28) 4 34 27 10",
+        "fax": "(0 35 28) 43 47 70",
+        "email": "matthias.haugg@sachsenmilch.de",
+        "is_default_billing": true,
+        "is_default_delivery": true
+      }
+    ]
+  },
+  "order_statistics": {
+    "total_orders": 0,
+    "unique_articles_ordered": 0,
+    "recent_orders_count": 0,
+    "last_order_date": null
+  },
+  "order_history": []
+}

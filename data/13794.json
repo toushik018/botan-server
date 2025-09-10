@@ -1,0 +1,139 @@
+{
+  "metadata": {
+    "generated_at": "2025-09-10T23:17:05.415024",
+    "client_number": "13794",
+    "data_source": "BotanBot XML Export"
+  },
+  "client_profile": {
+    "client_number": "13794",
+    "search_term": "",
+    "status": "Kunde",
+    "tax_number": "",
+    "vat_id": "",
+    "is_blocked": false,
+    "price_group": "(Std.-Preis)",
+    "billing_address": {
+      "salutation": "",
+      "name": "Karl Heinz Langfeldt",
+      "name3": "Germany",
+      "street": "Hauptstr. 47",
+      "city": "Dörbstedt",
+      "postal_code": "24869",
+      "country": "Deutschland",
+      "phone": "(0 43 48) 91 27 57",
+      "fax": "(0 43 48) 91 27 67",
+      "email": "karl-heinz.langfeldt@gmx.de"
+    },
+    "delivery_address": {
+      "salutation": "",
+      "name": "Karl Heinz Langfeldt",
+      "name3": "Germany",
+      "street": "Hauptstr. 47",
+      "city": "Dörbstedt",
+      "postal_code": "24869",
+      "country": "Deutschland",
+      "phone": "(0 43 48) 91 27 57",
+      "fax": "(0 43 48) 91 27 67",
+      "email": "karl-heinz.langfeldt@gmx.de"
+    },
+    "delivery_schedule": {
+      "monday": "",
+      "tuesday": "",
+      "wednesday": "",
+      "thursday": "",
+      "friday": "",
+      "saturday": ""
+    },
+    "settings": {
+      "webshop_enabled": false,
+      "ds_addresses": false,
+      "no_pickup_app": false,
+      "minimum_order_value": null,
+      "articles_not_in_history": ""
+    },
+    "additional_addresses": [
+      {
+        "address_number": "0",
+        "salutation": "",
+        "name": "Karl Heinz Langfeldt",
+        "name3": "Germany",
+        "street": "Hauptstr. 47",
+        "city": "Dörbstedt",
+        "postal_code": "24869",
+        "country": "Deutschland",
+        "phone": "(0 43 48) 91 27 57",
+        "fax": "(0 43 48) 91 27 67",
+        "email": "karl-heinz.langfeldt@gmx.de",
+        "is_default_billing": true,
+        "is_default_delivery": true
+      },
+      {
+        "address_number": "1",
+        "salutation": "",
+        "name": "McCulla",
+        "name3": "Blaris Industrial Estate",
+        "street": "Altona Road",
+        "city": "Lisburn",
+        "postal_code": "BT27 5QB",
+        "country": "Irland",
+        "phone": "",
+        "fax": "",
+        "email": "",
+        "is_default_billing": false,
+        "is_default_delivery": false
+      },
+      {
+        "address_number": "2",
+        "salutation": "",
+        "name": "The Ice Co Distribution Ltd.",
+        "name3": "Kittiwake Close",
+        "street": "Wallsend",
+        "city": "Newcastle",
+        "postal_code": "NE28 9ND",
+        "country": "Großbritannien und Nordirland",
+        "phone": "",
+        "fax": "",
+        "email": "",
+        "is_default_billing": false,
+        "is_default_delivery": false
+      },
+      {
+        "address_number": "3",
+        "salutation": "",
+        "name": "The ICE Co Distribution Ltd.",
+        "name3": "",
+        "street": "Wellbeck Road 7-15",
+        "city": "Darnley / Glasgow",
+        "postal_code": "G53 7SD",
+        "country": "Großbritannien und Nordirland",
+        "phone": "",
+        "fax": "",
+        "email": "",
+        "is_default_billing": false,
+        "is_default_delivery": false
+      },
+      {
+        "address_number": "4",
+        "salutation": "",
+        "name": "Exeter",
+        "name3": "Stand \"German Barbecue\"",
+        "street": "Cathedral Yard",
+        "city": "Exeter",
+        "postal_code": "EX1 1AE",
+        "country": "Großbritannien und Nordirland",
+        "phone": "",
+        "fax": "",
+        "email": "",
+        "is_default_billing": false,
+        "is_default_delivery": false
+      }
+    ]
+  },
+  "order_statistics": {
+    "total_orders": 0,
+    "unique_articles_ordered": 0,
+    "recent_orders_count": 0,
+    "last_order_date": null
+  },
+  "order_history": []
+}

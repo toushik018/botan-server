@@ -1,0 +1,94 @@
+{
+  "metadata": {
+    "generated_at": "2025-09-10T23:17:04.999206",
+    "client_number": "12339",
+    "data_source": "BotanBot XML Export"
+  },
+  "client_profile": {
+    "client_number": "12339",
+    "search_term": "SAPIDO BISTRO",
+    "status": "Kunde",
+    "tax_number": "",
+    "vat_id": "",
+    "is_blocked": true,
+    "price_group": "(Std.-Preis)",
+    "billing_address": {
+      "salutation": "",
+      "name": "DT Systemgastronomie GmbH",
+      "name3": "Hauptniederlassung",
+      "street": "Gutenbergring 26a",
+      "city": "Norderstedt",
+      "postal_code": "22848",
+      "country": "Deutschland",
+      "phone": "(0 41 06) 62 75 61",
+      "fax": "(0 41 06) 62 74 28",
+      "email": "toni@dt-systemgastronomie.de"
+    },
+    "delivery_address": {
+      "salutation": "Mercado Einkaufszentrum Altona-Ottensen",
+      "name": "Sapido",
+      "name3": "1.Obergeschoss",
+      "street": "Hahnenkamp 1",
+      "city": "Hamburg",
+      "postal_code": "22765",
+      "country": "Deutschland",
+      "phone": "(0 40) 32 52 27 65",
+      "fax": "(0 40) 32 52 27 68",
+      "email": ""
+    },
+    "delivery_schedule": {
+      "monday": "",
+      "tuesday": "",
+      "wednesday": "",
+      "thursday": "",
+      "friday": "",
+      "saturday": ""
+    },
+    "settings": {
+      "webshop_enabled": false,
+      "ds_addresses": false,
+      "no_pickup_app": false,
+      "minimum_order_value": null,
+      "articles_not_in_history": ""
+    },
+    "additional_addresses": [
+      {
+        "address_number": "0",
+        "salutation": "",
+        "name": "DT Systemgastronomie GmbH",
+        "name3": "Hauptniederlassung",
+        "street": "Gutenbergring 26a",
+        "city": "Norderstedt",
+        "postal_code": "22848",
+        "country": "Deutschland",
+        "phone": "(0 41 06) 62 75 61",
+        "fax": "(0 41 06) 62 74 28",
+        "email": "toni@dt-systemgastronomie.de",
+        "is_default_billing": true,
+        "is_default_delivery": false
+      },
+      {
+        "address_number": "1",
+        "salutation": "Mercado Einkaufszentrum Altona-Ottensen",
+        "name": "Sapido",
+        "name3": "1.Obergeschoss",
+        "street": "Hahnenkamp 1",
+        "city": "Hamburg",
+        "postal_code": "22765",
+        "country": "Deutschland",
+        "phone": "(0 40) 32 52 27 65",
+        "fax": "(0 40) 32 52 27 68",
+        "email": "",
+        "is_default_billing": false,
+        "is_default_delivery": true
+      }
+    ]
+  },
+  "order_statistics": {
+    "total_orders": 0,
+    "unique_articles_ordered": 0,
+    "recent_orders_count": 0,
+    "last_order_date": null
+  },
+  "order_history": []
+}

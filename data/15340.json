@@ -1,0 +1,94 @@
+{
+  "metadata": {
+    "generated_at": "2025-09-10T23:17:05.843101",
+    "client_number": "15340",
+    "data_source": "BotanBot XML Export"
+  },
+  "client_profile": {
+    "client_number": "15340",
+    "search_term": "JÜRGEN TIETJEN",
+    "status": "Kunde",
+    "tax_number": "",
+    "vat_id": "",
+    "is_blocked": false,
+    "price_group": "(Std.-Preis)",
+    "billing_address": {
+      "salutation": "Firma",
+      "name": "Jürgen Tietjen",
+      "name3": "",
+      "street": "Markerstr. 4 a",
+      "city": "Westoverledingen",
+      "postal_code": "26810",
+      "country": "Deutschland",
+      "phone": "(01 71) 5 20 45 45",
+      "fax": "",
+      "email": "tietjen.juergen@gmail.com"
+    },
+    "delivery_address": {
+      "salutation": "Firma",
+      "name": "Jürgen Tietjen",
+      "name3": "",
+      "street": "Zwischen den Kreiseln 3",
+      "city": "Börnsen",
+      "postal_code": "21039",
+      "country": "Deutschland",
+      "phone": "(01 71) 5 20 45 45",
+      "fax": "",
+      "email": ""
+    },
+    "delivery_schedule": {
+      "monday": "",
+      "tuesday": "",
+      "wednesday": "",
+      "thursday": "",
+      "friday": "",
+      "saturday": ""
+    },
+    "settings": {
+      "webshop_enabled": false,
+      "ds_addresses": false,
+      "no_pickup_app": false,
+      "minimum_order_value": null,
+      "articles_not_in_history": ""
+    },
+    "additional_addresses": [
+      {
+        "address_number": "1",
+        "salutation": "Firma",
+        "name": "Jürgen Tietjen",
+        "name3": "",
+        "street": "Zwischen den Kreiseln 3",
+        "city": "Börnsen",
+        "postal_code": "21039",
+        "country": "Deutschland",
+        "phone": "(01 71) 5 20 45 45",
+        "fax": "",
+        "email": "",
+        "is_default_billing": false,
+        "is_default_delivery": true
+      },
+      {
+        "address_number": "0",
+        "salutation": "Firma",
+        "name": "Jürgen Tietjen",
+        "name3": "",
+        "street": "Markerstr. 4 a",
+        "city": "Westoverledingen",
+        "postal_code": "26810",
+        "country": "Deutschland",
+        "phone": "(01 71) 5 20 45 45",
+        "fax": "",
+        "email": "tietjen.juergen@gmail.com",
+        "is_default_billing": true,
+        "is_default_delivery": false
+      }
+    ]
+  },
+  "order_statistics": {
+    "total_orders": 0,
+    "unique_articles_ordered": 0,
+    "recent_orders_count": 0,
+    "last_order_date": null
+  },
+  "order_history": []
+}

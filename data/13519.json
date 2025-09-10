@@ -1,0 +1,79 @@
+{
+  "metadata": {
+    "generated_at": "2025-09-10T23:17:05.333179",
+    "client_number": "13519",
+    "data_source": "BotanBot XML Export"
+  },
+  "client_profile": {
+    "client_number": "13519",
+    "search_term": "BELVEDER",
+    "status": "Kunde",
+    "tax_number": "",
+    "vat_id": "",
+    "is_blocked": false,
+    "price_group": "(Std.-Preis)",
+    "billing_address": {
+      "salutation": "",
+      "name": "Belveder",
+      "name3": "Inh. Merita Isljami",
+      "street": "Am Markt 11",
+      "city": "Süderbrarup",
+      "postal_code": "24392",
+      "country": "Deutschland",
+      "phone": "(0 46 41) 9 89 07 17",
+      "fax": "(0 46 41) 9 86 43 92",
+      "email": "info@Belveder-lieferservice.de"
+    },
+    "delivery_address": {
+      "salutation": "",
+      "name": "Belveder",
+      "name3": "Inh. Merita Isljami",
+      "street": "Am Markt 11",
+      "city": "Süderbrarup",
+      "postal_code": "24392",
+      "country": "Deutschland",
+      "phone": "(0 46 41) 9 89 07 17",
+      "fax": "(0 46 41) 9 86 43 92",
+      "email": "info@Belveder-lieferservice.de"
+    },
+    "delivery_schedule": {
+      "monday": "1",
+      "tuesday": "",
+      "wednesday": "",
+      "thursday": "6",
+      "friday": "",
+      "saturday": ""
+    },
+    "settings": {
+      "webshop_enabled": false,
+      "ds_addresses": false,
+      "no_pickup_app": false,
+      "minimum_order_value": null,
+      "articles_not_in_history": "1798,1674,2214,9101,1022"
+    },
+    "additional_addresses": [
+      {
+        "address_number": "0",
+        "salutation": "",
+        "name": "Belveder",
+        "name3": "Inh. Merita Isljami",
+        "street": "Am Markt 11",
+        "city": "Süderbrarup",
+        "postal_code": "24392",
+        "country": "Deutschland",
+        "phone": "(0 46 41) 9 89 07 17",
+        "fax": "(0 46 41) 9 86 43 92",
+        "email": "info@Belveder-lieferservice.de",
+        "is_default_billing": true,
+        "is_default_delivery": true
+      }
+    ]
+  },
+  "order_statistics": {
+    "total_orders": 0,
+    "unique_articles_ordered": 0,
+    "recent_orders_count": 0,
+    "last_order_date": null
+  },
+  "order_history": []
+}

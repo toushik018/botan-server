@@ -1,0 +1,79 @@
+{
+  "metadata": {
+    "generated_at": "2025-09-10T23:17:05.918864",
+    "client_number": "15625",
+    "data_source": "BotanBot XML Export"
+  },
+  "client_profile": {
+    "client_number": "15625",
+    "search_term": "BULBOX",
+    "status": "Kunde",
+    "tax_number": "",
+    "vat_id": "DK32010830",
+    "is_blocked": false,
+    "price_group": "(Std.-Preis)",
+    "billing_address": {
+      "salutation": "Firma",
+      "name": "BULBOX",
+      "name3": "",
+      "street": "Nybrovej 72",
+      "city": "Janderup Vestji",
+      "postal_code": "6851",
+      "country": "Dänemark",
+      "phone": "",
+      "fax": "+45 (36) 96 75 73",
+      "email": ""
+    },
+    "delivery_address": {
+      "salutation": "Firma",
+      "name": "BULBOX",
+      "name3": "",
+      "street": "Nybrovej 72",
+      "city": "Janderup Vestji",
+      "postal_code": "6851",
+      "country": "Dänemark",
+      "phone": "",
+      "fax": "+45 (36) 96 75 73",
+      "email": ""
+    },
+    "delivery_schedule": {
+      "monday": "",
+      "tuesday": "",
+      "wednesday": "",
+      "thursday": "",
+      "friday": "",
+      "saturday": ""
+    },
+    "settings": {
+      "webshop_enabled": false,
+      "ds_addresses": false,
+      "no_pickup_app": false,
+      "minimum_order_value": null,
+      "articles_not_in_history": ""
+    },
+    "additional_addresses": [
+      {
+        "address_number": "0",
+        "salutation": "Firma",
+        "name": "BULBOX",
+        "name3": "",
+        "street": "Nybrovej 72",
+        "city": "Janderup Vestji",
+        "postal_code": "6851",
+        "country": "Dänemark",
+        "phone": "",
+        "fax": "+45 (36) 96 75 73",
+        "email": "",
+        "is_default_billing": true,
+        "is_default_delivery": true
+      }
+    ]
+  },
+  "order_statistics": {
+    "total_orders": 0,
+    "unique_articles_ordered": 0,
+    "recent_orders_count": 0,
+    "last_order_date": null
+  },
+  "order_history": []
+}

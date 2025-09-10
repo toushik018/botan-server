@@ -1,0 +1,94 @@
+{
+  "metadata": {
+    "generated_at": "2025-09-10T23:17:06.472252",
+    "client_number": "17223",
+    "data_source": "BotanBot XML Export"
+  },
+  "client_profile": {
+    "client_number": "17223",
+    "search_term": "SPAETHE",
+    "status": "Kunde",
+    "tax_number": "",
+    "vat_id": "DE308806650",
+    "is_blocked": false,
+    "price_group": "(Std.-Preis)",
+    "billing_address": {
+      "salutation": "",
+      "name": "L. C. M. Spaethe GmbH",
+      "name3": "Inh. Manuel Spaethe",
+      "street": "Imkenrade 17",
+      "city": "Sandesleben",
+      "postal_code": "23898",
+      "country": "Deutschland",
+      "phone": "(0 43 22) 75 26 11",
+      "fax": "",
+      "email": "info@moinsen-s.de"
+    },
+    "delivery_address": {
+      "salutation": "Firma",
+      "name": "Moinsen´s by Enjoy",
+      "name3": "L. C. M. Spaethe GmbH",
+      "street": "An der Strandpromenade 31",
+      "city": "Dahme",
+      "postal_code": "23747",
+      "country": "Deutschland",
+      "phone": "(0 43 64) 4 71 67 70",
+      "fax": "",
+      "email": "info@moinsen-s.de"
+    },
+    "delivery_schedule": {
+      "monday": "3",
+      "tuesday": "",
+      "wednesday": "",
+      "thursday": "",
+      "friday": "3",
+      "saturday": ""
+    },
+    "settings": {
+      "webshop_enabled": false,
+      "ds_addresses": false,
+      "no_pickup_app": true,
+      "minimum_order_value": null,
+      "articles_not_in_history": ""
+    },
+    "additional_addresses": [
+      {
+        "address_number": "0",
+        "salutation": "",
+        "name": "L. C. M. Spaethe GmbH",
+        "name3": "Inh. Manuel Spaethe",
+        "street": "Imkenrade 17",
+        "city": "Sandesleben",
+        "postal_code": "23898",
+        "country": "Deutschland",
+        "phone": "(0 43 22) 75 26 11",
+        "fax": "",
+        "email": "info@moinsen-s.de",
+        "is_default_billing": true,
+        "is_default_delivery": false
+      },
+      {
+        "address_number": "1",
+        "salutation": "Firma",
+        "name": "Moinsen´s by Enjoy",
+        "name3": "L. C. M. Spaethe GmbH",
+        "street": "An der Strandpromenade 31",
+        "city": "Dahme",
+        "postal_code": "23747",
+        "country": "Deutschland",
+        "phone": "(0 43 64) 4 71 67 70",
+        "fax": "",
+        "email": "info@moinsen-s.de",
+        "is_default_billing": false,
+        "is_default_delivery": true
+      }
+    ]
+  },
+  "order_statistics": {
+    "total_orders": 0,
+    "unique_articles_ordered": 0,
+    "recent_orders_count": 0,
+    "last_order_date": null
+  },
+  "order_history": []
+}

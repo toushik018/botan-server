@@ -1,0 +1,94 @@
+{
+  "metadata": {
+    "generated_at": "2025-09-10T23:17:06.054172",
+    "client_number": "16059",
+    "data_source": "BotanBot XML Export"
+  },
+  "client_profile": {
+    "client_number": "16059",
+    "search_term": "RESTURANT",
+    "status": "Kunde",
+    "tax_number": "",
+    "vat_id": "",
+    "is_blocked": false,
+    "price_group": "(Std.-Preis)",
+    "billing_address": {
+      "salutation": "Firma",
+      "name": "Goa Tandoori GmbH",
+      "name3": "",
+      "street": "Twisselwisch 65",
+      "city": "Hamburg",
+      "postal_code": "22419",
+      "country": "Deutschland",
+      "phone": "(01 77) 20 66 - 9 51",
+      "fax": "",
+      "email": "kontakt@goa-hamburg.de"
+    },
+    "delivery_address": {
+      "salutation": "Firma",
+      "name": "Goa Zone",
+      "name3": "",
+      "street": "Bleichenbrücke 9",
+      "city": "Hamburg",
+      "postal_code": "20354",
+      "country": "Deutschland",
+      "phone": "(01 77) 20 66 - 9 51",
+      "fax": "",
+      "email": "kontakt@goa-hamburg.de"
+    },
+    "delivery_schedule": {
+      "monday": "",
+      "tuesday": "",
+      "wednesday": "",
+      "thursday": "",
+      "friday": "",
+      "saturday": ""
+    },
+    "settings": {
+      "webshop_enabled": false,
+      "ds_addresses": false,
+      "no_pickup_app": false,
+      "minimum_order_value": null,
+      "articles_not_in_history": ""
+    },
+    "additional_addresses": [
+      {
+        "address_number": "0",
+        "salutation": "Firma",
+        "name": "Goa Tandoori GmbH",
+        "name3": "",
+        "street": "Twisselwisch 65",
+        "city": "Hamburg",
+        "postal_code": "22419",
+        "country": "Deutschland",
+        "phone": "(01 77) 20 66 - 9 51",
+        "fax": "",
+        "email": "kontakt@goa-hamburg.de",
+        "is_default_billing": true,
+        "is_default_delivery": false
+      },
+      {
+        "address_number": "1",
+        "salutation": "Firma",
+        "name": "Goa Zone",
+        "name3": "",
+        "street": "Bleichenbrücke 9",
+        "city": "Hamburg",
+        "postal_code": "20354",
+        "country": "Deutschland",
+        "phone": "(01 77) 20 66 - 9 51",
+        "fax": "",
+        "email": "kontakt@goa-hamburg.de",
+        "is_default_billing": false,
+        "is_default_delivery": true
+      }
+    ]
+  },
+  "order_statistics": {
+    "total_orders": 0,
+    "unique_articles_ordered": 0,
+    "recent_orders_count": 0,
+    "last_order_date": null
+  },
+  "order_history": []
+}

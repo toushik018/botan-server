@@ -1,0 +1,79 @@
+{
+  "metadata": {
+    "generated_at": "2025-09-10T23:17:05.994611",
+    "client_number": "15867",
+    "data_source": "BotanBot XML Export"
+  },
+  "client_profile": {
+    "client_number": "15867",
+    "search_term": "FRESH GEMÜSE KEBAB",
+    "status": "Kunde",
+    "tax_number": "",
+    "vat_id": "",
+    "is_blocked": false,
+    "price_group": "(Std.-Preis)",
+    "billing_address": {
+      "salutation": "",
+      "name": "Safi Food GmbH",
+      "name3": "Inh.: Aelyass,  Safiwollah",
+      "street": "Wandsbeker Chaussee 325",
+      "city": "Hamburg",
+      "postal_code": "22089",
+      "country": "Deutschland",
+      "phone": "(01 76) 41 88 51 21",
+      "fax": "(01 76) 26 98 90 92",
+      "email": "safifoodgmbh@yahoo.com"
+    },
+    "delivery_address": {
+      "salutation": "",
+      "name": "Safi Food GmbH",
+      "name3": "Inh.: Aelyass,  Safiwollah",
+      "street": "Wandsbeker Chaussee 325",
+      "city": "Hamburg",
+      "postal_code": "22089",
+      "country": "Deutschland",
+      "phone": "(01 76) 41 88 51 21",
+      "fax": "(01 76) 26 98 90 92",
+      "email": "safifoodgmbh@yahoo.com"
+    },
+    "delivery_schedule": {
+      "monday": "2",
+      "tuesday": "",
+      "wednesday": "",
+      "thursday": "8",
+      "friday": "",
+      "saturday": ""
+    },
+    "settings": {
+      "webshop_enabled": false,
+      "ds_addresses": false,
+      "no_pickup_app": false,
+      "minimum_order_value": null,
+      "articles_not_in_history": ""
+    },
+    "additional_addresses": [
+      {
+        "address_number": "0",
+        "salutation": "",
+        "name": "Safi Food GmbH",
+        "name3": "Inh.: Aelyass,  Safiwollah",
+        "street": "Wandsbeker Chaussee 325",
+        "city": "Hamburg",
+        "postal_code": "22089",
+        "country": "Deutschland",
+        "phone": "(01 76) 41 88 51 21",
+        "fax": "(01 76) 26 98 90 92",
+        "email": "safifoodgmbh@yahoo.com",
+        "is_default_billing": true,
+        "is_default_delivery": true
+      }
+    ]
+  },
+  "order_statistics": {
+    "total_orders": 0,
+    "unique_articles_ordered": 0,
+    "recent_orders_count": 0,
+    "last_order_date": null
+  },
+  "order_history": []
+}

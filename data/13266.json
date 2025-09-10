@@ -1,0 +1,94 @@
+{
+  "metadata": {
+    "generated_at": "2025-09-10T23:17:05.261067",
+    "client_number": "13266",
+    "data_source": "BotanBot XML Export"
+  },
+  "client_profile": {
+    "client_number": "13266",
+    "search_term": "FOOD",
+    "status": "Kunde",
+    "tax_number": "",
+    "vat_id": "",
+    "is_blocked": false,
+    "price_group": "(Std.-Preis)",
+    "billing_address": {
+      "salutation": "",
+      "name": "CKT Food GmbH",
+      "name3": "Inh. Knoop Troje",
+      "street": "Beim Alten Gaswerk 5",
+      "city": "Hamburg",
+      "postal_code": "22761",
+      "country": "Deutschland",
+      "phone": "(0 40) 89 72 - 6 22 11",
+      "fax": "",
+      "email": ""
+    },
+    "delivery_address": {
+      "salutation": "",
+      "name": "CKT Pommes for President",
+      "name3": "GF: Herr Kaghat",
+      "street": "Pauel Nevermann Platz 13",
+      "city": "Hamburg",
+      "postal_code": "22765",
+      "country": "Deutschland",
+      "phone": "(01 73) 5 39 13 64",
+      "fax": "",
+      "email": ""
+    },
+    "delivery_schedule": {
+      "monday": "",
+      "tuesday": "",
+      "wednesday": "",
+      "thursday": "",
+      "friday": "",
+      "saturday": ""
+    },
+    "settings": {
+      "webshop_enabled": false,
+      "ds_addresses": false,
+      "no_pickup_app": false,
+      "minimum_order_value": null,
+      "articles_not_in_history": ""
+    },
+    "additional_addresses": [
+      {
+        "address_number": "0",
+        "salutation": "",
+        "name": "CKT Food GmbH",
+        "name3": "Inh. Knoop Troje",
+        "street": "Beim Alten Gaswerk 5",
+        "city": "Hamburg",
+        "postal_code": "22761",
+        "country": "Deutschland",
+        "phone": "(0 40) 89 72 - 6 22 11",
+        "fax": "",
+        "email": "",
+        "is_default_billing": true,
+        "is_default_delivery": false
+      },
+      {
+        "address_number": "1",
+        "salutation": "",
+        "name": "CKT Pommes for President",
+        "name3": "GF: Herr Kaghat",
+        "street": "Pauel Nevermann Platz 13",
+        "city": "Hamburg",
+        "postal_code": "22765",
+        "country": "Deutschland",
+        "phone": "(01 73) 5 39 13 64",
+        "fax": "",
+        "email": "",
+        "is_default_billing": false,
+        "is_default_delivery": true
+      }
+    ]
+  },
+  "order_statistics": {
+    "total_orders": 0,
+    "unique_articles_ordered": 0,
+    "recent_orders_count": 0,
+    "last_order_date": null
+  },
+  "order_history": []
+}

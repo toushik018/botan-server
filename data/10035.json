@@ -1,0 +1,79 @@
+{
+  "metadata": {
+    "generated_at": "2025-09-10T23:17:04.347250",
+    "client_number": "10035",
+    "data_source": "BotanBot XML Export"
+  },
+  "client_profile": {
+    "client_number": "10035",
+    "search_term": "",
+    "status": "Kunde",
+    "tax_number": "",
+    "vat_id": "",
+    "is_blocked": true,
+    "price_group": "(Std.-Preis)",
+    "billing_address": {
+      "salutation": "Restaurant",
+      "name": "Feuerstein Preetz",
+      "name3": "",
+      "street": "Am Markt 17 -18",
+      "city": "Preetz",
+      "postal_code": "24211",
+      "country": "Deutschland",
+      "phone": "(0 43 42) 9 98 - 7",
+      "fax": "(0 43 42) 88 89 36",
+      "email": ""
+    },
+    "delivery_address": {
+      "salutation": "Restaurant",
+      "name": "Feuerstein Preetz",
+      "name3": "",
+      "street": "Am Markt 17 -18",
+      "city": "Preetz",
+      "postal_code": "24211",
+      "country": "Deutschland",
+      "phone": "(0 43 42) 9 98 - 7",
+      "fax": "(0 43 42) 88 89 36",
+      "email": ""
+    },
+    "delivery_schedule": {
+      "monday": "",
+      "tuesday": "",
+      "wednesday": "",
+      "thursday": "",
+      "friday": "",
+      "saturday": ""
+    },
+    "settings": {
+      "webshop_enabled": false,
+      "ds_addresses": false,
+      "no_pickup_app": false,
+      "minimum_order_value": null,
+      "articles_not_in_history": "1472"
+    },
+    "additional_addresses": [
+      {
+        "address_number": "0",
+        "salutation": "Restaurant",
+        "name": "Feuerstein Preetz",
+        "name3": "",
+        "street": "Am Markt 17 -18",
+        "city": "Preetz",
+        "postal_code": "24211",
+        "country": "Deutschland",
+        "phone": "(0 43 42) 9 98 - 7",
+        "fax": "(0 43 42) 88 89 36",
+        "email": "",
+        "is_default_billing": true,
+        "is_default_delivery": true
+      }
+    ]
+  },
+  "order_statistics": {
+    "total_orders": 0,
+    "unique_articles_ordered": 0,
+    "recent_orders_count": 0,
+    "last_order_date": null
+  },
+  "order_history": []
+}

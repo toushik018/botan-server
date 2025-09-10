@@ -1,0 +1,94 @@
+{
+  "metadata": {
+    "generated_at": "2025-09-10T23:17:06.005629",
+    "client_number": "15911",
+    "data_source": "BotanBot XML Export"
+  },
+  "client_profile": {
+    "client_number": "15911",
+    "search_term": "CHRISTIAN MEISTER",
+    "status": "Kunde",
+    "tax_number": "",
+    "vat_id": "",
+    "is_blocked": false,
+    "price_group": "(Std.-Preis)",
+    "billing_address": {
+      "salutation": "Firma",
+      "name": "Christian Meister",
+      "name3": "",
+      "street": "Wiesenrautenstieg 23",
+      "city": "Hamburg",
+      "postal_code": "22607",
+      "country": "Deutschland",
+      "phone": "(0 40) 46 00 58 02",
+      "fax": "(0 40) 46 00 58 01",
+      "email": ""
+    },
+    "delivery_address": {
+      "salutation": "Firma",
+      "name": "LZ Logistik",
+      "name3": "",
+      "street": "Fritz Reuter Str. 14",
+      "city": "Neu Wulmstorf",
+      "postal_code": "21629",
+      "country": "Deutschland",
+      "phone": "(0 40) 7 00 38 23",
+      "fax": "",
+      "email": ""
+    },
+    "delivery_schedule": {
+      "monday": "",
+      "tuesday": "",
+      "wednesday": "",
+      "thursday": "",
+      "friday": "",
+      "saturday": ""
+    },
+    "settings": {
+      "webshop_enabled": false,
+      "ds_addresses": false,
+      "no_pickup_app": false,
+      "minimum_order_value": null,
+      "articles_not_in_history": ""
+    },
+    "additional_addresses": [
+      {
+        "address_number": "0",
+        "salutation": "Firma",
+        "name": "Christian Meister",
+        "name3": "",
+        "street": "Wiesenrautenstieg 23",
+        "city": "Hamburg",
+        "postal_code": "22607",
+        "country": "Deutschland",
+        "phone": "(0 40) 46 00 58 02",
+        "fax": "(0 40) 46 00 58 01",
+        "email": "",
+        "is_default_billing": true,
+        "is_default_delivery": false
+      },
+      {
+        "address_number": "1",
+        "salutation": "Firma",
+        "name": "LZ Logistik",
+        "name3": "",
+        "street": "Fritz Reuter Str. 14",
+        "city": "Neu Wulmstorf",
+        "postal_code": "21629",
+        "country": "Deutschland",
+        "phone": "(0 40) 7 00 38 23",
+        "fax": "",
+        "email": "",
+        "is_default_billing": false,
+        "is_default_delivery": true
+      }
+    ]
+  },
+  "order_statistics": {
+    "total_orders": 0,
+    "unique_articles_ordered": 0,
+    "recent_orders_count": 0,
+    "last_order_date": null
+  },
+  "order_history": []
+}

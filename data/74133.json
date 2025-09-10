@@ -1,0 +1,79 @@
+{
+  "metadata": {
+    "generated_at": "2025-09-10T23:17:06.748658",
+    "client_number": "74133",
+    "data_source": "BotanBot XML Export"
+  },
+  "client_profile": {
+    "client_number": "74133",
+    "search_term": "ALTUN GASTRONOMIEBEDARF",
+    "status": "Lieferant",
+    "tax_number": "",
+    "vat_id": "",
+    "is_blocked": false,
+    "price_group": "2 EK1,05",
+    "billing_address": {
+      "salutation": "",
+      "name": "Altun Gastronomiebedarf GmbH & Co. KG",
+      "name3": "",
+      "street": "Wellseedamm 21",
+      "city": "Kiel",
+      "postal_code": "24159",
+      "country": "Deutschland",
+      "phone": "(04 31) 59 29 91 10",
+      "fax": "(04 31) 59 29 91 30",
+      "email": "info@altun-food.de"
+    },
+    "delivery_address": {
+      "salutation": "",
+      "name": "Altun Gastronomiebedarf GmbH & Co. KG",
+      "name3": "",
+      "street": "Wellseedamm 21",
+      "city": "Kiel",
+      "postal_code": "24159",
+      "country": "Deutschland",
+      "phone": "(04 31) 59 29 91 10",
+      "fax": "(04 31) 59 29 91 30",
+      "email": "info@altun-food.de"
+    },
+    "delivery_schedule": {
+      "monday": "",
+      "tuesday": "",
+      "wednesday": "",
+      "thursday": "",
+      "friday": "",
+      "saturday": ""
+    },
+    "settings": {
+      "webshop_enabled": false,
+      "ds_addresses": false,
+      "no_pickup_app": false,
+      "minimum_order_value": null,
+      "articles_not_in_history": ""
+    },
+    "additional_addresses": [
+      {
+        "address_number": "0",
+        "salutation": "",
+        "name": "Altun Gastronomiebedarf GmbH & Co. KG",
+        "name3": "",
+        "street": "Wellseedamm 21",
+        "city": "Kiel",
+        "postal_code": "24159",
+        "country": "Deutschland",
+        "phone": "(04 31) 59 29 91 10",
+        "fax": "(04 31) 59 29 91 30",
+        "email": "info@altun-food.de",
+        "is_default_billing": true,
+        "is_default_delivery": true
+      }
+    ]
+  },
+  "order_statistics": {
+    "total_orders": 0,
+    "unique_articles_ordered": 0,
+    "recent_orders_count": 0,
+    "last_order_date": null
+  },
+  "order_history": []
+}

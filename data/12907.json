@@ -1,0 +1,94 @@
+{
+  "metadata": {
+    "generated_at": "2025-09-10T23:17:05.154295",
+    "client_number": "12907",
+    "data_source": "BotanBot XML Export"
+  },
+  "client_profile": {
+    "client_number": "12907",
+    "search_term": "APOLLO",
+    "status": "Kunde",
+    "tax_number": "",
+    "vat_id": "",
+    "is_blocked": true,
+    "price_group": "(Std.-Preis)",
+    "billing_address": {
+      "salutation": "",
+      "name": "Mohammed Afzaal",
+      "name3": "",
+      "street": "Lindenstr. 51",
+      "city": "Kellinghusen",
+      "postal_code": "25548",
+      "country": "Deutschland",
+      "phone": "(0 48 22) 3 78 00 38",
+      "fax": "(0 48 22) 36 38 84",
+      "email": "mohammad.apollo@icloud.com"
+    },
+    "delivery_address": {
+      "salutation": "Lieferservice",
+      "name": "Apollo",
+      "name3": "Inh. Mohammed Afzaal",
+      "street": "Lindenstr. 51",
+      "city": "Kellinghusen",
+      "postal_code": "25548",
+      "country": "Deutschland",
+      "phone": "(0 48 22) 3 78 00 38",
+      "fax": "(0 48 22) 36 38 84",
+      "email": ""
+    },
+    "delivery_schedule": {
+      "monday": "",
+      "tuesday": "",
+      "wednesday": "",
+      "thursday": "",
+      "friday": "",
+      "saturday": ""
+    },
+    "settings": {
+      "webshop_enabled": false,
+      "ds_addresses": false,
+      "no_pickup_app": false,
+      "minimum_order_value": null,
+      "articles_not_in_history": "1489"
+    },
+    "additional_addresses": [
+      {
+        "address_number": "0",
+        "salutation": "",
+        "name": "Mohammed Afzaal",
+        "name3": "",
+        "street": "Lindenstr. 51",
+        "city": "Kellinghusen",
+        "postal_code": "25548",
+        "country": "Deutschland",
+        "phone": "(0 48 22) 3 78 00 38",
+        "fax": "(0 48 22) 36 38 84",
+        "email": "mohammad.apollo@icloud.com",
+        "is_default_billing": true,
+        "is_default_delivery": false
+      },
+      {
+        "address_number": "1",
+        "salutation": "Lieferservice",
+        "name": "Apollo",
+        "name3": "Inh. Mohammed Afzaal",
+        "street": "Lindenstr. 51",
+        "city": "Kellinghusen",
+        "postal_code": "25548",
+        "country": "Deutschland",
+        "phone": "(0 48 22) 3 78 00 38",
+        "fax": "(0 48 22) 36 38 84",
+        "email": "",
+        "is_default_billing": false,
+        "is_default_delivery": true
+      }
+    ]
+  },
+  "order_statistics": {
+    "total_orders": 0,
+    "unique_articles_ordered": 0,
+    "recent_orders_count": 0,
+    "last_order_date": null
+  },
+  "order_history": []
+}

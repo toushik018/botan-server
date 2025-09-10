@@ -1,0 +1,79 @@
+{
+  "metadata": {
+    "generated_at": "2025-09-10T23:17:05.297147",
+    "client_number": "13395",
+    "data_source": "BotanBot XML Export"
+  },
+  "client_profile": {
+    "client_number": "13395",
+    "search_term": "MARTINA REHER",
+    "status": "Kunde",
+    "tax_number": "",
+    "vat_id": "",
+    "is_blocked": false,
+    "price_group": "(Std.-Preis)",
+    "billing_address": {
+      "salutation": "",
+      "name": "Strandbad",
+      "name3": "Inh.Nils Knees",
+      "street": "Lange Insel 1",
+      "city": "Plön",
+      "postal_code": "24306",
+      "country": "Deutschland",
+      "phone": "(01 52) 34 50 05 92",
+      "fax": "",
+      "email": "reher.martina@yahoo.com"
+    },
+    "delivery_address": {
+      "salutation": "",
+      "name": "Strandbad",
+      "name3": "Inh.Nils Knees",
+      "street": "Lange Insel 1",
+      "city": "Plön",
+      "postal_code": "24306",
+      "country": "Deutschland",
+      "phone": "(01 52) 34 50 05 92",
+      "fax": "",
+      "email": "reher.martina@yahoo.com"
+    },
+    "delivery_schedule": {
+      "monday": "",
+      "tuesday": "",
+      "wednesday": "",
+      "thursday": "",
+      "friday": "",
+      "saturday": ""
+    },
+    "settings": {
+      "webshop_enabled": false,
+      "ds_addresses": false,
+      "no_pickup_app": false,
+      "minimum_order_value": null,
+      "articles_not_in_history": ""
+    },
+    "additional_addresses": [
+      {
+        "address_number": "0",
+        "salutation": "",
+        "name": "Strandbad",
+        "name3": "Inh.Nils Knees",
+        "street": "Lange Insel 1",
+        "city": "Plön",
+        "postal_code": "24306",
+        "country": "Deutschland",
+        "phone": "(01 52) 34 50 05 92",
+        "fax": "",
+        "email": "reher.martina@yahoo.com",
+        "is_default_billing": true,
+        "is_default_delivery": true
+      }
+    ]
+  },
+  "order_statistics": {
+    "total_orders": 0,
+    "unique_articles_ordered": 0,
+    "recent_orders_count": 0,
+    "last_order_date": null
+  },
+  "order_history": []
+}

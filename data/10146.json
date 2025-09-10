@@ -1,0 +1,79 @@
+{
+  "metadata": {
+    "generated_at": "2025-09-10T23:17:04.377880",
+    "client_number": "10146",
+    "data_source": "BotanBot XML Export"
+  },
+  "client_profile": {
+    "client_number": "10146",
+    "search_term": "",
+    "status": "Kunde",
+    "tax_number": "",
+    "vat_id": "",
+    "is_blocked": true,
+    "price_group": "(Std.-Preis)",
+    "billing_address": {
+      "salutation": "",
+      "name": "Sunshine Grill",
+      "name3": "Inh. Ayhan Ilkcag",
+      "street": "Andreas - Hofer - Platz 3",
+      "city": "Kiel",
+      "postal_code": "24146",
+      "country": "Deutschland",
+      "phone": "(01 73) 7 40 67 12",
+      "fax": "",
+      "email": "sunshinegrillkiel@gmail.com"
+    },
+    "delivery_address": {
+      "salutation": "",
+      "name": "Sunshine Grill",
+      "name3": "Inh. Ayhan Ilkcag",
+      "street": "Andreas - Hofer - Platz 3",
+      "city": "Kiel",
+      "postal_code": "24146",
+      "country": "Deutschland",
+      "phone": "(01 73) 7 40 67 12",
+      "fax": "",
+      "email": "sunshinegrillkiel@gmail.com"
+    },
+    "delivery_schedule": {
+      "monday": "",
+      "tuesday": "",
+      "wednesday": "",
+      "thursday": "",
+      "friday": "",
+      "saturday": ""
+    },
+    "settings": {
+      "webshop_enabled": false,
+      "ds_addresses": false,
+      "no_pickup_app": false,
+      "minimum_order_value": null,
+      "articles_not_in_history": "3003,1049,4513,1460"
+    },
+    "additional_addresses": [
+      {
+        "address_number": "0",
+        "salutation": "",
+        "name": "Sunshine Grill",
+        "name3": "Inh. Ayhan Ilkcag",
+        "street": "Andreas - Hofer - Platz 3",
+        "city": "Kiel",
+        "postal_code": "24146",
+        "country": "Deutschland",
+        "phone": "(01 73) 7 40 67 12",
+        "fax": "",
+        "email": "sunshinegrillkiel@gmail.com",
+        "is_default_billing": true,
+        "is_default_delivery": true
+      }
+    ]
+  },
+  "order_statistics": {
+    "total_orders": 0,
+    "unique_articles_ordered": 0,
+    "recent_orders_count": 0,
+    "last_order_date": null
+  },
+  "order_history": []
+}

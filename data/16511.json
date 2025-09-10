@@ -1,0 +1,79 @@
+{
+  "metadata": {
+    "generated_at": "2025-09-10T23:17:06.203287",
+    "client_number": "16511",
+    "data_source": "BotanBot XML Export"
+  },
+  "client_profile": {
+    "client_number": "16511",
+    "search_term": "STAR PIZZA",
+    "status": "Kunde",
+    "tax_number": "",
+    "vat_id": "",
+    "is_blocked": false,
+    "price_group": "(Std.-Preis)",
+    "billing_address": {
+      "salutation": "",
+      "name": "Star Pizza",
+      "name3": "Inh. Mirza Demir",
+      "street": "Bahnhofstrasse 58",
+      "city": "Malente",
+      "postal_code": "23715",
+      "country": "Deutschland",
+      "phone": "(0 45 23) 9 84 70 70",
+      "fax": "",
+      "email": ""
+    },
+    "delivery_address": {
+      "salutation": "",
+      "name": "Star Pizza",
+      "name3": "Inh. Mirza Demir",
+      "street": "Bahnhofstrasse 58",
+      "city": "Malente",
+      "postal_code": "23715",
+      "country": "Deutschland",
+      "phone": "(0 45 23) 9 84 70 70",
+      "fax": "",
+      "email": ""
+    },
+    "delivery_schedule": {
+      "monday": "",
+      "tuesday": "",
+      "wednesday": "",
+      "thursday": "",
+      "friday": "",
+      "saturday": ""
+    },
+    "settings": {
+      "webshop_enabled": false,
+      "ds_addresses": false,
+      "no_pickup_app": false,
+      "minimum_order_value": null,
+      "articles_not_in_history": "1517,"
+    },
+    "additional_addresses": [
+      {
+        "address_number": "0",
+        "salutation": "",
+        "name": "Star Pizza",
+        "name3": "Inh. Mirza Demir",
+        "street": "Bahnhofstrasse 58",
+        "city": "Malente",
+        "postal_code": "23715",
+        "country": "Deutschland",
+        "phone": "(0 45 23) 9 84 70 70",
+        "fax": "",
+        "email": "",
+        "is_default_billing": true,
+        "is_default_delivery": true
+      }
+    ]
+  },
+  "order_statistics": {
+    "total_orders": 0,
+    "unique_articles_ordered": 0,
+    "recent_orders_count": 0,
+    "last_order_date": null
+  },
+  "order_history": []
+}

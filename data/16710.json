@@ -1,0 +1,79 @@
+{
+  "metadata": {
+    "generated_at": "2025-09-10T23:17:06.275570",
+    "client_number": "16710",
+    "data_source": "BotanBot XML Export"
+  },
+  "client_profile": {
+    "client_number": "16710",
+    "search_term": "ALADDIN GRILL",
+    "status": "Kunde",
+    "tax_number": "",
+    "vat_id": "",
+    "is_blocked": false,
+    "price_group": "(Std.-Preis)",
+    "billing_address": {
+      "salutation": "",
+      "name": "Aladdin Grill",
+      "name3": "Inh.: Alaattin Yildiz",
+      "street": "Treene Str. 25",
+      "city": "Treia",
+      "postal_code": "24896",
+      "country": "Deutschland",
+      "phone": "(01 76) 80 42 01 35",
+      "fax": "",
+      "email": ""
+    },
+    "delivery_address": {
+      "salutation": "",
+      "name": "Aladdin Grill",
+      "name3": "Inh.: Alaattin Yildiz",
+      "street": "Treene Str. 25",
+      "city": "Treia",
+      "postal_code": "24896",
+      "country": "Deutschland",
+      "phone": "(01 76) 80 42 01 35",
+      "fax": "",
+      "email": ""
+    },
+    "delivery_schedule": {
+      "monday": "",
+      "tuesday": "8",
+      "wednesday": "",
+      "thursday": "",
+      "friday": "",
+      "saturday": ""
+    },
+    "settings": {
+      "webshop_enabled": false,
+      "ds_addresses": false,
+      "no_pickup_app": false,
+      "minimum_order_value": null,
+      "articles_not_in_history": "1538,"
+    },
+    "additional_addresses": [
+      {
+        "address_number": "0",
+        "salutation": "",
+        "name": "Aladdin Grill",
+        "name3": "Inh.: Alaattin Yildiz",
+        "street": "Treene Str. 25",
+        "city": "Treia",
+        "postal_code": "24896",
+        "country": "Deutschland",
+        "phone": "(01 76) 80 42 01 35",
+        "fax": "",
+        "email": "",
+        "is_default_billing": true,
+        "is_default_delivery": true
+      }
+    ]
+  },
+  "order_statistics": {
+    "total_orders": 0,
+    "unique_articles_ordered": 0,
+    "recent_orders_count": 0,
+    "last_order_date": null
+  },
+  "order_history": []
+}

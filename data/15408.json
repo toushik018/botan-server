@@ -1,0 +1,94 @@
+{
+  "metadata": {
+    "generated_at": "2025-09-10T23:17:05.861447",
+    "client_number": "15408",
+    "data_source": "BotanBot XML Export"
+  },
+  "client_profile": {
+    "client_number": "15408",
+    "search_term": "SYSTEMGASTRONOMIE",
+    "status": "Kunde",
+    "tax_number": "",
+    "vat_id": "",
+    "is_blocked": true,
+    "price_group": "(Std.-Preis)",
+    "billing_address": {
+      "salutation": "",
+      "name": "Sancar Bolat",
+      "name3": "",
+      "street": "Holsteinischer Kamp 112",
+      "city": "Hamburg",
+      "postal_code": "22081",
+      "country": "Deutschland",
+      "phone": "(01 78) 4 47 89 99",
+      "fax": "",
+      "email": "info@altin-consulting.com"
+    },
+    "delivery_address": {
+      "salutation": "",
+      "name": "Pizza NEO",
+      "name3": "",
+      "street": "Mönkebergstrasse Nr. 1",
+      "city": "Hamburg",
+      "postal_code": "22525",
+      "country": "Deutschland",
+      "phone": "(01 78) 4 47 89 99",
+      "fax": "",
+      "email": "info@altin-consulting.com"
+    },
+    "delivery_schedule": {
+      "monday": "",
+      "tuesday": "",
+      "wednesday": "",
+      "thursday": "",
+      "friday": "",
+      "saturday": ""
+    },
+    "settings": {
+      "webshop_enabled": false,
+      "ds_addresses": true,
+      "no_pickup_app": false,
+      "minimum_order_value": null,
+      "articles_not_in_history": ""
+    },
+    "additional_addresses": [
+      {
+        "address_number": "0",
+        "salutation": "",
+        "name": "Sancar Bolat",
+        "name3": "",
+        "street": "Holsteinischer Kamp 112",
+        "city": "Hamburg",
+        "postal_code": "22081",
+        "country": "Deutschland",
+        "phone": "(01 78) 4 47 89 99",
+        "fax": "",
+        "email": "info@altin-consulting.com",
+        "is_default_billing": true,
+        "is_default_delivery": false
+      },
+      {
+        "address_number": "1",
+        "salutation": "",
+        "name": "Pizza NEO",
+        "name3": "",
+        "street": "Mönkebergstrasse Nr. 1",
+        "city": "Hamburg",
+        "postal_code": "22525",
+        "country": "Deutschland",
+        "phone": "(01 78) 4 47 89 99",
+        "fax": "",
+        "email": "info@altin-consulting.com",
+        "is_default_billing": false,
+        "is_default_delivery": true
+      }
+    ]
+  },
+  "order_statistics": {
+    "total_orders": 0,
+    "unique_articles_ordered": 0,
+    "recent_orders_count": 0,
+    "last_order_date": null
+  },
+  "order_history": []
+}

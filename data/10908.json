@@ -1,0 +1,79 @@
+{
+  "metadata": {
+    "generated_at": "2025-09-10T23:17:04.613318",
+    "client_number": "10908",
+    "data_source": "BotanBot XML Export"
+  },
+  "client_profile": {
+    "client_number": "10908",
+    "search_term": "",
+    "status": "Kunde",
+    "tax_number": "",
+    "vat_id": "",
+    "is_blocked": true,
+    "price_group": "(Std.-Preis)",
+    "billing_address": {
+      "salutation": "",
+      "name": "Heiss und frisch",
+      "name3": "Inh. Mehmet Yüksel",
+      "street": "Schönbergerstr. 14",
+      "city": "Kiel",
+      "postal_code": "24148",
+      "country": "Deutschland",
+      "phone": "(04 31) 78 58 88 88",
+      "fax": "",
+      "email": ""
+    },
+    "delivery_address": {
+      "salutation": "",
+      "name": "Heiss und frisch",
+      "name3": "Inh. Mehmet Yüksel",
+      "street": "Schönbergerstr. 14",
+      "city": "Kiel",
+      "postal_code": "24148",
+      "country": "Deutschland",
+      "phone": "(04 31) 78 58 88 88",
+      "fax": "",
+      "email": ""
+    },
+    "delivery_schedule": {
+      "monday": "",
+      "tuesday": "",
+      "wednesday": "",
+      "thursday": "",
+      "friday": "",
+      "saturday": ""
+    },
+    "settings": {
+      "webshop_enabled": false,
+      "ds_addresses": false,
+      "no_pickup_app": false,
+      "minimum_order_value": null,
+      "articles_not_in_history": "1211,1212,1214,1215,2132,1238,1237,9700,1492"
+    },
+    "additional_addresses": [
+      {
+        "address_number": "0",
+        "salutation": "",
+        "name": "Heiss und frisch",
+        "name3": "Inh. Mehmet Yüksel",
+        "street": "Schönbergerstr. 14",
+        "city": "Kiel",
+        "postal_code": "24148",
+        "country": "Deutschland",
+        "phone": "(04 31) 78 58 88 88",
+        "fax": "",
+        "email": "",
+        "is_default_billing": true,
+        "is_default_delivery": true
+      }
+    ]
+  },
+  "order_statistics": {
+    "total_orders": 0,
+    "unique_articles_ordered": 0,
+    "recent_orders_count": 0,
+    "last_order_date": null
+  },
+  "order_history": []
+}

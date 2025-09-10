@@ -1,0 +1,79 @@
+{
+  "metadata": {
+    "generated_at": "2025-09-10T23:17:06.825715",
+    "client_number": "75329",
+    "data_source": "BotanBot XML Export"
+  },
+  "client_profile": {
+    "client_number": "75329",
+    "search_term": "MELZER",
+    "status": "Lieferant",
+    "tax_number": "",
+    "vat_id": "",
+    "is_blocked": false,
+    "price_group": "(Std.-Preis)",
+    "billing_address": {
+      "salutation": "Firma",
+      "name": "Melzer Tiefkühlkost GmbH",
+      "name3": "16170",
+      "street": "",
+      "city": "",
+      "postal_code": "",
+      "country": "Deutschland",
+      "phone": "(0 92 81) 8 30 - 30",
+      "fax": "(0 92 81) 83 03 85",
+      "email": "tobias.pirner@melzer-tk.de"
+    },
+    "delivery_address": {
+      "salutation": "Firma",
+      "name": "Melzer Tiefkühlkost GmbH",
+      "name3": "16170",
+      "street": "",
+      "city": "",
+      "postal_code": "",
+      "country": "Deutschland",
+      "phone": "(0 92 81) 8 30 - 30",
+      "fax": "(0 92 81) 83 03 85",
+      "email": "tobias.pirner@melzer-tk.de"
+    },
+    "delivery_schedule": {
+      "monday": "",
+      "tuesday": "",
+      "wednesday": "",
+      "thursday": "",
+      "friday": "",
+      "saturday": ""
+    },
+    "settings": {
+      "webshop_enabled": false,
+      "ds_addresses": false,
+      "no_pickup_app": false,
+      "minimum_order_value": null,
+      "articles_not_in_history": ""
+    },
+    "additional_addresses": [
+      {
+        "address_number": "0",
+        "salutation": "Firma",
+        "name": "Melzer Tiefkühlkost GmbH",
+        "name3": "16170",
+        "street": "",
+        "city": "",
+        "postal_code": "",
+        "country": "Deutschland",
+        "phone": "(0 92 81) 8 30 - 30",
+        "fax": "(0 92 81) 83 03 85",
+        "email": "tobias.pirner@melzer-tk.de",
+        "is_default_billing": true,
+        "is_default_delivery": true
+      }
+    ]
+  },
+  "order_statistics": {
+    "total_orders": 0,
+    "unique_articles_ordered": 0,
+    "recent_orders_count": 0,
+    "last_order_date": null
+  },
+  "order_history": []
+}

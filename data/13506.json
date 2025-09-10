@@ -1,0 +1,79 @@
+{
+  "metadata": {
+    "generated_at": "2025-09-10T23:17:05.329675",
+    "client_number": "13506",
+    "data_source": "BotanBot XML Export"
+  },
+  "client_profile": {
+    "client_number": "13506",
+    "search_term": "KROPPER BISTRO",
+    "status": "Kunde",
+    "tax_number": "57163904834",
+    "vat_id": "",
+    "is_blocked": false,
+    "price_group": "(Std.-Preis)",
+    "billing_address": {
+      "salutation": "",
+      "name": "Kropper Bistro",
+      "name3": "Inh. Annemarie Schwarzer",
+      "street": "Theodor-Storm-Allee 4",
+      "city": "Kropp",
+      "postal_code": "24848",
+      "country": "Deutschland",
+      "phone": "(0 46 24) 8 02 92 80",
+      "fax": "",
+      "email": "spark19@web.de"
+    },
+    "delivery_address": {
+      "salutation": "",
+      "name": "Kropper Bistro",
+      "name3": "Inh. Annemarie Schwarzer",
+      "street": "Theodor-Storm-Allee 4",
+      "city": "Kropp",
+      "postal_code": "24848",
+      "country": "Deutschland",
+      "phone": "(0 46 24) 8 02 92 80",
+      "fax": "",
+      "email": "spark19@web.de"
+    },
+    "delivery_schedule": {
+      "monday": "",
+      "tuesday": "8",
+      "wednesday": "",
+      "thursday": "",
+      "friday": "",
+      "saturday": ""
+    },
+    "settings": {
+      "webshop_enabled": false,
+      "ds_addresses": false,
+      "no_pickup_app": false,
+      "minimum_order_value": null,
+      "articles_not_in_history": "9184,9181,1513,1486,1477,"
+    },
+    "additional_addresses": [
+      {
+        "address_number": "0",
+        "salutation": "",
+        "name": "Kropper Bistro",
+        "name3": "Inh. Annemarie Schwarzer",
+        "street": "Theodor-Storm-Allee 4",
+        "city": "Kropp",
+        "postal_code": "24848",
+        "country": "Deutschland",
+        "phone": "(0 46 24) 8 02 92 80",
+        "fax": "",
+        "email": "spark19@web.de",
+        "is_default_billing": true,
+        "is_default_delivery": true
+      }
+    ]
+  },
+  "order_statistics": {
+    "total_orders": 0,
+    "unique_articles_ordered": 0,
+    "recent_orders_count": 0,
+    "last_order_date": null
+  },
+  "order_history": []
+}

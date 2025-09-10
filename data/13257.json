@@ -1,0 +1,79 @@
+{
+  "metadata": {
+    "generated_at": "2025-09-10T23:17:05.258068",
+    "client_number": "13257",
+    "data_source": "BotanBot XML Export"
+  },
+  "client_profile": {
+    "client_number": "13257",
+    "search_term": "SIDO´S DÖNER IMBISS",
+    "status": "Kunde",
+    "tax_number": "",
+    "vat_id": "",
+    "is_blocked": true,
+    "price_group": "(Std.-Preis)",
+    "billing_address": {
+      "salutation": "",
+      "name": "Sido´s Döner Imbiss",
+      "name3": "Inh.: Kocin",
+      "street": "Hafenpasage 4",
+      "city": "Heiligenhafen",
+      "postal_code": "23774",
+      "country": "Deutschland",
+      "phone": "(0 43 62) 9 01 93 23",
+      "fax": "",
+      "email": ""
+    },
+    "delivery_address": {
+      "salutation": "",
+      "name": "Sido´s Döner Imbiss",
+      "name3": "Inh.: Kocin",
+      "street": "Hafenpasage 4",
+      "city": "Heiligenhafen",
+      "postal_code": "23774",
+      "country": "Deutschland",
+      "phone": "(0 43 62) 9 01 93 23",
+      "fax": "",
+      "email": ""
+    },
+    "delivery_schedule": {
+      "monday": "",
+      "tuesday": "",
+      "wednesday": "",
+      "thursday": "",
+      "friday": "",
+      "saturday": ""
+    },
+    "settings": {
+      "webshop_enabled": false,
+      "ds_addresses": false,
+      "no_pickup_app": false,
+      "minimum_order_value": null,
+      "articles_not_in_history": "1377,1312,1739"
+    },
+    "additional_addresses": [
+      {
+        "address_number": "0",
+        "salutation": "",
+        "name": "Sido´s Döner Imbiss",
+        "name3": "Inh.: Kocin",
+        "street": "Hafenpasage 4",
+        "city": "Heiligenhafen",
+        "postal_code": "23774",
+        "country": "Deutschland",
+        "phone": "(0 43 62) 9 01 93 23",
+        "fax": "",
+        "email": "",
+        "is_default_billing": true,
+        "is_default_delivery": true
+      }
+    ]
+  },
+  "order_statistics": {
+    "total_orders": 0,
+    "unique_articles_ordered": 0,
+    "recent_orders_count": 0,
+    "last_order_date": null
+  },
+  "order_history": []
+}

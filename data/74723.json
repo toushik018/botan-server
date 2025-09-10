@@ -1,0 +1,79 @@
+{
+  "metadata": {
+    "generated_at": "2025-09-10T23:17:06.792173",
+    "client_number": "74723",
+    "data_source": "BotanBot XML Export"
+  },
+  "client_profile": {
+    "client_number": "74723",
+    "search_term": "GLOBAL MEAT",
+    "status": "Lieferant",
+    "tax_number": "33658052552",
+    "vat_id": "DE813814746",
+    "is_blocked": false,
+    "price_group": "(Std.-Preis)",
+    "billing_address": {
+      "salutation": "",
+      "name": "T&R Global Food GmbH & Co.KG",
+      "name3": "",
+      "street": "Heekweg 15",
+      "city": "Münster, Westfalen",
+      "postal_code": "48161",
+      "country": "Deutschland",
+      "phone": "(02 51) 38 42 35 - 0",
+      "fax": "(02 51) 38 42 35 25",
+      "email": ""
+    },
+    "delivery_address": {
+      "salutation": "",
+      "name": "T&R Global Food GmbH & Co.KG",
+      "name3": "",
+      "street": "Heekweg 15",
+      "city": "Münster, Westfalen",
+      "postal_code": "48161",
+      "country": "Deutschland",
+      "phone": "(02 51) 38 42 35 - 0",
+      "fax": "(02 51) 38 42 35 25",
+      "email": ""
+    },
+    "delivery_schedule": {
+      "monday": "",
+      "tuesday": "",
+      "wednesday": "",
+      "thursday": "",
+      "friday": "",
+      "saturday": ""
+    },
+    "settings": {
+      "webshop_enabled": false,
+      "ds_addresses": false,
+      "no_pickup_app": false,
+      "minimum_order_value": null,
+      "articles_not_in_history": ""
+    },
+    "additional_addresses": [
+      {
+        "address_number": "0",
+        "salutation": "",
+        "name": "T&R Global Food GmbH & Co.KG",
+        "name3": "",
+        "street": "Heekweg 15",
+        "city": "Münster, Westfalen",
+        "postal_code": "48161",
+        "country": "Deutschland",
+        "phone": "(02 51) 38 42 35 - 0",
+        "fax": "(02 51) 38 42 35 25",
+        "email": "",
+        "is_default_billing": true,
+        "is_default_delivery": true
+      }
+    ]
+  },
+  "order_statistics": {
+    "total_orders": 0,
+    "unique_articles_ordered": 0,
+    "recent_orders_count": 0,
+    "last_order_date": null
+  },
+  "order_history": []
+}

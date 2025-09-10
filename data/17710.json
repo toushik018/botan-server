@@ -1,0 +1,158 @@
+{
+  "metadata": {
+    "generated_at": "2025-09-10T23:17:06.686091",
+    "client_number": "17710",
+    "data_source": "BotanBot XML Export"
+  },
+  "client_profile": {
+    "client_number": "17710",
+    "search_term": "MARC HORST-KURT, BENDFELD",
+    "status": "Kunde",
+    "tax_number": "",
+    "vat_id": "",
+    "is_blocked": false,
+    "price_group": "(Std.-Preis)",
+    "billing_address": {
+      "salutation": "Firma",
+      "name": "Blitzer in Kiel",
+      "name3": "Marc Horst-Kurt, Bendfeldt",
+      "street": "Vaasastr. 41",
+      "city": "Kiel",
+      "postal_code": "24109",
+      "country": "Deutschland",
+      "phone": "(0 17) 24 15 06 92",
+      "fax": "",
+      "email": "blitzer.kiel@arcor.de"
+    },
+    "delivery_address": {
+      "salutation": "Firma",
+      "name": "Blitzer in Kiel",
+      "name3": "Marc Horst-Kurt, Bendfeldt",
+      "street": "Vaasastr. 41",
+      "city": "Kiel",
+      "postal_code": "24109",
+      "country": "Deutschland",
+      "phone": "(0 17) 24 15 06 92",
+      "fax": "",
+      "email": "blitzer.kiel@arcor.de"
+    },
+    "delivery_schedule": {
+      "monday": "",
+      "tuesday": "",
+      "wednesday": "",
+      "thursday": "",
+      "friday": "",
+      "saturday": ""
+    },
+    "settings": {
+      "webshop_enabled": true,
+      "ds_addresses": false,
+      "no_pickup_app": false,
+      "minimum_order_value": null,
+      "articles_not_in_history": ""
+    },
+    "additional_addresses": [
+      {
+        "address_number": "0",
+        "salutation": "Firma",
+        "name": "Blitzer in Kiel",
+        "name3": "Marc Horst-Kurt, Bendfeldt",
+        "street": "Vaasastr. 41",
+        "city": "Kiel",
+        "postal_code": "24109",
+        "country": "Deutschland",
+        "phone": "(0 17) 24 15 06 92",
+        "fax": "",
+        "email": "blitzer.kiel@arcor.de",
+        "is_default_billing": true,
+        "is_default_delivery": true
+      }
+    ]
+  },
+  "order_statistics": {
+    "total_orders": 6,
+    "unique_articles_ordered": 6,
+    "recent_orders_count": 6,
+    "last_order_date": "2025-06-28"
+  },
+  "order_history": [
+    {
+      "article_number": "1864",
+      "date": "2025-06-28",
+      "booking_quantity": 2.5,
+      "quantity": 1.0,
+      "unit": "Beutel 2,5 kg",
+      "article_info": {
+        "short_description": "Twister, gewürzt 2,5 Kg  BT TK",
+        "long_description": "Twister gewürzt 4 x 2,5 kg/Beutel TK",
+        "product_group": "05.30.10 weitere",
+        "unit": "KG"
+      }
+    },
+    {
+      "article_number": "1375",
+      "date": "2025-06-28",
+      "booking_quantity": 2.5,
+      "quantity": 1.0,
+      "unit": "Beutel 2,5 kg",
+      "article_info": {
+        "short_description": "Potato Wedges TK gewür. 2,5 kg",
+        "long_description": "Potato Wedges gewürzt  2,5 kg TK",
+        "product_group": "05.30.10 weitere",
+        "unit": "KG"
+      }
+    },
+    {
+      "article_number": "2687",
+      "date": "2025-06-28",
+      "booking_quantity": 1.0,
+      "quantity": 1.0,
+      "unit": "Beutel 1 kg",
+      "article_info": {
+        "short_description": "Spicy Chicken Burger ca. 130g gegart 1kg/Beutel",
+        "long_description": "Spicy Chicken Burger ca. 130g gegart 1kg/Beutel",
+        "product_group": "05.05.20.05 TK",
+        "unit": "BT"
+      }
+    },
+    {
+      "article_number": "9497",
+      "date": "2025-06-28",
+      "booking_quantity": 1.0,
+      "quantity": 1.0,
+      "unit": "Beutel 1 kg",
+      "article_info": {
+        "short_description": "Chili & Lime Chik´n Bites 1 kg",
+        "long_description": "Chili & Lime Chik´n Bites 1 kg",
+        "product_group": "05.05.20.05 TK",
+        "unit": "BT"
+      }
+    },
+    {
+      "article_number": "2471",
+      "date": "2025-06-28",
+      "booking_quantity": 1.5,
+      "quantity": 1.0,
+      "unit": "Beutel 1,5 kg",
+      "article_info": {
+        "short_description": "Crunchy Chik´n Burger 135g  1,5 kg BT",
+        "long_description": "Crunchy Chik´n Burger 135 g 1,5 kg Beutel",
+        "product_group": "05.05.20.05 TK",
+        "unit": "KG"
+      }
+    },
+    {
+      "article_number": "1472",
+      "date": "2025-06-28",
+      "booking_quantity": 3.0,
+      "quantity": 1.0,
+      "unit": "Karton 3 kg",
+      "article_info": {
+        "short_description": "Chicken Crossies Hanna  3 Kg/ PK",
+        "long_description": "Hanna Chicken Crossies 3 kg",
+        "product_group": "05.05.20.05 TK",
+        "unit": "KG"
+      }
+    }
+  ]
+}

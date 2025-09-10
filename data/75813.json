@@ -1,0 +1,79 @@
+{
+  "metadata": {
+    "generated_at": "2025-09-10T23:17:06.846736",
+    "client_number": "75813",
+    "data_source": "BotanBot XML Export"
+  },
+  "client_profile": {
+    "client_number": "75813",
+    "search_term": "ROSTOCKER",
+    "status": "Lieferant",
+    "tax_number": "",
+    "vat_id": "DE814658474",
+    "is_blocked": false,
+    "price_group": "(Std.-Preis)",
+    "billing_address": {
+      "salutation": "Firma",
+      "name": "Die Rostocker Wurst- u. Schinkenspezialitäten GmbH",
+      "name3": "",
+      "street": "Ertensumpfstraße 1",
+      "city": "Rostock",
+      "postal_code": "18147",
+      "country": "Deutschland",
+      "phone": "(03 81) 6 58 43",
+      "fax": "(03 81) 6 58 44 31",
+      "email": "info@die-rostocker.com"
+    },
+    "delivery_address": {
+      "salutation": "Firma",
+      "name": "Die Rostocker Wurst- u. Schinkenspezialitäten GmbH",
+      "name3": "",
+      "street": "Ertensumpfstraße 1",
+      "city": "Rostock",
+      "postal_code": "18147",
+      "country": "Deutschland",
+      "phone": "(03 81) 6 58 43",
+      "fax": "(03 81) 6 58 44 31",
+      "email": "info@die-rostocker.com"
+    },
+    "delivery_schedule": {
+      "monday": "",
+      "tuesday": "",
+      "wednesday": "",
+      "thursday": "",
+      "friday": "",
+      "saturday": ""
+    },
+    "settings": {
+      "webshop_enabled": false,
+      "ds_addresses": false,
+      "no_pickup_app": false,
+      "minimum_order_value": null,
+      "articles_not_in_history": ""
+    },
+    "additional_addresses": [
+      {
+        "address_number": "0",
+        "salutation": "Firma",
+        "name": "Die Rostocker Wurst- u. Schinkenspezialitäten GmbH",
+        "name3": "",
+        "street": "Ertensumpfstraße 1",
+        "city": "Rostock",
+        "postal_code": "18147",
+        "country": "Deutschland",
+        "phone": "(03 81) 6 58 43",
+        "fax": "(03 81) 6 58 44 31",
+        "email": "info@die-rostocker.com",
+        "is_default_billing": true,
+        "is_default_delivery": true
+      }
+    ]
+  },
+  "order_statistics": {
+    "total_orders": 0,
+    "unique_articles_ordered": 0,
+    "recent_orders_count": 0,
+    "last_order_date": null
+  },
+  "order_history": []
+}

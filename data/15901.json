@@ -1,0 +1,94 @@
+{
+  "metadata": {
+    "generated_at": "2025-09-10T23:17:06.003625",
+    "client_number": "15901",
+    "data_source": "BotanBot XML Export"
+  },
+  "client_profile": {
+    "client_number": "15901",
+    "search_term": "MR SUB",
+    "status": "Kunde",
+    "tax_number": "",
+    "vat_id": "",
+    "is_blocked": true,
+    "price_group": "(Std.-Preis)",
+    "billing_address": {
+      "salutation": "",
+      "name": "Mr. Sub GmbH",
+      "name3": "Büro",
+      "street": "Gallberg 30",
+      "city": "Schleswig",
+      "postal_code": "24837",
+      "country": "Deutschland",
+      "phone": "(01 79) 4 41 30 09",
+      "fax": "",
+      "email": "a.ismail@doener-werk.de"
+    },
+    "delivery_address": {
+      "salutation": "",
+      "name": "Döner Werk",
+      "name3": "",
+      "street": "Hochfelder Landstrasse 23",
+      "city": "Flensburg",
+      "postal_code": "24943",
+      "country": "Deutschland",
+      "phone": "(04 61) 67 99 75 81",
+      "fax": "",
+      "email": "ai.bf@outlook.de"
+    },
+    "delivery_schedule": {
+      "monday": "1",
+      "tuesday": "",
+      "wednesday": "",
+      "thursday": "2",
+      "friday": "",
+      "saturday": ""
+    },
+    "settings": {
+      "webshop_enabled": false,
+      "ds_addresses": false,
+      "no_pickup_app": false,
+      "minimum_order_value": null,
+      "articles_not_in_history": "3399,9163,1561, 9890"
+    },
+    "additional_addresses": [
+      {
+        "address_number": "0",
+        "salutation": "",
+        "name": "Mr. Sub GmbH",
+        "name3": "Büro",
+        "street": "Gallberg 30",
+        "city": "Schleswig",
+        "postal_code": "24837",
+        "country": "Deutschland",
+        "phone": "(01 79) 4 41 30 09",
+        "fax": "",
+        "email": "a.ismail@doener-werk.de",
+        "is_default_billing": true,
+        "is_default_delivery": false
+      },
+      {
+        "address_number": "3",
+        "salutation": "",
+        "name": "Döner Werk",
+        "name3": "",
+        "street": "Hochfelder Landstrasse 23",
+        "city": "Flensburg",
+        "postal_code": "24943",
+        "country": "Deutschland",
+        "phone": "(04 61) 67 99 75 81",
+        "fax": "",
+        "email": "ai.bf@outlook.de",
+        "is_default_billing": false,
+        "is_default_delivery": true
+      }
+    ]
+  },
+  "order_statistics": {
+    "total_orders": 0,
+    "unique_articles_ordered": 0,
+    "recent_orders_count": 0,
+    "last_order_date": null
+  },
+  "order_history": []
+}

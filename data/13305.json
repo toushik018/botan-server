@@ -1,0 +1,79 @@
+{
+  "metadata": {
+    "generated_at": "2025-09-10T23:17:05.272108",
+    "client_number": "13305",
+    "data_source": "BotanBot XML Export"
+  },
+  "client_profile": {
+    "client_number": "13305",
+    "search_term": "ORIENT EXPRESS",
+    "status": "Kunde",
+    "tax_number": "",
+    "vat_id": "",
+    "is_blocked": true,
+    "price_group": "(Std.-Preis)",
+    "billing_address": {
+      "salutation": "",
+      "name": "Orient Express",
+      "name3": "Inh.Ayhan Basar",
+      "street": "Große Kremper Str. 24",
+      "city": "Glückstadt",
+      "postal_code": "25348",
+      "country": "Deutschland",
+      "phone": "(01 57) 33 12 24 43",
+      "fax": "(0 41 24) 54 90 70",
+      "email": ""
+    },
+    "delivery_address": {
+      "salutation": "",
+      "name": "Orient Express",
+      "name3": "Inh.Ayhan Basar",
+      "street": "Große Kremper Str. 24",
+      "city": "Glückstadt",
+      "postal_code": "25348",
+      "country": "Deutschland",
+      "phone": "(01 57) 33 12 24 43",
+      "fax": "(0 41 24) 54 90 70",
+      "email": ""
+    },
+    "delivery_schedule": {
+      "monday": "",
+      "tuesday": "",
+      "wednesday": "",
+      "thursday": "",
+      "friday": "",
+      "saturday": ""
+    },
+    "settings": {
+      "webshop_enabled": false,
+      "ds_addresses": false,
+      "no_pickup_app": false,
+      "minimum_order_value": null,
+      "articles_not_in_history": ""
+    },
+    "additional_addresses": [
+      {
+        "address_number": "0",
+        "salutation": "",
+        "name": "Orient Express",
+        "name3": "Inh.Ayhan Basar",
+        "street": "Große Kremper Str. 24",
+        "city": "Glückstadt",
+        "postal_code": "25348",
+        "country": "Deutschland",
+        "phone": "(01 57) 33 12 24 43",
+        "fax": "(0 41 24) 54 90 70",
+        "email": "",
+        "is_default_billing": true,
+        "is_default_delivery": true
+      }
+    ]
+  },
+  "order_statistics": {
+    "total_orders": 0,
+    "unique_articles_ordered": 0,
+    "recent_orders_count": 0,
+    "last_order_date": null
+  },
+  "order_history": []
+}

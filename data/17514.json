@@ -1,0 +1,186 @@
+{
+  "metadata": {
+    "generated_at": "2025-09-10T23:17:06.587384",
+    "client_number": "17514",
+    "data_source": "BotanBot XML Export"
+  },
+  "client_profile": {
+    "client_number": "17514",
+    "search_term": "DOMUNDO RESTAURANTE",
+    "status": "Kunde",
+    "tax_number": "",
+    "vat_id": "",
+    "is_blocked": false,
+    "price_group": "(Std.-Preis)",
+    "billing_address": {
+      "salutation": "",
+      "name": "Burger Bro Weserpark",
+      "name3": "Ilyas Sala",
+      "street": "Hans - Bredorf str. 19",
+      "city": "Bremen",
+      "postal_code": "28307",
+      "country": "Deutschland",
+      "phone": "(01 76) 20 29 64 17",
+      "fax": "",
+      "email": "aimalsala@hotmail.com"
+    },
+    "delivery_address": {
+      "salutation": "",
+      "name": "Burger Bro",
+      "name3": "Inh.: Ilyas Sala",
+      "street": "Hannoversche Strasse 86 (Phönix Center)",
+      "city": "Hamburg",
+      "postal_code": "21079",
+      "country": "Deutschland",
+      "phone": "(01 70) 8 78 50 00",
+      "fax": "",
+      "email": "ilyas-sala@hotmail.com"
+    },
+    "delivery_schedule": {
+      "monday": "",
+      "tuesday": "",
+      "wednesday": "",
+      "thursday": "8",
+      "friday": "",
+      "saturday": ""
+    },
+    "settings": {
+      "webshop_enabled": true,
+      "ds_addresses": false,
+      "no_pickup_app": false,
+      "minimum_order_value": null,
+      "articles_not_in_history": ""
+    },
+    "additional_addresses": [
+      {
+        "address_number": "0",
+        "salutation": "",
+        "name": "Burger Bro Weserpark",
+        "name3": "Ilyas Sala",
+        "street": "Hans - Bredorf str. 19",
+        "city": "Bremen",
+        "postal_code": "28307",
+        "country": "Deutschland",
+        "phone": "(01 76) 20 29 64 17",
+        "fax": "",
+        "email": "aimalsala@hotmail.com",
+        "is_default_billing": true,
+        "is_default_delivery": false
+      },
+      {
+        "address_number": "1",
+        "salutation": "",
+        "name": "Burger Bro",
+        "name3": "Inh.: Ilyas Sala",
+        "street": "Hannoversche Strasse 86 (Phönix Center)",
+        "city": "Hamburg",
+        "postal_code": "21079",
+        "country": "Deutschland",
+        "phone": "(01 70) 8 78 50 00",
+        "fax": "",
+        "email": "ilyas-sala@hotmail.com",
+        "is_default_billing": false,
+        "is_default_delivery": true
+      }
+    ]
+  },
+  "order_statistics": {
+    "total_orders": 7,
+    "unique_articles_ordered": 7,
+    "recent_orders_count": 7,
+    "last_order_date": "2025-08-21"
+  },
+  "order_history": [
+    {
+      "article_number": "2208",
+      "date": "2025-08-21",
+      "booking_quantity": 350.0,
+      "quantity": 350.0,
+      "unit": "Beutel 1",
+      "article_info": {
+        "short_description": "Crunchy Chicken Patties Cornflakes 950g/Beutel",
+        "long_description": "Crunchy Chicken Patties mit Cornflakes 950g/BT",
+        "product_group": "05.05.20.05 TK",
+        "unit": "BT"
+      }
+    },
+    {
+      "article_number": "1882",
+      "date": "2025-08-21",
+      "booking_quantity": 315.0,
+      "quantity": 315.0,
+      "unit": "Pack 1",
+      "article_info": {
+        "short_description": "Schmelzkäse Cheddar in Scheiben  1,082 kg",
+        "long_description": "Schmelzkäse Cheddar in Scheiben 1,082 kg",
+        "product_group": "05.15.05.10.20 Frisch- und Schmelzkäse",
+        "unit": "PK"
+      }
+    },
+    {
+      "article_number": "9057",
+      "date": "2025-08-21",
+      "booking_quantity": 880.0,
+      "quantity": 88.0,
+      "unit": "Eimer 10 kg",
+      "article_info": {
+        "short_description": "Spezial Mayonaise 50 %  10 KG Eimer",
+        "long_description": "Spezial Mayonnaise 50 % 10 kg Eimer",
+        "product_group": "05.45.05 Mayonnaise",
+        "unit": "KG"
+      }
+    },
+    {
+      "article_number": "1343",
+      "date": "2025-08-21",
+      "booking_quantity": 510.0,
+      "quantity": 51.0,
+      "unit": "Eimer 10 kg",
+      "article_info": {
+        "short_description": "Tomatenketchup \"Gold\"  10 Kg",
+        "long_description": "Gold Tomaten-Ketchup 10 kg",
+        "product_group": "05.45.10 Ketchup",
+        "unit": "KG"
+      }
+    },
+    {
+      "article_number": "1589",
+      "date": "2025-08-07",
+      "booking_quantity": 36.0,
+      "quantity": 36.0,
+      "unit": "Dose 1 Stk.",
+      "article_info": {
+        "short_description": "Jalapeno Scheiben  3/1 Dose",
+        "long_description": "Jalapenos in Scheiben 3/1 Dose",
+        "product_group": "05.25.30 Konserven",
+        "unit": "DS"
+      }
+    },
+    {
+      "article_number": "1864",
+      "date": "2025-06-26",
+      "booking_quantity": 20.0,
+      "quantity": 8.0,
+      "unit": "Beutel 2,5 kg",
+      "article_info": {
+        "short_description": "Twister, gewürzt 2,5 Kg  BT TK",
+        "long_description": "Twister gewürzt 4 x 2,5 kg/Beutel TK",
+        "product_group": "05.30.10 weitere",
+        "unit": "KG"
+      }
+    },
+    {
+      "article_number": "3081",
+      "date": "2025-06-26",
+      "booking_quantity": 10.0,
+      "quantity": 4.0,
+      "unit": "Beutel 2,5 kg",
+      "article_info": {
+        "short_description": "Criss Cuts, gewürzt  2,5 Kg  BT TK",
+        "long_description": "Criss Cuts, gewürzt  2,5 Kg  BT TK",
+        "product_group": "05.30.10 weitere",
+        "unit": "KG"
+      }
+    }
+  ]
+}

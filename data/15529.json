@@ -1,0 +1,94 @@
+{
+  "metadata": {
+    "generated_at": "2025-09-10T23:17:05.892998",
+    "client_number": "15529",
+    "data_source": "BotanBot XML Export"
+  },
+  "client_profile": {
+    "client_number": "15529",
+    "search_term": "MR SUB",
+    "status": "Kunde",
+    "tax_number": "",
+    "vat_id": "",
+    "is_blocked": true,
+    "price_group": "(Std.-Preis)",
+    "billing_address": {
+      "salutation": "",
+      "name": "Mr. Sub GmbH & Co. KG",
+      "name3": "Büro",
+      "street": "Gallberg 30",
+      "city": "Schleswig",
+      "postal_code": "24837",
+      "country": "Deutschland",
+      "phone": "(0 46 21) 98 46 - 8 63",
+      "fax": "(0 46 21) 98 46 - 8 65",
+      "email": "bf-buero@outlook.de"
+    },
+    "delivery_address": {
+      "salutation": "",
+      "name": "Mr. Sub",
+      "name3": "",
+      "street": "Berliner Allee 38-44",
+      "city": "Norderstedt",
+      "postal_code": "22850",
+      "country": "Deutschland",
+      "phone": "(0 46 21) 85 55 93",
+      "fax": "",
+      "email": "ai.bf@outlook.de"
+    },
+    "delivery_schedule": {
+      "monday": "",
+      "tuesday": "",
+      "wednesday": "",
+      "thursday": "",
+      "friday": "",
+      "saturday": ""
+    },
+    "settings": {
+      "webshop_enabled": false,
+      "ds_addresses": false,
+      "no_pickup_app": false,
+      "minimum_order_value": null,
+      "articles_not_in_history": "9163"
+    },
+    "additional_addresses": [
+      {
+        "address_number": "4",
+        "salutation": "",
+        "name": "Mr. Sub",
+        "name3": "",
+        "street": "Berliner Allee 38-44",
+        "city": "Norderstedt",
+        "postal_code": "22850",
+        "country": "Deutschland",
+        "phone": "(0 46 21) 85 55 93",
+        "fax": "",
+        "email": "ai.bf@outlook.de",
+        "is_default_billing": false,
+        "is_default_delivery": true
+      },
+      {
+        "address_number": "0",
+        "salutation": "",
+        "name": "Mr. Sub GmbH & Co. KG",
+        "name3": "Büro",
+        "street": "Gallberg 30",
+        "city": "Schleswig",
+        "postal_code": "24837",
+        "country": "Deutschland",
+        "phone": "(0 46 21) 98 46 - 8 63",
+        "fax": "(0 46 21) 98 46 - 8 65",
+        "email": "bf-buero@outlook.de",
+        "is_default_billing": true,
+        "is_default_delivery": false
+      }
+    ]
+  },
+  "order_statistics": {
+    "total_orders": 0,
+    "unique_articles_ordered": 0,
+    "recent_orders_count": 0,
+    "last_order_date": null
+  },
+  "order_history": []
+}

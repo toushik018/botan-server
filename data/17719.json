@@ -1,0 +1,94 @@
+{
+  "metadata": {
+    "generated_at": "2025-09-10T23:17:06.690091",
+    "client_number": "17719",
+    "data_source": "BotanBot XML Export"
+  },
+  "client_profile": {
+    "client_number": "17719",
+    "search_term": "FARINNA DI NONNA",
+    "status": "Kunde",
+    "tax_number": "2033807767",
+    "vat_id": "DE450539899",
+    "is_blocked": false,
+    "price_group": "(Std.-Preis)",
+    "billing_address": {
+      "salutation": "",
+      "name": "HK BS48a UG (haftungsbeschränkt)",
+      "name3": "Holger Käselau",
+      "street": "Breite Strasse 48a",
+      "city": "Lübeck",
+      "postal_code": "23552",
+      "country": "Deutschland",
+      "phone": "(0 40) 28 00 38 58",
+      "fax": "",
+      "email": "info@hkbs48a.de"
+    },
+    "delivery_address": {
+      "salutation": "",
+      "name": "Farina di Nonna",
+      "name3": "Holger Käselau",
+      "street": "Bahnhofsplatz 2",
+      "city": "Winsen",
+      "postal_code": "21423",
+      "country": "Deutschland",
+      "phone": "(0 17) 45 98 88 82",
+      "fax": "",
+      "email": "m.schulz@hkbs48a.de"
+    },
+    "delivery_schedule": {
+      "monday": "4",
+      "tuesday": "",
+      "wednesday": "",
+      "thursday": "",
+      "friday": "",
+      "saturday": ""
+    },
+    "settings": {
+      "webshop_enabled": false,
+      "ds_addresses": false,
+      "no_pickup_app": false,
+      "minimum_order_value": null,
+      "articles_not_in_history": ""
+    },
+    "additional_addresses": [
+      {
+        "address_number": "1",
+        "salutation": "",
+        "name": "Farina di Nonna",
+        "name3": "Holger Käselau",
+        "street": "Bahnhofsplatz 2",
+        "city": "Winsen",
+        "postal_code": "21423",
+        "country": "Deutschland",
+        "phone": "(0 17) 45 98 88 82",
+        "fax": "",
+        "email": "m.schulz@hkbs48a.de",
+        "is_default_billing": false,
+        "is_default_delivery": true
+      },
+      {
+        "address_number": "0",
+        "salutation": "",
+        "name": "HK BS48a UG (haftungsbeschränkt)",
+        "name3": "Holger Käselau",
+        "street": "Breite Strasse 48a",
+        "city": "Lübeck",
+        "postal_code": "23552",
+        "country": "Deutschland",
+        "phone": "(0 40) 28 00 38 58",
+        "fax": "",
+        "email": "info@hkbs48a.de",
+        "is_default_billing": true,
+        "is_default_delivery": false
+      }
+    ]
+  },
+  "order_statistics": {
+    "total_orders": 0,
+    "unique_articles_ordered": 0,
+    "recent_orders_count": 0,
+    "last_order_date": null
+  },
+  "order_history": []
+}

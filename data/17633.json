@@ -1,0 +1,79 @@
+{
+  "metadata": {
+    "generated_at": "2025-09-10T23:17:06.636434",
+    "client_number": "17633",
+    "data_source": "BotanBot XML Export"
+  },
+  "client_profile": {
+    "client_number": "17633",
+    "search_term": "GUTSCHMECKER",
+    "status": "Kunde",
+    "tax_number": "",
+    "vat_id": "",
+    "is_blocked": false,
+    "price_group": "(Std.-Preis)",
+    "billing_address": {
+      "salutation": "",
+      "name": "Der Gutschmecker",
+      "name3": "Albijan Ibrahimaj",
+      "street": "Kurhausstrasse 63",
+      "city": "Bad Segeberg",
+      "postal_code": "23795",
+      "country": "Deutschland",
+      "phone": "(01 76) 93 13 14 29",
+      "fax": "",
+      "email": "a.Ibrahimaj@web.de"
+    },
+    "delivery_address": {
+      "salutation": "",
+      "name": "Der Gutschmecker",
+      "name3": "Albijan Ibrahimaj",
+      "street": "Kurhausstrasse 63",
+      "city": "Bad Segeberg",
+      "postal_code": "23795",
+      "country": "Deutschland",
+      "phone": "(01 76) 93 13 14 29",
+      "fax": "",
+      "email": "a.Ibrahimaj@web.de"
+    },
+    "delivery_schedule": {
+      "monday": "",
+      "tuesday": "",
+      "wednesday": "2",
+      "thursday": "",
+      "friday": "",
+      "saturday": ""
+    },
+    "settings": {
+      "webshop_enabled": false,
+      "ds_addresses": false,
+      "no_pickup_app": false,
+      "minimum_order_value": null,
+      "articles_not_in_history": ""
+    },
+    "additional_addresses": [
+      {
+        "address_number": "0",
+        "salutation": "",
+        "name": "Der Gutschmecker",
+        "name3": "Albijan Ibrahimaj",
+        "street": "Kurhausstrasse 63",
+        "city": "Bad Segeberg",
+        "postal_code": "23795",
+        "country": "Deutschland",
+        "phone": "(01 76) 93 13 14 29",
+        "fax": "",
+        "email": "a.Ibrahimaj@web.de",
+        "is_default_billing": true,
+        "is_default_delivery": true
+      }
+    ]
+  },
+  "order_statistics": {
+    "total_orders": 0,
+    "unique_articles_ordered": 0,
+    "recent_orders_count": 0,
+    "last_order_date": null
+  },
+  "order_history": []
+}

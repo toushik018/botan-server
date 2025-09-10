@@ -1,0 +1,79 @@
+{
+  "metadata": {
+    "generated_at": "2025-09-10T23:17:06.808697",
+    "client_number": "75111",
+    "data_source": "BotanBot XML Export"
+  },
+  "client_profile": {
+    "client_number": "75111",
+    "search_term": "KENTRIS",
+    "status": "Lieferant",
+    "tax_number": "",
+    "vat_id": "",
+    "is_blocked": false,
+    "price_group": "(Std.-Preis)",
+    "billing_address": {
+      "salutation": "Firma",
+      "name": "Kentris S.A",
+      "name3": "Process & Trade Agricukture Products",
+      "street": "",
+      "city": "Gefiria Strofilias",
+      "postal_code": "34010",
+      "country": "Griechenland",
+      "phone": "+30 (2 22) 70 93 30 - 3",
+      "fax": "+30 (2 22) 7 09 32 04",
+      "email": ""
+    },
+    "delivery_address": {
+      "salutation": "Firma",
+      "name": "Kentris S.A",
+      "name3": "Process & Trade Agricukture Products",
+      "street": "",
+      "city": "Gefiria Strofilias",
+      "postal_code": "34010",
+      "country": "Griechenland",
+      "phone": "+30 (2 22) 70 93 30 - 3",
+      "fax": "+30 (2 22) 7 09 32 04",
+      "email": ""
+    },
+    "delivery_schedule": {
+      "monday": "",
+      "tuesday": "",
+      "wednesday": "",
+      "thursday": "",
+      "friday": "",
+      "saturday": ""
+    },
+    "settings": {
+      "webshop_enabled": false,
+      "ds_addresses": false,
+      "no_pickup_app": false,
+      "minimum_order_value": null,
+      "articles_not_in_history": ""
+    },
+    "additional_addresses": [
+      {
+        "address_number": "0",
+        "salutation": "Firma",
+        "name": "Kentris S.A",
+        "name3": "Process & Trade Agricukture Products",
+        "street": "",
+        "city": "Gefiria Strofilias",
+        "postal_code": "34010",
+        "country": "Griechenland",
+        "phone": "+30 (2 22) 70 93 30 - 3",
+        "fax": "+30 (2 22) 7 09 32 04",
+        "email": "",
+        "is_default_billing": true,
+        "is_default_delivery": true
+      }
+    ]
+  },
+  "order_statistics": {
+    "total_orders": 0,
+    "unique_articles_ordered": 0,
+    "recent_orders_count": 0,
+    "last_order_date": null
+  },
+  "order_history": []
+}

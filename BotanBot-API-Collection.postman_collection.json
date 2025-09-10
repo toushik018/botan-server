@@ -1,0 +1,426 @@
+{
+  "info": {
+    "name": "BotanBot Data API Collection",
+    "description": "Complete collection of BotanBot Data Server API endpoints for FTP sync, data conversion, and AI consumption",
+    "version": "1.0.0",
+    "schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+  },
+  "variable": [
+    {
+      "key": "baseUrl",
+      "value": "http://localhost:5000",
+      "type": "string"
+    }
+  ],
+  "item": [
+    {
+      "name": "🏠 Root & Info",
+      "item": [
+        {
+          "name": "API Root Information",
+          "request": {
+            "method": "GET",
+            "header": [],
+            "url": {
+              "raw": "{{baseUrl}}/",
+              "host": ["{{baseUrl}}"],
+              "path": [""]
+            },
+            "description": "Get basic API information, version, and available endpoints overview"
+          }
+        }
+      ]
+    },
+    {
+      "name": "🩺 System & Health",
+      "item": [
+        {
+          "name": "Health Check",
+          "request": {
+            "method": "GET",
+            "header": [],
+            "url": {
+              "raw": "{{baseUrl}}/api/v1/health",
+              "host": ["{{baseUrl}}"],
+              "path": ["api", "v1", "health"]
+            },
+            "description": "Basic health check endpoint with server status, uptime, and memory usage"
+          }
+        },
+        {
+          "name": "System Status",
+          "request": {
+            "method": "GET",
+            "header": [],
+            "url": {
+              "raw": "{{baseUrl}}/api/v1/status",
+              "host": ["{{baseUrl}}"],
+              "path": ["api", "v1", "status"],
+              "query": [
+                {
+                  "key": "detailed",
+                  "value": "false",
+                  "description": "Set to true for detailed system information"
+                }
+              ]
+            },
+            "description": "Comprehensive system status including data freshness, file counts, and last conversion timestamp"
+          }
+        },
+        {
+          "name": "System Status (Detailed)",
+          "request": {
+            "method": "GET",
+            "header": [],
+            "url": {
+              "raw": "{{baseUrl}}/api/v1/status?detailed=true",
+              "host": ["{{baseUrl}}"],
+              "path": ["api", "v1", "status"],
+              "query": [
+                {
+                  "key": "detailed",
+                  "value": "true"
+                }
+              ]
+            },
+            "description": "Detailed system status with configuration info and conversion summary"
+          }
+        },
+        {
+          "name": "Configuration (Sanitized)",
+          "request": {
+            "method": "GET",
+            "header": [],
+            "url": {
+              "raw": "{{baseUrl}}/api/v1/config",
+              "host": ["{{baseUrl}}"],
+              "path": ["api", "v1", "config"]
+            },
+            "description": "Get current system configuration (sensitive data like passwords are redacted)"
+          }
+        },
+        {
+          "name": "System Metrics",
+          "request": {
+            "method": "GET",
+            "header": [],
+            "url": {
+              "raw": "{{baseUrl}}/api/v1/metrics",
+              "host": ["{{baseUrl}}"],
+              "path": ["api", "v1", "metrics"]
+            },
+            "description": "Detailed system performance metrics including CPU, memory, and OS information"
+          }
+        }
+      ]
+    },
+    {
+      "name": "📦 Products",
+      "item": [
+        {
+          "name": "Get All Products",
+          "request": {
+            "method": "GET",
+            "header": [],
+            "url": {
+              "raw": "{{baseUrl}}/api/v1/products",
+              "host": ["{{baseUrl}}"],
+              "path": ["api", "v1", "products"],
+              "query": [
+                {
+                  "key": "q",
+                  "value": "",
+                  "description": "Search term for product description or article number",
+                  "disabled": true
+                },
+                {
+                  "key": "category",
+                  "value": "",
+                  "description": "Filter by product category",
+                  "disabled": true
+                },
+                {
+                  "key": "limit",
+                  "value": "50",
+                  "description": "Number of products to return (max 100)",
+                  "disabled": true
+                },
+                {
+                  "key": "page",
+                  "value": "1",
+                  "description": "Page number for pagination",
+                  "disabled": true
+                }
+              ]
+            },
+            "description": "Get all products with optional search, filtering, and pagination"
+          }
+        },
+        {
+          "name": "Search Products",
+          "request": {
+            "method": "GET",
+            "header": [],
+            "url": {
+              "raw": "{{baseUrl}}/api/v1/products?q=coca&limit=10",
+              "host": ["{{baseUrl}}"],
+              "path": ["api", "v1", "products"],
+              "query": [
+                {
+                  "key": "q",
+                  "value": "coca"
+                },
+                {
+                  "key": "limit",
+                  "value": "10"
+                }
+              ]
+            },
+            "description": "Example: Search for products containing 'coca' in name or description"
+          }
+        },
+        {
+          "name": "Get Products with Pagination",
+          "request": {
+            "method": "GET",
+            "header": [],
+            "url": {
+              "raw": "{{baseUrl}}/api/v1/products?limit=20&page=2",
+              "host": ["{{baseUrl}}"],
+              "path": ["api", "v1", "products"],
+              "query": [
+                {
+                  "key": "limit",
+                  "value": "20"
+                },
+                {
+                  "key": "page",
+                  "value": "2"
+                }
+              ]
+            },
+            "description": "Example: Get page 2 with 20 products per page"
+          }
+        },
+        {
+          "name": "Get Product Categories",
+          "request": {
+            "method": "GET",
+            "header": [],
+            "url": {
+              "raw": "{{baseUrl}}/api/v1/products/categories",
+              "host": ["{{baseUrl}}"],
+              "path": ["api", "v1", "products", "categories"]
+            },
+            "description": "Get all available product categories with product counts"
+          }
+        },
+        {
+          "name": "Get Products by Category",
+          "request": {
+            "method": "GET",
+            "header": [],
+            "url": {
+              "raw": "{{baseUrl}}/api/v1/products/category/15.05.35 1,0 l Pet",
+              "host": ["{{baseUrl}}"],
+              "path": [
+                "api",
+                "v1",
+                "products",
+                "category",
+                "15.05.35 1,0 l Pet"
+              ]
+            },
+            "description": "Get all products in a specific category"
+          }
+        },
+        {
+          "name": "Get Single Product by Article Number",
+          "request": {
+            "method": "GET",
+            "header": [],
+            "url": {
+              "raw": "{{baseUrl}}/api/v1/products/1000",
+              "host": ["{{baseUrl}}"],
+              "path": ["api", "v1", "products", "1000"]
+            },
+            "description": "Get detailed information for a specific product by article number"
+          }
+        },
+        {
+          "name": "Search Products (Alternative Endpoint)",
+          "request": {
+            "method": "GET",
+            "header": [],
+            "url": {
+              "raw": "{{baseUrl}}/api/v1/products/search/coca",
+              "host": ["{{baseUrl}}"],
+              "path": ["api", "v1", "products", "search", "coca"],
+              "query": [
+                {
+                  "key": "limit",
+                  "value": "50",
+                  "description": "Maximum number of results to return",
+                  "disabled": true
+                }
+              ]
+            },
+            "description": "Alternative search endpoint - search for products by term in URL path"
+          }
+        }
+      ]
+    },
+    {
+      "name": "👥 Clients",
+      "item": [
+        {
+          "name": "Get Client Profile",
+          "request": {
+            "method": "GET",
+            "header": [],
+            "url": {
+              "raw": "{{baseUrl}}/api/v1/clients/10000",
+              "host": ["{{baseUrl}}"],
+              "path": ["api", "v1", "clients", "10000"]
+            },
+            "description": "Get complete client profile information by client number"
+          }
+        },
+        {
+          "name": "Get Client Order History",
+          "request": {
+            "method": "GET",
+            "header": [],
+            "url": {
+              "raw": "{{baseUrl}}/api/v1/clients/10000/orders",
+              "host": ["{{baseUrl}}"],
+              "path": ["api", "v1", "clients", "10000", "orders"],
+              "query": [
+                {
+                  "key": "limit",
+                  "value": "100",
+                  "description": "Number of orders to return",
+                  "disabled": true
+                },
+                {
+                  "key": "since",
+                  "value": "",
+                  "description": "ISO date to filter orders from (e.g., 2023-01-01)",
+                  "disabled": true
+                },
+                {
+                  "key": "page",
+                  "value": "1",
+                  "description": "Page number for pagination",
+                  "disabled": true
+                }
+              ]
+            },
+            "description": "Get client order history with optional filtering and pagination"
+          }
+        },
+        {
+          "name": "Get Client Statistics",
+          "request": {
+            "method": "GET",
+            "header": [],
+            "url": {
+              "raw": "{{baseUrl}}/api/v1/clients/10000/stats",
+              "host": ["{{baseUrl}}"],
+              "path": ["api", "v1", "clients", "10000", "stats"]
+            },
+            "description": "Get client statistics including order summaries and purchasing patterns"
+          }
+        }
+      ]
+    },
+    {
+      "name": "🤖 AI Optimized",
+      "item": [
+        {
+          "name": "Get Client Context for AI",
+          "request": {
+            "method": "GET",
+            "header": [],
+            "url": {
+              "raw": "{{baseUrl}}/api/v1/ai/client-context/10000",
+              "host": ["{{baseUrl}}"],
+              "path": ["api", "v1", "ai", "client-context", "10000"]
+            },
+            "description": "Optimized endpoint for AI systems - compact client data with recent orders and statistics"
+          }
+        },
+        {
+          "name": "Get Product Recommendations",
+          "request": {
+            "method": "GET",
+            "header": [],
+            "url": {
+              "raw": "{{baseUrl}}/api/v1/ai/product-recommendations",
+              "host": ["{{baseUrl}}"],
+              "path": ["api", "v1", "ai", "product-recommendations"],
+              "query": [
+                {
+                  "key": "clientNumber",
+                  "value": "10000",
+                  "description": "Client number for personalized recommendations",
+                  "disabled": true
+                },
+                {
+                  "key": "category",
+                  "value": "",
+                  "description": "Product category to filter recommendations",
+                  "disabled": true
+                },
+                {
+                  "key": "limit",
+                  "value": "10",
+                  "description": "Number of recommendations to return",
+                  "disabled": true
+                }
+              ]
+            },
+            "description": "Get AI-powered product recommendations based on client history and preferences"
+          }
+        }
+      ]
+    }
+  ],
+  "event": [
+    {
+      "listen": "prerequest",
+      "script": {
+        "type": "text/javascript",
+        "exec": [
+          "// Set dynamic timestamp for requests",
+          "pm.globals.set('timestamp', new Date().toISOString());"
+        ]
+      }
+    },
+    {
+      "listen": "test",
+      "script": {
+        "type": "text/javascript",
+        "exec": [
+          "// Basic response validation",
+          "pm.test('Status code is 200', function () {",
+          "    pm.response.to.have.status(200);",
+          "});",
+          "",
+          "pm.test('Response is JSON', function () {",
+          "    pm.response.to.be.json;",
+          "});",
+          "",
+          "pm.test('Response has success field', function () {",
+          "    const jsonData = pm.response.json();",
+          "    pm.expect(jsonData).to.have.property('success');",
+          "});",
+          "",
+          "pm.test('Response time is less than 5000ms', function () {",
+          "    pm.expect(pm.response.responseTime).to.be.below(5000);",
+          "});"
+        ]
+      }
+    }
+  ]
+}

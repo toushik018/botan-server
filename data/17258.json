@@ -1,0 +1,79 @@
+{
+  "metadata": {
+    "generated_at": "2025-09-10T23:17:06.485269",
+    "client_number": "17258",
+    "data_source": "BotanBot XML Export"
+  },
+  "client_profile": {
+    "client_number": "17258",
+    "search_term": "GAUMEN FREUND",
+    "status": "Kunde",
+    "tax_number": "",
+    "vat_id": "",
+    "is_blocked": false,
+    "price_group": "(Std.-Preis)",
+    "billing_address": {
+      "salutation": "",
+      "name": "Gaumen Freund",
+      "name3": "haider marketing GmbH",
+      "street": "Hofstr. 2",
+      "city": "Kiel",
+      "postal_code": "24143",
+      "country": "Deutschland",
+      "phone": "(04 31) 66 94 89 90",
+      "fax": "",
+      "email": "info@haider-marketing.com"
+    },
+    "delivery_address": {
+      "salutation": "",
+      "name": "Gaumen Freund",
+      "name3": "haider marketing GmbH",
+      "street": "Hofstr. 2",
+      "city": "Kiel",
+      "postal_code": "24143",
+      "country": "Deutschland",
+      "phone": "(04 31) 66 94 89 90",
+      "fax": "",
+      "email": "info@haider-marketing.com"
+    },
+    "delivery_schedule": {
+      "monday": "18",
+      "tuesday": "18",
+      "wednesday": "18",
+      "thursday": "18",
+      "friday": "18",
+      "saturday": ""
+    },
+    "settings": {
+      "webshop_enabled": false,
+      "ds_addresses": false,
+      "no_pickup_app": false,
+      "minimum_order_value": null,
+      "articles_not_in_history": ""
+    },
+    "additional_addresses": [
+      {
+        "address_number": "0",
+        "salutation": "",
+        "name": "Gaumen Freund",
+        "name3": "haider marketing GmbH",
+        "street": "Hofstr. 2",
+        "city": "Kiel",
+        "postal_code": "24143",
+        "country": "Deutschland",
+        "phone": "(04 31) 66 94 89 90",
+        "fax": "",
+        "email": "info@haider-marketing.com",
+        "is_default_billing": true,
+        "is_default_delivery": true
+      }
+    ]
+  },
+  "order_statistics": {
+    "total_orders": 0,
+    "unique_articles_ordered": 0,
+    "recent_orders_count": 0,
+    "last_order_date": null
+  },
+  "order_history": []
+}

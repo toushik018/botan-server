@@ -1,0 +1,79 @@
+{
+  "metadata": {
+    "generated_at": "2025-09-10T23:17:06.625925",
+    "client_number": "17608",
+    "data_source": "BotanBot XML Export"
+  },
+  "client_profile": {
+    "client_number": "17608",
+    "search_term": "HARMSTRASSE BÄCKER",
+    "status": "Kunde",
+    "tax_number": "",
+    "vat_id": "",
+    "is_blocked": false,
+    "price_group": "(Std.-Preis)",
+    "billing_address": {
+      "salutation": "",
+      "name": "Harmstrasse Bäcker",
+      "name3": "Ridha Mabrouk",
+      "street": "Harmstrasse 124",
+      "city": "Kiel",
+      "postal_code": "24114",
+      "country": "Deutschland",
+      "phone": "(04 31) 12 99 55",
+      "fax": "",
+      "email": "einfach-sauber71@gmx.de"
+    },
+    "delivery_address": {
+      "salutation": "",
+      "name": "Harmstrasse Bäcker",
+      "name3": "Ridha Mabrouk",
+      "street": "Harmstrasse 124",
+      "city": "Kiel",
+      "postal_code": "24114",
+      "country": "Deutschland",
+      "phone": "(04 31) 12 99 55",
+      "fax": "",
+      "email": "einfach-sauber71@gmx.de"
+    },
+    "delivery_schedule": {
+      "monday": "",
+      "tuesday": "",
+      "wednesday": "",
+      "thursday": "",
+      "friday": "",
+      "saturday": ""
+    },
+    "settings": {
+      "webshop_enabled": false,
+      "ds_addresses": false,
+      "no_pickup_app": false,
+      "minimum_order_value": null,
+      "articles_not_in_history": ""
+    },
+    "additional_addresses": [
+      {
+        "address_number": "0",
+        "salutation": "",
+        "name": "Harmstrasse Bäcker",
+        "name3": "Ridha Mabrouk",
+        "street": "Harmstrasse 124",
+        "city": "Kiel",
+        "postal_code": "24114",
+        "country": "Deutschland",
+        "phone": "(04 31) 12 99 55",
+        "fax": "",
+        "email": "einfach-sauber71@gmx.de",
+        "is_default_billing": true,
+        "is_default_delivery": true
+      }
+    ]
+  },
+  "order_statistics": {
+    "total_orders": 0,
+    "unique_articles_ordered": 0,
+    "recent_orders_count": 0,
+    "last_order_date": null
+  },
+  "order_history": []
+}

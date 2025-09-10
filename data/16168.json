@@ -1,0 +1,94 @@
+{
+  "metadata": {
+    "generated_at": "2025-09-10T23:17:06.085699",
+    "client_number": "16168",
+    "data_source": "BotanBot XML Export"
+  },
+  "client_profile": {
+    "client_number": "16168",
+    "search_term": "PLATE",
+    "status": "Kunde",
+    "tax_number": "",
+    "vat_id": "",
+    "is_blocked": false,
+    "price_group": "(Std.-Preis)",
+    "billing_address": {
+      "salutation": "",
+      "name": "Smutjes Futterbude",
+      "name3": "Inh.: Selina Christina Plate",
+      "street": "Bundesstr.  15",
+      "city": "Faulück",
+      "postal_code": "24407",
+      "country": "Deutschland",
+      "phone": "(0 46 42) 6 96 95 37",
+      "fax": "(0 46 42) 6 96 95 36",
+      "email": "info@smutjesfutterbude.com"
+    },
+    "delivery_address": {
+      "salutation": "",
+      "name": "Smutjes Futterbude",
+      "name3": "Inh.: Selina Christina Plate",
+      "street": "Dänischestr. 3",
+      "city": "Kronsgaard",
+      "postal_code": "24395",
+      "country": "Deutschland",
+      "phone": "(0 46 42) 6 96 95 37",
+      "fax": "(0 46 42) 6 96 95 36",
+      "email": "info@smutjesfutterbude.com"
+    },
+    "delivery_schedule": {
+      "monday": "1",
+      "tuesday": "",
+      "wednesday": "",
+      "thursday": "6",
+      "friday": "",
+      "saturday": ""
+    },
+    "settings": {
+      "webshop_enabled": false,
+      "ds_addresses": false,
+      "no_pickup_app": false,
+      "minimum_order_value": null,
+      "articles_not_in_history": ""
+    },
+    "additional_addresses": [
+      {
+        "address_number": "0",
+        "salutation": "",
+        "name": "Smutjes Futterbude",
+        "name3": "Inh.: Selina Christina Plate",
+        "street": "Bundesstr.  15",
+        "city": "Faulück",
+        "postal_code": "24407",
+        "country": "Deutschland",
+        "phone": "(0 46 42) 6 96 95 37",
+        "fax": "(0 46 42) 6 96 95 36",
+        "email": "info@smutjesfutterbude.com",
+        "is_default_billing": true,
+        "is_default_delivery": false
+      },
+      {
+        "address_number": "1",
+        "salutation": "",
+        "name": "Smutjes Futterbude",
+        "name3": "Inh.: Selina Christina Plate",
+        "street": "Dänischestr. 3",
+        "city": "Kronsgaard",
+        "postal_code": "24395",
+        "country": "Deutschland",
+        "phone": "(0 46 42) 6 96 95 37",
+        "fax": "(0 46 42) 6 96 95 36",
+        "email": "info@smutjesfutterbude.com",
+        "is_default_billing": false,
+        "is_default_delivery": true
+      }
+    ]
+  },
+  "order_statistics": {
+    "total_orders": 0,
+    "unique_articles_ordered": 0,
+    "recent_orders_count": 0,
+    "last_order_date": null
+  },
+  "order_history": []
+}

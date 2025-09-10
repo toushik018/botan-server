@@ -1,0 +1,184 @@
+{
+  "metadata": {
+    "generated_at": "2025-09-10T23:17:06.339082",
+    "client_number": "16870",
+    "data_source": "BotanBot XML Export"
+  },
+  "client_profile": {
+    "client_number": "16870",
+    "search_term": "CHAMPERS HOTSPOT KALKBERG",
+    "status": "Kunde",
+    "tax_number": "",
+    "vat_id": "",
+    "is_blocked": false,
+    "price_group": "(Std.-Preis)",
+    "billing_address": {
+      "salutation": "",
+      "name": "Champers Hotspot am Kalkberg",
+      "name3": "Inh. Mohamed Khodr",
+      "street": "Am Kalkberg 21",
+      "city": "Bad Segeberg",
+      "postal_code": "23795",
+      "country": "Deutschland",
+      "phone": "(01 76) 61 86 69 41",
+      "fax": "",
+      "email": "info@champers-bad-segeberg.de"
+    },
+    "delivery_address": {
+      "salutation": "",
+      "name": "Champers Hotspot am Kalkberg",
+      "name3": "Inh. Mohamed Khodr",
+      "street": "Am Kalkberg 21",
+      "city": "Bad Segeberg",
+      "postal_code": "23795",
+      "country": "Deutschland",
+      "phone": "(01 76) 61 86 69 41",
+      "fax": "",
+      "email": "info@champers-bad-segeberg.de"
+    },
+    "delivery_schedule": {
+      "monday": "",
+      "tuesday": "",
+      "wednesday": "2",
+      "thursday": "",
+      "friday": "",
+      "saturday": ""
+    },
+    "settings": {
+      "webshop_enabled": true,
+      "ds_addresses": false,
+      "no_pickup_app": false,
+      "minimum_order_value": null,
+      "articles_not_in_history": ""
+    },
+    "additional_addresses": [
+      {
+        "address_number": "0",
+        "salutation": "",
+        "name": "Champers Hotspot am Kalkberg",
+        "name3": "Inh. Mohamed Khodr",
+        "street": "Am Kalkberg 21",
+        "city": "Bad Segeberg",
+        "postal_code": "23795",
+        "country": "Deutschland",
+        "phone": "(01 76) 61 86 69 41",
+        "fax": "",
+        "email": "info@champers-bad-segeberg.de",
+        "is_default_billing": true,
+        "is_default_delivery": true
+      }
+    ]
+  },
+  "order_statistics": {
+    "total_orders": 8,
+    "unique_articles_ordered": 8,
+    "recent_orders_count": 8,
+    "last_order_date": "2025-08-06"
+  },
+  "order_history": [
+    {
+      "article_number": "1602",
+      "date": "2025-08-06",
+      "booking_quantity": 60.0,
+      "quantity": 60.0,
+      "unit": "Tube 1",
+      "article_info": {
+        "short_description": "Spezialsauce Burger Dressing Tube",
+        "long_description": "Spezialsauce Burger Dressing Tube",
+        "product_group": "05.45.20 Spezial-Saucen",
+        "unit": "TB"
+      }
+    },
+    {
+      "article_number": "1798",
+      "date": "2025-08-06",
+      "booking_quantity": 13.0,
+      "quantity": 13.0,
+      "unit": "Pack 1",
+      "article_info": {
+        "short_description": "Putenbrust geschnitten, geräuchert  500g",
+        "long_description": "Putenbrust geschnitten, geräuchert  500 g",
+        "product_group": "05.05.20.10 Frisch",
+        "unit": "PK"
+      }
+    },
+    {
+      "article_number": "1857",
+      "date": "2025-08-06",
+      "booking_quantity": 8.0,
+      "quantity": 8.0,
+      "unit": "Pack 1",
+      "article_info": {
+        "short_description": "Putenschinken geschn. 1kg (Halal)",
+        "long_description": "Putenschinken geschn. 1kg (Halal)",
+        "product_group": "05.05.20.10 Frisch",
+        "unit": "KG"
+      }
+    },
+    {
+      "article_number": "3190",
+      "date": "2025-08-06",
+      "booking_quantity": 12.0,
+      "quantity": 12.0,
+      "unit": "Karton 1",
+      "article_info": {
+        "short_description": "Binibox, 40 Stk.",
+        "long_description": "Binibox 40 Stück",
+        "product_group": "10.05.25 Boxen, Tüten, Taschen und Papier",
+        "unit": "KT"
+      }
+    },
+    {
+      "article_number": "2469",
+      "date": "2025-08-06",
+      "booking_quantity": 105.0,
+      "quantity": 105.0,
+      "unit": "Tube 1",
+      "article_info": {
+        "short_description": "Smokey HOT Cocktail 800 ml  REMIA  Tube",
+        "long_description": "Remia Smokey HOT Cocktail 800 ml Tube",
+        "product_group": "05.45.20 Spezial-Saucen",
+        "unit": "TB"
+      }
+    },
+    {
+      "article_number": "1327",
+      "date": "2025-06-18",
+      "booking_quantity": 2.0,
+      "quantity": 1.0,
+      "unit": "Pack 2 kg",
+      "article_info": {
+        "short_description": "Currysauce  2 kg",
+        "long_description": "Currysauce 2 kg",
+        "product_group": "05.45.15 Dips und Saucen",
+        "unit": "KG"
+      }
+    },
+    {
+      "article_number": "2730",
+      "date": "2025-06-18",
+      "booking_quantity": 15.0,
+      "quantity": 15.0,
+      "unit": "Tube 1",
+      "article_info": {
+        "short_description": "Black Truffle Mayo Remia 800 ml Tube",
+        "long_description": "Black Truffle Mayo Remia 800 ml Tube",
+        "product_group": "05.45.20 Spezial-Saucen",
+        "unit": "TB"
+      }
+    },
+    {
+      "article_number": "1445",
+      "date": "2025-06-18",
+      "booking_quantity": 1.0,
+      "quantity": 1.0,
+      "unit": "Pack 1",
+      "article_info": {
+        "short_description": "Pfeffer schwarz, gemahlen   1 Kg",
+        "long_description": "Pfeffer schwarz, gemahlen 1 kg",
+        "product_group": "05.25.35 Gewürze",
+        "unit": "KG"
+      }
+    }
+  ]
+}

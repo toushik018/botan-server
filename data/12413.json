@@ -1,0 +1,94 @@
+{
+  "metadata": {
+    "generated_at": "2025-09-10T23:17:05.020225",
+    "client_number": "12413",
+    "data_source": "BotanBot XML Export"
+  },
+  "client_profile": {
+    "client_number": "12413",
+    "search_term": "CHAMPS",
+    "status": "Kunde",
+    "tax_number": "",
+    "vat_id": "",
+    "is_blocked": false,
+    "price_group": "(Std.-Preis)",
+    "billing_address": {
+      "salutation": "",
+      "name": "Weekender Gastronomie Betriebs GmbH",
+      "name3": "",
+      "street": "Eichhofstr. 1",
+      "city": "Kiel",
+      "postal_code": "24116",
+      "country": "Deutschland",
+      "phone": "(04 31) 53 03 68 77",
+      "fax": "(04 31) 53 03 68 76",
+      "email": ""
+    },
+    "delivery_address": {
+      "salutation": "",
+      "name": "Champs  Bar",
+      "name3": "",
+      "street": "Schloßstr.16-18",
+      "city": "Kiel",
+      "postal_code": "24103",
+      "country": "Deutschland",
+      "phone": "(04 31) 53 03 68 77",
+      "fax": "",
+      "email": ""
+    },
+    "delivery_schedule": {
+      "monday": "",
+      "tuesday": "",
+      "wednesday": "",
+      "thursday": "",
+      "friday": "",
+      "saturday": ""
+    },
+    "settings": {
+      "webshop_enabled": false,
+      "ds_addresses": false,
+      "no_pickup_app": false,
+      "minimum_order_value": null,
+      "articles_not_in_history": "9155"
+    },
+    "additional_addresses": [
+      {
+        "address_number": "0",
+        "salutation": "",
+        "name": "Champs  Bar",
+        "name3": "",
+        "street": "Schloßstr.16-18",
+        "city": "Kiel",
+        "postal_code": "24103",
+        "country": "Deutschland",
+        "phone": "(04 31) 53 03 68 77",
+        "fax": "",
+        "email": "",
+        "is_default_billing": false,
+        "is_default_delivery": true
+      },
+      {
+        "address_number": "1",
+        "salutation": "",
+        "name": "Weekender Gastronomie Betriebs GmbH",
+        "name3": "",
+        "street": "Eichhofstr. 1",
+        "city": "Kiel",
+        "postal_code": "24116",
+        "country": "Deutschland",
+        "phone": "(04 31) 53 03 68 77",
+        "fax": "(04 31) 53 03 68 76",
+        "email": "",
+        "is_default_billing": true,
+        "is_default_delivery": false
+      }
+    ]
+  },
+  "order_statistics": {
+    "total_orders": 0,
+    "unique_articles_ordered": 0,
+    "recent_orders_count": 0,
+    "last_order_date": null
+  },
+  "order_history": []
+}

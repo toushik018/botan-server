@@ -1,0 +1,79 @@
+{
+  "metadata": {
+    "generated_at": "2025-09-10T23:17:04.678820",
+    "client_number": "11143",
+    "data_source": "BotanBot XML Export"
+  },
+  "client_profile": {
+    "client_number": "11143",
+    "search_term": "HERBERT WOELKE",
+    "status": "Kunde",
+    "tax_number": "",
+    "vat_id": "",
+    "is_blocked": false,
+    "price_group": "(Std.-Preis)",
+    "billing_address": {
+      "salutation": "Firma",
+      "name": "Herbert Woelke KG",
+      "name3": "Grossharrie",
+      "street": "Preetzer Landsrtaße 44",
+      "city": "Großharrie",
+      "postal_code": "24625",
+      "country": "Deutschland",
+      "phone": "(0 43 94) 5 16 - 5 17",
+      "fax": "(0 43 94) 8 16",
+      "email": "info@woelkefleisch.de"
+    },
+    "delivery_address": {
+      "salutation": "Firma",
+      "name": "Herbert Woelke KG",
+      "name3": "Grossharrie",
+      "street": "Preetzer Landsrtaße 44",
+      "city": "Großharrie",
+      "postal_code": "24625",
+      "country": "Deutschland",
+      "phone": "(0 43 94) 5 16 - 5 17",
+      "fax": "(0 43 94) 8 16",
+      "email": "info@woelkefleisch.de"
+    },
+    "delivery_schedule": {
+      "monday": "",
+      "tuesday": "",
+      "wednesday": "8",
+      "thursday": "",
+      "friday": "",
+      "saturday": ""
+    },
+    "settings": {
+      "webshop_enabled": false,
+      "ds_addresses": false,
+      "no_pickup_app": false,
+      "minimum_order_value": null,
+      "articles_not_in_history": ""
+    },
+    "additional_addresses": [
+      {
+        "address_number": "0",
+        "salutation": "Firma",
+        "name": "Herbert Woelke KG",
+        "name3": "Grossharrie",
+        "street": "Preetzer Landsrtaße 44",
+        "city": "Großharrie",
+        "postal_code": "24625",
+        "country": "Deutschland",
+        "phone": "(0 43 94) 5 16 - 5 17",
+        "fax": "(0 43 94) 8 16",
+        "email": "info@woelkefleisch.de",
+        "is_default_billing": true,
+        "is_default_delivery": true
+      }
+    ]
+  },
+  "order_statistics": {
+    "total_orders": 0,
+    "unique_articles_ordered": 0,
+    "recent_orders_count": 0,
+    "last_order_date": null
+  },
+  "order_history": []
+}

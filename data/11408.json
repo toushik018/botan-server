@@ -1,0 +1,79 @@
+{
+  "metadata": {
+    "generated_at": "2025-09-10T23:17:04.750513",
+    "client_number": "11408",
+    "data_source": "BotanBot XML Export"
+  },
+  "client_profile": {
+    "client_number": "11408",
+    "search_term": "GRILL STAION AM MARKT, SC",
+    "status": "Kunde",
+    "tax_number": "",
+    "vat_id": "",
+    "is_blocked": false,
+    "price_group": "(Std.-Preis)",
+    "billing_address": {
+      "salutation": "",
+      "name": "GRILL STATION AM MARKT",
+      "name3": "",
+      "street": "Am Markt 1",
+      "city": "SCHENEFELD",
+      "postal_code": "25560",
+      "country": "Deutschland",
+      "phone": "(0 48 92) 8 48 - 5",
+      "fax": "",
+      "email": "slahann@gmx.de"
+    },
+    "delivery_address": {
+      "salutation": "",
+      "name": "GRILL STATION AM MARKT",
+      "name3": "",
+      "street": "Am Markt 1",
+      "city": "SCHENEFELD",
+      "postal_code": "25560",
+      "country": "Deutschland",
+      "phone": "(0 48 92) 8 48 - 5",
+      "fax": "",
+      "email": "slahann@gmx.de"
+    },
+    "delivery_schedule": {
+      "monday": "",
+      "tuesday": "6",
+      "wednesday": "",
+      "thursday": "",
+      "friday": "6",
+      "saturday": ""
+    },
+    "settings": {
+      "webshop_enabled": false,
+      "ds_addresses": false,
+      "no_pickup_app": false,
+      "minimum_order_value": null,
+      "articles_not_in_history": ""
+    },
+    "additional_addresses": [
+      {
+        "address_number": "0",
+        "salutation": "",
+        "name": "GRILL STATION AM MARKT",
+        "name3": "",
+        "street": "Am Markt 1",
+        "city": "SCHENEFELD",
+        "postal_code": "25560",
+        "country": "Deutschland",
+        "phone": "(0 48 92) 8 48 - 5",
+        "fax": "",
+        "email": "slahann@gmx.de",
+        "is_default_billing": true,
+        "is_default_delivery": true
+      }
+    ]
+  },
+  "order_statistics": {
+    "total_orders": 0,
+    "unique_articles_ordered": 0,
+    "recent_orders_count": 0,
+    "last_order_date": null
+  },
+  "order_history": []
+}

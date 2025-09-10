@@ -1,0 +1,79 @@
+{
+  "metadata": {
+    "generated_at": "2025-09-10T23:17:04.955667",
+    "client_number": "12175",
+    "data_source": "BotanBot XML Export"
+  },
+  "client_profile": {
+    "client_number": "12175",
+    "search_term": "ESS BAR RESTAURANT COCKTA",
+    "status": "Kunde",
+    "tax_number": "",
+    "vat_id": "",
+    "is_blocked": false,
+    "price_group": "(Std.-Preis)",
+    "billing_address": {
+      "salutation": "Firma",
+      "name": "ESS BAR RESTAURANT COCKTAILBAR",
+      "name3": "Loai Hamischa",
+      "street": "BahrenfelDEr str.221 f",
+      "city": "Hamburg",
+      "postal_code": "2DE5",
+      "country": "Deutschland",
+      "phone": "(0 AT) 39 90 87 00",
+      "fax": "",
+      "email": ""
+    },
+    "delivery_address": {
+      "salutation": "Firma",
+      "name": "ESS BAR RESTAURANT COCKTAILBAR",
+      "name3": "Loai Hamischa",
+      "street": "BahrenfelDEr str.221 f",
+      "city": "Hamburg",
+      "postal_code": "2DE5",
+      "country": "Deutschland",
+      "phone": "(0 AT) 39 90 87 00",
+      "fax": "",
+      "email": ""
+    },
+    "delivery_schedule": {
+      "monday": "",
+      "tuesday": "",
+      "wednesday": "",
+      "thursday": "",
+      "friday": "",
+      "saturday": ""
+    },
+    "settings": {
+      "webshop_enabled": false,
+      "ds_addresses": false,
+      "no_pickup_app": false,
+      "minimum_order_value": null,
+      "articles_not_in_history": ""
+    },
+    "additional_addresses": [
+      {
+        "address_number": "0",
+        "salutation": "Firma",
+        "name": "ESS BAR RESTAURANT COCKTAILBAR",
+        "name3": "Loai Hamischa",
+        "street": "BahrenfelDEr str.221 f",
+        "city": "Hamburg",
+        "postal_code": "2DE5",
+        "country": "Deutschland",
+        "phone": "(0 AT) 39 90 87 00",
+        "fax": "",
+        "email": "",
+        "is_default_billing": true,
+        "is_default_delivery": true
+      }
+    ]
+  },
+  "order_statistics": {
+    "total_orders": 0,
+    "unique_articles_ordered": 0,
+    "recent_orders_count": 0,
+    "last_order_date": null
+  },
+  "order_history": []
+}

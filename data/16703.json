@@ -1,0 +1,79 @@
+{
+  "metadata": {
+    "generated_at": "2025-09-10T23:17:06.272081",
+    "client_number": "16703",
+    "data_source": "BotanBot XML Export"
+  },
+  "client_profile": {
+    "client_number": "16703",
+    "search_term": "KRETA GRILL",
+    "status": "Kunde",
+    "tax_number": "",
+    "vat_id": "",
+    "is_blocked": false,
+    "price_group": "(Std.-Preis)",
+    "billing_address": {
+      "salutation": "",
+      "name": "Kreta Grill",
+      "name3": "Inh.: Sarvjeet Singh",
+      "street": "Kieler Str. 88a",
+      "city": "Lentföhrden",
+      "postal_code": "24632",
+      "country": "Deutschland",
+      "phone": "(0 16) 29 68 28 25",
+      "fax": "",
+      "email": "singh.sarvjeet297@gmail.com"
+    },
+    "delivery_address": {
+      "salutation": "",
+      "name": "Kreta Grill",
+      "name3": "Inh.: Sarvjeet Singh",
+      "street": "Kieler Str. 88a",
+      "city": "Lentföhrden",
+      "postal_code": "24632",
+      "country": "Deutschland",
+      "phone": "(0 16) 29 68 28 25",
+      "fax": "",
+      "email": "singh.sarvjeet297@gmail.com"
+    },
+    "delivery_schedule": {
+      "monday": "",
+      "tuesday": "3",
+      "wednesday": "",
+      "thursday": "",
+      "friday": "",
+      "saturday": ""
+    },
+    "settings": {
+      "webshop_enabled": false,
+      "ds_addresses": false,
+      "no_pickup_app": false,
+      "minimum_order_value": null,
+      "articles_not_in_history": "1948,3220,1538,1530,1532,1531,1508"
+    },
+    "additional_addresses": [
+      {
+        "address_number": "0",
+        "salutation": "",
+        "name": "Kreta Grill",
+        "name3": "Inh.: Sarvjeet Singh",
+        "street": "Kieler Str. 88a",
+        "city": "Lentföhrden",
+        "postal_code": "24632",
+        "country": "Deutschland",
+        "phone": "(0 16) 29 68 28 25",
+        "fax": "",
+        "email": "singh.sarvjeet297@gmail.com",
+        "is_default_billing": true,
+        "is_default_delivery": true
+      }
+    ]
+  },
+  "order_statistics": {
+    "total_orders": 0,
+    "unique_articles_ordered": 0,
+    "recent_orders_count": 0,
+    "last_order_date": null
+  },
+  "order_history": []
+}

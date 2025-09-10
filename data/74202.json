@@ -1,0 +1,94 @@
+{
+  "metadata": {
+    "generated_at": "2025-09-10T23:17:06.754166",
+    "client_number": "74202",
+    "data_source": "BotanBot XML Export"
+  },
+  "client_profile": {
+    "client_number": "74202",
+    "search_term": "BARTELS-LANGNESS",
+    "status": "Lieferant",
+    "tax_number": "",
+    "vat_id": "",
+    "is_blocked": false,
+    "price_group": "(Std.-Preis)",
+    "billing_address": {
+      "salutation": "Firma",
+      "name": "Bartels-Langness H. GmbH&Co. KG",
+      "name3": "Kd.-Nr.: 01-1520-9 (FRISCH)",
+      "street": "Bayerstr. 10",
+      "city": "Neumünster",
+      "postal_code": "24536",
+      "country": "Deutschland",
+      "phone": "(0 45 24) 7 07 - 10 23",
+      "fax": "(0 45 24) 70 71 20",
+      "email": "order-frischezentrum@bela.de"
+    },
+    "delivery_address": {
+      "salutation": "Firma",
+      "name": "BELA Gleschendorf",
+      "name3": "",
+      "street": "Otto-Kipp-Str 7",
+      "city": "Scharbeutz (Gleschendorf)",
+      "postal_code": "23684",
+      "country": "Deutschland",
+      "phone": "(0 45 24) 7 07 - 10",
+      "fax": "(0 45 24) 70 71 20",
+      "email": ""
+    },
+    "delivery_schedule": {
+      "monday": "",
+      "tuesday": "",
+      "wednesday": "",
+      "thursday": "",
+      "friday": "",
+      "saturday": ""
+    },
+    "settings": {
+      "webshop_enabled": false,
+      "ds_addresses": false,
+      "no_pickup_app": false,
+      "minimum_order_value": null,
+      "articles_not_in_history": ""
+    },
+    "additional_addresses": [
+      {
+        "address_number": "0",
+        "salutation": "Firma",
+        "name": "Bartels-Langness H. GmbH&Co. KG",
+        "name3": "Kd.-Nr.: 01-1520-9 (FRISCH)",
+        "street": "Bayerstr. 10",
+        "city": "Neumünster",
+        "postal_code": "24536",
+        "country": "Deutschland",
+        "phone": "(0 45 24) 7 07 - 10 23",
+        "fax": "(0 45 24) 70 71 20",
+        "email": "order-frischezentrum@bela.de",
+        "is_default_billing": true,
+        "is_default_delivery": false
+      },
+      {
+        "address_number": "1",
+        "salutation": "Firma",
+        "name": "BELA Gleschendorf",
+        "name3": "",
+        "street": "Otto-Kipp-Str 7",
+        "city": "Scharbeutz (Gleschendorf)",
+        "postal_code": "23684",
+        "country": "Deutschland",
+        "phone": "(0 45 24) 7 07 - 10",
+        "fax": "(0 45 24) 70 71 20",
+        "email": "",
+        "is_default_billing": false,
+        "is_default_delivery": true
+      }
+    ]
+  },
+  "order_statistics": {
+    "total_orders": 0,
+    "unique_articles_ordered": 0,
+    "recent_orders_count": 0,
+    "last_order_date": null
+  },
+  "order_history": []
+}

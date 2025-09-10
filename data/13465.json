@@ -1,0 +1,79 @@
+{
+  "metadata": {
+    "generated_at": "2025-09-10T23:17:05.318167",
+    "client_number": "13465",
+    "data_source": "BotanBot XML Export"
+  },
+  "client_profile": {
+    "client_number": "13465",
+    "search_term": "TOPRAKS GASTRO",
+    "status": "Kunde",
+    "tax_number": "336 5752 1170",
+    "vat_id": "DE814943359",
+    "is_blocked": false,
+    "price_group": "(Std.-Preis)",
+    "billing_address": {
+      "salutation": "",
+      "name": "TOPRAKS Gastro GmbH",
+      "name3": "",
+      "street": "Albersloher Weg 198",
+      "city": "Münster",
+      "postal_code": "48155",
+      "country": "Deutschland",
+      "phone": "(02 51) 3 22 55 50",
+      "fax": "(02 51) 32 25 55 55",
+      "email": "info@topraks-gastro.de"
+    },
+    "delivery_address": {
+      "salutation": "",
+      "name": "TOPRAKS Gastro GmbH",
+      "name3": "",
+      "street": "Albersloher Weg 198",
+      "city": "Münster",
+      "postal_code": "48155",
+      "country": "Deutschland",
+      "phone": "(02 51) 3 22 55 50",
+      "fax": "(02 51) 32 25 55 55",
+      "email": "info@topraks-gastro.de"
+    },
+    "delivery_schedule": {
+      "monday": "",
+      "tuesday": "",
+      "wednesday": "",
+      "thursday": "",
+      "friday": "",
+      "saturday": ""
+    },
+    "settings": {
+      "webshop_enabled": false,
+      "ds_addresses": false,
+      "no_pickup_app": false,
+      "minimum_order_value": null,
+      "articles_not_in_history": ""
+    },
+    "additional_addresses": [
+      {
+        "address_number": "0",
+        "salutation": "",
+        "name": "TOPRAKS Gastro GmbH",
+        "name3": "",
+        "street": "Albersloher Weg 198",
+        "city": "Münster",
+        "postal_code": "48155",
+        "country": "Deutschland",
+        "phone": "(02 51) 3 22 55 50",
+        "fax": "(02 51) 32 25 55 55",
+        "email": "info@topraks-gastro.de",
+        "is_default_billing": true,
+        "is_default_delivery": true
+      }
+    ]
+  },
+  "order_statistics": {
+    "total_orders": 0,
+    "unique_articles_ordered": 0,
+    "recent_orders_count": 0,
+    "last_order_date": null
+  },
+  "order_history": []
+}

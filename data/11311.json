@@ -1,0 +1,79 @@
+{
+  "metadata": {
+    "generated_at": "2025-09-10T23:17:04.723642",
+    "client_number": "11311",
+    "data_source": "BotanBot XML Export"
+  },
+  "client_profile": {
+    "client_number": "11311",
+    "search_term": "TAVERNA BACCHUS",
+    "status": "Kunde",
+    "tax_number": "",
+    "vat_id": "",
+    "is_blocked": false,
+    "price_group": "(Std.-Preis)",
+    "billing_address": {
+      "salutation": "",
+      "name": "Taverna Bacchus",
+      "name3": "Inh. Muzaffar Shahid",
+      "street": "Strandpromenade 11",
+      "city": "Kellenhusen",
+      "postal_code": "23746",
+      "country": "Deutschland",
+      "phone": "(0 43 64) 47 19 33",
+      "fax": "(0 43 64) 47 17 36",
+      "email": ""
+    },
+    "delivery_address": {
+      "salutation": "",
+      "name": "Taverna Bacchus",
+      "name3": "Inh. Muzaffar Shahid",
+      "street": "Strandpromenade 11",
+      "city": "Kellenhusen",
+      "postal_code": "23746",
+      "country": "Deutschland",
+      "phone": "(0 43 64) 47 19 33",
+      "fax": "(0 43 64) 47 17 36",
+      "email": ""
+    },
+    "delivery_schedule": {
+      "monday": "3",
+      "tuesday": "",
+      "wednesday": "",
+      "thursday": "",
+      "friday": "3",
+      "saturday": ""
+    },
+    "settings": {
+      "webshop_enabled": false,
+      "ds_addresses": false,
+      "no_pickup_app": false,
+      "minimum_order_value": null,
+      "articles_not_in_history": ""
+    },
+    "additional_addresses": [
+      {
+        "address_number": "0",
+        "salutation": "",
+        "name": "Taverna Bacchus",
+        "name3": "Inh. Muzaffar Shahid",
+        "street": "Strandpromenade 11",
+        "city": "Kellenhusen",
+        "postal_code": "23746",
+        "country": "Deutschland",
+        "phone": "(0 43 64) 47 19 33",
+        "fax": "(0 43 64) 47 17 36",
+        "email": "",
+        "is_default_billing": true,
+        "is_default_delivery": true
+      }
+    ]
+  },
+  "order_statistics": {
+    "total_orders": 0,
+    "unique_articles_ordered": 0,
+    "recent_orders_count": 0,
+    "last_order_date": null
+  },
+  "order_history": []
+}

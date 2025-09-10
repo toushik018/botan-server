@@ -1,0 +1,79 @@
+{
+  "metadata": {
+    "generated_at": "2025-09-10T23:17:04.971175",
+    "client_number": "12232",
+    "data_source": "BotanBot XML Export"
+  },
+  "client_profile": {
+    "client_number": "12232",
+    "search_term": "BELLA ITALIA",
+    "status": "Kunde",
+    "tax_number": "2504200082",
+    "vat_id": "",
+    "is_blocked": true,
+    "price_group": "(Std.-Preis)",
+    "billing_address": {
+      "salutation": "",
+      "name": "Pizzeria Milano",
+      "name3": "inh. Jörg Meier",
+      "street": "Alt-Hauptstr. 28",
+      "city": "Fehmarn Petersdorf",
+      "postal_code": "23769",
+      "country": "Deutschland",
+      "phone": "(0 43 72) 8 06 79 11",
+      "fax": "",
+      "email": "info@milano-petersdorf.de"
+    },
+    "delivery_address": {
+      "salutation": "",
+      "name": "Pizzeria Milano",
+      "name3": "inh. Jörg Meier",
+      "street": "Alt-Hauptstr. 28",
+      "city": "Fehmarn Petersdorf",
+      "postal_code": "23769",
+      "country": "Deutschland",
+      "phone": "(0 43 72) 8 06 79 11",
+      "fax": "",
+      "email": "info@milano-petersdorf.de"
+    },
+    "delivery_schedule": {
+      "monday": "",
+      "tuesday": "",
+      "wednesday": "",
+      "thursday": "",
+      "friday": "",
+      "saturday": ""
+    },
+    "settings": {
+      "webshop_enabled": false,
+      "ds_addresses": false,
+      "no_pickup_app": false,
+      "minimum_order_value": null,
+      "articles_not_in_history": "1730"
+    },
+    "additional_addresses": [
+      {
+        "address_number": "0",
+        "salutation": "",
+        "name": "Pizzeria Milano",
+        "name3": "inh. Jörg Meier",
+        "street": "Alt-Hauptstr. 28",
+        "city": "Fehmarn Petersdorf",
+        "postal_code": "23769",
+        "country": "Deutschland",
+        "phone": "(0 43 72) 8 06 79 11",
+        "fax": "",
+        "email": "info@milano-petersdorf.de",
+        "is_default_billing": true,
+        "is_default_delivery": true
+      }
+    ]
+  },
+  "order_statistics": {
+    "total_orders": 0,
+    "unique_articles_ordered": 0,
+    "recent_orders_count": 0,
+    "last_order_date": null
+  },
+  "order_history": []
+}

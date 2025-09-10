@@ -1,0 +1,79 @@
+{
+  "metadata": {
+    "generated_at": "2025-09-10T23:17:05.031366",
+    "client_number": "12453",
+    "data_source": "BotanBot XML Export"
+  },
+  "client_profile": {
+    "client_number": "12453",
+    "search_term": "ALANS IMBISS",
+    "status": "Kunde",
+    "tax_number": "",
+    "vat_id": "",
+    "is_blocked": false,
+    "price_group": "(Std.-Preis)",
+    "billing_address": {
+      "salutation": "",
+      "name": "Ayans Imbiss",
+      "name3": "Inh. Slava Mostafa Mohamad",
+      "street": "Meiereistr. 15",
+      "city": "Steinbergkirche",
+      "postal_code": "24972",
+      "country": "Deutschland",
+      "phone": "(0 46 32) 2 08 - 0 07",
+      "fax": "(01 52) 24 81 39 93",
+      "email": "alan_mostafa9@web.de"
+    },
+    "delivery_address": {
+      "salutation": "",
+      "name": "Ayans Imbiss",
+      "name3": "Inh. Slava Mostafa Mohamad",
+      "street": "Meiereistr. 15",
+      "city": "Steinbergkirche",
+      "postal_code": "24972",
+      "country": "Deutschland",
+      "phone": "(0 46 32) 2 08 - 0 07",
+      "fax": "(01 52) 24 81 39 93",
+      "email": "alan_mostafa9@web.de"
+    },
+    "delivery_schedule": {
+      "monday": "1",
+      "tuesday": "",
+      "wednesday": "",
+      "thursday": "6",
+      "friday": "",
+      "saturday": ""
+    },
+    "settings": {
+      "webshop_enabled": false,
+      "ds_addresses": false,
+      "no_pickup_app": false,
+      "minimum_order_value": null,
+      "articles_not_in_history": "185,9057,"
+    },
+    "additional_addresses": [
+      {
+        "address_number": "0",
+        "salutation": "",
+        "name": "Ayans Imbiss",
+        "name3": "Inh. Slava Mostafa Mohamad",
+        "street": "Meiereistr. 15",
+        "city": "Steinbergkirche",
+        "postal_code": "24972",
+        "country": "Deutschland",
+        "phone": "(0 46 32) 2 08 - 0 07",
+        "fax": "(01 52) 24 81 39 93",
+        "email": "alan_mostafa9@web.de",
+        "is_default_billing": true,
+        "is_default_delivery": true
+      }
+    ]
+  },
+  "order_statistics": {
+    "total_orders": 0,
+    "unique_articles_ordered": 0,
+    "recent_orders_count": 0,
+    "last_order_date": null
+  },
+  "order_history": []
+}

@@ -1,0 +1,79 @@
+{
+  "metadata": {
+    "generated_at": "2025-09-10T23:17:04.559582",
+    "client_number": "10732",
+    "data_source": "BotanBot XML Export"
+  },
+  "client_profile": {
+    "client_number": "10732",
+    "search_term": "",
+    "status": "Kunde",
+    "tax_number": "",
+    "vat_id": "",
+    "is_blocked": false,
+    "price_group": "(Std.-Preis)",
+    "billing_address": {
+      "salutation": "",
+      "name": "Papas Döner 1",
+      "name3": "Inh. Faruk Urey",
+      "street": "Hauptstr. 70",
+      "city": "Niebüll",
+      "postal_code": "25899",
+      "country": "Deutschland",
+      "phone": "(0 46 61) 9 04 52 51",
+      "fax": "",
+      "email": "haticeurey0@gmail.com"
+    },
+    "delivery_address": {
+      "salutation": "",
+      "name": "Papas Döner 1",
+      "name3": "Inh. Faruk Urey",
+      "street": "Hauptstr. 70",
+      "city": "Niebüll",
+      "postal_code": "25899",
+      "country": "Deutschland",
+      "phone": "(0 46 61) 9 04 52 51",
+      "fax": "",
+      "email": "haticeurey0@gmail.com"
+    },
+    "delivery_schedule": {
+      "monday": "",
+      "tuesday": "7",
+      "wednesday": "",
+      "thursday": "",
+      "friday": "",
+      "saturday": ""
+    },
+    "settings": {
+      "webshop_enabled": false,
+      "ds_addresses": false,
+      "no_pickup_app": false,
+      "minimum_order_value": null,
+      "articles_not_in_history": "1408"
+    },
+    "additional_addresses": [
+      {
+        "address_number": "0",
+        "salutation": "",
+        "name": "Papas Döner 1",
+        "name3": "Inh. Faruk Urey",
+        "street": "Hauptstr. 70",
+        "city": "Niebüll",
+        "postal_code": "25899",
+        "country": "Deutschland",
+        "phone": "(0 46 61) 9 04 52 51",
+        "fax": "",
+        "email": "haticeurey0@gmail.com",
+        "is_default_billing": true,
+        "is_default_delivery": true
+      }
+    ]
+  },
+  "order_statistics": {
+    "total_orders": 0,
+    "unique_articles_ordered": 0,
+    "recent_orders_count": 0,
+    "last_order_date": null
+  },
+  "order_history": []
+}

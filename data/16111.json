@@ -1,0 +1,79 @@
+{
+  "metadata": {
+    "generated_at": "2025-09-10T23:17:06.066681",
+    "client_number": "16111",
+    "data_source": "BotanBot XML Export"
+  },
+  "client_profile": {
+    "client_number": "16111",
+    "search_term": "GALA CATERING",
+    "status": "Kunde",
+    "tax_number": "",
+    "vat_id": "",
+    "is_blocked": false,
+    "price_group": "(Std.-Preis)",
+    "billing_address": {
+      "salutation": "",
+      "name": "GALA Catering",
+      "name3": "Inh. Jasmin Westphal",
+      "street": "Grevenkoper Riep 52",
+      "city": "Grevenkop",
+      "postal_code": "25361",
+      "country": "Deutschland",
+      "phone": "(01 78) 8 58 56 56",
+      "fax": "",
+      "email": "info@gala-catering.net"
+    },
+    "delivery_address": {
+      "salutation": "",
+      "name": "GALA Catering",
+      "name3": "Inh. Jasmin Westphal",
+      "street": "Grevenkoper Riep 52",
+      "city": "Grevenkop",
+      "postal_code": "25361",
+      "country": "Deutschland",
+      "phone": "(01 78) 8 58 56 56",
+      "fax": "",
+      "email": "info@gala-catering.net"
+    },
+    "delivery_schedule": {
+      "monday": "",
+      "tuesday": "",
+      "wednesday": "",
+      "thursday": "",
+      "friday": "",
+      "saturday": ""
+    },
+    "settings": {
+      "webshop_enabled": false,
+      "ds_addresses": false,
+      "no_pickup_app": false,
+      "minimum_order_value": null,
+      "articles_not_in_history": ""
+    },
+    "additional_addresses": [
+      {
+        "address_number": "0",
+        "salutation": "",
+        "name": "GALA Catering",
+        "name3": "Inh. Jasmin Westphal",
+        "street": "Grevenkoper Riep 52",
+        "city": "Grevenkop",
+        "postal_code": "25361",
+        "country": "Deutschland",
+        "phone": "(01 78) 8 58 56 56",
+        "fax": "",
+        "email": "info@gala-catering.net",
+        "is_default_billing": true,
+        "is_default_delivery": true
+      }
+    ]
+  },
+  "order_statistics": {
+    "total_orders": 0,
+    "unique_articles_ordered": 0,
+    "recent_orders_count": 0,
+    "last_order_date": null
+  },
+  "order_history": []
+}

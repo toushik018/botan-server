@@ -1,0 +1,2135 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ArtikelListe>
+<ArtikelAnzahl>1</ArtikelAnzahl>
+<Artikel>
+    <ArtNr info="Artikelnummer" type="WideString"><![CDATA[1808]]></ArtNr>
+    <BarCd info="Barcode" type="WideString"><![CDATA[5702008235976]]></BarCd>
+    <KuBez1 info="Kurzbezeichnung 1" type="WideString"><![CDATA[Garnelen 31/40 geschält entd. roh 1kg]]></KuBez1>
+    <KuBez6 info="Kurzbezeichnung 6" type="WideString"><![CDATA[Garnelen 31/40 geschält entdarmt roh 1 kg]]></KuBez6>
+    <Gew info="Gewicht" type="Float"><![CDATA[1]]></Gew>
+    <Einh info="Einheit" type="WideString"><![CDATA[KG]]></Einh>
+    <PreisMge info="Preise gelten für Menge" type="Float"><![CDATA[1]]></PreisMge>
+    <StSchl info="Steuerschlüssel" type="WideString"><![CDATA[2 Mehrwertsteuer 7%]]></StSchl>
+    <WgrNr info="Warengruppennummer" type="WideString"><![CDATA[05.10.10]]></WgrNr>
+    <WgrNrInfo info="Warengruppe" type="WideString"><![CDATA[05.10.10 Meeresfrüchte]]></WgrNrInfo>
+    <Vk0_PreisNt info="Vk0->Preis (Netto)" type="Float"><![CDATA[12,2904]]></Vk0_PreisNt>
+    <Vk0_SPr info="Vk0->Sonderpreis" type="Float"><![CDATA[]]></Vk0_SPr>
+    <Vk0_SVonDat info="Vk0->Sonderpreis gültig ab Datum" type="Date"><![CDATA[]]></Vk0_SVonDat>
+    <Vk0_SBisDat info="Vk0->Sonderpreis gültig bis Datum" type="Date"><![CDATA[]]></Vk0_SBisDat>
+    <Vk4_PreisNt info="Vk4->Preis (Netto)" type="Float"><![CDATA[10,5904]]></Vk4_PreisNt>
+    <Vk4_SPr info="Vk4->Sonderpreis" type="Float"><![CDATA[]]></Vk4_SPr>
+    <Vk4_SVonDat info="Vk4->Sonderpreis gültig ab Datum" type="Date"><![CDATA[]]></Vk4_SVonDat>
+    <Vk4_SBisDat info="Vk4->Sonderpreis gültig bis Datum" type="Date"><![CDATA[]]></Vk4_SBisDat>
+    <Vk5_PreisNt info="Vk5->Preis (Netto)" type="Float"><![CDATA[10,5904]]></Vk5_PreisNt>
+    <Vk5_SPr info="Vk5->Sonderpreis" type="Float"><![CDATA[]]></Vk5_SPr>
+    <Vk5_SVonDat info="Vk5->Sonderpreis gültig ab Datum" type="Date"><![CDATA[]]></Vk5_SVonDat>
+    <Vk5_SBisDat info="Vk5->Sonderpreis gültig bis Datum" type="Date"><![CDATA[]]></Vk5_SBisDat>
+    <Lief_LiefZt info="Lieferzeit (in Tagen)" type="Float"><![CDATA[7]]></Lief_LiefZt>
+    <Sel2 info="Artikel mit Gewicht?" type="Boolean"><![CDATA[Nein]]></Sel2>
+    <Sel3 info="Bestellartikel (6z)?" type="Boolean"><![CDATA[Nein]]></Sel3>
+    <Sel4 info="Nur Vorbestellung?" type="Boolean"><![CDATA[Nein]]></Sel4>
+    <Sel6 info="2. Einheit" type="WideString"><![CDATA[Karton 10 kg]]></Sel6>
+    <Sel15 info="Min Gewicht Stück" type="Float"><![CDATA[]]></Sel15>
+    <Sel16 info="Max Gewicht Stück" type="Float"><![CDATA[]]></Sel16>
+    <Sel25 info="DS-Artikel" type="Boolean"><![CDATA[Nein]]></Sel25>
+    <Sel81 info="Döner Imbiss" type="Boolean"><![CDATA[Nein]]></Sel81>
+    <Sel82 info="Wurst Imbiss" type="Boolean"><![CDATA[Nein]]></Sel82>
+    <Sel83 info="Cafe" type="Boolean"><![CDATA[Ja]]></Sel83>
+    <Sel84 info="Italiener" type="Boolean"><![CDATA[Ja]]></Sel84>
+    <Sel85 info="Grieche" type="Boolean"><![CDATA[Ja]]></Sel85>
+    <Sel86 info="Asiatische Küche" type="Boolean"><![CDATA[Nein]]></Sel86>
+    <Sel87 info="International" type="Boolean"><![CDATA[Ja]]></Sel87>
+    <Sel88 info="Orient" type="Boolean"><![CDATA[Ja]]></Sel88>
+    <Sel89 info="Balkan" type="Boolean"><![CDATA[Nein]]></Sel89>
+    <Sel90 info="Supermärkte" type="Boolean"><![CDATA[Nein]]></Sel90>
+    <Sel91 info="Bäckerei" type="Boolean"><![CDATA[Ja]]></Sel91>
+    <Sel92 info="Kiosk" type="Boolean"><![CDATA[Nein]]></Sel92>
+    <Sel93 info="Pizza Lieferdienst" type="Boolean"><![CDATA[Ja]]></Sel93>
+    <Sel94 info="Burger Manufaktur" type="Boolean"><![CDATA[Ja]]></Sel94>
+    <Sel95 info="Bars und Clubs" type="Boolean"><![CDATA[Nein]]></Sel95>
+    <Sel100 info="Artikel wird Webshop bereitgestellt" type="Boolean"><![CDATA[Ja]]></Sel100>
+    <Sel101 info="Artikel für Kunden" type="WideString"><![CDATA[]]></Sel101>
+    <Sel102 info="Bilder freigegeben" type="Boolean"><![CDATA[Ja]]></Sel102>
+    <GspKz info="Ist Gesperrt" type="Boolean"><![CDATA[Nein]]></GspKz>
+    <Sel115 info="Text bei Gesperrt" type="WideString"><![CDATA[Artikel in Kürze wieder verfügbar]]></Sel115>
+    <Sel116 info="WebShop-Kennzeichen" type="Boolean"><![CDATA[Ja]]></Sel116>
+    <WShopKz info="WebShop-Kennzeichen" type="Boolean"><![CDATA[Ja]]></WShopKz>
+    <Sel117 info="Sort. f. Favoriten" type="WideString"><![CDATA[7051010000020101800]]></Sel117>
+    <Sel118 info="Sprungmenge" type="Integer"><![CDATA[10]]></Sel118>
+    <Sel119 info="Alternativ-Artikel" type="WideString"><![CDATA[1813]]></Sel119>
+    <Vk0_ZuschlBet info="Vk0->Zuschlagsbetrag" type="Float"><![CDATA[]]></Vk0_ZuschlBet>
+    <Sel122 info="Rabattfähig (APP)" type="Boolean"><![CDATA[Nein]]></Sel122>
+    <Sel123 info="Suchfeld" type="Blob"><![CDATA[]]></Sel123>
+    <Sel27 info="TK" type="Boolean"><![CDATA[Ja]]></Sel27>
+    <BildDatei1><![CDATA[1808_-_NORDIC_SCAMPI_31-4.png]]></BildDatei1>
+    <BildDatei2><![CDATA[]]></BildDatei2>
+    <BildDatei3><![CDATA[]]></BildDatei3>
+    <BildDatei4><![CDATA[]]></BildDatei4>
+    <BildDatei5><![CDATA[]]></BildDatei5>
+    <EinhFakt><![CDATA[Beutel 1 kg]]></EinhFakt>
+    <MgeFakt><![CDATA[1]]></MgeFakt>
+  <ArtikelZusaetze>
+  </ArtikelZusaetze>
+  <ArtikelKategorien>
+  </ArtikelKategorien>
+  <ArtikelAbweichende>
+    <ArtikelAbweichend>
+    <AdrNr info="Adressnummer" type="WideString"><![CDATA[13766]]></AdrNr>
+    <ArtNr info="Artikelnummer" type="WideString"><![CDATA[1808]]></ArtNr>
+    <AbwPr info="Abweichender Preis" type="Float"><![CDATA[11,5904]]></AbwPr>
+    <GspAbDat info="Gesperrt ab Datum" type="Date"><![CDATA[]]></GspAbDat>
+    <GspBisDat info="Gesperrt bis Datum" type="Date"><![CDATA[]]></GspBisDat>
+    <GspKz info="Ist Gesperrt" type="Boolean"><![CDATA[Nein]]></GspKz>
+    <Grp info="Gruppe" type="Integer"><![CDATA[]]></Grp>
+    <ArtBez info="Artikel Bezeichnung" type="Blob"><![CDATA[]]></ArtBez>
+    <PreisMge info="Preise gelten für Menge" type="Float"><![CDATA[1]]></PreisMge>
+    <Rab0_Pr info="Rab0->Rabattpreis" type="Float"><![CDATA[]]></Rab0_Pr>
+    <Rab0_Sz info="Rab0->Rabattsatz" type="Float"><![CDATA[]]></Rab0_Sz>
+    <Rab0_Mge info="Rab0->Rabattmenge" type="Float"><![CDATA[]]></Rab0_Mge>
+    <Rab1_Pr info="Rab1->Rabattpreis" type="Float"><![CDATA[]]></Rab1_Pr>
+    <Rab1_Sz info="Rab1->Rabattsatz" type="Float"><![CDATA[]]></Rab1_Sz>
+    <Rab1_Mge info="Rab1->Rabattmenge" type="Float"><![CDATA[]]></Rab1_Mge>
+    <Rab2_Pr info="Rab2->Rabattpreis" type="Float"><![CDATA[]]></Rab2_Pr>
+    <Rab2_Sz info="Rab2->Rabattsatz" type="Float"><![CDATA[]]></Rab2_Sz>
+    <Rab2_Mge info="Rab2->Rabattmenge" type="Float"><![CDATA[]]></Rab2_Mge>
+    <Rab3_Pr info="Rab3->Rabattpreis" type="Float"><![CDATA[]]></Rab3_Pr>
+    <Rab3_Sz info="Rab3->Rabattsatz" type="Float"><![CDATA[]]></Rab3_Sz>
+    <Rab3_Mge info="Rab3->Rabattmenge" type="Float"><![CDATA[]]></Rab3_Mge>
+    </ArtikelAbweichend>
+    <ArtikelAbweichend>
+    <AdrNr info="Adressnummer" type="WideString"><![CDATA[17468]]></AdrNr>
+    <ArtNr info="Artikelnummer" type="WideString"><![CDATA[1808]]></ArtNr>
+    <AbwPr info="Abweichender Preis" type="Float"><![CDATA[11,5904]]></AbwPr>
+    <GspAbDat info="Gesperrt ab Datum" type="Date"><![CDATA[]]></GspAbDat>
+    <GspBisDat info="Gesperrt bis Datum" type="Date"><![CDATA[]]></GspBisDat>
+    <GspKz info="Ist Gesperrt" type="Boolean"><![CDATA[Nein]]></GspKz>
+    <Grp info="Gruppe" type="Integer"><![CDATA[]]></Grp>
+    <ArtBez info="Artikel Bezeichnung" type="Blob"><![CDATA[]]></ArtBez>
+    <PreisMge info="Preise gelten für Menge" type="Float"><![CDATA[1]]></PreisMge>
+    <Rab0_Pr info="Rab0->Rabattpreis" type="Float"><![CDATA[]]></Rab0_Pr>
+    <Rab0_Sz info="Rab0->Rabattsatz" type="Float"><![CDATA[]]></Rab0_Sz>
+    <Rab0_Mge info="Rab0->Rabattmenge" type="Float"><![CDATA[]]></Rab0_Mge>
+    <Rab1_Pr info="Rab1->Rabattpreis" type="Float"><![CDATA[]]></Rab1_Pr>
+    <Rab1_Sz info="Rab1->Rabattsatz" type="Float"><![CDATA[]]></Rab1_Sz>
+    <Rab1_Mge info="Rab1->Rabattmenge" type="Float"><![CDATA[]]></Rab1_Mge>
+    <Rab2_Pr info="Rab2->Rabattpreis" type="Float"><![CDATA[]]></Rab2_Pr>
+    <Rab2_Sz info="Rab2->Rabattsatz" type="Float"><![CDATA[]]></Rab2_Sz>
+    <Rab2_Mge info="Rab2->Rabattmenge" type="Float"><![CDATA[]]></Rab2_Mge>
+    <Rab3_Pr info="Rab3->Rabattpreis" type="Float"><![CDATA[]]></Rab3_Pr>
+    <Rab3_Sz info="Rab3->Rabattsatz" type="Float"><![CDATA[]]></Rab3_Sz>
+    <Rab3_Mge info="Rab3->Rabattmenge" type="Float"><![CDATA[]]></Rab3_Mge>
+    </ArtikelAbweichend>
+    <ArtikelAbweichend>
+    <AdrNr info="Adressnummer" type="WideString"><![CDATA[15793]]></AdrNr>
+    <ArtNr info="Artikelnummer" type="WideString"><![CDATA[1808]]></ArtNr>
+    <AbwPr info="Abweichender Preis" type="Float"><![CDATA[10,4944]]></AbwPr>
+    <GspAbDat info="Gesperrt ab Datum" type="Date"><![CDATA[]]></GspAbDat>
+    <GspBisDat info="Gesperrt bis Datum" type="Date"><![CDATA[]]></GspBisDat>
+    <GspKz info="Ist Gesperrt" type="Boolean"><![CDATA[Nein]]></GspKz>
+    <Grp info="Gruppe" type="Integer"><![CDATA[]]></Grp>
+    <ArtBez info="Artikel Bezeichnung" type="Blob"><![CDATA[]]></ArtBez>
+    <PreisMge info="Preise gelten für Menge" type="Float"><![CDATA[1]]></PreisMge>
+    <Rab0_Pr info="Rab0->Rabattpreis" type="Float"><![CDATA[]]></Rab0_Pr>
+    <Rab0_Sz info="Rab0->Rabattsatz" type="Float"><![CDATA[]]></Rab0_Sz>
+    <Rab0_Mge info="Rab0->Rabattmenge" type="Float"><![CDATA[]]></Rab0_Mge>
+    <Rab1_Pr info="Rab1->Rabattpreis" type="Float"><![CDATA[]]></Rab1_Pr>
+    <Rab1_Sz info="Rab1->Rabattsatz" type="Float"><![CDATA[]]></Rab1_Sz>
+    <Rab1_Mge info="Rab1->Rabattmenge" type="Float"><![CDATA[]]></Rab1_Mge>
+    <Rab2_Pr info="Rab2->Rabattpreis" type="Float"><![CDATA[]]></Rab2_Pr>
+    <Rab2_Sz info="Rab2->Rabattsatz" type="Float"><![CDATA[]]></Rab2_Sz>
+    <Rab2_Mge info="Rab2->Rabattmenge" type="Float"><![CDATA[]]></Rab2_Mge>
+    <Rab3_Pr info="Rab3->Rabattpreis" type="Float"><![CDATA[]]></Rab3_Pr>
+    <Rab3_Sz info="Rab3->Rabattsatz" type="Float"><![CDATA[]]></Rab3_Sz>
+    <Rab3_Mge info="Rab3->Rabattmenge" type="Float"><![CDATA[]]></Rab3_Mge>
+    </ArtikelAbweichend>
+    <ArtikelAbweichend>
+    <AdrNr info="Adressnummer" type="WideString"><![CDATA[10911]]></AdrNr>
+    <ArtNr info="Artikelnummer" type="WideString"><![CDATA[1808]]></ArtNr>
+    <AbwPr info="Abweichender Preis" type="Float"><![CDATA[11,7904]]></AbwPr>
+    <GspAbDat info="Gesperrt ab Datum" type="Date"><![CDATA[]]></GspAbDat>
+    <GspBisDat info="Gesperrt bis Datum" type="Date"><![CDATA[]]></GspBisDat>
+    <GspKz info="Ist Gesperrt" type="Boolean"><![CDATA[Nein]]></GspKz>
+    <Grp info="Gruppe" type="Integer"><![CDATA[]]></Grp>
+    <ArtBez info="Artikel Bezeichnung" type="Blob"><![CDATA[]]></ArtBez>
+    <PreisMge info="Preise gelten für Menge" type="Float"><![CDATA[1]]></PreisMge>
+    <Rab0_Pr info="Rab0->Rabattpreis" type="Float"><![CDATA[]]></Rab0_Pr>
+    <Rab0_Sz info="Rab0->Rabattsatz" type="Float"><![CDATA[]]></Rab0_Sz>
+    <Rab0_Mge info="Rab0->Rabattmenge" type="Float"><![CDATA[]]></Rab0_Mge>
+    <Rab1_Pr info="Rab1->Rabattpreis" type="Float"><![CDATA[]]></Rab1_Pr>
+    <Rab1_Sz info="Rab1->Rabattsatz" type="Float"><![CDATA[]]></Rab1_Sz>
+    <Rab1_Mge info="Rab1->Rabattmenge" type="Float"><![CDATA[]]></Rab1_Mge>
+    <Rab2_Pr info="Rab2->Rabattpreis" type="Float"><![CDATA[]]></Rab2_Pr>
+    <Rab2_Sz info="Rab2->Rabattsatz" type="Float"><![CDATA[]]></Rab2_Sz>
+    <Rab2_Mge info="Rab2->Rabattmenge" type="Float"><![CDATA[]]></Rab2_Mge>
+    <Rab3_Pr info="Rab3->Rabattpreis" type="Float"><![CDATA[]]></Rab3_Pr>
+    <Rab3_Sz info="Rab3->Rabattsatz" type="Float"><![CDATA[]]></Rab3_Sz>
+    <Rab3_Mge info="Rab3->Rabattmenge" type="Float"><![CDATA[]]></Rab3_Mge>
+    </ArtikelAbweichend>
+    <ArtikelAbweichend>
+    <AdrNr info="Adressnummer" type="WideString"><![CDATA[12196]]></AdrNr>
+    <ArtNr info="Artikelnummer" type="WideString"><![CDATA[1808]]></ArtNr>
+    <AbwPr info="Abweichender Preis" type="Float"><![CDATA[11,3994]]></AbwPr>
+    <GspAbDat info="Gesperrt ab Datum" type="Date"><![CDATA[]]></GspAbDat>
+    <GspBisDat info="Gesperrt bis Datum" type="Date"><![CDATA[]]></GspBisDat>
+    <GspKz info="Ist Gesperrt" type="Boolean"><![CDATA[Nein]]></GspKz>
+    <Grp info="Gruppe" type="Integer"><![CDATA[]]></Grp>
+    <ArtBez info="Artikel Bezeichnung" type="Blob"><![CDATA[]]></ArtBez>
+    <PreisMge info="Preise gelten für Menge" type="Float"><![CDATA[1]]></PreisMge>
+    <Rab0_Pr info="Rab0->Rabattpreis" type="Float"><![CDATA[]]></Rab0_Pr>
+    <Rab0_Sz info="Rab0->Rabattsatz" type="Float"><![CDATA[]]></Rab0_Sz>
+    <Rab0_Mge info="Rab0->Rabattmenge" type="Float"><![CDATA[]]></Rab0_Mge>
+    <Rab1_Pr info="Rab1->Rabattpreis" type="Float"><![CDATA[]]></Rab1_Pr>
+    <Rab1_Sz info="Rab1->Rabattsatz" type="Float"><![CDATA[]]></Rab1_Sz>
+    <Rab1_Mge info="Rab1->Rabattmenge" type="Float"><![CDATA[]]></Rab1_Mge>
+    <Rab2_Pr info="Rab2->Rabattpreis" type="Float"><![CDATA[]]></Rab2_Pr>
+    <Rab2_Sz info="Rab2->Rabattsatz" type="Float"><![CDATA[]]></Rab2_Sz>
+    <Rab2_Mge info="Rab2->Rabattmenge" type="Float"><![CDATA[]]></Rab2_Mge>
+    <Rab3_Pr info="Rab3->Rabattpreis" type="Float"><![CDATA[]]></Rab3_Pr>
+    <Rab3_Sz info="Rab3->Rabattsatz" type="Float"><![CDATA[]]></Rab3_Sz>
+    <Rab3_Mge info="Rab3->Rabattmenge" type="Float"><![CDATA[]]></Rab3_Mge>
+    </ArtikelAbweichend>
+    <ArtikelAbweichend>
+    <AdrNr info="Adressnummer" type="WideString"><![CDATA[12528]]></AdrNr>
+    <ArtNr info="Artikelnummer" type="WideString"><![CDATA[1808]]></ArtNr>
+    <AbwPr info="Abweichender Preis" type="Float"><![CDATA[11,3994]]></AbwPr>
+    <GspAbDat info="Gesperrt ab Datum" type="Date"><![CDATA[]]></GspAbDat>
+    <GspBisDat info="Gesperrt bis Datum" type="Date"><![CDATA[]]></GspBisDat>
+    <GspKz info="Ist Gesperrt" type="Boolean"><![CDATA[Nein]]></GspKz>
+    <Grp info="Gruppe" type="Integer"><![CDATA[]]></Grp>
+    <ArtBez info="Artikel Bezeichnung" type="Blob"><![CDATA[]]></ArtBez>
+    <PreisMge info="Preise gelten für Menge" type="Float"><![CDATA[1]]></PreisMge>
+    <Rab0_Pr info="Rab0->Rabattpreis" type="Float"><![CDATA[]]></Rab0_Pr>
+    <Rab0_Sz info="Rab0->Rabattsatz" type="Float"><![CDATA[]]></Rab0_Sz>
+    <Rab0_Mge info="Rab0->Rabattmenge" type="Float"><![CDATA[]]></Rab0_Mge>
+    <Rab1_Pr info="Rab1->Rabattpreis" type="Float"><![CDATA[]]></Rab1_Pr>
+    <Rab1_Sz info="Rab1->Rabattsatz" type="Float"><![CDATA[]]></Rab1_Sz>
+    <Rab1_Mge info="Rab1->Rabattmenge" type="Float"><![CDATA[]]></Rab1_Mge>
+    <Rab2_Pr info="Rab2->Rabattpreis" type="Float"><![CDATA[]]></Rab2_Pr>
+    <Rab2_Sz info="Rab2->Rabattsatz" type="Float"><![CDATA[]]></Rab2_Sz>
+    <Rab2_Mge info="Rab2->Rabattmenge" type="Float"><![CDATA[]]></Rab2_Mge>
+    <Rab3_Pr info="Rab3->Rabattpreis" type="Float"><![CDATA[]]></Rab3_Pr>
+    <Rab3_Sz info="Rab3->Rabattsatz" type="Float"><![CDATA[]]></Rab3_Sz>
+    <Rab3_Mge info="Rab3->Rabattmenge" type="Float"><![CDATA[]]></Rab3_Mge>
+    </ArtikelAbweichend>
+    <ArtikelAbweichend>
+    <AdrNr info="Adressnummer" type="WideString"><![CDATA[13414]]></AdrNr>
+    <ArtNr info="Artikelnummer" type="WideString"><![CDATA[1808]]></ArtNr>
+    <AbwPr info="Abweichender Preis" type="Float"><![CDATA[11,8904]]></AbwPr>
+    <GspAbDat info="Gesperrt ab Datum" type="Date"><![CDATA[]]></GspAbDat>
+    <GspBisDat info="Gesperrt bis Datum" type="Date"><![CDATA[]]></GspBisDat>
+    <GspKz info="Ist Gesperrt" type="Boolean"><![CDATA[Nein]]></GspKz>
+    <Grp info="Gruppe" type="Integer"><![CDATA[]]></Grp>
+    <ArtBez info="Artikel Bezeichnung" type="Blob"><![CDATA[]]></ArtBez>
+    <PreisMge info="Preise gelten für Menge" type="Float"><![CDATA[1]]></PreisMge>
+    <Rab0_Pr info="Rab0->Rabattpreis" type="Float"><![CDATA[]]></Rab0_Pr>
+    <Rab0_Sz info="Rab0->Rabattsatz" type="Float"><![CDATA[]]></Rab0_Sz>
+    <Rab0_Mge info="Rab0->Rabattmenge" type="Float"><![CDATA[]]></Rab0_Mge>
+    <Rab1_Pr info="Rab1->Rabattpreis" type="Float"><![CDATA[]]></Rab1_Pr>
+    <Rab1_Sz info="Rab1->Rabattsatz" type="Float"><![CDATA[]]></Rab1_Sz>
+    <Rab1_Mge info="Rab1->Rabattmenge" type="Float"><![CDATA[]]></Rab1_Mge>
+    <Rab2_Pr info="Rab2->Rabattpreis" type="Float"><![CDATA[]]></Rab2_Pr>
+    <Rab2_Sz info="Rab2->Rabattsatz" type="Float"><![CDATA[]]></Rab2_Sz>
+    <Rab2_Mge info="Rab2->Rabattmenge" type="Float"><![CDATA[]]></Rab2_Mge>
+    <Rab3_Pr info="Rab3->Rabattpreis" type="Float"><![CDATA[]]></Rab3_Pr>
+    <Rab3_Sz info="Rab3->Rabattsatz" type="Float"><![CDATA[]]></Rab3_Sz>
+    <Rab3_Mge info="Rab3->Rabattmenge" type="Float"><![CDATA[]]></Rab3_Mge>
+    </ArtikelAbweichend>
+    <ArtikelAbweichend>
+    <AdrNr info="Adressnummer" type="WideString"><![CDATA[10883]]></AdrNr>
+    <ArtNr info="Artikelnummer" type="WideString"><![CDATA[1808]]></ArtNr>
+    <AbwPr info="Abweichender Preis" type="Float"><![CDATA[9,9944]]></AbwPr>
+    <GspAbDat info="Gesperrt ab Datum" type="Date"><![CDATA[]]></GspAbDat>
+    <GspBisDat info="Gesperrt bis Datum" type="Date"><![CDATA[]]></GspBisDat>
+    <GspKz info="Ist Gesperrt" type="Boolean"><![CDATA[Nein]]></GspKz>
+    <Grp info="Gruppe" type="Integer"><![CDATA[]]></Grp>
+    <ArtBez info="Artikel Bezeichnung" type="Blob"><![CDATA[]]></ArtBez>
+    <PreisMge info="Preise gelten für Menge" type="Float"><![CDATA[1]]></PreisMge>
+    <Rab0_Pr info="Rab0->Rabattpreis" type="Float"><![CDATA[]]></Rab0_Pr>
+    <Rab0_Sz info="Rab0->Rabattsatz" type="Float"><![CDATA[]]></Rab0_Sz>
+    <Rab0_Mge info="Rab0->Rabattmenge" type="Float"><![CDATA[]]></Rab0_Mge>
+    <Rab1_Pr info="Rab1->Rabattpreis" type="Float"><![CDATA[]]></Rab1_Pr>
+    <Rab1_Sz info="Rab1->Rabattsatz" type="Float"><![CDATA[]]></Rab1_Sz>
+    <Rab1_Mge info="Rab1->Rabattmenge" type="Float"><![CDATA[]]></Rab1_Mge>
+    <Rab2_Pr info="Rab2->Rabattpreis" type="Float"><![CDATA[]]></Rab2_Pr>
+    <Rab2_Sz info="Rab2->Rabattsatz" type="Float"><![CDATA[]]></Rab2_Sz>
+    <Rab2_Mge info="Rab2->Rabattmenge" type="Float"><![CDATA[]]></Rab2_Mge>
+    <Rab3_Pr info="Rab3->Rabattpreis" type="Float"><![CDATA[]]></Rab3_Pr>
+    <Rab3_Sz info="Rab3->Rabattsatz" type="Float"><![CDATA[]]></Rab3_Sz>
+    <Rab3_Mge info="Rab3->Rabattmenge" type="Float"><![CDATA[]]></Rab3_Mge>
+    </ArtikelAbweichend>
+    <ArtikelAbweichend>
+    <AdrNr info="Adressnummer" type="WideString"><![CDATA[17417]]></AdrNr>
+    <ArtNr info="Artikelnummer" type="WideString"><![CDATA[1808]]></ArtNr>
+    <AbwPr info="Abweichender Preis" type="Float"><![CDATA[10,4944]]></AbwPr>
+    <GspAbDat info="Gesperrt ab Datum" type="Date"><![CDATA[]]></GspAbDat>
+    <GspBisDat info="Gesperrt bis Datum" type="Date"><![CDATA[]]></GspBisDat>
+    <GspKz info="Ist Gesperrt" type="Boolean"><![CDATA[Nein]]></GspKz>
+    <Grp info="Gruppe" type="Integer"><![CDATA[]]></Grp>
+    <ArtBez info="Artikel Bezeichnung" type="Blob"><![CDATA[]]></ArtBez>
+    <PreisMge info="Preise gelten für Menge" type="Float"><![CDATA[1]]></PreisMge>
+    <Rab0_Pr info="Rab0->Rabattpreis" type="Float"><![CDATA[]]></Rab0_Pr>
+    <Rab0_Sz info="Rab0->Rabattsatz" type="Float"><![CDATA[]]></Rab0_Sz>
+    <Rab0_Mge info="Rab0->Rabattmenge" type="Float"><![CDATA[]]></Rab0_Mge>
+    <Rab1_Pr info="Rab1->Rabattpreis" type="Float"><![CDATA[]]></Rab1_Pr>
+    <Rab1_Sz info="Rab1->Rabattsatz" type="Float"><![CDATA[]]></Rab1_Sz>
+    <Rab1_Mge info="Rab1->Rabattmenge" type="Float"><![CDATA[]]></Rab1_Mge>
+    <Rab2_Pr info="Rab2->Rabattpreis" type="Float"><![CDATA[]]></Rab2_Pr>
+    <Rab2_Sz info="Rab2->Rabattsatz" type="Float"><![CDATA[]]></Rab2_Sz>
+    <Rab2_Mge info="Rab2->Rabattmenge" type="Float"><![CDATA[]]></Rab2_Mge>
+    <Rab3_Pr info="Rab3->Rabattpreis" type="Float"><![CDATA[]]></Rab3_Pr>
+    <Rab3_Sz info="Rab3->Rabattsatz" type="Float"><![CDATA[]]></Rab3_Sz>
+    <Rab3_Mge info="Rab3->Rabattmenge" type="Float"><![CDATA[]]></Rab3_Mge>
+    </ArtikelAbweichend>
+    <ArtikelAbweichend>
+    <AdrNr info="Adressnummer" type="WideString"><![CDATA[17469]]></AdrNr>
+    <ArtNr info="Artikelnummer" type="WideString"><![CDATA[1808]]></ArtNr>
+    <AbwPr info="Abweichender Preis" type="Float"><![CDATA[8,9904]]></AbwPr>
+    <GspAbDat info="Gesperrt ab Datum" type="Date"><![CDATA[]]></GspAbDat>
+    <GspBisDat info="Gesperrt bis Datum" type="Date"><![CDATA[]]></GspBisDat>
+    <GspKz info="Ist Gesperrt" type="Boolean"><![CDATA[Nein]]></GspKz>
+    <Grp info="Gruppe" type="Integer"><![CDATA[]]></Grp>
+    <ArtBez info="Artikel Bezeichnung" type="Blob"><![CDATA[]]></ArtBez>
+    <PreisMge info="Preise gelten für Menge" type="Float"><![CDATA[1]]></PreisMge>
+    <Rab0_Pr info="Rab0->Rabattpreis" type="Float"><![CDATA[]]></Rab0_Pr>
+    <Rab0_Sz info="Rab0->Rabattsatz" type="Float"><![CDATA[]]></Rab0_Sz>
+    <Rab0_Mge info="Rab0->Rabattmenge" type="Float"><![CDATA[]]></Rab0_Mge>
+    <Rab1_Pr info="Rab1->Rabattpreis" type="Float"><![CDATA[]]></Rab1_Pr>
+    <Rab1_Sz info="Rab1->Rabattsatz" type="Float"><![CDATA[]]></Rab1_Sz>
+    <Rab1_Mge info="Rab1->Rabattmenge" type="Float"><![CDATA[]]></Rab1_Mge>
+    <Rab2_Pr info="Rab2->Rabattpreis" type="Float"><![CDATA[]]></Rab2_Pr>
+    <Rab2_Sz info="Rab2->Rabattsatz" type="Float"><![CDATA[]]></Rab2_Sz>
+    <Rab2_Mge info="Rab2->Rabattmenge" type="Float"><![CDATA[]]></Rab2_Mge>
+    <Rab3_Pr info="Rab3->Rabattpreis" type="Float"><![CDATA[]]></Rab3_Pr>
+    <Rab3_Sz info="Rab3->Rabattsatz" type="Float"><![CDATA[]]></Rab3_Sz>
+    <Rab3_Mge info="Rab3->Rabattmenge" type="Float"><![CDATA[]]></Rab3_Mge>
+    </ArtikelAbweichend>
+    <ArtikelAbweichend>
+    <AdrNr info="Adressnummer" type="WideString"><![CDATA[12917]]></AdrNr>
+    <ArtNr info="Artikelnummer" type="WideString"><![CDATA[1808]]></ArtNr>
+    <AbwPr info="Abweichender Preis" type="Float"><![CDATA[11,5904]]></AbwPr>
+    <GspAbDat info="Gesperrt ab Datum" type="Date"><![CDATA[]]></GspAbDat>
+    <GspBisDat info="Gesperrt bis Datum" type="Date"><![CDATA[]]></GspBisDat>
+    <GspKz info="Ist Gesperrt" type="Boolean"><![CDATA[Nein]]></GspKz>
+    <Grp info="Gruppe" type="Integer"><![CDATA[]]></Grp>
+    <ArtBez info="Artikel Bezeichnung" type="Blob"><![CDATA[]]></ArtBez>
+    <PreisMge info="Preise gelten für Menge" type="Float"><![CDATA[1]]></PreisMge>
+    <Rab0_Pr info="Rab0->Rabattpreis" type="Float"><![CDATA[]]></Rab0_Pr>
+    <Rab0_Sz info="Rab0->Rabattsatz" type="Float"><![CDATA[]]></Rab0_Sz>
+    <Rab0_Mge info="Rab0->Rabattmenge" type="Float"><![CDATA[]]></Rab0_Mge>
+    <Rab1_Pr info="Rab1->Rabattpreis" type="Float"><![CDATA[]]></Rab1_Pr>
+    <Rab1_Sz info="Rab1->Rabattsatz" type="Float"><![CDATA[]]></Rab1_Sz>
+    <Rab1_Mge info="Rab1->Rabattmenge" type="Float"><![CDATA[]]></Rab1_Mge>
+    <Rab2_Pr info="Rab2->Rabattpreis" type="Float"><![CDATA[]]></Rab2_Pr>
+    <Rab2_Sz info="Rab2->Rabattsatz" type="Float"><![CDATA[]]></Rab2_Sz>
+    <Rab2_Mge info="Rab2->Rabattmenge" type="Float"><![CDATA[]]></Rab2_Mge>
+    <Rab3_Pr info="Rab3->Rabattpreis" type="Float"><![CDATA[]]></Rab3_Pr>
+    <Rab3_Sz info="Rab3->Rabattsatz" type="Float"><![CDATA[]]></Rab3_Sz>
+    <Rab3_Mge info="Rab3->Rabattmenge" type="Float"><![CDATA[]]></Rab3_Mge>
+    </ArtikelAbweichend>
+    <ArtikelAbweichend>
+    <AdrNr info="Adressnummer" type="WideString"><![CDATA[10194]]></AdrNr>
+    <ArtNr info="Artikelnummer" type="WideString"><![CDATA[1808]]></ArtNr>
+    <AbwPr info="Abweichender Preis" type="Float"><![CDATA[10,3904]]></AbwPr>
+    <GspAbDat info="Gesperrt ab Datum" type="Date"><![CDATA[]]></GspAbDat>
+    <GspBisDat info="Gesperrt bis Datum" type="Date"><![CDATA[]]></GspBisDat>
+    <GspKz info="Ist Gesperrt" type="Boolean"><![CDATA[Nein]]></GspKz>
+    <Grp info="Gruppe" type="Integer"><![CDATA[]]></Grp>
+    <ArtBez info="Artikel Bezeichnung" type="Blob"><![CDATA[]]></ArtBez>
+    <PreisMge info="Preise gelten für Menge" type="Float"><![CDATA[1]]></PreisMge>
+    <Rab0_Pr info="Rab0->Rabattpreis" type="Float"><![CDATA[]]></Rab0_Pr>
+    <Rab0_Sz info="Rab0->Rabattsatz" type="Float"><![CDATA[]]></Rab0_Sz>
+    <Rab0_Mge info="Rab0->Rabattmenge" type="Float"><![CDATA[]]></Rab0_Mge>
+    <Rab1_Pr info="Rab1->Rabattpreis" type="Float"><![CDATA[]]></Rab1_Pr>
+    <Rab1_Sz info="Rab1->Rabattsatz" type="Float"><![CDATA[]]></Rab1_Sz>
+    <Rab1_Mge info="Rab1->Rabattmenge" type="Float"><![CDATA[]]></Rab1_Mge>
+    <Rab2_Pr info="Rab2->Rabattpreis" type="Float"><![CDATA[]]></Rab2_Pr>
+    <Rab2_Sz info="Rab2->Rabattsatz" type="Float"><![CDATA[]]></Rab2_Sz>
+    <Rab2_Mge info="Rab2->Rabattmenge" type="Float"><![CDATA[]]></Rab2_Mge>
+    <Rab3_Pr info="Rab3->Rabattpreis" type="Float"><![CDATA[]]></Rab3_Pr>
+    <Rab3_Sz info="Rab3->Rabattsatz" type="Float"><![CDATA[]]></Rab3_Sz>
+    <Rab3_Mge info="Rab3->Rabattmenge" type="Float"><![CDATA[]]></Rab3_Mge>
+    </ArtikelAbweichend>
+    <ArtikelAbweichend>
+    <AdrNr info="Adressnummer" type="WideString"><![CDATA[17547]]></AdrNr>
+    <ArtNr info="Artikelnummer" type="WideString"><![CDATA[1808]]></ArtNr>
+    <AbwPr info="Abweichender Preis" type="Float"><![CDATA[10,9904]]></AbwPr>
+    <GspAbDat info="Gesperrt ab Datum" type="Date"><![CDATA[]]></GspAbDat>
+    <GspBisDat info="Gesperrt bis Datum" type="Date"><![CDATA[]]></GspBisDat>
+    <GspKz info="Ist Gesperrt" type="Boolean"><![CDATA[Nein]]></GspKz>
+    <Grp info="Gruppe" type="Integer"><![CDATA[]]></Grp>
+    <ArtBez info="Artikel Bezeichnung" type="Blob"><![CDATA[]]></ArtBez>
+    <PreisMge info="Preise gelten für Menge" type="Float"><![CDATA[1]]></PreisMge>
+    <Rab0_Pr info="Rab0->Rabattpreis" type="Float"><![CDATA[]]></Rab0_Pr>
+    <Rab0_Sz info="Rab0->Rabattsatz" type="Float"><![CDATA[]]></Rab0_Sz>
+    <Rab0_Mge info="Rab0->Rabattmenge" type="Float"><![CDATA[]]></Rab0_Mge>
+    <Rab1_Pr info="Rab1->Rabattpreis" type="Float"><![CDATA[]]></Rab1_Pr>
+    <Rab1_Sz info="Rab1->Rabattsatz" type="Float"><![CDATA[]]></Rab1_Sz>
+    <Rab1_Mge info="Rab1->Rabattmenge" type="Float"><![CDATA[]]></Rab1_Mge>
+    <Rab2_Pr info="Rab2->Rabattpreis" type="Float"><![CDATA[]]></Rab2_Pr>
+    <Rab2_Sz info="Rab2->Rabattsatz" type="Float"><![CDATA[]]></Rab2_Sz>
+    <Rab2_Mge info="Rab2->Rabattmenge" type="Float"><![CDATA[]]></Rab2_Mge>
+    <Rab3_Pr info="Rab3->Rabattpreis" type="Float"><![CDATA[]]></Rab3_Pr>
+    <Rab3_Sz info="Rab3->Rabattsatz" type="Float"><![CDATA[]]></Rab3_Sz>
+    <Rab3_Mge info="Rab3->Rabattmenge" type="Float"><![CDATA[]]></Rab3_Mge>
+    </ArtikelAbweichend>
+    <ArtikelAbweichend>
+    <AdrNr info="Adressnummer" type="WideString"><![CDATA[15644]]></AdrNr>
+    <ArtNr info="Artikelnummer" type="WideString"><![CDATA[1808]]></ArtNr>
+    <AbwPr info="Abweichender Preis" type="Float"><![CDATA[10,9904]]></AbwPr>
+    <GspAbDat info="Gesperrt ab Datum" type="Date"><![CDATA[]]></GspAbDat>
+    <GspBisDat info="Gesperrt bis Datum" type="Date"><![CDATA[]]></GspBisDat>
+    <GspKz info="Ist Gesperrt" type="Boolean"><![CDATA[Nein]]></GspKz>
+    <Grp info="Gruppe" type="Integer"><![CDATA[]]></Grp>
+    <ArtBez info="Artikel Bezeichnung" type="Blob"><![CDATA[]]></ArtBez>
+    <PreisMge info="Preise gelten für Menge" type="Float"><![CDATA[1]]></PreisMge>
+    <Rab0_Pr info="Rab0->Rabattpreis" type="Float"><![CDATA[]]></Rab0_Pr>
+    <Rab0_Sz info="Rab0->Rabattsatz" type="Float"><![CDATA[]]></Rab0_Sz>
+    <Rab0_Mge info="Rab0->Rabattmenge" type="Float"><![CDATA[]]></Rab0_Mge>
+    <Rab1_Pr info="Rab1->Rabattpreis" type="Float"><![CDATA[]]></Rab1_Pr>
+    <Rab1_Sz info="Rab1->Rabattsatz" type="Float"><![CDATA[]]></Rab1_Sz>
+    <Rab1_Mge info="Rab1->Rabattmenge" type="Float"><![CDATA[]]></Rab1_Mge>
+    <Rab2_Pr info="Rab2->Rabattpreis" type="Float"><![CDATA[]]></Rab2_Pr>
+    <Rab2_Sz info="Rab2->Rabattsatz" type="Float"><![CDATA[]]></Rab2_Sz>
+    <Rab2_Mge info="Rab2->Rabattmenge" type="Float"><![CDATA[]]></Rab2_Mge>
+    <Rab3_Pr info="Rab3->Rabattpreis" type="Float"><![CDATA[]]></Rab3_Pr>
+    <Rab3_Sz info="Rab3->Rabattsatz" type="Float"><![CDATA[]]></Rab3_Sz>
+    <Rab3_Mge info="Rab3->Rabattmenge" type="Float"><![CDATA[]]></Rab3_Mge>
+    </ArtikelAbweichend>
+    <ArtikelAbweichend>
+    <AdrNr info="Adressnummer" type="WideString"><![CDATA[15923]]></AdrNr>
+    <ArtNr info="Artikelnummer" type="WideString"><![CDATA[1808]]></ArtNr>
+    <AbwPr info="Abweichender Preis" type="Float"><![CDATA[10,9904]]></AbwPr>
+    <GspAbDat info="Gesperrt ab Datum" type="Date"><![CDATA[]]></GspAbDat>
+    <GspBisDat info="Gesperrt bis Datum" type="Date"><![CDATA[]]></GspBisDat>
+    <GspKz info="Ist Gesperrt" type="Boolean"><![CDATA[Nein]]></GspKz>
+    <Grp info="Gruppe" type="Integer"><![CDATA[]]></Grp>
+    <ArtBez info="Artikel Bezeichnung" type="Blob"><![CDATA[]]></ArtBez>
+    <PreisMge info="Preise gelten für Menge" type="Float"><![CDATA[1]]></PreisMge>
+    <Rab0_Pr info="Rab0->Rabattpreis" type="Float"><![CDATA[]]></Rab0_Pr>
+    <Rab0_Sz info="Rab0->Rabattsatz" type="Float"><![CDATA[]]></Rab0_Sz>
+    <Rab0_Mge info="Rab0->Rabattmenge" type="Float"><![CDATA[]]></Rab0_Mge>
+    <Rab1_Pr info="Rab1->Rabattpreis" type="Float"><![CDATA[]]></Rab1_Pr>
+    <Rab1_Sz info="Rab1->Rabattsatz" type="Float"><![CDATA[]]></Rab1_Sz>
+    <Rab1_Mge info="Rab1->Rabattmenge" type="Float"><![CDATA[]]></Rab1_Mge>
+    <Rab2_Pr info="Rab2->Rabattpreis" type="Float"><![CDATA[]]></Rab2_Pr>
+    <Rab2_Sz info="Rab2->Rabattsatz" type="Float"><![CDATA[]]></Rab2_Sz>
+    <Rab2_Mge info="Rab2->Rabattmenge" type="Float"><![CDATA[]]></Rab2_Mge>
+    <Rab3_Pr info="Rab3->Rabattpreis" type="Float"><![CDATA[]]></Rab3_Pr>
+    <Rab3_Sz info="Rab3->Rabattsatz" type="Float"><![CDATA[]]></Rab3_Sz>
+    <Rab3_Mge info="Rab3->Rabattmenge" type="Float"><![CDATA[]]></Rab3_Mge>
+    </ArtikelAbweichend>
+    <ArtikelAbweichend>
+    <AdrNr info="Adressnummer" type="WideString"><![CDATA[10243]]></AdrNr>
+    <ArtNr info="Artikelnummer" type="WideString"><![CDATA[1808]]></ArtNr>
+    <AbwPr info="Abweichender Preis" type="Float"><![CDATA[10,4944]]></AbwPr>
+    <GspAbDat info="Gesperrt ab Datum" type="Date"><![CDATA[]]></GspAbDat>
+    <GspBisDat info="Gesperrt bis Datum" type="Date"><![CDATA[]]></GspBisDat>
+    <GspKz info="Ist Gesperrt" type="Boolean"><![CDATA[Nein]]></GspKz>
+    <Grp info="Gruppe" type="Integer"><![CDATA[]]></Grp>
+    <ArtBez info="Artikel Bezeichnung" type="Blob"><![CDATA[]]></ArtBez>
+    <PreisMge info="Preise gelten für Menge" type="Float"><![CDATA[1]]></PreisMge>
+    <Rab0_Pr info="Rab0->Rabattpreis" type="Float"><![CDATA[]]></Rab0_Pr>
+    <Rab0_Sz info="Rab0->Rabattsatz" type="Float"><![CDATA[]]></Rab0_Sz>
+    <Rab0_Mge info="Rab0->Rabattmenge" type="Float"><![CDATA[]]></Rab0_Mge>
+    <Rab1_Pr info="Rab1->Rabattpreis" type="Float"><![CDATA[]]></Rab1_Pr>
+    <Rab1_Sz info="Rab1->Rabattsatz" type="Float"><![CDATA[]]></Rab1_Sz>
+    <Rab1_Mge info="Rab1->Rabattmenge" type="Float"><![CDATA[]]></Rab1_Mge>
+    <Rab2_Pr info="Rab2->Rabattpreis" type="Float"><![CDATA[]]></Rab2_Pr>
+    <Rab2_Sz info="Rab2->Rabattsatz" type="Float"><![CDATA[]]></Rab2_Sz>
+    <Rab2_Mge info="Rab2->Rabattmenge" type="Float"><![CDATA[]]></Rab2_Mge>
+    <Rab3_Pr info="Rab3->Rabattpreis" type="Float"><![CDATA[]]></Rab3_Pr>
+    <Rab3_Sz info="Rab3->Rabattsatz" type="Float"><![CDATA[]]></Rab3_Sz>
+    <Rab3_Mge info="Rab3->Rabattmenge" type="Float"><![CDATA[]]></Rab3_Mge>
+    </ArtikelAbweichend>
+    <ArtikelAbweichend>
+    <AdrNr info="Adressnummer" type="WideString"><![CDATA[16308]]></AdrNr>
+    <ArtNr info="Artikelnummer" type="WideString"><![CDATA[1808]]></ArtNr>
+    <AbwPr info="Abweichender Preis" type="Float"><![CDATA[10,9904]]></AbwPr>
+    <GspAbDat info="Gesperrt ab Datum" type="Date"><![CDATA[]]></GspAbDat>
+    <GspBisDat info="Gesperrt bis Datum" type="Date"><![CDATA[]]></GspBisDat>
+    <GspKz info="Ist Gesperrt" type="Boolean"><![CDATA[Nein]]></GspKz>
+    <Grp info="Gruppe" type="Integer"><![CDATA[]]></Grp>
+    <ArtBez info="Artikel Bezeichnung" type="Blob"><![CDATA[]]></ArtBez>
+    <PreisMge info="Preise gelten für Menge" type="Float"><![CDATA[1]]></PreisMge>
+    <Rab0_Pr info="Rab0->Rabattpreis" type="Float"><![CDATA[]]></Rab0_Pr>
+    <Rab0_Sz info="Rab0->Rabattsatz" type="Float"><![CDATA[]]></Rab0_Sz>
+    <Rab0_Mge info="Rab0->Rabattmenge" type="Float"><![CDATA[]]></Rab0_Mge>
+    <Rab1_Pr info="Rab1->Rabattpreis" type="Float"><![CDATA[]]></Rab1_Pr>
+    <Rab1_Sz info="Rab1->Rabattsatz" type="Float"><![CDATA[]]></Rab1_Sz>
+    <Rab1_Mge info="Rab1->Rabattmenge" type="Float"><![CDATA[]]></Rab1_Mge>
+    <Rab2_Pr info="Rab2->Rabattpreis" type="Float"><![CDATA[]]></Rab2_Pr>
+    <Rab2_Sz info="Rab2->Rabattsatz" type="Float"><![CDATA[]]></Rab2_Sz>
+    <Rab2_Mge info="Rab2->Rabattmenge" type="Float"><![CDATA[]]></Rab2_Mge>
+    <Rab3_Pr info="Rab3->Rabattpreis" type="Float"><![CDATA[]]></Rab3_Pr>
+    <Rab3_Sz info="Rab3->Rabattsatz" type="Float"><![CDATA[]]></Rab3_Sz>
+    <Rab3_Mge info="Rab3->Rabattmenge" type="Float"><![CDATA[]]></Rab3_Mge>
+    </ArtikelAbweichend>
+    <ArtikelAbweichend>
+    <AdrNr info="Adressnummer" type="WideString"><![CDATA[15721]]></AdrNr>
+    <ArtNr info="Artikelnummer" type="WideString"><![CDATA[1808]]></ArtNr>
+    <AbwPr info="Abweichender Preis" type="Float"><![CDATA[10,4944]]></AbwPr>
+    <GspAbDat info="Gesperrt ab Datum" type="Date"><![CDATA[]]></GspAbDat>
+    <GspBisDat info="Gesperrt bis Datum" type="Date"><![CDATA[]]></GspBisDat>
+    <GspKz info="Ist Gesperrt" type="Boolean"><![CDATA[Nein]]></GspKz>
+    <Grp info="Gruppe" type="Integer"><![CDATA[]]></Grp>
+    <ArtBez info="Artikel Bezeichnung" type="Blob"><![CDATA[]]></ArtBez>
+    <PreisMge info="Preise gelten für Menge" type="Float"><![CDATA[1]]></PreisMge>
+    <Rab0_Pr info="Rab0->Rabattpreis" type="Float"><![CDATA[]]></Rab0_Pr>
+    <Rab0_Sz info="Rab0->Rabattsatz" type="Float"><![CDATA[]]></Rab0_Sz>
+    <Rab0_Mge info="Rab0->Rabattmenge" type="Float"><![CDATA[]]></Rab0_Mge>
+    <Rab1_Pr info="Rab1->Rabattpreis" type="Float"><![CDATA[]]></Rab1_Pr>
+    <Rab1_Sz info="Rab1->Rabattsatz" type="Float"><![CDATA[]]></Rab1_Sz>
+    <Rab1_Mge info="Rab1->Rabattmenge" type="Float"><![CDATA[]]></Rab1_Mge>
+    <Rab2_Pr info="Rab2->Rabattpreis" type="Float"><![CDATA[]]></Rab2_Pr>
+    <Rab2_Sz info="Rab2->Rabattsatz" type="Float"><![CDATA[]]></Rab2_Sz>
+    <Rab2_Mge info="Rab2->Rabattmenge" type="Float"><![CDATA[]]></Rab2_Mge>
+    <Rab3_Pr info="Rab3->Rabattpreis" type="Float"><![CDATA[]]></Rab3_Pr>
+    <Rab3_Sz info="Rab3->Rabattsatz" type="Float"><![CDATA[]]></Rab3_Sz>
+    <Rab3_Mge info="Rab3->Rabattmenge" type="Float"><![CDATA[]]></Rab3_Mge>
+    </ArtikelAbweichend>
+    <ArtikelAbweichend>
+    <AdrNr info="Adressnummer" type="WideString"><![CDATA[17421]]></AdrNr>
+    <ArtNr info="Artikelnummer" type="WideString"><![CDATA[1808]]></ArtNr>
+    <AbwPr info="Abweichender Preis" type="Float"><![CDATA[10,9944]]></AbwPr>
+    <GspAbDat info="Gesperrt ab Datum" type="Date"><![CDATA[]]></GspAbDat>
+    <GspBisDat info="Gesperrt bis Datum" type="Date"><![CDATA[]]></GspBisDat>
+    <GspKz info="Ist Gesperrt" type="Boolean"><![CDATA[Nein]]></GspKz>
+    <Grp info="Gruppe" type="Integer"><![CDATA[]]></Grp>
+    <ArtBez info="Artikel Bezeichnung" type="Blob"><![CDATA[]]></ArtBez>
+    <PreisMge info="Preise gelten für Menge" type="Float"><![CDATA[1]]></PreisMge>
+    <Rab0_Pr info="Rab0->Rabattpreis" type="Float"><![CDATA[]]></Rab0_Pr>
+    <Rab0_Sz info="Rab0->Rabattsatz" type="Float"><![CDATA[]]></Rab0_Sz>
+    <Rab0_Mge info="Rab0->Rabattmenge" type="Float"><![CDATA[]]></Rab0_Mge>
+    <Rab1_Pr info="Rab1->Rabattpreis" type="Float"><![CDATA[]]></Rab1_Pr>
+    <Rab1_Sz info="Rab1->Rabattsatz" type="Float"><![CDATA[]]></Rab1_Sz>
+    <Rab1_Mge info="Rab1->Rabattmenge" type="Float"><![CDATA[]]></Rab1_Mge>
+    <Rab2_Pr info="Rab2->Rabattpreis" type="Float"><![CDATA[]]></Rab2_Pr>
+    <Rab2_Sz info="Rab2->Rabattsatz" type="Float"><![CDATA[]]></Rab2_Sz>
+    <Rab2_Mge info="Rab2->Rabattmenge" type="Float"><![CDATA[]]></Rab2_Mge>
+    <Rab3_Pr info="Rab3->Rabattpreis" type="Float"><![CDATA[]]></Rab3_Pr>
+    <Rab3_Sz info="Rab3->Rabattsatz" type="Float"><![CDATA[]]></Rab3_Sz>
+    <Rab3_Mge info="Rab3->Rabattmenge" type="Float"><![CDATA[]]></Rab3_Mge>
+    </ArtikelAbweichend>
+    <ArtikelAbweichend>
+    <AdrNr info="Adressnummer" type="WideString"><![CDATA[13065]]></AdrNr>
+    <ArtNr info="Artikelnummer" type="WideString"><![CDATA[1808]]></ArtNr>
+    <AbwPr info="Abweichender Preis" type="Float"><![CDATA[10,5944]]></AbwPr>
+    <GspAbDat info="Gesperrt ab Datum" type="Date"><![CDATA[]]></GspAbDat>
+    <GspBisDat info="Gesperrt bis Datum" type="Date"><![CDATA[]]></GspBisDat>
+    <GspKz info="Ist Gesperrt" type="Boolean"><![CDATA[Nein]]></GspKz>
+    <Grp info="Gruppe" type="Integer"><![CDATA[]]></Grp>
+    <ArtBez info="Artikel Bezeichnung" type="Blob"><![CDATA[]]></ArtBez>
+    <PreisMge info="Preise gelten für Menge" type="Float"><![CDATA[1]]></PreisMge>
+    <Rab0_Pr info="Rab0->Rabattpreis" type="Float"><![CDATA[]]></Rab0_Pr>
+    <Rab0_Sz info="Rab0->Rabattsatz" type="Float"><![CDATA[]]></Rab0_Sz>
+    <Rab0_Mge info="Rab0->Rabattmenge" type="Float"><![CDATA[]]></Rab0_Mge>
+    <Rab1_Pr info="Rab1->Rabattpreis" type="Float"><![CDATA[]]></Rab1_Pr>
+    <Rab1_Sz info="Rab1->Rabattsatz" type="Float"><![CDATA[]]></Rab1_Sz>
+    <Rab1_Mge info="Rab1->Rabattmenge" type="Float"><![CDATA[]]></Rab1_Mge>
+    <Rab2_Pr info="Rab2->Rabattpreis" type="Float"><![CDATA[]]></Rab2_Pr>
+    <Rab2_Sz info="Rab2->Rabattsatz" type="Float"><![CDATA[]]></Rab2_Sz>
+    <Rab2_Mge info="Rab2->Rabattmenge" type="Float"><![CDATA[]]></Rab2_Mge>
+    <Rab3_Pr info="Rab3->Rabattpreis" type="Float"><![CDATA[]]></Rab3_Pr>
+    <Rab3_Sz info="Rab3->Rabattsatz" type="Float"><![CDATA[]]></Rab3_Sz>
+    <Rab3_Mge info="Rab3->Rabattmenge" type="Float"><![CDATA[]]></Rab3_Mge>
+    </ArtikelAbweichend>
+    <ArtikelAbweichend>
+    <AdrNr info="Adressnummer" type="WideString"><![CDATA[17751]]></AdrNr>
+    <ArtNr info="Artikelnummer" type="WideString"><![CDATA[1808]]></ArtNr>
+    <AbwPr info="Abweichender Preis" type="Float"><![CDATA[9,9904]]></AbwPr>
+    <GspAbDat info="Gesperrt ab Datum" type="Date"><![CDATA[]]></GspAbDat>
+    <GspBisDat info="Gesperrt bis Datum" type="Date"><![CDATA[]]></GspBisDat>
+    <GspKz info="Ist Gesperrt" type="Boolean"><![CDATA[Nein]]></GspKz>
+    <Grp info="Gruppe" type="Integer"><![CDATA[]]></Grp>
+    <ArtBez info="Artikel Bezeichnung" type="Blob"><![CDATA[]]></ArtBez>
+    <PreisMge info="Preise gelten für Menge" type="Float"><![CDATA[1]]></PreisMge>
+    <Rab0_Pr info="Rab0->Rabattpreis" type="Float"><![CDATA[]]></Rab0_Pr>
+    <Rab0_Sz info="Rab0->Rabattsatz" type="Float"><![CDATA[]]></Rab0_Sz>
+    <Rab0_Mge info="Rab0->Rabattmenge" type="Float"><![CDATA[]]></Rab0_Mge>
+    <Rab1_Pr info="Rab1->Rabattpreis" type="Float"><![CDATA[]]></Rab1_Pr>
+    <Rab1_Sz info="Rab1->Rabattsatz" type="Float"><![CDATA[]]></Rab1_Sz>
+    <Rab1_Mge info="Rab1->Rabattmenge" type="Float"><![CDATA[]]></Rab1_Mge>
+    <Rab2_Pr info="Rab2->Rabattpreis" type="Float"><![CDATA[]]></Rab2_Pr>
+    <Rab2_Sz info="Rab2->Rabattsatz" type="Float"><![CDATA[]]></Rab2_Sz>
+    <Rab2_Mge info="Rab2->Rabattmenge" type="Float"><![CDATA[]]></Rab2_Mge>
+    <Rab3_Pr info="Rab3->Rabattpreis" type="Float"><![CDATA[]]></Rab3_Pr>
+    <Rab3_Sz info="Rab3->Rabattsatz" type="Float"><![CDATA[]]></Rab3_Sz>
+    <Rab3_Mge info="Rab3->Rabattmenge" type="Float"><![CDATA[]]></Rab3_Mge>
+    </ArtikelAbweichend>
+    <ArtikelAbweichend>
+    <AdrNr info="Adressnummer" type="WideString"><![CDATA[16281]]></AdrNr>
+    <ArtNr info="Artikelnummer" type="WideString"><![CDATA[1808]]></ArtNr>
+    <AbwPr info="Abweichender Preis" type="Float"><![CDATA[10,9944]]></AbwPr>
+    <GspAbDat info="Gesperrt ab Datum" type="Date"><![CDATA[]]></GspAbDat>
+    <GspBisDat info="Gesperrt bis Datum" type="Date"><![CDATA[]]></GspBisDat>
+    <GspKz info="Ist Gesperrt" type="Boolean"><![CDATA[Nein]]></GspKz>
+    <Grp info="Gruppe" type="Integer"><![CDATA[]]></Grp>
+    <ArtBez info="Artikel Bezeichnung" type="Blob"><![CDATA[]]></ArtBez>
+    <PreisMge info="Preise gelten für Menge" type="Float"><![CDATA[1]]></PreisMge>
+    <Rab0_Pr info="Rab0->Rabattpreis" type="Float"><![CDATA[]]></Rab0_Pr>
+    <Rab0_Sz info="Rab0->Rabattsatz" type="Float"><![CDATA[]]></Rab0_Sz>
+    <Rab0_Mge info="Rab0->Rabattmenge" type="Float"><![CDATA[]]></Rab0_Mge>
+    <Rab1_Pr info="Rab1->Rabattpreis" type="Float"><![CDATA[]]></Rab1_Pr>
+    <Rab1_Sz info="Rab1->Rabattsatz" type="Float"><![CDATA[]]></Rab1_Sz>
+    <Rab1_Mge info="Rab1->Rabattmenge" type="Float"><![CDATA[]]></Rab1_Mge>
+    <Rab2_Pr info="Rab2->Rabattpreis" type="Float"><![CDATA[]]></Rab2_Pr>
+    <Rab2_Sz info="Rab2->Rabattsatz" type="Float"><![CDATA[]]></Rab2_Sz>
+    <Rab2_Mge info="Rab2->Rabattmenge" type="Float"><![CDATA[]]></Rab2_Mge>
+    <Rab3_Pr info="Rab3->Rabattpreis" type="Float"><![CDATA[]]></Rab3_Pr>
+    <Rab3_Sz info="Rab3->Rabattsatz" type="Float"><![CDATA[]]></Rab3_Sz>
+    <Rab3_Mge info="Rab3->Rabattmenge" type="Float"><![CDATA[]]></Rab3_Mge>
+    </ArtikelAbweichend>
+    <ArtikelAbweichend>
+    <AdrNr info="Adressnummer" type="WideString"><![CDATA[10436]]></AdrNr>
+    <ArtNr info="Artikelnummer" type="WideString"><![CDATA[1808]]></ArtNr>
+    <AbwPr info="Abweichender Preis" type="Float"><![CDATA[10,5944]]></AbwPr>
+    <GspAbDat info="Gesperrt ab Datum" type="Date"><![CDATA[]]></GspAbDat>
+    <GspBisDat info="Gesperrt bis Datum" type="Date"><![CDATA[]]></GspBisDat>
+    <GspKz info="Ist Gesperrt" type="Boolean"><![CDATA[Nein]]></GspKz>
+    <Grp info="Gruppe" type="Integer"><![CDATA[]]></Grp>
+    <ArtBez info="Artikel Bezeichnung" type="Blob"><![CDATA[]]></ArtBez>
+    <PreisMge info="Preise gelten für Menge" type="Float"><![CDATA[1]]></PreisMge>
+    <Rab0_Pr info="Rab0->Rabattpreis" type="Float"><![CDATA[]]></Rab0_Pr>
+    <Rab0_Sz info="Rab0->Rabattsatz" type="Float"><![CDATA[]]></Rab0_Sz>
+    <Rab0_Mge info="Rab0->Rabattmenge" type="Float"><![CDATA[]]></Rab0_Mge>
+    <Rab1_Pr info="Rab1->Rabattpreis" type="Float"><![CDATA[]]></Rab1_Pr>
+    <Rab1_Sz info="Rab1->Rabattsatz" type="Float"><![CDATA[]]></Rab1_Sz>
+    <Rab1_Mge info="Rab1->Rabattmenge" type="Float"><![CDATA[]]></Rab1_Mge>
+    <Rab2_Pr info="Rab2->Rabattpreis" type="Float"><![CDATA[]]></Rab2_Pr>
+    <Rab2_Sz info="Rab2->Rabattsatz" type="Float"><![CDATA[]]></Rab2_Sz>
+    <Rab2_Mge info="Rab2->Rabattmenge" type="Float"><![CDATA[]]></Rab2_Mge>
+    <Rab3_Pr info="Rab3->Rabattpreis" type="Float"><![CDATA[]]></Rab3_Pr>
+    <Rab3_Sz info="Rab3->Rabattsatz" type="Float"><![CDATA[]]></Rab3_Sz>
+    <Rab3_Mge info="Rab3->Rabattmenge" type="Float"><![CDATA[]]></Rab3_Mge>
+    </ArtikelAbweichend>
+    <ArtikelAbweichend>
+    <AdrNr info="Adressnummer" type="WideString"><![CDATA[16800]]></AdrNr>
+    <ArtNr info="Artikelnummer" type="WideString"><![CDATA[1808]]></ArtNr>
+    <AbwPr info="Abweichender Preis" type="Float"><![CDATA[9,9944]]></AbwPr>
+    <GspAbDat info="Gesperrt ab Datum" type="Date"><![CDATA[]]></GspAbDat>
+    <GspBisDat info="Gesperrt bis Datum" type="Date"><![CDATA[]]></GspBisDat>
+    <GspKz info="Ist Gesperrt" type="Boolean"><![CDATA[Nein]]></GspKz>
+    <Grp info="Gruppe" type="Integer"><![CDATA[]]></Grp>
+    <ArtBez info="Artikel Bezeichnung" type="Blob"><![CDATA[]]></ArtBez>
+    <PreisMge info="Preise gelten für Menge" type="Float"><![CDATA[1]]></PreisMge>
+    <Rab0_Pr info="Rab0->Rabattpreis" type="Float"><![CDATA[]]></Rab0_Pr>
+    <Rab0_Sz info="Rab0->Rabattsatz" type="Float"><![CDATA[]]></Rab0_Sz>
+    <Rab0_Mge info="Rab0->Rabattmenge" type="Float"><![CDATA[]]></Rab0_Mge>
+    <Rab1_Pr info="Rab1->Rabattpreis" type="Float"><![CDATA[]]></Rab1_Pr>
+    <Rab1_Sz info="Rab1->Rabattsatz" type="Float"><![CDATA[]]></Rab1_Sz>
+    <Rab1_Mge info="Rab1->Rabattmenge" type="Float"><![CDATA[]]></Rab1_Mge>
+    <Rab2_Pr info="Rab2->Rabattpreis" type="Float"><![CDATA[]]></Rab2_Pr>
+    <Rab2_Sz info="Rab2->Rabattsatz" type="Float"><![CDATA[]]></Rab2_Sz>
+    <Rab2_Mge info="Rab2->Rabattmenge" type="Float"><![CDATA[]]></Rab2_Mge>
+    <Rab3_Pr info="Rab3->Rabattpreis" type="Float"><![CDATA[]]></Rab3_Pr>
+    <Rab3_Sz info="Rab3->Rabattsatz" type="Float"><![CDATA[]]></Rab3_Sz>
+    <Rab3_Mge info="Rab3->Rabattmenge" type="Float"><![CDATA[]]></Rab3_Mge>
+    </ArtikelAbweichend>
+  <ArtikelAbweichend>
+    <AdrNr info="Adressnummer" type="WideString"><![CDATA[10779]]></AdrNr>
+    <ArtNr info="Artikelnummer" type="WideString"><![CDATA[1808]]></ArtNr>
+    <AbwPr info="Abweichender Preis" type="Float"><![CDATA[10,9944]]></AbwPr>
+    <GspAbDat info="Gesperrt ab Datum" type="Date"><![CDATA[]]></GspAbDat>
+    <GspBisDat info="Gesperrt bis Datum" type="Date"><![CDATA[]]></GspBisDat>
+    <GspKz info="Ist Gesperrt" type="Boolean"><![CDATA[Nein]]></GspKz>
+    <Grp info="Gruppe" type="Integer"><![CDATA[Tanveer]]></Grp>
+    <ArtBez info="Artikel Bezeichnung" type="Blob"><![CDATA[]]></ArtBez>
+    <PreisMge info="Preise gelten für Menge" type="Float"><![CDATA[]]></PreisMge>
+    <Rab0_Pr info="Rab0->Rabattpreis" type="Float"><![CDATA[]]></Rab0_Pr>
+    <Rab0_Sz info="Rab0->Rabattsatz" type="Float"><![CDATA[]]></Rab0_Sz>
+    <Rab0_Mge info="Rab0->Rabattmenge" type="Float"><![CDATA[]]></Rab0_Mge>
+    <Rab1_Pr info="Rab1->Rabattpreis" type="Float"><![CDATA[]]></Rab1_Pr>
+    <Rab1_Sz info="Rab1->Rabattsatz" type="Float"><![CDATA[]]></Rab1_Sz>
+    <Rab1_Mge info="Rab1->Rabattmenge" type="Float"><![CDATA[]]></Rab1_Mge>
+    <Rab2_Pr info="Rab2->Rabattpreis" type="Float"><![CDATA[]]></Rab2_Pr>
+    <Rab2_Sz info="Rab2->Rabattsatz" type="Float"><![CDATA[]]></Rab2_Sz>
+    <Rab2_Mge info="Rab2->Rabattmenge" type="Float"><![CDATA[]]></Rab2_Mge>
+    <Rab3_Pr info="Rab3->Rabattpreis" type="Float"><![CDATA[]]></Rab3_Pr>
+    <Rab3_Sz info="Rab3->Rabattsatz" type="Float"><![CDATA[]]></Rab3_Sz>
+    <Rab3_Mge info="Rab3->Rabattmenge" type="Float"><![CDATA[]]></Rab3_Mge>
+  </ArtikelAbweichend>
+  <ArtikelAbweichend>
+    <AdrNr info="Adressnummer" type="WideString"><![CDATA[17036]]></AdrNr>
+    <ArtNr info="Artikelnummer" type="WideString"><![CDATA[1808]]></ArtNr>
+    <AbwPr info="Abweichender Preis" type="Float"><![CDATA[10,9944]]></AbwPr>
+    <GspAbDat info="Gesperrt ab Datum" type="Date"><![CDATA[]]></GspAbDat>
+    <GspBisDat info="Gesperrt bis Datum" type="Date"><![CDATA[]]></GspBisDat>
+    <GspKz info="Ist Gesperrt" type="Boolean"><![CDATA[Nein]]></GspKz>
+    <Grp info="Gruppe" type="Integer"><![CDATA[Tanveer]]></Grp>
+    <ArtBez info="Artikel Bezeichnung" type="Blob"><![CDATA[]]></ArtBez>
+    <PreisMge info="Preise gelten für Menge" type="Float"><![CDATA[]]></PreisMge>
+    <Rab0_Pr info="Rab0->Rabattpreis" type="Float"><![CDATA[]]></Rab0_Pr>
+    <Rab0_Sz info="Rab0->Rabattsatz" type="Float"><![CDATA[]]></Rab0_Sz>
+    <Rab0_Mge info="Rab0->Rabattmenge" type="Float"><![CDATA[]]></Rab0_Mge>
+    <Rab1_Pr info="Rab1->Rabattpreis" type="Float"><![CDATA[]]></Rab1_Pr>
+    <Rab1_Sz info="Rab1->Rabattsatz" type="Float"><![CDATA[]]></Rab1_Sz>
+    <Rab1_Mge info="Rab1->Rabattmenge" type="Float"><![CDATA[]]></Rab1_Mge>
+    <Rab2_Pr info="Rab2->Rabattpreis" type="Float"><![CDATA[]]></Rab2_Pr>
+    <Rab2_Sz info="Rab2->Rabattsatz" type="Float"><![CDATA[]]></Rab2_Sz>
+    <Rab2_Mge info="Rab2->Rabattmenge" type="Float"><![CDATA[]]></Rab2_Mge>
+    <Rab3_Pr info="Rab3->Rabattpreis" type="Float"><![CDATA[]]></Rab3_Pr>
+    <Rab3_Sz info="Rab3->Rabattsatz" type="Float"><![CDATA[]]></Rab3_Sz>
+    <Rab3_Mge info="Rab3->Rabattmenge" type="Float"><![CDATA[]]></Rab3_Mge>
+  </ArtikelAbweichend>
+    <ArtikelAbweichend>
+    <AdrNr info="Adressnummer" type="WideString"><![CDATA[16536]]></AdrNr>
+    <ArtNr info="Artikelnummer" type="WideString"><![CDATA[1808]]></ArtNr>
+    <AbwPr info="Abweichender Preis" type="Float"><![CDATA[10,4994]]></AbwPr>
+    <GspAbDat info="Gesperrt ab Datum" type="Date"><![CDATA[]]></GspAbDat>
+    <GspBisDat info="Gesperrt bis Datum" type="Date"><![CDATA[]]></GspBisDat>
+    <GspKz info="Ist Gesperrt" type="Boolean"><![CDATA[Nein]]></GspKz>
+    <Grp info="Gruppe" type="Integer"><![CDATA[]]></Grp>
+    <ArtBez info="Artikel Bezeichnung" type="Blob"><![CDATA[]]></ArtBez>
+    <PreisMge info="Preise gelten für Menge" type="Float"><![CDATA[1]]></PreisMge>
+    <Rab0_Pr info="Rab0->Rabattpreis" type="Float"><![CDATA[]]></Rab0_Pr>
+    <Rab0_Sz info="Rab0->Rabattsatz" type="Float"><![CDATA[]]></Rab0_Sz>
+    <Rab0_Mge info="Rab0->Rabattmenge" type="Float"><![CDATA[]]></Rab0_Mge>
+    <Rab1_Pr info="Rab1->Rabattpreis" type="Float"><![CDATA[]]></Rab1_Pr>
+    <Rab1_Sz info="Rab1->Rabattsatz" type="Float"><![CDATA[]]></Rab1_Sz>
+    <Rab1_Mge info="Rab1->Rabattmenge" type="Float"><![CDATA[]]></Rab1_Mge>
+    <Rab2_Pr info="Rab2->Rabattpreis" type="Float"><![CDATA[]]></Rab2_Pr>
+    <Rab2_Sz info="Rab2->Rabattsatz" type="Float"><![CDATA[]]></Rab2_Sz>
+    <Rab2_Mge info="Rab2->Rabattmenge" type="Float"><![CDATA[]]></Rab2_Mge>
+    <Rab3_Pr info="Rab3->Rabattpreis" type="Float"><![CDATA[]]></Rab3_Pr>
+    <Rab3_Sz info="Rab3->Rabattsatz" type="Float"><![CDATA[]]></Rab3_Sz>
+    <Rab3_Mge info="Rab3->Rabattmenge" type="Float"><![CDATA[]]></Rab3_Mge>
+    </ArtikelAbweichend>
+    <ArtikelAbweichend>
+    <AdrNr info="Adressnummer" type="WideString"><![CDATA[17524]]></AdrNr>
+    <ArtNr info="Artikelnummer" type="WideString"><![CDATA[1808]]></ArtNr>
+    <AbwPr info="Abweichender Preis" type="Float"><![CDATA[10,9944]]></AbwPr>
+    <GspAbDat info="Gesperrt ab Datum" type="Date"><![CDATA[]]></GspAbDat>
+    <GspBisDat info="Gesperrt bis Datum" type="Date"><![CDATA[]]></GspBisDat>
+    <GspKz info="Ist Gesperrt" type="Boolean"><![CDATA[Nein]]></GspKz>
+    <Grp info="Gruppe" type="Integer"><![CDATA[]]></Grp>
+    <ArtBez info="Artikel Bezeichnung" type="Blob"><![CDATA[]]></ArtBez>
+    <PreisMge info="Preise gelten für Menge" type="Float"><![CDATA[1]]></PreisMge>
+    <Rab0_Pr info="Rab0->Rabattpreis" type="Float"><![CDATA[]]></Rab0_Pr>
+    <Rab0_Sz info="Rab0->Rabattsatz" type="Float"><![CDATA[]]></Rab0_Sz>
+    <Rab0_Mge info="Rab0->Rabattmenge" type="Float"><![CDATA[]]></Rab0_Mge>
+    <Rab1_Pr info="Rab1->Rabattpreis" type="Float"><![CDATA[]]></Rab1_Pr>
+    <Rab1_Sz info="Rab1->Rabattsatz" type="Float"><![CDATA[]]></Rab1_Sz>
+    <Rab1_Mge info="Rab1->Rabattmenge" type="Float"><![CDATA[]]></Rab1_Mge>
+    <Rab2_Pr info="Rab2->Rabattpreis" type="Float"><![CDATA[]]></Rab2_Pr>
+    <Rab2_Sz info="Rab2->Rabattsatz" type="Float"><![CDATA[]]></Rab2_Sz>
+    <Rab2_Mge info="Rab2->Rabattmenge" type="Float"><![CDATA[]]></Rab2_Mge>
+    <Rab3_Pr info="Rab3->Rabattpreis" type="Float"><![CDATA[]]></Rab3_Pr>
+    <Rab3_Sz info="Rab3->Rabattsatz" type="Float"><![CDATA[]]></Rab3_Sz>
+    <Rab3_Mge info="Rab3->Rabattmenge" type="Float"><![CDATA[]]></Rab3_Mge>
+    </ArtikelAbweichend>
+    <ArtikelAbweichend>
+    <AdrNr info="Adressnummer" type="WideString"><![CDATA[17348]]></AdrNr>
+    <ArtNr info="Artikelnummer" type="WideString"><![CDATA[1808]]></ArtNr>
+    <AbwPr info="Abweichender Preis" type="Float"><![CDATA[9,6544]]></AbwPr>
+    <GspAbDat info="Gesperrt ab Datum" type="Date"><![CDATA[]]></GspAbDat>
+    <GspBisDat info="Gesperrt bis Datum" type="Date"><![CDATA[]]></GspBisDat>
+    <GspKz info="Ist Gesperrt" type="Boolean"><![CDATA[Nein]]></GspKz>
+    <Grp info="Gruppe" type="Integer"><![CDATA[]]></Grp>
+    <ArtBez info="Artikel Bezeichnung" type="Blob"><![CDATA[]]></ArtBez>
+    <PreisMge info="Preise gelten für Menge" type="Float"><![CDATA[1]]></PreisMge>
+    <Rab0_Pr info="Rab0->Rabattpreis" type="Float"><![CDATA[]]></Rab0_Pr>
+    <Rab0_Sz info="Rab0->Rabattsatz" type="Float"><![CDATA[]]></Rab0_Sz>
+    <Rab0_Mge info="Rab0->Rabattmenge" type="Float"><![CDATA[]]></Rab0_Mge>
+    <Rab1_Pr info="Rab1->Rabattpreis" type="Float"><![CDATA[]]></Rab1_Pr>
+    <Rab1_Sz info="Rab1->Rabattsatz" type="Float"><![CDATA[]]></Rab1_Sz>
+    <Rab1_Mge info="Rab1->Rabattmenge" type="Float"><![CDATA[]]></Rab1_Mge>
+    <Rab2_Pr info="Rab2->Rabattpreis" type="Float"><![CDATA[]]></Rab2_Pr>
+    <Rab2_Sz info="Rab2->Rabattsatz" type="Float"><![CDATA[]]></Rab2_Sz>
+    <Rab2_Mge info="Rab2->Rabattmenge" type="Float"><![CDATA[]]></Rab2_Mge>
+    <Rab3_Pr info="Rab3->Rabattpreis" type="Float"><![CDATA[]]></Rab3_Pr>
+    <Rab3_Sz info="Rab3->Rabattsatz" type="Float"><![CDATA[]]></Rab3_Sz>
+    <Rab3_Mge info="Rab3->Rabattmenge" type="Float"><![CDATA[]]></Rab3_Mge>
+    </ArtikelAbweichend>
+  <ArtikelAbweichend>
+    <AdrNr info="Adressnummer" type="WideString"><![CDATA[15125]]></AdrNr>
+    <ArtNr info="Artikelnummer" type="WideString"><![CDATA[1808]]></ArtNr>
+    <AbwPr info="Abweichender Preis" type="Float"><![CDATA[11,9904]]></AbwPr>
+    <GspAbDat info="Gesperrt ab Datum" type="Date"><![CDATA[]]></GspAbDat>
+    <GspBisDat info="Gesperrt bis Datum" type="Date"><![CDATA[]]></GspBisDat>
+    <GspKz info="Ist Gesperrt" type="Boolean"><![CDATA[Nein]]></GspKz>
+    <Grp info="Gruppe" type="Integer"><![CDATA[Sendy]]></Grp>
+    <ArtBez info="Artikel Bezeichnung" type="Blob"><![CDATA[]]></ArtBez>
+    <PreisMge info="Preise gelten für Menge" type="Float"><![CDATA[]]></PreisMge>
+    <Rab0_Pr info="Rab0->Rabattpreis" type="Float"><![CDATA[]]></Rab0_Pr>
+    <Rab0_Sz info="Rab0->Rabattsatz" type="Float"><![CDATA[]]></Rab0_Sz>
+    <Rab0_Mge info="Rab0->Rabattmenge" type="Float"><![CDATA[]]></Rab0_Mge>
+    <Rab1_Pr info="Rab1->Rabattpreis" type="Float"><![CDATA[]]></Rab1_Pr>
+    <Rab1_Sz info="Rab1->Rabattsatz" type="Float"><![CDATA[]]></Rab1_Sz>
+    <Rab1_Mge info="Rab1->Rabattmenge" type="Float"><![CDATA[]]></Rab1_Mge>
+    <Rab2_Pr info="Rab2->Rabattpreis" type="Float"><![CDATA[]]></Rab2_Pr>
+    <Rab2_Sz info="Rab2->Rabattsatz" type="Float"><![CDATA[]]></Rab2_Sz>
+    <Rab2_Mge info="Rab2->Rabattmenge" type="Float"><![CDATA[]]></Rab2_Mge>
+    <Rab3_Pr info="Rab3->Rabattpreis" type="Float"><![CDATA[]]></Rab3_Pr>
+    <Rab3_Sz info="Rab3->Rabattsatz" type="Float"><![CDATA[]]></Rab3_Sz>
+    <Rab3_Mge info="Rab3->Rabattmenge" type="Float"><![CDATA[]]></Rab3_Mge>
+  </ArtikelAbweichend>
+  <ArtikelAbweichend>
+    <AdrNr info="Adressnummer" type="WideString"><![CDATA[16541]]></AdrNr>
+    <ArtNr info="Artikelnummer" type="WideString"><![CDATA[1808]]></ArtNr>
+    <AbwPr info="Abweichender Preis" type="Float"><![CDATA[11,9904]]></AbwPr>
+    <GspAbDat info="Gesperrt ab Datum" type="Date"><![CDATA[]]></GspAbDat>
+    <GspBisDat info="Gesperrt bis Datum" type="Date"><![CDATA[]]></GspBisDat>
+    <GspKz info="Ist Gesperrt" type="Boolean"><![CDATA[Nein]]></GspKz>
+    <Grp info="Gruppe" type="Integer"><![CDATA[Sendy]]></Grp>
+    <ArtBez info="Artikel Bezeichnung" type="Blob"><![CDATA[]]></ArtBez>
+    <PreisMge info="Preise gelten für Menge" type="Float"><![CDATA[]]></PreisMge>
+    <Rab0_Pr info="Rab0->Rabattpreis" type="Float"><![CDATA[]]></Rab0_Pr>
+    <Rab0_Sz info="Rab0->Rabattsatz" type="Float"><![CDATA[]]></Rab0_Sz>
+    <Rab0_Mge info="Rab0->Rabattmenge" type="Float"><![CDATA[]]></Rab0_Mge>
+    <Rab1_Pr info="Rab1->Rabattpreis" type="Float"><![CDATA[]]></Rab1_Pr>
+    <Rab1_Sz info="Rab1->Rabattsatz" type="Float"><![CDATA[]]></Rab1_Sz>
+    <Rab1_Mge info="Rab1->Rabattmenge" type="Float"><![CDATA[]]></Rab1_Mge>
+    <Rab2_Pr info="Rab2->Rabattpreis" type="Float"><![CDATA[]]></Rab2_Pr>
+    <Rab2_Sz info="Rab2->Rabattsatz" type="Float"><![CDATA[]]></Rab2_Sz>
+    <Rab2_Mge info="Rab2->Rabattmenge" type="Float"><![CDATA[]]></Rab2_Mge>
+    <Rab3_Pr info="Rab3->Rabattpreis" type="Float"><![CDATA[]]></Rab3_Pr>
+    <Rab3_Sz info="Rab3->Rabattsatz" type="Float"><![CDATA[]]></Rab3_Sz>
+    <Rab3_Mge info="Rab3->Rabattmenge" type="Float"><![CDATA[]]></Rab3_Mge>
+  </ArtikelAbweichend>
+  <ArtikelAbweichend>
+    <AdrNr info="Adressnummer" type="WideString"><![CDATA[16711]]></AdrNr>
+    <ArtNr info="Artikelnummer" type="WideString"><![CDATA[1808]]></ArtNr>
+    <AbwPr info="Abweichender Preis" type="Float"><![CDATA[11,9904]]></AbwPr>
+    <GspAbDat info="Gesperrt ab Datum" type="Date"><![CDATA[]]></GspAbDat>
+    <GspBisDat info="Gesperrt bis Datum" type="Date"><![CDATA[]]></GspBisDat>
+    <GspKz info="Ist Gesperrt" type="Boolean"><![CDATA[Nein]]></GspKz>
+    <Grp info="Gruppe" type="Integer"><![CDATA[Sendy]]></Grp>
+    <ArtBez info="Artikel Bezeichnung" type="Blob"><![CDATA[]]></ArtBez>
+    <PreisMge info="Preise gelten für Menge" type="Float"><![CDATA[]]></PreisMge>
+    <Rab0_Pr info="Rab0->Rabattpreis" type="Float"><![CDATA[]]></Rab0_Pr>
+    <Rab0_Sz info="Rab0->Rabattsatz" type="Float"><![CDATA[]]></Rab0_Sz>
+    <Rab0_Mge info="Rab0->Rabattmenge" type="Float"><![CDATA[]]></Rab0_Mge>
+    <Rab1_Pr info="Rab1->Rabattpreis" type="Float"><![CDATA[]]></Rab1_Pr>
+    <Rab1_Sz info="Rab1->Rabattsatz" type="Float"><![CDATA[]]></Rab1_Sz>
+    <Rab1_Mge info="Rab1->Rabattmenge" type="Float"><![CDATA[]]></Rab1_Mge>
+    <Rab2_Pr info="Rab2->Rabattpreis" type="Float"><![CDATA[]]></Rab2_Pr>
+    <Rab2_Sz info="Rab2->Rabattsatz" type="Float"><![CDATA[]]></Rab2_Sz>
+    <Rab2_Mge info="Rab2->Rabattmenge" type="Float"><![CDATA[]]></Rab2_Mge>
+    <Rab3_Pr info="Rab3->Rabattpreis" type="Float"><![CDATA[]]></Rab3_Pr>
+    <Rab3_Sz info="Rab3->Rabattsatz" type="Float"><![CDATA[]]></Rab3_Sz>
+    <Rab3_Mge info="Rab3->Rabattmenge" type="Float"><![CDATA[]]></Rab3_Mge>
+  </ArtikelAbweichend>
+  <ArtikelAbweichend>
+    <AdrNr info="Adressnummer" type="WideString"><![CDATA[16961]]></AdrNr>
+    <ArtNr info="Artikelnummer" type="WideString"><![CDATA[1808]]></ArtNr>
+    <AbwPr info="Abweichender Preis" type="Float"><![CDATA[11,9904]]></AbwPr>
+    <GspAbDat info="Gesperrt ab Datum" type="Date"><![CDATA[]]></GspAbDat>
+    <GspBisDat info="Gesperrt bis Datum" type="Date"><![CDATA[]]></GspBisDat>
+    <GspKz info="Ist Gesperrt" type="Boolean"><![CDATA[Nein]]></GspKz>
+    <Grp info="Gruppe" type="Integer"><![CDATA[Sendy]]></Grp>
+    <ArtBez info="Artikel Bezeichnung" type="Blob"><![CDATA[]]></ArtBez>
+    <PreisMge info="Preise gelten für Menge" type="Float"><![CDATA[]]></PreisMge>
+    <Rab0_Pr info="Rab0->Rabattpreis" type="Float"><![CDATA[]]></Rab0_Pr>
+    <Rab0_Sz info="Rab0->Rabattsatz" type="Float"><![CDATA[]]></Rab0_Sz>
+    <Rab0_Mge info="Rab0->Rabattmenge" type="Float"><![CDATA[]]></Rab0_Mge>
+    <Rab1_Pr info="Rab1->Rabattpreis" type="Float"><![CDATA[]]></Rab1_Pr>
+    <Rab1_Sz info="Rab1->Rabattsatz" type="Float"><![CDATA[]]></Rab1_Sz>
+    <Rab1_Mge info="Rab1->Rabattmenge" type="Float"><![CDATA[]]></Rab1_Mge>
+    <Rab2_Pr info="Rab2->Rabattpreis" type="Float"><![CDATA[]]></Rab2_Pr>
+    <Rab2_Sz info="Rab2->Rabattsatz" type="Float"><![CDATA[]]></Rab2_Sz>
+    <Rab2_Mge info="Rab2->Rabattmenge" type="Float"><![CDATA[]]></Rab2_Mge>
+    <Rab3_Pr info="Rab3->Rabattpreis" type="Float"><![CDATA[]]></Rab3_Pr>
+    <Rab3_Sz info="Rab3->Rabattsatz" type="Float"><![CDATA[]]></Rab3_Sz>
+    <Rab3_Mge info="Rab3->Rabattmenge" type="Float"><![CDATA[]]></Rab3_Mge>
+  </ArtikelAbweichend>
+  <ArtikelAbweichend>
+    <AdrNr info="Adressnummer" type="WideString"><![CDATA[17641]]></AdrNr>
+    <ArtNr info="Artikelnummer" type="WideString"><![CDATA[1808]]></ArtNr>
+    <AbwPr info="Abweichender Preis" type="Float"><![CDATA[11,9904]]></AbwPr>
+    <GspAbDat info="Gesperrt ab Datum" type="Date"><![CDATA[]]></GspAbDat>
+    <GspBisDat info="Gesperrt bis Datum" type="Date"><![CDATA[]]></GspBisDat>
+    <GspKz info="Ist Gesperrt" type="Boolean"><![CDATA[Nein]]></GspKz>
+    <Grp info="Gruppe" type="Integer"><![CDATA[Sendy]]></Grp>
+    <ArtBez info="Artikel Bezeichnung" type="Blob"><![CDATA[]]></ArtBez>
+    <PreisMge info="Preise gelten für Menge" type="Float"><![CDATA[]]></PreisMge>
+    <Rab0_Pr info="Rab0->Rabattpreis" type="Float"><![CDATA[]]></Rab0_Pr>
+    <Rab0_Sz info="Rab0->Rabattsatz" type="Float"><![CDATA[]]></Rab0_Sz>
+    <Rab0_Mge info="Rab0->Rabattmenge" type="Float"><![CDATA[]]></Rab0_Mge>
+    <Rab1_Pr info="Rab1->Rabattpreis" type="Float"><![CDATA[]]></Rab1_Pr>
+    <Rab1_Sz info="Rab1->Rabattsatz" type="Float"><![CDATA[]]></Rab1_Sz>
+    <Rab1_Mge info="Rab1->Rabattmenge" type="Float"><![CDATA[]]></Rab1_Mge>
+    <Rab2_Pr info="Rab2->Rabattpreis" type="Float"><![CDATA[]]></Rab2_Pr>
+    <Rab2_Sz info="Rab2->Rabattsatz" type="Float"><![CDATA[]]></Rab2_Sz>
+    <Rab2_Mge info="Rab2->Rabattmenge" type="Float"><![CDATA[]]></Rab2_Mge>
+    <Rab3_Pr info="Rab3->Rabattpreis" type="Float"><![CDATA[]]></Rab3_Pr>
+    <Rab3_Sz info="Rab3->Rabattsatz" type="Float"><![CDATA[]]></Rab3_Sz>
+    <Rab3_Mge info="Rab3->Rabattmenge" type="Float"><![CDATA[]]></Rab3_Mge>
+  </ArtikelAbweichend>
+    <ArtikelAbweichend>
+    <AdrNr info="Adressnummer" type="WideString"><![CDATA[17748]]></AdrNr>
+    <ArtNr info="Artikelnummer" type="WideString"><![CDATA[1808]]></ArtNr>
+    <AbwPr info="Abweichender Preis" type="Float"><![CDATA[10,9944]]></AbwPr>
+    <GspAbDat info="Gesperrt ab Datum" type="Date"><![CDATA[]]></GspAbDat>
+    <GspBisDat info="Gesperrt bis Datum" type="Date"><![CDATA[]]></GspBisDat>
+    <GspKz info="Ist Gesperrt" type="Boolean"><![CDATA[Nein]]></GspKz>
+    <Grp info="Gruppe" type="Integer"><![CDATA[]]></Grp>
+    <ArtBez info="Artikel Bezeichnung" type="Blob"><![CDATA[]]></ArtBez>
+    <PreisMge info="Preise gelten für Menge" type="Float"><![CDATA[1]]></PreisMge>
+    <Rab0_Pr info="Rab0->Rabattpreis" type="Float"><![CDATA[]]></Rab0_Pr>
+    <Rab0_Sz info="Rab0->Rabattsatz" type="Float"><![CDATA[]]></Rab0_Sz>
+    <Rab0_Mge info="Rab0->Rabattmenge" type="Float"><![CDATA[]]></Rab0_Mge>
+    <Rab1_Pr info="Rab1->Rabattpreis" type="Float"><![CDATA[]]></Rab1_Pr>
+    <Rab1_Sz info="Rab1->Rabattsatz" type="Float"><![CDATA[]]></Rab1_Sz>
+    <Rab1_Mge info="Rab1->Rabattmenge" type="Float"><![CDATA[]]></Rab1_Mge>
+    <Rab2_Pr info="Rab2->Rabattpreis" type="Float"><![CDATA[]]></Rab2_Pr>
+    <Rab2_Sz info="Rab2->Rabattsatz" type="Float"><![CDATA[]]></Rab2_Sz>
+    <Rab2_Mge info="Rab2->Rabattmenge" type="Float"><![CDATA[]]></Rab2_Mge>
+    <Rab3_Pr info="Rab3->Rabattpreis" type="Float"><![CDATA[]]></Rab3_Pr>
+    <Rab3_Sz info="Rab3->Rabattsatz" type="Float"><![CDATA[]]></Rab3_Sz>
+    <Rab3_Mge info="Rab3->Rabattmenge" type="Float"><![CDATA[]]></Rab3_Mge>
+    </ArtikelAbweichend>
+    <ArtikelAbweichend>
+    <AdrNr info="Adressnummer" type="WideString"><![CDATA[17419]]></AdrNr>
+    <ArtNr info="Artikelnummer" type="WideString"><![CDATA[1808]]></ArtNr>
+    <AbwPr info="Abweichender Preis" type="Float"><![CDATA[10,5944]]></AbwPr>
+    <GspAbDat info="Gesperrt ab Datum" type="Date"><![CDATA[]]></GspAbDat>
+    <GspBisDat info="Gesperrt bis Datum" type="Date"><![CDATA[]]></GspBisDat>
+    <GspKz info="Ist Gesperrt" type="Boolean"><![CDATA[Nein]]></GspKz>
+    <Grp info="Gruppe" type="Integer"><![CDATA[]]></Grp>
+    <ArtBez info="Artikel Bezeichnung" type="Blob"><![CDATA[]]></ArtBez>
+    <PreisMge info="Preise gelten für Menge" type="Float"><![CDATA[1]]></PreisMge>
+    <Rab0_Pr info="Rab0->Rabattpreis" type="Float"><![CDATA[]]></Rab0_Pr>
+    <Rab0_Sz info="Rab0->Rabattsatz" type="Float"><![CDATA[]]></Rab0_Sz>
+    <Rab0_Mge info="Rab0->Rabattmenge" type="Float"><![CDATA[]]></Rab0_Mge>
+    <Rab1_Pr info="Rab1->Rabattpreis" type="Float"><![CDATA[]]></Rab1_Pr>
+    <Rab1_Sz info="Rab1->Rabattsatz" type="Float"><![CDATA[]]></Rab1_Sz>
+    <Rab1_Mge info="Rab1->Rabattmenge" type="Float"><![CDATA[]]></Rab1_Mge>
+    <Rab2_Pr info="Rab2->Rabattpreis" type="Float"><![CDATA[]]></Rab2_Pr>
+    <Rab2_Sz info="Rab2->Rabattsatz" type="Float"><![CDATA[]]></Rab2_Sz>
+    <Rab2_Mge info="Rab2->Rabattmenge" type="Float"><![CDATA[]]></Rab2_Mge>
+    <Rab3_Pr info="Rab3->Rabattpreis" type="Float"><![CDATA[]]></Rab3_Pr>
+    <Rab3_Sz info="Rab3->Rabattsatz" type="Float"><![CDATA[]]></Rab3_Sz>
+    <Rab3_Mge info="Rab3->Rabattmenge" type="Float"><![CDATA[]]></Rab3_Mge>
+    </ArtikelAbweichend>
+    <ArtikelAbweichend>
+    <AdrNr info="Adressnummer" type="WideString"><![CDATA[16940]]></AdrNr>
+    <ArtNr info="Artikelnummer" type="WideString"><![CDATA[1808]]></ArtNr>
+    <AbwPr info="Abweichender Preis" type="Float"><![CDATA[10,9944]]></AbwPr>
+    <GspAbDat info="Gesperrt ab Datum" type="Date"><![CDATA[]]></GspAbDat>
+    <GspBisDat info="Gesperrt bis Datum" type="Date"><![CDATA[]]></GspBisDat>
+    <GspKz info="Ist Gesperrt" type="Boolean"><![CDATA[Nein]]></GspKz>
+    <Grp info="Gruppe" type="Integer"><![CDATA[]]></Grp>
+    <ArtBez info="Artikel Bezeichnung" type="Blob"><![CDATA[]]></ArtBez>
+    <PreisMge info="Preise gelten für Menge" type="Float"><![CDATA[1]]></PreisMge>
+    <Rab0_Pr info="Rab0->Rabattpreis" type="Float"><![CDATA[]]></Rab0_Pr>
+    <Rab0_Sz info="Rab0->Rabattsatz" type="Float"><![CDATA[]]></Rab0_Sz>
+    <Rab0_Mge info="Rab0->Rabattmenge" type="Float"><![CDATA[]]></Rab0_Mge>
+    <Rab1_Pr info="Rab1->Rabattpreis" type="Float"><![CDATA[]]></Rab1_Pr>
+    <Rab1_Sz info="Rab1->Rabattsatz" type="Float"><![CDATA[]]></Rab1_Sz>
+    <Rab1_Mge info="Rab1->Rabattmenge" type="Float"><![CDATA[]]></Rab1_Mge>
+    <Rab2_Pr info="Rab2->Rabattpreis" type="Float"><![CDATA[]]></Rab2_Pr>
+    <Rab2_Sz info="Rab2->Rabattsatz" type="Float"><![CDATA[]]></Rab2_Sz>
+    <Rab2_Mge info="Rab2->Rabattmenge" type="Float"><![CDATA[]]></Rab2_Mge>
+    <Rab3_Pr info="Rab3->Rabattpreis" type="Float"><![CDATA[]]></Rab3_Pr>
+    <Rab3_Sz info="Rab3->Rabattsatz" type="Float"><![CDATA[]]></Rab3_Sz>
+    <Rab3_Mge info="Rab3->Rabattmenge" type="Float"><![CDATA[]]></Rab3_Mge>
+    </ArtikelAbweichend>
+    <ArtikelAbweichend>
+    <AdrNr info="Adressnummer" type="WideString"><![CDATA[16977]]></AdrNr>
+    <ArtNr info="Artikelnummer" type="WideString"><![CDATA[1808]]></ArtNr>
+    <AbwPr info="Abweichender Preis" type="Float"><![CDATA[9,7904]]></AbwPr>
+    <GspAbDat info="Gesperrt ab Datum" type="Date"><![CDATA[]]></GspAbDat>
+    <GspBisDat info="Gesperrt bis Datum" type="Date"><![CDATA[]]></GspBisDat>
+    <GspKz info="Ist Gesperrt" type="Boolean"><![CDATA[Nein]]></GspKz>
+    <Grp info="Gruppe" type="Integer"><![CDATA[]]></Grp>
+    <ArtBez info="Artikel Bezeichnung" type="Blob"><![CDATA[]]></ArtBez>
+    <PreisMge info="Preise gelten für Menge" type="Float"><![CDATA[1]]></PreisMge>
+    <Rab0_Pr info="Rab0->Rabattpreis" type="Float"><![CDATA[]]></Rab0_Pr>
+    <Rab0_Sz info="Rab0->Rabattsatz" type="Float"><![CDATA[]]></Rab0_Sz>
+    <Rab0_Mge info="Rab0->Rabattmenge" type="Float"><![CDATA[]]></Rab0_Mge>
+    <Rab1_Pr info="Rab1->Rabattpreis" type="Float"><![CDATA[]]></Rab1_Pr>
+    <Rab1_Sz info="Rab1->Rabattsatz" type="Float"><![CDATA[]]></Rab1_Sz>
+    <Rab1_Mge info="Rab1->Rabattmenge" type="Float"><![CDATA[]]></Rab1_Mge>
+    <Rab2_Pr info="Rab2->Rabattpreis" type="Float"><![CDATA[]]></Rab2_Pr>
+    <Rab2_Sz info="Rab2->Rabattsatz" type="Float"><![CDATA[]]></Rab2_Sz>
+    <Rab2_Mge info="Rab2->Rabattmenge" type="Float"><![CDATA[]]></Rab2_Mge>
+    <Rab3_Pr info="Rab3->Rabattpreis" type="Float"><![CDATA[]]></Rab3_Pr>
+    <Rab3_Sz info="Rab3->Rabattsatz" type="Float"><![CDATA[]]></Rab3_Sz>
+    <Rab3_Mge info="Rab3->Rabattmenge" type="Float"><![CDATA[]]></Rab3_Mge>
+    </ArtikelAbweichend>
+    <ArtikelAbweichend>
+    <AdrNr info="Adressnummer" type="WideString"><![CDATA[17740]]></AdrNr>
+    <ArtNr info="Artikelnummer" type="WideString"><![CDATA[1808]]></ArtNr>
+    <AbwPr info="Abweichender Preis" type="Float"><![CDATA[10,4944]]></AbwPr>
+    <GspAbDat info="Gesperrt ab Datum" type="Date"><![CDATA[]]></GspAbDat>
+    <GspBisDat info="Gesperrt bis Datum" type="Date"><![CDATA[]]></GspBisDat>
+    <GspKz info="Ist Gesperrt" type="Boolean"><![CDATA[Nein]]></GspKz>
+    <Grp info="Gruppe" type="Integer"><![CDATA[]]></Grp>
+    <ArtBez info="Artikel Bezeichnung" type="Blob"><![CDATA[]]></ArtBez>
+    <PreisMge info="Preise gelten für Menge" type="Float"><![CDATA[1]]></PreisMge>
+    <Rab0_Pr info="Rab0->Rabattpreis" type="Float"><![CDATA[]]></Rab0_Pr>
+    <Rab0_Sz info="Rab0->Rabattsatz" type="Float"><![CDATA[]]></Rab0_Sz>
+    <Rab0_Mge info="Rab0->Rabattmenge" type="Float"><![CDATA[]]></Rab0_Mge>
+    <Rab1_Pr info="Rab1->Rabattpreis" type="Float"><![CDATA[]]></Rab1_Pr>
+    <Rab1_Sz info="Rab1->Rabattsatz" type="Float"><![CDATA[]]></Rab1_Sz>
+    <Rab1_Mge info="Rab1->Rabattmenge" type="Float"><![CDATA[]]></Rab1_Mge>
+    <Rab2_Pr info="Rab2->Rabattpreis" type="Float"><![CDATA[]]></Rab2_Pr>
+    <Rab2_Sz info="Rab2->Rabattsatz" type="Float"><![CDATA[]]></Rab2_Sz>
+    <Rab2_Mge info="Rab2->Rabattmenge" type="Float"><![CDATA[]]></Rab2_Mge>
+    <Rab3_Pr info="Rab3->Rabattpreis" type="Float"><![CDATA[]]></Rab3_Pr>
+    <Rab3_Sz info="Rab3->Rabattsatz" type="Float"><![CDATA[]]></Rab3_Sz>
+    <Rab3_Mge info="Rab3->Rabattmenge" type="Float"><![CDATA[]]></Rab3_Mge>
+    </ArtikelAbweichend>
+  <ArtikelAbweichend>
+    <AdrNr info="Adressnummer" type="WideString"><![CDATA[16605]]></AdrNr>
+    <ArtNr info="Artikelnummer" type="WideString"><![CDATA[1808]]></ArtNr>
+    <AbwPr info="Abweichender Preis" type="Float"><![CDATA[10,9904]]></AbwPr>
+    <GspAbDat info="Gesperrt ab Datum" type="Date"><![CDATA[]]></GspAbDat>
+    <GspBisDat info="Gesperrt bis Datum" type="Date"><![CDATA[]]></GspBisDat>
+    <GspKz info="Ist Gesperrt" type="Boolean"><![CDATA[Nein]]></GspKz>
+    <Grp info="Gruppe" type="Integer"><![CDATA[Hot Chili]]></Grp>
+    <ArtBez info="Artikel Bezeichnung" type="Blob"><![CDATA[]]></ArtBez>
+    <PreisMge info="Preise gelten für Menge" type="Float"><![CDATA[]]></PreisMge>
+    <Rab0_Pr info="Rab0->Rabattpreis" type="Float"><![CDATA[]]></Rab0_Pr>
+    <Rab0_Sz info="Rab0->Rabattsatz" type="Float"><![CDATA[]]></Rab0_Sz>
+    <Rab0_Mge info="Rab0->Rabattmenge" type="Float"><![CDATA[]]></Rab0_Mge>
+    <Rab1_Pr info="Rab1->Rabattpreis" type="Float"><![CDATA[]]></Rab1_Pr>
+    <Rab1_Sz info="Rab1->Rabattsatz" type="Float"><![CDATA[]]></Rab1_Sz>
+    <Rab1_Mge info="Rab1->Rabattmenge" type="Float"><![CDATA[]]></Rab1_Mge>
+    <Rab2_Pr info="Rab2->Rabattpreis" type="Float"><![CDATA[]]></Rab2_Pr>
+    <Rab2_Sz info="Rab2->Rabattsatz" type="Float"><![CDATA[]]></Rab2_Sz>
+    <Rab2_Mge info="Rab2->Rabattmenge" type="Float"><![CDATA[]]></Rab2_Mge>
+    <Rab3_Pr info="Rab3->Rabattpreis" type="Float"><![CDATA[]]></Rab3_Pr>
+    <Rab3_Sz info="Rab3->Rabattsatz" type="Float"><![CDATA[]]></Rab3_Sz>
+    <Rab3_Mge info="Rab3->Rabattmenge" type="Float"><![CDATA[]]></Rab3_Mge>
+  </ArtikelAbweichend>
+  <ArtikelAbweichend>
+    <AdrNr info="Adressnummer" type="WideString"><![CDATA[16597]]></AdrNr>
+    <ArtNr info="Artikelnummer" type="WideString"><![CDATA[1808]]></ArtNr>
+    <AbwPr info="Abweichender Preis" type="Float"><![CDATA[10,9904]]></AbwPr>
+    <GspAbDat info="Gesperrt ab Datum" type="Date"><![CDATA[]]></GspAbDat>
+    <GspBisDat info="Gesperrt bis Datum" type="Date"><![CDATA[]]></GspBisDat>
+    <GspKz info="Ist Gesperrt" type="Boolean"><![CDATA[Nein]]></GspKz>
+    <Grp info="Gruppe" type="Integer"><![CDATA[Hot Chili]]></Grp>
+    <ArtBez info="Artikel Bezeichnung" type="Blob"><![CDATA[]]></ArtBez>
+    <PreisMge info="Preise gelten für Menge" type="Float"><![CDATA[]]></PreisMge>
+    <Rab0_Pr info="Rab0->Rabattpreis" type="Float"><![CDATA[]]></Rab0_Pr>
+    <Rab0_Sz info="Rab0->Rabattsatz" type="Float"><![CDATA[]]></Rab0_Sz>
+    <Rab0_Mge info="Rab0->Rabattmenge" type="Float"><![CDATA[]]></Rab0_Mge>
+    <Rab1_Pr info="Rab1->Rabattpreis" type="Float"><![CDATA[]]></Rab1_Pr>
+    <Rab1_Sz info="Rab1->Rabattsatz" type="Float"><![CDATA[]]></Rab1_Sz>
+    <Rab1_Mge info="Rab1->Rabattmenge" type="Float"><![CDATA[]]></Rab1_Mge>
+    <Rab2_Pr info="Rab2->Rabattpreis" type="Float"><![CDATA[]]></Rab2_Pr>
+    <Rab2_Sz info="Rab2->Rabattsatz" type="Float"><![CDATA[]]></Rab2_Sz>
+    <Rab2_Mge info="Rab2->Rabattmenge" type="Float"><![CDATA[]]></Rab2_Mge>
+    <Rab3_Pr info="Rab3->Rabattpreis" type="Float"><![CDATA[]]></Rab3_Pr>
+    <Rab3_Sz info="Rab3->Rabattsatz" type="Float"><![CDATA[]]></Rab3_Sz>
+    <Rab3_Mge info="Rab3->Rabattmenge" type="Float"><![CDATA[]]></Rab3_Mge>
+  </ArtikelAbweichend>
+  <ArtikelAbweichend>
+    <AdrNr info="Adressnummer" type="WideString"><![CDATA[16616]]></AdrNr>
+    <ArtNr info="Artikelnummer" type="WideString"><![CDATA[1808]]></ArtNr>
+    <AbwPr info="Abweichender Preis" type="Float"><![CDATA[10,9904]]></AbwPr>
+    <GspAbDat info="Gesperrt ab Datum" type="Date"><![CDATA[]]></GspAbDat>
+    <GspBisDat info="Gesperrt bis Datum" type="Date"><![CDATA[]]></GspBisDat>
+    <GspKz info="Ist Gesperrt" type="Boolean"><![CDATA[Nein]]></GspKz>
+    <Grp info="Gruppe" type="Integer"><![CDATA[Hot Chili]]></Grp>
+    <ArtBez info="Artikel Bezeichnung" type="Blob"><![CDATA[]]></ArtBez>
+    <PreisMge info="Preise gelten für Menge" type="Float"><![CDATA[]]></PreisMge>
+    <Rab0_Pr info="Rab0->Rabattpreis" type="Float"><![CDATA[]]></Rab0_Pr>
+    <Rab0_Sz info="Rab0->Rabattsatz" type="Float"><![CDATA[]]></Rab0_Sz>
+    <Rab0_Mge info="Rab0->Rabattmenge" type="Float"><![CDATA[]]></Rab0_Mge>
+    <Rab1_Pr info="Rab1->Rabattpreis" type="Float"><![CDATA[]]></Rab1_Pr>
+    <Rab1_Sz info="Rab1->Rabattsatz" type="Float"><![CDATA[]]></Rab1_Sz>
+    <Rab1_Mge info="Rab1->Rabattmenge" type="Float"><![CDATA[]]></Rab1_Mge>
+    <Rab2_Pr info="Rab2->Rabattpreis" type="Float"><![CDATA[]]></Rab2_Pr>
+    <Rab2_Sz info="Rab2->Rabattsatz" type="Float"><![CDATA[]]></Rab2_Sz>
+    <Rab2_Mge info="Rab2->Rabattmenge" type="Float"><![CDATA[]]></Rab2_Mge>
+    <Rab3_Pr info="Rab3->Rabattpreis" type="Float"><![CDATA[]]></Rab3_Pr>
+    <Rab3_Sz info="Rab3->Rabattsatz" type="Float"><![CDATA[]]></Rab3_Sz>
+    <Rab3_Mge info="Rab3->Rabattmenge" type="Float"><![CDATA[]]></Rab3_Mge>
+  </ArtikelAbweichend>
+  <ArtikelAbweichend>
+    <AdrNr info="Adressnummer" type="WideString"><![CDATA[16727]]></AdrNr>
+    <ArtNr info="Artikelnummer" type="WideString"><![CDATA[1808]]></ArtNr>
+    <AbwPr info="Abweichender Preis" type="Float"><![CDATA[10,9904]]></AbwPr>
+    <GspAbDat info="Gesperrt ab Datum" type="Date"><![CDATA[]]></GspAbDat>
+    <GspBisDat info="Gesperrt bis Datum" type="Date"><![CDATA[]]></GspBisDat>
+    <GspKz info="Ist Gesperrt" type="Boolean"><![CDATA[Nein]]></GspKz>
+    <Grp info="Gruppe" type="Integer"><![CDATA[Hot Chili]]></Grp>
+    <ArtBez info="Artikel Bezeichnung" type="Blob"><![CDATA[]]></ArtBez>
+    <PreisMge info="Preise gelten für Menge" type="Float"><![CDATA[]]></PreisMge>
+    <Rab0_Pr info="Rab0->Rabattpreis" type="Float"><![CDATA[]]></Rab0_Pr>
+    <Rab0_Sz info="Rab0->Rabattsatz" type="Float"><![CDATA[]]></Rab0_Sz>
+    <Rab0_Mge info="Rab0->Rabattmenge" type="Float"><![CDATA[]]></Rab0_Mge>
+    <Rab1_Pr info="Rab1->Rabattpreis" type="Float"><![CDATA[]]></Rab1_Pr>
+    <Rab1_Sz info="Rab1->Rabattsatz" type="Float"><![CDATA[]]></Rab1_Sz>
+    <Rab1_Mge info="Rab1->Rabattmenge" type="Float"><![CDATA[]]></Rab1_Mge>
+    <Rab2_Pr info="Rab2->Rabattpreis" type="Float"><![CDATA[]]></Rab2_Pr>
+    <Rab2_Sz info="Rab2->Rabattsatz" type="Float"><![CDATA[]]></Rab2_Sz>
+    <Rab2_Mge info="Rab2->Rabattmenge" type="Float"><![CDATA[]]></Rab2_Mge>
+    <Rab3_Pr info="Rab3->Rabattpreis" type="Float"><![CDATA[]]></Rab3_Pr>
+    <Rab3_Sz info="Rab3->Rabattsatz" type="Float"><![CDATA[]]></Rab3_Sz>
+    <Rab3_Mge info="Rab3->Rabattmenge" type="Float"><![CDATA[]]></Rab3_Mge>
+  </ArtikelAbweichend>
+  <ArtikelAbweichend>
+    <AdrNr info="Adressnummer" type="WideString"><![CDATA[16792]]></AdrNr>
+    <ArtNr info="Artikelnummer" type="WideString"><![CDATA[1808]]></ArtNr>
+    <AbwPr info="Abweichender Preis" type="Float"><![CDATA[10,9904]]></AbwPr>
+    <GspAbDat info="Gesperrt ab Datum" type="Date"><![CDATA[]]></GspAbDat>
+    <GspBisDat info="Gesperrt bis Datum" type="Date"><![CDATA[]]></GspBisDat>
+    <GspKz info="Ist Gesperrt" type="Boolean"><![CDATA[Nein]]></GspKz>
+    <Grp info="Gruppe" type="Integer"><![CDATA[Hot Chili]]></Grp>
+    <ArtBez info="Artikel Bezeichnung" type="Blob"><![CDATA[]]></ArtBez>
+    <PreisMge info="Preise gelten für Menge" type="Float"><![CDATA[]]></PreisMge>
+    <Rab0_Pr info="Rab0->Rabattpreis" type="Float"><![CDATA[]]></Rab0_Pr>
+    <Rab0_Sz info="Rab0->Rabattsatz" type="Float"><![CDATA[]]></Rab0_Sz>
+    <Rab0_Mge info="Rab0->Rabattmenge" type="Float"><![CDATA[]]></Rab0_Mge>
+    <Rab1_Pr info="Rab1->Rabattpreis" type="Float"><![CDATA[]]></Rab1_Pr>
+    <Rab1_Sz info="Rab1->Rabattsatz" type="Float"><![CDATA[]]></Rab1_Sz>
+    <Rab1_Mge info="Rab1->Rabattmenge" type="Float"><![CDATA[]]></Rab1_Mge>
+    <Rab2_Pr info="Rab2->Rabattpreis" type="Float"><![CDATA[]]></Rab2_Pr>
+    <Rab2_Sz info="Rab2->Rabattsatz" type="Float"><![CDATA[]]></Rab2_Sz>
+    <Rab2_Mge info="Rab2->Rabattmenge" type="Float"><![CDATA[]]></Rab2_Mge>
+    <Rab3_Pr info="Rab3->Rabattpreis" type="Float"><![CDATA[]]></Rab3_Pr>
+    <Rab3_Sz info="Rab3->Rabattsatz" type="Float"><![CDATA[]]></Rab3_Sz>
+    <Rab3_Mge info="Rab3->Rabattmenge" type="Float"><![CDATA[]]></Rab3_Mge>
+  </ArtikelAbweichend>
+  <ArtikelAbweichend>
+    <AdrNr info="Adressnummer" type="WideString"><![CDATA[16833]]></AdrNr>
+    <ArtNr info="Artikelnummer" type="WideString"><![CDATA[1808]]></ArtNr>
+    <AbwPr info="Abweichender Preis" type="Float"><![CDATA[10,9904]]></AbwPr>
+    <GspAbDat info="Gesperrt ab Datum" type="Date"><![CDATA[]]></GspAbDat>
+    <GspBisDat info="Gesperrt bis Datum" type="Date"><![CDATA[]]></GspBisDat>
+    <GspKz info="Ist Gesperrt" type="Boolean"><![CDATA[Nein]]></GspKz>
+    <Grp info="Gruppe" type="Integer"><![CDATA[Hot Chili]]></Grp>
+    <ArtBez info="Artikel Bezeichnung" type="Blob"><![CDATA[]]></ArtBez>
+    <PreisMge info="Preise gelten für Menge" type="Float"><![CDATA[]]></PreisMge>
+    <Rab0_Pr info="Rab0->Rabattpreis" type="Float"><![CDATA[]]></Rab0_Pr>
+    <Rab0_Sz info="Rab0->Rabattsatz" type="Float"><![CDATA[]]></Rab0_Sz>
+    <Rab0_Mge info="Rab0->Rabattmenge" type="Float"><![CDATA[]]></Rab0_Mge>
+    <Rab1_Pr info="Rab1->Rabattpreis" type="Float"><![CDATA[]]></Rab1_Pr>
+    <Rab1_Sz info="Rab1->Rabattsatz" type="Float"><![CDATA[]]></Rab1_Sz>
+    <Rab1_Mge info="Rab1->Rabattmenge" type="Float"><![CDATA[]]></Rab1_Mge>
+    <Rab2_Pr info="Rab2->Rabattpreis" type="Float"><![CDATA[]]></Rab2_Pr>
+    <Rab2_Sz info="Rab2->Rabattsatz" type="Float"><![CDATA[]]></Rab2_Sz>
+    <Rab2_Mge info="Rab2->Rabattmenge" type="Float"><![CDATA[]]></Rab2_Mge>
+    <Rab3_Pr info="Rab3->Rabattpreis" type="Float"><![CDATA[]]></Rab3_Pr>
+    <Rab3_Sz info="Rab3->Rabattsatz" type="Float"><![CDATA[]]></Rab3_Sz>
+    <Rab3_Mge info="Rab3->Rabattmenge" type="Float"><![CDATA[]]></Rab3_Mge>
+  </ArtikelAbweichend>
+  <ArtikelAbweichend>
+    <AdrNr info="Adressnummer" type="WideString"><![CDATA[16840]]></AdrNr>
+    <ArtNr info="Artikelnummer" type="WideString"><![CDATA[1808]]></ArtNr>
+    <AbwPr info="Abweichender Preis" type="Float"><![CDATA[10,9904]]></AbwPr>
+    <GspAbDat info="Gesperrt ab Datum" type="Date"><![CDATA[]]></GspAbDat>
+    <GspBisDat info="Gesperrt bis Datum" type="Date"><![CDATA[]]></GspBisDat>
+    <GspKz info="Ist Gesperrt" type="Boolean"><![CDATA[Nein]]></GspKz>
+    <Grp info="Gruppe" type="Integer"><![CDATA[Hot Chili]]></Grp>
+    <ArtBez info="Artikel Bezeichnung" type="Blob"><![CDATA[]]></ArtBez>
+    <PreisMge info="Preise gelten für Menge" type="Float"><![CDATA[]]></PreisMge>
+    <Rab0_Pr info="Rab0->Rabattpreis" type="Float"><![CDATA[]]></Rab0_Pr>
+    <Rab0_Sz info="Rab0->Rabattsatz" type="Float"><![CDATA[]]></Rab0_Sz>
+    <Rab0_Mge info="Rab0->Rabattmenge" type="Float"><![CDATA[]]></Rab0_Mge>
+    <Rab1_Pr info="Rab1->Rabattpreis" type="Float"><![CDATA[]]></Rab1_Pr>
+    <Rab1_Sz info="Rab1->Rabattsatz" type="Float"><![CDATA[]]></Rab1_Sz>
+    <Rab1_Mge info="Rab1->Rabattmenge" type="Float"><![CDATA[]]></Rab1_Mge>
+    <Rab2_Pr info="Rab2->Rabattpreis" type="Float"><![CDATA[]]></Rab2_Pr>
+    <Rab2_Sz info="Rab2->Rabattsatz" type="Float"><![CDATA[]]></Rab2_Sz>
+    <Rab2_Mge info="Rab2->Rabattmenge" type="Float"><![CDATA[]]></Rab2_Mge>
+    <Rab3_Pr info="Rab3->Rabattpreis" type="Float"><![CDATA[]]></Rab3_Pr>
+    <Rab3_Sz info="Rab3->Rabattsatz" type="Float"><![CDATA[]]></Rab3_Sz>
+    <Rab3_Mge info="Rab3->Rabattmenge" type="Float"><![CDATA[]]></Rab3_Mge>
+  </ArtikelAbweichend>
+  <ArtikelAbweichend>
+    <AdrNr info="Adressnummer" type="WideString"><![CDATA[16850]]></AdrNr>
+    <ArtNr info="Artikelnummer" type="WideString"><![CDATA[1808]]></ArtNr>
+    <AbwPr info="Abweichender Preis" type="Float"><![CDATA[10,9904]]></AbwPr>
+    <GspAbDat info="Gesperrt ab Datum" type="Date"><![CDATA[]]></GspAbDat>
+    <GspBisDat info="Gesperrt bis Datum" type="Date"><![CDATA[]]></GspBisDat>
+    <GspKz info="Ist Gesperrt" type="Boolean"><![CDATA[Nein]]></GspKz>
+    <Grp info="Gruppe" type="Integer"><![CDATA[Hot Chili]]></Grp>
+    <ArtBez info="Artikel Bezeichnung" type="Blob"><![CDATA[]]></ArtBez>
+    <PreisMge info="Preise gelten für Menge" type="Float"><![CDATA[]]></PreisMge>
+    <Rab0_Pr info="Rab0->Rabattpreis" type="Float"><![CDATA[]]></Rab0_Pr>
+    <Rab0_Sz info="Rab0->Rabattsatz" type="Float"><![CDATA[]]></Rab0_Sz>
+    <Rab0_Mge info="Rab0->Rabattmenge" type="Float"><![CDATA[]]></Rab0_Mge>
+    <Rab1_Pr info="Rab1->Rabattpreis" type="Float"><![CDATA[]]></Rab1_Pr>
+    <Rab1_Sz info="Rab1->Rabattsatz" type="Float"><![CDATA[]]></Rab1_Sz>
+    <Rab1_Mge info="Rab1->Rabattmenge" type="Float"><![CDATA[]]></Rab1_Mge>
+    <Rab2_Pr info="Rab2->Rabattpreis" type="Float"><![CDATA[]]></Rab2_Pr>
+    <Rab2_Sz info="Rab2->Rabattsatz" type="Float"><![CDATA[]]></Rab2_Sz>
+    <Rab2_Mge info="Rab2->Rabattmenge" type="Float"><![CDATA[]]></Rab2_Mge>
+    <Rab3_Pr info="Rab3->Rabattpreis" type="Float"><![CDATA[]]></Rab3_Pr>
+    <Rab3_Sz info="Rab3->Rabattsatz" type="Float"><![CDATA[]]></Rab3_Sz>
+    <Rab3_Mge info="Rab3->Rabattmenge" type="Float"><![CDATA[]]></Rab3_Mge>
+  </ArtikelAbweichend>
+  <ArtikelAbweichend>
+    <AdrNr info="Adressnummer" type="WideString"><![CDATA[16938]]></AdrNr>
+    <ArtNr info="Artikelnummer" type="WideString"><![CDATA[1808]]></ArtNr>
+    <AbwPr info="Abweichender Preis" type="Float"><![CDATA[10,9904]]></AbwPr>
+    <GspAbDat info="Gesperrt ab Datum" type="Date"><![CDATA[]]></GspAbDat>
+    <GspBisDat info="Gesperrt bis Datum" type="Date"><![CDATA[]]></GspBisDat>
+    <GspKz info="Ist Gesperrt" type="Boolean"><![CDATA[Nein]]></GspKz>
+    <Grp info="Gruppe" type="Integer"><![CDATA[Hot Chili]]></Grp>
+    <ArtBez info="Artikel Bezeichnung" type="Blob"><![CDATA[]]></ArtBez>
+    <PreisMge info="Preise gelten für Menge" type="Float"><![CDATA[]]></PreisMge>
+    <Rab0_Pr info="Rab0->Rabattpreis" type="Float"><![CDATA[]]></Rab0_Pr>
+    <Rab0_Sz info="Rab0->Rabattsatz" type="Float"><![CDATA[]]></Rab0_Sz>
+    <Rab0_Mge info="Rab0->Rabattmenge" type="Float"><![CDATA[]]></Rab0_Mge>
+    <Rab1_Pr info="Rab1->Rabattpreis" type="Float"><![CDATA[]]></Rab1_Pr>
+    <Rab1_Sz info="Rab1->Rabattsatz" type="Float"><![CDATA[]]></Rab1_Sz>
+    <Rab1_Mge info="Rab1->Rabattmenge" type="Float"><![CDATA[]]></Rab1_Mge>
+    <Rab2_Pr info="Rab2->Rabattpreis" type="Float"><![CDATA[]]></Rab2_Pr>
+    <Rab2_Sz info="Rab2->Rabattsatz" type="Float"><![CDATA[]]></Rab2_Sz>
+    <Rab2_Mge info="Rab2->Rabattmenge" type="Float"><![CDATA[]]></Rab2_Mge>
+    <Rab3_Pr info="Rab3->Rabattpreis" type="Float"><![CDATA[]]></Rab3_Pr>
+    <Rab3_Sz info="Rab3->Rabattsatz" type="Float"><![CDATA[]]></Rab3_Sz>
+    <Rab3_Mge info="Rab3->Rabattmenge" type="Float"><![CDATA[]]></Rab3_Mge>
+  </ArtikelAbweichend>
+  <ArtikelAbweichend>
+    <AdrNr info="Adressnummer" type="WideString"><![CDATA[16978]]></AdrNr>
+    <ArtNr info="Artikelnummer" type="WideString"><![CDATA[1808]]></ArtNr>
+    <AbwPr info="Abweichender Preis" type="Float"><![CDATA[10,9904]]></AbwPr>
+    <GspAbDat info="Gesperrt ab Datum" type="Date"><![CDATA[]]></GspAbDat>
+    <GspBisDat info="Gesperrt bis Datum" type="Date"><![CDATA[]]></GspBisDat>
+    <GspKz info="Ist Gesperrt" type="Boolean"><![CDATA[Nein]]></GspKz>
+    <Grp info="Gruppe" type="Integer"><![CDATA[Hot Chili]]></Grp>
+    <ArtBez info="Artikel Bezeichnung" type="Blob"><![CDATA[]]></ArtBez>
+    <PreisMge info="Preise gelten für Menge" type="Float"><![CDATA[]]></PreisMge>
+    <Rab0_Pr info="Rab0->Rabattpreis" type="Float"><![CDATA[]]></Rab0_Pr>
+    <Rab0_Sz info="Rab0->Rabattsatz" type="Float"><![CDATA[]]></Rab0_Sz>
+    <Rab0_Mge info="Rab0->Rabattmenge" type="Float"><![CDATA[]]></Rab0_Mge>
+    <Rab1_Pr info="Rab1->Rabattpreis" type="Float"><![CDATA[]]></Rab1_Pr>
+    <Rab1_Sz info="Rab1->Rabattsatz" type="Float"><![CDATA[]]></Rab1_Sz>
+    <Rab1_Mge info="Rab1->Rabattmenge" type="Float"><![CDATA[]]></Rab1_Mge>
+    <Rab2_Pr info="Rab2->Rabattpreis" type="Float"><![CDATA[]]></Rab2_Pr>
+    <Rab2_Sz info="Rab2->Rabattsatz" type="Float"><![CDATA[]]></Rab2_Sz>
+    <Rab2_Mge info="Rab2->Rabattmenge" type="Float"><![CDATA[]]></Rab2_Mge>
+    <Rab3_Pr info="Rab3->Rabattpreis" type="Float"><![CDATA[]]></Rab3_Pr>
+    <Rab3_Sz info="Rab3->Rabattsatz" type="Float"><![CDATA[]]></Rab3_Sz>
+    <Rab3_Mge info="Rab3->Rabattmenge" type="Float"><![CDATA[]]></Rab3_Mge>
+  </ArtikelAbweichend>
+  <ArtikelAbweichend>
+    <AdrNr info="Adressnummer" type="WideString"><![CDATA[17056]]></AdrNr>
+    <ArtNr info="Artikelnummer" type="WideString"><![CDATA[1808]]></ArtNr>
+    <AbwPr info="Abweichender Preis" type="Float"><![CDATA[10,9904]]></AbwPr>
+    <GspAbDat info="Gesperrt ab Datum" type="Date"><![CDATA[]]></GspAbDat>
+    <GspBisDat info="Gesperrt bis Datum" type="Date"><![CDATA[]]></GspBisDat>
+    <GspKz info="Ist Gesperrt" type="Boolean"><![CDATA[Nein]]></GspKz>
+    <Grp info="Gruppe" type="Integer"><![CDATA[Hot Chili]]></Grp>
+    <ArtBez info="Artikel Bezeichnung" type="Blob"><![CDATA[]]></ArtBez>
+    <PreisMge info="Preise gelten für Menge" type="Float"><![CDATA[]]></PreisMge>
+    <Rab0_Pr info="Rab0->Rabattpreis" type="Float"><![CDATA[]]></Rab0_Pr>
+    <Rab0_Sz info="Rab0->Rabattsatz" type="Float"><![CDATA[]]></Rab0_Sz>
+    <Rab0_Mge info="Rab0->Rabattmenge" type="Float"><![CDATA[]]></Rab0_Mge>
+    <Rab1_Pr info="Rab1->Rabattpreis" type="Float"><![CDATA[]]></Rab1_Pr>
+    <Rab1_Sz info="Rab1->Rabattsatz" type="Float"><![CDATA[]]></Rab1_Sz>
+    <Rab1_Mge info="Rab1->Rabattmenge" type="Float"><![CDATA[]]></Rab1_Mge>
+    <Rab2_Pr info="Rab2->Rabattpreis" type="Float"><![CDATA[]]></Rab2_Pr>
+    <Rab2_Sz info="Rab2->Rabattsatz" type="Float"><![CDATA[]]></Rab2_Sz>
+    <Rab2_Mge info="Rab2->Rabattmenge" type="Float"><![CDATA[]]></Rab2_Mge>
+    <Rab3_Pr info="Rab3->Rabattpreis" type="Float"><![CDATA[]]></Rab3_Pr>
+    <Rab3_Sz info="Rab3->Rabattsatz" type="Float"><![CDATA[]]></Rab3_Sz>
+    <Rab3_Mge info="Rab3->Rabattmenge" type="Float"><![CDATA[]]></Rab3_Mge>
+  </ArtikelAbweichend>
+  <ArtikelAbweichend>
+    <AdrNr info="Adressnummer" type="WideString"><![CDATA[17315]]></AdrNr>
+    <ArtNr info="Artikelnummer" type="WideString"><![CDATA[1808]]></ArtNr>
+    <AbwPr info="Abweichender Preis" type="Float"><![CDATA[10,9904]]></AbwPr>
+    <GspAbDat info="Gesperrt ab Datum" type="Date"><![CDATA[]]></GspAbDat>
+    <GspBisDat info="Gesperrt bis Datum" type="Date"><![CDATA[]]></GspBisDat>
+    <GspKz info="Ist Gesperrt" type="Boolean"><![CDATA[Nein]]></GspKz>
+    <Grp info="Gruppe" type="Integer"><![CDATA[Hot Chili]]></Grp>
+    <ArtBez info="Artikel Bezeichnung" type="Blob"><![CDATA[]]></ArtBez>
+    <PreisMge info="Preise gelten für Menge" type="Float"><![CDATA[]]></PreisMge>
+    <Rab0_Pr info="Rab0->Rabattpreis" type="Float"><![CDATA[]]></Rab0_Pr>
+    <Rab0_Sz info="Rab0->Rabattsatz" type="Float"><![CDATA[]]></Rab0_Sz>
+    <Rab0_Mge info="Rab0->Rabattmenge" type="Float"><![CDATA[]]></Rab0_Mge>
+    <Rab1_Pr info="Rab1->Rabattpreis" type="Float"><![CDATA[]]></Rab1_Pr>
+    <Rab1_Sz info="Rab1->Rabattsatz" type="Float"><![CDATA[]]></Rab1_Sz>
+    <Rab1_Mge info="Rab1->Rabattmenge" type="Float"><![CDATA[]]></Rab1_Mge>
+    <Rab2_Pr info="Rab2->Rabattpreis" type="Float"><![CDATA[]]></Rab2_Pr>
+    <Rab2_Sz info="Rab2->Rabattsatz" type="Float"><![CDATA[]]></Rab2_Sz>
+    <Rab2_Mge info="Rab2->Rabattmenge" type="Float"><![CDATA[]]></Rab2_Mge>
+    <Rab3_Pr info="Rab3->Rabattpreis" type="Float"><![CDATA[]]></Rab3_Pr>
+    <Rab3_Sz info="Rab3->Rabattsatz" type="Float"><![CDATA[]]></Rab3_Sz>
+    <Rab3_Mge info="Rab3->Rabattmenge" type="Float"><![CDATA[]]></Rab3_Mge>
+  </ArtikelAbweichend>
+  <ArtikelAbweichend>
+    <AdrNr info="Adressnummer" type="WideString"><![CDATA[17416]]></AdrNr>
+    <ArtNr info="Artikelnummer" type="WideString"><![CDATA[1808]]></ArtNr>
+    <AbwPr info="Abweichender Preis" type="Float"><![CDATA[10,9904]]></AbwPr>
+    <GspAbDat info="Gesperrt ab Datum" type="Date"><![CDATA[]]></GspAbDat>
+    <GspBisDat info="Gesperrt bis Datum" type="Date"><![CDATA[]]></GspBisDat>
+    <GspKz info="Ist Gesperrt" type="Boolean"><![CDATA[Nein]]></GspKz>
+    <Grp info="Gruppe" type="Integer"><![CDATA[Hot Chili]]></Grp>
+    <ArtBez info="Artikel Bezeichnung" type="Blob"><![CDATA[]]></ArtBez>
+    <PreisMge info="Preise gelten für Menge" type="Float"><![CDATA[]]></PreisMge>
+    <Rab0_Pr info="Rab0->Rabattpreis" type="Float"><![CDATA[]]></Rab0_Pr>
+    <Rab0_Sz info="Rab0->Rabattsatz" type="Float"><![CDATA[]]></Rab0_Sz>
+    <Rab0_Mge info="Rab0->Rabattmenge" type="Float"><![CDATA[]]></Rab0_Mge>
+    <Rab1_Pr info="Rab1->Rabattpreis" type="Float"><![CDATA[]]></Rab1_Pr>
+    <Rab1_Sz info="Rab1->Rabattsatz" type="Float"><![CDATA[]]></Rab1_Sz>
+    <Rab1_Mge info="Rab1->Rabattmenge" type="Float"><![CDATA[]]></Rab1_Mge>
+    <Rab2_Pr info="Rab2->Rabattpreis" type="Float"><![CDATA[]]></Rab2_Pr>
+    <Rab2_Sz info="Rab2->Rabattsatz" type="Float"><![CDATA[]]></Rab2_Sz>
+    <Rab2_Mge info="Rab2->Rabattmenge" type="Float"><![CDATA[]]></Rab2_Mge>
+    <Rab3_Pr info="Rab3->Rabattpreis" type="Float"><![CDATA[]]></Rab3_Pr>
+    <Rab3_Sz info="Rab3->Rabattsatz" type="Float"><![CDATA[]]></Rab3_Sz>
+    <Rab3_Mge info="Rab3->Rabattmenge" type="Float"><![CDATA[]]></Rab3_Mge>
+  </ArtikelAbweichend>
+  <ArtikelAbweichend>
+    <AdrNr info="Adressnummer" type="WideString"><![CDATA[17428]]></AdrNr>
+    <ArtNr info="Artikelnummer" type="WideString"><![CDATA[1808]]></ArtNr>
+    <AbwPr info="Abweichender Preis" type="Float"><![CDATA[10,9904]]></AbwPr>
+    <GspAbDat info="Gesperrt ab Datum" type="Date"><![CDATA[]]></GspAbDat>
+    <GspBisDat info="Gesperrt bis Datum" type="Date"><![CDATA[]]></GspBisDat>
+    <GspKz info="Ist Gesperrt" type="Boolean"><![CDATA[Nein]]></GspKz>
+    <Grp info="Gruppe" type="Integer"><![CDATA[Hot Chili]]></Grp>
+    <ArtBez info="Artikel Bezeichnung" type="Blob"><![CDATA[]]></ArtBez>
+    <PreisMge info="Preise gelten für Menge" type="Float"><![CDATA[]]></PreisMge>
+    <Rab0_Pr info="Rab0->Rabattpreis" type="Float"><![CDATA[]]></Rab0_Pr>
+    <Rab0_Sz info="Rab0->Rabattsatz" type="Float"><![CDATA[]]></Rab0_Sz>
+    <Rab0_Mge info="Rab0->Rabattmenge" type="Float"><![CDATA[]]></Rab0_Mge>
+    <Rab1_Pr info="Rab1->Rabattpreis" type="Float"><![CDATA[]]></Rab1_Pr>
+    <Rab1_Sz info="Rab1->Rabattsatz" type="Float"><![CDATA[]]></Rab1_Sz>
+    <Rab1_Mge info="Rab1->Rabattmenge" type="Float"><![CDATA[]]></Rab1_Mge>
+    <Rab2_Pr info="Rab2->Rabattpreis" type="Float"><![CDATA[]]></Rab2_Pr>
+    <Rab2_Sz info="Rab2->Rabattsatz" type="Float"><![CDATA[]]></Rab2_Sz>
+    <Rab2_Mge info="Rab2->Rabattmenge" type="Float"><![CDATA[]]></Rab2_Mge>
+    <Rab3_Pr info="Rab3->Rabattpreis" type="Float"><![CDATA[]]></Rab3_Pr>
+    <Rab3_Sz info="Rab3->Rabattsatz" type="Float"><![CDATA[]]></Rab3_Sz>
+    <Rab3_Mge info="Rab3->Rabattmenge" type="Float"><![CDATA[]]></Rab3_Mge>
+  </ArtikelAbweichend>
+  <ArtikelAbweichend>
+    <AdrNr info="Adressnummer" type="WideString"><![CDATA[17561]]></AdrNr>
+    <ArtNr info="Artikelnummer" type="WideString"><![CDATA[1808]]></ArtNr>
+    <AbwPr info="Abweichender Preis" type="Float"><![CDATA[10,9904]]></AbwPr>
+    <GspAbDat info="Gesperrt ab Datum" type="Date"><![CDATA[]]></GspAbDat>
+    <GspBisDat info="Gesperrt bis Datum" type="Date"><![CDATA[]]></GspBisDat>
+    <GspKz info="Ist Gesperrt" type="Boolean"><![CDATA[Nein]]></GspKz>
+    <Grp info="Gruppe" type="Integer"><![CDATA[Hot Chili]]></Grp>
+    <ArtBez info="Artikel Bezeichnung" type="Blob"><![CDATA[]]></ArtBez>
+    <PreisMge info="Preise gelten für Menge" type="Float"><![CDATA[]]></PreisMge>
+    <Rab0_Pr info="Rab0->Rabattpreis" type="Float"><![CDATA[]]></Rab0_Pr>
+    <Rab0_Sz info="Rab0->Rabattsatz" type="Float"><![CDATA[]]></Rab0_Sz>
+    <Rab0_Mge info="Rab0->Rabattmenge" type="Float"><![CDATA[]]></Rab0_Mge>
+    <Rab1_Pr info="Rab1->Rabattpreis" type="Float"><![CDATA[]]></Rab1_Pr>
+    <Rab1_Sz info="Rab1->Rabattsatz" type="Float"><![CDATA[]]></Rab1_Sz>
+    <Rab1_Mge info="Rab1->Rabattmenge" type="Float"><![CDATA[]]></Rab1_Mge>
+    <Rab2_Pr info="Rab2->Rabattpreis" type="Float"><![CDATA[]]></Rab2_Pr>
+    <Rab2_Sz info="Rab2->Rabattsatz" type="Float"><![CDATA[]]></Rab2_Sz>
+    <Rab2_Mge info="Rab2->Rabattmenge" type="Float"><![CDATA[]]></Rab2_Mge>
+    <Rab3_Pr info="Rab3->Rabattpreis" type="Float"><![CDATA[]]></Rab3_Pr>
+    <Rab3_Sz info="Rab3->Rabattsatz" type="Float"><![CDATA[]]></Rab3_Sz>
+    <Rab3_Mge info="Rab3->Rabattmenge" type="Float"><![CDATA[]]></Rab3_Mge>
+  </ArtikelAbweichend>
+  <ArtikelAbweichend>
+    <AdrNr info="Adressnummer" type="WideString"><![CDATA[17617]]></AdrNr>
+    <ArtNr info="Artikelnummer" type="WideString"><![CDATA[1808]]></ArtNr>
+    <AbwPr info="Abweichender Preis" type="Float"><![CDATA[10,9904]]></AbwPr>
+    <GspAbDat info="Gesperrt ab Datum" type="Date"><![CDATA[]]></GspAbDat>
+    <GspBisDat info="Gesperrt bis Datum" type="Date"><![CDATA[]]></GspBisDat>
+    <GspKz info="Ist Gesperrt" type="Boolean"><![CDATA[Nein]]></GspKz>
+    <Grp info="Gruppe" type="Integer"><![CDATA[Hot Chili]]></Grp>
+    <ArtBez info="Artikel Bezeichnung" type="Blob"><![CDATA[]]></ArtBez>
+    <PreisMge info="Preise gelten für Menge" type="Float"><![CDATA[]]></PreisMge>
+    <Rab0_Pr info="Rab0->Rabattpreis" type="Float"><![CDATA[]]></Rab0_Pr>
+    <Rab0_Sz info="Rab0->Rabattsatz" type="Float"><![CDATA[]]></Rab0_Sz>
+    <Rab0_Mge info="Rab0->Rabattmenge" type="Float"><![CDATA[]]></Rab0_Mge>
+    <Rab1_Pr info="Rab1->Rabattpreis" type="Float"><![CDATA[]]></Rab1_Pr>
+    <Rab1_Sz info="Rab1->Rabattsatz" type="Float"><![CDATA[]]></Rab1_Sz>
+    <Rab1_Mge info="Rab1->Rabattmenge" type="Float"><![CDATA[]]></Rab1_Mge>
+    <Rab2_Pr info="Rab2->Rabattpreis" type="Float"><![CDATA[]]></Rab2_Pr>
+    <Rab2_Sz info="Rab2->Rabattsatz" type="Float"><![CDATA[]]></Rab2_Sz>
+    <Rab2_Mge info="Rab2->Rabattmenge" type="Float"><![CDATA[]]></Rab2_Mge>
+    <Rab3_Pr info="Rab3->Rabattpreis" type="Float"><![CDATA[]]></Rab3_Pr>
+    <Rab3_Sz info="Rab3->Rabattsatz" type="Float"><![CDATA[]]></Rab3_Sz>
+    <Rab3_Mge info="Rab3->Rabattmenge" type="Float"><![CDATA[]]></Rab3_Mge>
+  </ArtikelAbweichend>
+    <ArtikelAbweichend>
+    <AdrNr info="Adressnummer" type="WideString"><![CDATA[16993]]></AdrNr>
+    <ArtNr info="Artikelnummer" type="WideString"><![CDATA[1808]]></ArtNr>
+    <AbwPr info="Abweichender Preis" type="Float"><![CDATA[10,4944]]></AbwPr>
+    <GspAbDat info="Gesperrt ab Datum" type="Date"><![CDATA[]]></GspAbDat>
+    <GspBisDat info="Gesperrt bis Datum" type="Date"><![CDATA[]]></GspBisDat>
+    <GspKz info="Ist Gesperrt" type="Boolean"><![CDATA[Nein]]></GspKz>
+    <Grp info="Gruppe" type="Integer"><![CDATA[]]></Grp>
+    <ArtBez info="Artikel Bezeichnung" type="Blob"><![CDATA[]]></ArtBez>
+    <PreisMge info="Preise gelten für Menge" type="Float"><![CDATA[1]]></PreisMge>
+    <Rab0_Pr info="Rab0->Rabattpreis" type="Float"><![CDATA[]]></Rab0_Pr>
+    <Rab0_Sz info="Rab0->Rabattsatz" type="Float"><![CDATA[]]></Rab0_Sz>
+    <Rab0_Mge info="Rab0->Rabattmenge" type="Float"><![CDATA[]]></Rab0_Mge>
+    <Rab1_Pr info="Rab1->Rabattpreis" type="Float"><![CDATA[]]></Rab1_Pr>
+    <Rab1_Sz info="Rab1->Rabattsatz" type="Float"><![CDATA[]]></Rab1_Sz>
+    <Rab1_Mge info="Rab1->Rabattmenge" type="Float"><![CDATA[]]></Rab1_Mge>
+    <Rab2_Pr info="Rab2->Rabattpreis" type="Float"><![CDATA[]]></Rab2_Pr>
+    <Rab2_Sz info="Rab2->Rabattsatz" type="Float"><![CDATA[]]></Rab2_Sz>
+    <Rab2_Mge info="Rab2->Rabattmenge" type="Float"><![CDATA[]]></Rab2_Mge>
+    <Rab3_Pr info="Rab3->Rabattpreis" type="Float"><![CDATA[]]></Rab3_Pr>
+    <Rab3_Sz info="Rab3->Rabattsatz" type="Float"><![CDATA[]]></Rab3_Sz>
+    <Rab3_Mge info="Rab3->Rabattmenge" type="Float"><![CDATA[]]></Rab3_Mge>
+    </ArtikelAbweichend>
+  <ArtikelAbweichend>
+    <AdrNr info="Adressnummer" type="WideString"><![CDATA[10259]]></AdrNr>
+    <ArtNr info="Artikelnummer" type="WideString"><![CDATA[1808]]></ArtNr>
+    <AbwPr info="Abweichender Preis" type="Float"><![CDATA[10,4944]]></AbwPr>
+    <GspAbDat info="Gesperrt ab Datum" type="Date"><![CDATA[]]></GspAbDat>
+    <GspBisDat info="Gesperrt bis Datum" type="Date"><![CDATA[]]></GspBisDat>
+    <GspKz info="Ist Gesperrt" type="Boolean"><![CDATA[Nein]]></GspKz>
+    <Grp info="Gruppe" type="Integer"><![CDATA[OXYD]]></Grp>
+    <ArtBez info="Artikel Bezeichnung" type="Blob"><![CDATA[]]></ArtBez>
+    <PreisMge info="Preise gelten für Menge" type="Float"><![CDATA[1]]></PreisMge>
+    <Rab0_Pr info="Rab0->Rabattpreis" type="Float"><![CDATA[]]></Rab0_Pr>
+    <Rab0_Sz info="Rab0->Rabattsatz" type="Float"><![CDATA[]]></Rab0_Sz>
+    <Rab0_Mge info="Rab0->Rabattmenge" type="Float"><![CDATA[]]></Rab0_Mge>
+    <Rab1_Pr info="Rab1->Rabattpreis" type="Float"><![CDATA[]]></Rab1_Pr>
+    <Rab1_Sz info="Rab1->Rabattsatz" type="Float"><![CDATA[]]></Rab1_Sz>
+    <Rab1_Mge info="Rab1->Rabattmenge" type="Float"><![CDATA[]]></Rab1_Mge>
+    <Rab2_Pr info="Rab2->Rabattpreis" type="Float"><![CDATA[]]></Rab2_Pr>
+    <Rab2_Sz info="Rab2->Rabattsatz" type="Float"><![CDATA[]]></Rab2_Sz>
+    <Rab2_Mge info="Rab2->Rabattmenge" type="Float"><![CDATA[]]></Rab2_Mge>
+    <Rab3_Pr info="Rab3->Rabattpreis" type="Float"><![CDATA[]]></Rab3_Pr>
+    <Rab3_Sz info="Rab3->Rabattsatz" type="Float"><![CDATA[]]></Rab3_Sz>
+    <Rab3_Mge info="Rab3->Rabattmenge" type="Float"><![CDATA[]]></Rab3_Mge>
+  </ArtikelAbweichend>
+  <ArtikelAbweichend>
+    <AdrNr info="Adressnummer" type="WideString"><![CDATA[10626]]></AdrNr>
+    <ArtNr info="Artikelnummer" type="WideString"><![CDATA[1808]]></ArtNr>
+    <AbwPr info="Abweichender Preis" type="Float"><![CDATA[10,4944]]></AbwPr>
+    <GspAbDat info="Gesperrt ab Datum" type="Date"><![CDATA[]]></GspAbDat>
+    <GspBisDat info="Gesperrt bis Datum" type="Date"><![CDATA[]]></GspBisDat>
+    <GspKz info="Ist Gesperrt" type="Boolean"><![CDATA[Nein]]></GspKz>
+    <Grp info="Gruppe" type="Integer"><![CDATA[OXYD]]></Grp>
+    <ArtBez info="Artikel Bezeichnung" type="Blob"><![CDATA[]]></ArtBez>
+    <PreisMge info="Preise gelten für Menge" type="Float"><![CDATA[1]]></PreisMge>
+    <Rab0_Pr info="Rab0->Rabattpreis" type="Float"><![CDATA[]]></Rab0_Pr>
+    <Rab0_Sz info="Rab0->Rabattsatz" type="Float"><![CDATA[]]></Rab0_Sz>
+    <Rab0_Mge info="Rab0->Rabattmenge" type="Float"><![CDATA[]]></Rab0_Mge>
+    <Rab1_Pr info="Rab1->Rabattpreis" type="Float"><![CDATA[]]></Rab1_Pr>
+    <Rab1_Sz info="Rab1->Rabattsatz" type="Float"><![CDATA[]]></Rab1_Sz>
+    <Rab1_Mge info="Rab1->Rabattmenge" type="Float"><![CDATA[]]></Rab1_Mge>
+    <Rab2_Pr info="Rab2->Rabattpreis" type="Float"><![CDATA[]]></Rab2_Pr>
+    <Rab2_Sz info="Rab2->Rabattsatz" type="Float"><![CDATA[]]></Rab2_Sz>
+    <Rab2_Mge info="Rab2->Rabattmenge" type="Float"><![CDATA[]]></Rab2_Mge>
+    <Rab3_Pr info="Rab3->Rabattpreis" type="Float"><![CDATA[]]></Rab3_Pr>
+    <Rab3_Sz info="Rab3->Rabattsatz" type="Float"><![CDATA[]]></Rab3_Sz>
+    <Rab3_Mge info="Rab3->Rabattmenge" type="Float"><![CDATA[]]></Rab3_Mge>
+  </ArtikelAbweichend>
+  <ArtikelAbweichend>
+    <AdrNr info="Adressnummer" type="WideString"><![CDATA[16042]]></AdrNr>
+    <ArtNr info="Artikelnummer" type="WideString"><![CDATA[1808]]></ArtNr>
+    <AbwPr info="Abweichender Preis" type="Float"><![CDATA[10,4944]]></AbwPr>
+    <GspAbDat info="Gesperrt ab Datum" type="Date"><![CDATA[]]></GspAbDat>
+    <GspBisDat info="Gesperrt bis Datum" type="Date"><![CDATA[]]></GspBisDat>
+    <GspKz info="Ist Gesperrt" type="Boolean"><![CDATA[Nein]]></GspKz>
+    <Grp info="Gruppe" type="Integer"><![CDATA[OXYD]]></Grp>
+    <ArtBez info="Artikel Bezeichnung" type="Blob"><![CDATA[]]></ArtBez>
+    <PreisMge info="Preise gelten für Menge" type="Float"><![CDATA[1]]></PreisMge>
+    <Rab0_Pr info="Rab0->Rabattpreis" type="Float"><![CDATA[]]></Rab0_Pr>
+    <Rab0_Sz info="Rab0->Rabattsatz" type="Float"><![CDATA[]]></Rab0_Sz>
+    <Rab0_Mge info="Rab0->Rabattmenge" type="Float"><![CDATA[]]></Rab0_Mge>
+    <Rab1_Pr info="Rab1->Rabattpreis" type="Float"><![CDATA[]]></Rab1_Pr>
+    <Rab1_Sz info="Rab1->Rabattsatz" type="Float"><![CDATA[]]></Rab1_Sz>
+    <Rab1_Mge info="Rab1->Rabattmenge" type="Float"><![CDATA[]]></Rab1_Mge>
+    <Rab2_Pr info="Rab2->Rabattpreis" type="Float"><![CDATA[]]></Rab2_Pr>
+    <Rab2_Sz info="Rab2->Rabattsatz" type="Float"><![CDATA[]]></Rab2_Sz>
+    <Rab2_Mge info="Rab2->Rabattmenge" type="Float"><![CDATA[]]></Rab2_Mge>
+    <Rab3_Pr info="Rab3->Rabattpreis" type="Float"><![CDATA[]]></Rab3_Pr>
+    <Rab3_Sz info="Rab3->Rabattsatz" type="Float"><![CDATA[]]></Rab3_Sz>
+    <Rab3_Mge info="Rab3->Rabattmenge" type="Float"><![CDATA[]]></Rab3_Mge>
+  </ArtikelAbweichend>
+    <ArtikelAbweichend>
+    <AdrNr info="Adressnummer" type="WideString"><![CDATA[14326]]></AdrNr>
+    <ArtNr info="Artikelnummer" type="WideString"><![CDATA[1808]]></ArtNr>
+    <AbwPr info="Abweichender Preis" type="Float"><![CDATA[9,9844]]></AbwPr>
+    <GspAbDat info="Gesperrt ab Datum" type="Date"><![CDATA[]]></GspAbDat>
+    <GspBisDat info="Gesperrt bis Datum" type="Date"><![CDATA[]]></GspBisDat>
+    <GspKz info="Ist Gesperrt" type="Boolean"><![CDATA[Nein]]></GspKz>
+    <Grp info="Gruppe" type="Integer"><![CDATA[]]></Grp>
+    <ArtBez info="Artikel Bezeichnung" type="Blob"><![CDATA[]]></ArtBez>
+    <PreisMge info="Preise gelten für Menge" type="Float"><![CDATA[1]]></PreisMge>
+    <Rab0_Pr info="Rab0->Rabattpreis" type="Float"><![CDATA[]]></Rab0_Pr>
+    <Rab0_Sz info="Rab0->Rabattsatz" type="Float"><![CDATA[]]></Rab0_Sz>
+    <Rab0_Mge info="Rab0->Rabattmenge" type="Float"><![CDATA[]]></Rab0_Mge>
+    <Rab1_Pr info="Rab1->Rabattpreis" type="Float"><![CDATA[]]></Rab1_Pr>
+    <Rab1_Sz info="Rab1->Rabattsatz" type="Float"><![CDATA[]]></Rab1_Sz>
+    <Rab1_Mge info="Rab1->Rabattmenge" type="Float"><![CDATA[]]></Rab1_Mge>
+    <Rab2_Pr info="Rab2->Rabattpreis" type="Float"><![CDATA[]]></Rab2_Pr>
+    <Rab2_Sz info="Rab2->Rabattsatz" type="Float"><![CDATA[]]></Rab2_Sz>
+    <Rab2_Mge info="Rab2->Rabattmenge" type="Float"><![CDATA[]]></Rab2_Mge>
+    <Rab3_Pr info="Rab3->Rabattpreis" type="Float"><![CDATA[]]></Rab3_Pr>
+    <Rab3_Sz info="Rab3->Rabattsatz" type="Float"><![CDATA[]]></Rab3_Sz>
+    <Rab3_Mge info="Rab3->Rabattmenge" type="Float"><![CDATA[]]></Rab3_Mge>
+    </ArtikelAbweichend>
+    <ArtikelAbweichend>
+    <AdrNr info="Adressnummer" type="WideString"><![CDATA[17407]]></AdrNr>
+    <ArtNr info="Artikelnummer" type="WideString"><![CDATA[1808]]></ArtNr>
+    <AbwPr info="Abweichender Preis" type="Float"><![CDATA[10,9944]]></AbwPr>
+    <GspAbDat info="Gesperrt ab Datum" type="Date"><![CDATA[]]></GspAbDat>
+    <GspBisDat info="Gesperrt bis Datum" type="Date"><![CDATA[]]></GspBisDat>
+    <GspKz info="Ist Gesperrt" type="Boolean"><![CDATA[Nein]]></GspKz>
+    <Grp info="Gruppe" type="Integer"><![CDATA[]]></Grp>
+    <ArtBez info="Artikel Bezeichnung" type="Blob"><![CDATA[]]></ArtBez>
+    <PreisMge info="Preise gelten für Menge" type="Float"><![CDATA[1]]></PreisMge>
+    <Rab0_Pr info="Rab0->Rabattpreis" type="Float"><![CDATA[]]></Rab0_Pr>
+    <Rab0_Sz info="Rab0->Rabattsatz" type="Float"><![CDATA[]]></Rab0_Sz>
+    <Rab0_Mge info="Rab0->Rabattmenge" type="Float"><![CDATA[]]></Rab0_Mge>
+    <Rab1_Pr info="Rab1->Rabattpreis" type="Float"><![CDATA[]]></Rab1_Pr>
+    <Rab1_Sz info="Rab1->Rabattsatz" type="Float"><![CDATA[]]></Rab1_Sz>
+    <Rab1_Mge info="Rab1->Rabattmenge" type="Float"><![CDATA[]]></Rab1_Mge>
+    <Rab2_Pr info="Rab2->Rabattpreis" type="Float"><![CDATA[]]></Rab2_Pr>
+    <Rab2_Sz info="Rab2->Rabattsatz" type="Float"><![CDATA[]]></Rab2_Sz>
+    <Rab2_Mge info="Rab2->Rabattmenge" type="Float"><![CDATA[]]></Rab2_Mge>
+    <Rab3_Pr info="Rab3->Rabattpreis" type="Float"><![CDATA[]]></Rab3_Pr>
+    <Rab3_Sz info="Rab3->Rabattsatz" type="Float"><![CDATA[]]></Rab3_Sz>
+    <Rab3_Mge info="Rab3->Rabattmenge" type="Float"><![CDATA[]]></Rab3_Mge>
+    </ArtikelAbweichend>
+    <ArtikelAbweichend>
+    <AdrNr info="Adressnummer" type="WideString"><![CDATA[11834]]></AdrNr>
+    <ArtNr info="Artikelnummer" type="WideString"><![CDATA[1808]]></ArtNr>
+    <AbwPr info="Abweichender Preis" type="Float"><![CDATA[9,9904]]></AbwPr>
+    <GspAbDat info="Gesperrt ab Datum" type="Date"><![CDATA[]]></GspAbDat>
+    <GspBisDat info="Gesperrt bis Datum" type="Date"><![CDATA[]]></GspBisDat>
+    <GspKz info="Ist Gesperrt" type="Boolean"><![CDATA[Nein]]></GspKz>
+    <Grp info="Gruppe" type="Integer"><![CDATA[]]></Grp>
+    <ArtBez info="Artikel Bezeichnung" type="Blob"><![CDATA[]]></ArtBez>
+    <PreisMge info="Preise gelten für Menge" type="Float"><![CDATA[1]]></PreisMge>
+    <Rab0_Pr info="Rab0->Rabattpreis" type="Float"><![CDATA[]]></Rab0_Pr>
+    <Rab0_Sz info="Rab0->Rabattsatz" type="Float"><![CDATA[]]></Rab0_Sz>
+    <Rab0_Mge info="Rab0->Rabattmenge" type="Float"><![CDATA[]]></Rab0_Mge>
+    <Rab1_Pr info="Rab1->Rabattpreis" type="Float"><![CDATA[]]></Rab1_Pr>
+    <Rab1_Sz info="Rab1->Rabattsatz" type="Float"><![CDATA[]]></Rab1_Sz>
+    <Rab1_Mge info="Rab1->Rabattmenge" type="Float"><![CDATA[]]></Rab1_Mge>
+    <Rab2_Pr info="Rab2->Rabattpreis" type="Float"><![CDATA[]]></Rab2_Pr>
+    <Rab2_Sz info="Rab2->Rabattsatz" type="Float"><![CDATA[]]></Rab2_Sz>
+    <Rab2_Mge info="Rab2->Rabattmenge" type="Float"><![CDATA[]]></Rab2_Mge>
+    <Rab3_Pr info="Rab3->Rabattpreis" type="Float"><![CDATA[]]></Rab3_Pr>
+    <Rab3_Sz info="Rab3->Rabattsatz" type="Float"><![CDATA[]]></Rab3_Sz>
+    <Rab3_Mge info="Rab3->Rabattmenge" type="Float"><![CDATA[]]></Rab3_Mge>
+    </ArtikelAbweichend>
+    <ArtikelAbweichend>
+    <AdrNr info="Adressnummer" type="WideString"><![CDATA[17091]]></AdrNr>
+    <ArtNr info="Artikelnummer" type="WideString"><![CDATA[1808]]></ArtNr>
+    <AbwPr info="Abweichender Preis" type="Float"><![CDATA[9,9804]]></AbwPr>
+    <GspAbDat info="Gesperrt ab Datum" type="Date"><![CDATA[]]></GspAbDat>
+    <GspBisDat info="Gesperrt bis Datum" type="Date"><![CDATA[]]></GspBisDat>
+    <GspKz info="Ist Gesperrt" type="Boolean"><![CDATA[Nein]]></GspKz>
+    <Grp info="Gruppe" type="Integer"><![CDATA[]]></Grp>
+    <ArtBez info="Artikel Bezeichnung" type="Blob"><![CDATA[]]></ArtBez>
+    <PreisMge info="Preise gelten für Menge" type="Float"><![CDATA[1]]></PreisMge>
+    <Rab0_Pr info="Rab0->Rabattpreis" type="Float"><![CDATA[]]></Rab0_Pr>
+    <Rab0_Sz info="Rab0->Rabattsatz" type="Float"><![CDATA[]]></Rab0_Sz>
+    <Rab0_Mge info="Rab0->Rabattmenge" type="Float"><![CDATA[]]></Rab0_Mge>
+    <Rab1_Pr info="Rab1->Rabattpreis" type="Float"><![CDATA[]]></Rab1_Pr>
+    <Rab1_Sz info="Rab1->Rabattsatz" type="Float"><![CDATA[]]></Rab1_Sz>
+    <Rab1_Mge info="Rab1->Rabattmenge" type="Float"><![CDATA[]]></Rab1_Mge>
+    <Rab2_Pr info="Rab2->Rabattpreis" type="Float"><![CDATA[]]></Rab2_Pr>
+    <Rab2_Sz info="Rab2->Rabattsatz" type="Float"><![CDATA[]]></Rab2_Sz>
+    <Rab2_Mge info="Rab2->Rabattmenge" type="Float"><![CDATA[]]></Rab2_Mge>
+    <Rab3_Pr info="Rab3->Rabattpreis" type="Float"><![CDATA[]]></Rab3_Pr>
+    <Rab3_Sz info="Rab3->Rabattsatz" type="Float"><![CDATA[]]></Rab3_Sz>
+    <Rab3_Mge info="Rab3->Rabattmenge" type="Float"><![CDATA[]]></Rab3_Mge>
+    </ArtikelAbweichend>
+    <ArtikelAbweichend>
+    <AdrNr info="Adressnummer" type="WideString"><![CDATA[17606]]></AdrNr>
+    <ArtNr info="Artikelnummer" type="WideString"><![CDATA[1808]]></ArtNr>
+    <AbwPr info="Abweichender Preis" type="Float"><![CDATA[10,4944]]></AbwPr>
+    <GspAbDat info="Gesperrt ab Datum" type="Date"><![CDATA[]]></GspAbDat>
+    <GspBisDat info="Gesperrt bis Datum" type="Date"><![CDATA[]]></GspBisDat>
+    <GspKz info="Ist Gesperrt" type="Boolean"><![CDATA[Nein]]></GspKz>
+    <Grp info="Gruppe" type="Integer"><![CDATA[]]></Grp>
+    <ArtBez info="Artikel Bezeichnung" type="Blob"><![CDATA[]]></ArtBez>
+    <PreisMge info="Preise gelten für Menge" type="Float"><![CDATA[1]]></PreisMge>
+    <Rab0_Pr info="Rab0->Rabattpreis" type="Float"><![CDATA[]]></Rab0_Pr>
+    <Rab0_Sz info="Rab0->Rabattsatz" type="Float"><![CDATA[]]></Rab0_Sz>
+    <Rab0_Mge info="Rab0->Rabattmenge" type="Float"><![CDATA[]]></Rab0_Mge>
+    <Rab1_Pr info="Rab1->Rabattpreis" type="Float"><![CDATA[]]></Rab1_Pr>
+    <Rab1_Sz info="Rab1->Rabattsatz" type="Float"><![CDATA[]]></Rab1_Sz>
+    <Rab1_Mge info="Rab1->Rabattmenge" type="Float"><![CDATA[]]></Rab1_Mge>
+    <Rab2_Pr info="Rab2->Rabattpreis" type="Float"><![CDATA[]]></Rab2_Pr>
+    <Rab2_Sz info="Rab2->Rabattsatz" type="Float"><![CDATA[]]></Rab2_Sz>
+    <Rab2_Mge info="Rab2->Rabattmenge" type="Float"><![CDATA[]]></Rab2_Mge>
+    <Rab3_Pr info="Rab3->Rabattpreis" type="Float"><![CDATA[]]></Rab3_Pr>
+    <Rab3_Sz info="Rab3->Rabattsatz" type="Float"><![CDATA[]]></Rab3_Sz>
+    <Rab3_Mge info="Rab3->Rabattmenge" type="Float"><![CDATA[]]></Rab3_Mge>
+    </ArtikelAbweichend>
+    <ArtikelAbweichend>
+    <AdrNr info="Adressnummer" type="WideString"><![CDATA[17239]]></AdrNr>
+    <ArtNr info="Artikelnummer" type="WideString"><![CDATA[1808]]></ArtNr>
+    <AbwPr info="Abweichender Preis" type="Float"><![CDATA[10,4944]]></AbwPr>
+    <GspAbDat info="Gesperrt ab Datum" type="Date"><![CDATA[]]></GspAbDat>
+    <GspBisDat info="Gesperrt bis Datum" type="Date"><![CDATA[]]></GspBisDat>
+    <GspKz info="Ist Gesperrt" type="Boolean"><![CDATA[Nein]]></GspKz>
+    <Grp info="Gruppe" type="Integer"><![CDATA[]]></Grp>
+    <ArtBez info="Artikel Bezeichnung" type="Blob"><![CDATA[]]></ArtBez>
+    <PreisMge info="Preise gelten für Menge" type="Float"><![CDATA[1]]></PreisMge>
+    <Rab0_Pr info="Rab0->Rabattpreis" type="Float"><![CDATA[]]></Rab0_Pr>
+    <Rab0_Sz info="Rab0->Rabattsatz" type="Float"><![CDATA[]]></Rab0_Sz>
+    <Rab0_Mge info="Rab0->Rabattmenge" type="Float"><![CDATA[]]></Rab0_Mge>
+    <Rab1_Pr info="Rab1->Rabattpreis" type="Float"><![CDATA[]]></Rab1_Pr>
+    <Rab1_Sz info="Rab1->Rabattsatz" type="Float"><![CDATA[]]></Rab1_Sz>
+    <Rab1_Mge info="Rab1->Rabattmenge" type="Float"><![CDATA[]]></Rab1_Mge>
+    <Rab2_Pr info="Rab2->Rabattpreis" type="Float"><![CDATA[]]></Rab2_Pr>
+    <Rab2_Sz info="Rab2->Rabattsatz" type="Float"><![CDATA[]]></Rab2_Sz>
+    <Rab2_Mge info="Rab2->Rabattmenge" type="Float"><![CDATA[]]></Rab2_Mge>
+    <Rab3_Pr info="Rab3->Rabattpreis" type="Float"><![CDATA[]]></Rab3_Pr>
+    <Rab3_Sz info="Rab3->Rabattsatz" type="Float"><![CDATA[]]></Rab3_Sz>
+    <Rab3_Mge info="Rab3->Rabattmenge" type="Float"><![CDATA[]]></Rab3_Mge>
+    </ArtikelAbweichend>
+    <ArtikelAbweichend>
+    <AdrNr info="Adressnummer" type="WideString"><![CDATA[16242]]></AdrNr>
+    <ArtNr info="Artikelnummer" type="WideString"><![CDATA[1808]]></ArtNr>
+    <AbwPr info="Abweichender Preis" type="Float"><![CDATA[10,5944]]></AbwPr>
+    <GspAbDat info="Gesperrt ab Datum" type="Date"><![CDATA[]]></GspAbDat>
+    <GspBisDat info="Gesperrt bis Datum" type="Date"><![CDATA[]]></GspBisDat>
+    <GspKz info="Ist Gesperrt" type="Boolean"><![CDATA[Nein]]></GspKz>
+    <Grp info="Gruppe" type="Integer"><![CDATA[]]></Grp>
+    <ArtBez info="Artikel Bezeichnung" type="Blob"><![CDATA[]]></ArtBez>
+    <PreisMge info="Preise gelten für Menge" type="Float"><![CDATA[1]]></PreisMge>
+    <Rab0_Pr info="Rab0->Rabattpreis" type="Float"><![CDATA[]]></Rab0_Pr>
+    <Rab0_Sz info="Rab0->Rabattsatz" type="Float"><![CDATA[]]></Rab0_Sz>
+    <Rab0_Mge info="Rab0->Rabattmenge" type="Float"><![CDATA[]]></Rab0_Mge>
+    <Rab1_Pr info="Rab1->Rabattpreis" type="Float"><![CDATA[]]></Rab1_Pr>
+    <Rab1_Sz info="Rab1->Rabattsatz" type="Float"><![CDATA[]]></Rab1_Sz>
+    <Rab1_Mge info="Rab1->Rabattmenge" type="Float"><![CDATA[]]></Rab1_Mge>
+    <Rab2_Pr info="Rab2->Rabattpreis" type="Float"><![CDATA[]]></Rab2_Pr>
+    <Rab2_Sz info="Rab2->Rabattsatz" type="Float"><![CDATA[]]></Rab2_Sz>
+    <Rab2_Mge info="Rab2->Rabattmenge" type="Float"><![CDATA[]]></Rab2_Mge>
+    <Rab3_Pr info="Rab3->Rabattpreis" type="Float"><![CDATA[]]></Rab3_Pr>
+    <Rab3_Sz info="Rab3->Rabattsatz" type="Float"><![CDATA[]]></Rab3_Sz>
+    <Rab3_Mge info="Rab3->Rabattmenge" type="Float"><![CDATA[]]></Rab3_Mge>
+    </ArtikelAbweichend>
+    <ArtikelAbweichend>
+    <AdrNr info="Adressnummer" type="WideString"><![CDATA[16841]]></AdrNr>
+    <ArtNr info="Artikelnummer" type="WideString"><![CDATA[1808]]></ArtNr>
+    <AbwPr info="Abweichender Preis" type="Float"><![CDATA[10,5944]]></AbwPr>
+    <GspAbDat info="Gesperrt ab Datum" type="Date"><![CDATA[]]></GspAbDat>
+    <GspBisDat info="Gesperrt bis Datum" type="Date"><![CDATA[]]></GspBisDat>
+    <GspKz info="Ist Gesperrt" type="Boolean"><![CDATA[Nein]]></GspKz>
+    <Grp info="Gruppe" type="Integer"><![CDATA[]]></Grp>
+    <ArtBez info="Artikel Bezeichnung" type="Blob"><![CDATA[]]></ArtBez>
+    <PreisMge info="Preise gelten für Menge" type="Float"><![CDATA[1]]></PreisMge>
+    <Rab0_Pr info="Rab0->Rabattpreis" type="Float"><![CDATA[]]></Rab0_Pr>
+    <Rab0_Sz info="Rab0->Rabattsatz" type="Float"><![CDATA[]]></Rab0_Sz>
+    <Rab0_Mge info="Rab0->Rabattmenge" type="Float"><![CDATA[]]></Rab0_Mge>
+    <Rab1_Pr info="Rab1->Rabattpreis" type="Float"><![CDATA[]]></Rab1_Pr>
+    <Rab1_Sz info="Rab1->Rabattsatz" type="Float"><![CDATA[]]></Rab1_Sz>
+    <Rab1_Mge info="Rab1->Rabattmenge" type="Float"><![CDATA[]]></Rab1_Mge>
+    <Rab2_Pr info="Rab2->Rabattpreis" type="Float"><![CDATA[]]></Rab2_Pr>
+    <Rab2_Sz info="Rab2->Rabattsatz" type="Float"><![CDATA[]]></Rab2_Sz>
+    <Rab2_Mge info="Rab2->Rabattmenge" type="Float"><![CDATA[]]></Rab2_Mge>
+    <Rab3_Pr info="Rab3->Rabattpreis" type="Float"><![CDATA[]]></Rab3_Pr>
+    <Rab3_Sz info="Rab3->Rabattsatz" type="Float"><![CDATA[]]></Rab3_Sz>
+    <Rab3_Mge info="Rab3->Rabattmenge" type="Float"><![CDATA[]]></Rab3_Mge>
+    </ArtikelAbweichend>
+  <ArtikelAbweichend>
+    <AdrNr info="Adressnummer" type="WideString"><![CDATA[16618]]></AdrNr>
+    <ArtNr info="Artikelnummer" type="WideString"><![CDATA[1808]]></ArtNr>
+    <AbwPr info="Abweichender Preis" type="Float"><![CDATA[10,4944]]></AbwPr>
+    <GspAbDat info="Gesperrt ab Datum" type="Date"><![CDATA[]]></GspAbDat>
+    <GspBisDat info="Gesperrt bis Datum" type="Date"><![CDATA[]]></GspBisDat>
+    <GspKz info="Ist Gesperrt" type="Boolean"><![CDATA[Nein]]></GspKz>
+    <Grp info="Gruppe" type="Integer"><![CDATA[Pizza_Lübeck]]></Grp>
+    <ArtBez info="Artikel Bezeichnung" type="Blob"><![CDATA[]]></ArtBez>
+    <PreisMge info="Preise gelten für Menge" type="Float"><![CDATA[]]></PreisMge>
+    <Rab0_Pr info="Rab0->Rabattpreis" type="Float"><![CDATA[]]></Rab0_Pr>
+    <Rab0_Sz info="Rab0->Rabattsatz" type="Float"><![CDATA[]]></Rab0_Sz>
+    <Rab0_Mge info="Rab0->Rabattmenge" type="Float"><![CDATA[]]></Rab0_Mge>
+    <Rab1_Pr info="Rab1->Rabattpreis" type="Float"><![CDATA[]]></Rab1_Pr>
+    <Rab1_Sz info="Rab1->Rabattsatz" type="Float"><![CDATA[]]></Rab1_Sz>
+    <Rab1_Mge info="Rab1->Rabattmenge" type="Float"><![CDATA[]]></Rab1_Mge>
+    <Rab2_Pr info="Rab2->Rabattpreis" type="Float"><![CDATA[]]></Rab2_Pr>
+    <Rab2_Sz info="Rab2->Rabattsatz" type="Float"><![CDATA[]]></Rab2_Sz>
+    <Rab2_Mge info="Rab2->Rabattmenge" type="Float"><![CDATA[]]></Rab2_Mge>
+    <Rab3_Pr info="Rab3->Rabattpreis" type="Float"><![CDATA[]]></Rab3_Pr>
+    <Rab3_Sz info="Rab3->Rabattsatz" type="Float"><![CDATA[]]></Rab3_Sz>
+    <Rab3_Mge info="Rab3->Rabattmenge" type="Float"><![CDATA[]]></Rab3_Mge>
+  </ArtikelAbweichend>
+  <ArtikelAbweichend>
+    <AdrNr info="Adressnummer" type="WideString"><![CDATA[17285]]></AdrNr>
+    <ArtNr info="Artikelnummer" type="WideString"><![CDATA[1808]]></ArtNr>
+    <AbwPr info="Abweichender Preis" type="Float"><![CDATA[10,4944]]></AbwPr>
+    <GspAbDat info="Gesperrt ab Datum" type="Date"><![CDATA[]]></GspAbDat>
+    <GspBisDat info="Gesperrt bis Datum" type="Date"><![CDATA[]]></GspBisDat>
+    <GspKz info="Ist Gesperrt" type="Boolean"><![CDATA[Nein]]></GspKz>
+    <Grp info="Gruppe" type="Integer"><![CDATA[Pizza_Lübeck]]></Grp>
+    <ArtBez info="Artikel Bezeichnung" type="Blob"><![CDATA[]]></ArtBez>
+    <PreisMge info="Preise gelten für Menge" type="Float"><![CDATA[]]></PreisMge>
+    <Rab0_Pr info="Rab0->Rabattpreis" type="Float"><![CDATA[]]></Rab0_Pr>
+    <Rab0_Sz info="Rab0->Rabattsatz" type="Float"><![CDATA[]]></Rab0_Sz>
+    <Rab0_Mge info="Rab0->Rabattmenge" type="Float"><![CDATA[]]></Rab0_Mge>
+    <Rab1_Pr info="Rab1->Rabattpreis" type="Float"><![CDATA[]]></Rab1_Pr>
+    <Rab1_Sz info="Rab1->Rabattsatz" type="Float"><![CDATA[]]></Rab1_Sz>
+    <Rab1_Mge info="Rab1->Rabattmenge" type="Float"><![CDATA[]]></Rab1_Mge>
+    <Rab2_Pr info="Rab2->Rabattpreis" type="Float"><![CDATA[]]></Rab2_Pr>
+    <Rab2_Sz info="Rab2->Rabattsatz" type="Float"><![CDATA[]]></Rab2_Sz>
+    <Rab2_Mge info="Rab2->Rabattmenge" type="Float"><![CDATA[]]></Rab2_Mge>
+    <Rab3_Pr info="Rab3->Rabattpreis" type="Float"><![CDATA[]]></Rab3_Pr>
+    <Rab3_Sz info="Rab3->Rabattsatz" type="Float"><![CDATA[]]></Rab3_Sz>
+    <Rab3_Mge info="Rab3->Rabattmenge" type="Float"><![CDATA[]]></Rab3_Mge>
+  </ArtikelAbweichend>
+  <ArtikelAbweichend>
+    <AdrNr info="Adressnummer" type="WideString"><![CDATA[17513]]></AdrNr>
+    <ArtNr info="Artikelnummer" type="WideString"><![CDATA[1808]]></ArtNr>
+    <AbwPr info="Abweichender Preis" type="Float"><![CDATA[10,4944]]></AbwPr>
+    <GspAbDat info="Gesperrt ab Datum" type="Date"><![CDATA[]]></GspAbDat>
+    <GspBisDat info="Gesperrt bis Datum" type="Date"><![CDATA[]]></GspBisDat>
+    <GspKz info="Ist Gesperrt" type="Boolean"><![CDATA[Nein]]></GspKz>
+    <Grp info="Gruppe" type="Integer"><![CDATA[Pizza_Lübeck]]></Grp>
+    <ArtBez info="Artikel Bezeichnung" type="Blob"><![CDATA[]]></ArtBez>
+    <PreisMge info="Preise gelten für Menge" type="Float"><![CDATA[]]></PreisMge>
+    <Rab0_Pr info="Rab0->Rabattpreis" type="Float"><![CDATA[]]></Rab0_Pr>
+    <Rab0_Sz info="Rab0->Rabattsatz" type="Float"><![CDATA[]]></Rab0_Sz>
+    <Rab0_Mge info="Rab0->Rabattmenge" type="Float"><![CDATA[]]></Rab0_Mge>
+    <Rab1_Pr info="Rab1->Rabattpreis" type="Float"><![CDATA[]]></Rab1_Pr>
+    <Rab1_Sz info="Rab1->Rabattsatz" type="Float"><![CDATA[]]></Rab1_Sz>
+    <Rab1_Mge info="Rab1->Rabattmenge" type="Float"><![CDATA[]]></Rab1_Mge>
+    <Rab2_Pr info="Rab2->Rabattpreis" type="Float"><![CDATA[]]></Rab2_Pr>
+    <Rab2_Sz info="Rab2->Rabattsatz" type="Float"><![CDATA[]]></Rab2_Sz>
+    <Rab2_Mge info="Rab2->Rabattmenge" type="Float"><![CDATA[]]></Rab2_Mge>
+    <Rab3_Pr info="Rab3->Rabattpreis" type="Float"><![CDATA[]]></Rab3_Pr>
+    <Rab3_Sz info="Rab3->Rabattsatz" type="Float"><![CDATA[]]></Rab3_Sz>
+    <Rab3_Mge info="Rab3->Rabattmenge" type="Float"><![CDATA[]]></Rab3_Mge>
+  </ArtikelAbweichend>
+  <ArtikelAbweichend>
+    <AdrNr info="Adressnummer" type="WideString"><![CDATA[17671]]></AdrNr>
+    <ArtNr info="Artikelnummer" type="WideString"><![CDATA[1808]]></ArtNr>
+    <AbwPr info="Abweichender Preis" type="Float"><![CDATA[10,4944]]></AbwPr>
+    <GspAbDat info="Gesperrt ab Datum" type="Date"><![CDATA[]]></GspAbDat>
+    <GspBisDat info="Gesperrt bis Datum" type="Date"><![CDATA[]]></GspBisDat>
+    <GspKz info="Ist Gesperrt" type="Boolean"><![CDATA[Nein]]></GspKz>
+    <Grp info="Gruppe" type="Integer"><![CDATA[Pizza_Lübeck]]></Grp>
+    <ArtBez info="Artikel Bezeichnung" type="Blob"><![CDATA[]]></ArtBez>
+    <PreisMge info="Preise gelten für Menge" type="Float"><![CDATA[]]></PreisMge>
+    <Rab0_Pr info="Rab0->Rabattpreis" type="Float"><![CDATA[]]></Rab0_Pr>
+    <Rab0_Sz info="Rab0->Rabattsatz" type="Float"><![CDATA[]]></Rab0_Sz>
+    <Rab0_Mge info="Rab0->Rabattmenge" type="Float"><![CDATA[]]></Rab0_Mge>
+    <Rab1_Pr info="Rab1->Rabattpreis" type="Float"><![CDATA[]]></Rab1_Pr>
+    <Rab1_Sz info="Rab1->Rabattsatz" type="Float"><![CDATA[]]></Rab1_Sz>
+    <Rab1_Mge info="Rab1->Rabattmenge" type="Float"><![CDATA[]]></Rab1_Mge>
+    <Rab2_Pr info="Rab2->Rabattpreis" type="Float"><![CDATA[]]></Rab2_Pr>
+    <Rab2_Sz info="Rab2->Rabattsatz" type="Float"><![CDATA[]]></Rab2_Sz>
+    <Rab2_Mge info="Rab2->Rabattmenge" type="Float"><![CDATA[]]></Rab2_Mge>
+    <Rab3_Pr info="Rab3->Rabattpreis" type="Float"><![CDATA[]]></Rab3_Pr>
+    <Rab3_Sz info="Rab3->Rabattsatz" type="Float"><![CDATA[]]></Rab3_Sz>
+    <Rab3_Mge info="Rab3->Rabattmenge" type="Float"><![CDATA[]]></Rab3_Mge>
+  </ArtikelAbweichend>
+    <ArtikelAbweichend>
+    <AdrNr info="Adressnummer" type="WideString"><![CDATA[17308]]></AdrNr>
+    <ArtNr info="Artikelnummer" type="WideString"><![CDATA[1808]]></ArtNr>
+    <AbwPr info="Abweichender Preis" type="Float"><![CDATA[10,4944]]></AbwPr>
+    <GspAbDat info="Gesperrt ab Datum" type="Date"><![CDATA[]]></GspAbDat>
+    <GspBisDat info="Gesperrt bis Datum" type="Date"><![CDATA[]]></GspBisDat>
+    <GspKz info="Ist Gesperrt" type="Boolean"><![CDATA[Nein]]></GspKz>
+    <Grp info="Gruppe" type="Integer"><![CDATA[]]></Grp>
+    <ArtBez info="Artikel Bezeichnung" type="Blob"><![CDATA[]]></ArtBez>
+    <PreisMge info="Preise gelten für Menge" type="Float"><![CDATA[1]]></PreisMge>
+    <Rab0_Pr info="Rab0->Rabattpreis" type="Float"><![CDATA[]]></Rab0_Pr>
+    <Rab0_Sz info="Rab0->Rabattsatz" type="Float"><![CDATA[]]></Rab0_Sz>
+    <Rab0_Mge info="Rab0->Rabattmenge" type="Float"><![CDATA[]]></Rab0_Mge>
+    <Rab1_Pr info="Rab1->Rabattpreis" type="Float"><![CDATA[]]></Rab1_Pr>
+    <Rab1_Sz info="Rab1->Rabattsatz" type="Float"><![CDATA[]]></Rab1_Sz>
+    <Rab1_Mge info="Rab1->Rabattmenge" type="Float"><![CDATA[]]></Rab1_Mge>
+    <Rab2_Pr info="Rab2->Rabattpreis" type="Float"><![CDATA[]]></Rab2_Pr>
+    <Rab2_Sz info="Rab2->Rabattsatz" type="Float"><![CDATA[]]></Rab2_Sz>
+    <Rab2_Mge info="Rab2->Rabattmenge" type="Float"><![CDATA[]]></Rab2_Mge>
+    <Rab3_Pr info="Rab3->Rabattpreis" type="Float"><![CDATA[]]></Rab3_Pr>
+    <Rab3_Sz info="Rab3->Rabattsatz" type="Float"><![CDATA[]]></Rab3_Sz>
+    <Rab3_Mge info="Rab3->Rabattmenge" type="Float"><![CDATA[]]></Rab3_Mge>
+    </ArtikelAbweichend>
+    <ArtikelAbweichend>
+    <AdrNr info="Adressnummer" type="WideString"><![CDATA[11516]]></AdrNr>
+    <ArtNr info="Artikelnummer" type="WideString"><![CDATA[1808]]></ArtNr>
+    <AbwPr info="Abweichender Preis" type="Float"><![CDATA[10,9904]]></AbwPr>
+    <GspAbDat info="Gesperrt ab Datum" type="Date"><![CDATA[]]></GspAbDat>
+    <GspBisDat info="Gesperrt bis Datum" type="Date"><![CDATA[]]></GspBisDat>
+    <GspKz info="Ist Gesperrt" type="Boolean"><![CDATA[Nein]]></GspKz>
+    <Grp info="Gruppe" type="Integer"><![CDATA[]]></Grp>
+    <ArtBez info="Artikel Bezeichnung" type="Blob"><![CDATA[]]></ArtBez>
+    <PreisMge info="Preise gelten für Menge" type="Float"><![CDATA[1]]></PreisMge>
+    <Rab0_Pr info="Rab0->Rabattpreis" type="Float"><![CDATA[]]></Rab0_Pr>
+    <Rab0_Sz info="Rab0->Rabattsatz" type="Float"><![CDATA[]]></Rab0_Sz>
+    <Rab0_Mge info="Rab0->Rabattmenge" type="Float"><![CDATA[]]></Rab0_Mge>
+    <Rab1_Pr info="Rab1->Rabattpreis" type="Float"><![CDATA[]]></Rab1_Pr>
+    <Rab1_Sz info="Rab1->Rabattsatz" type="Float"><![CDATA[]]></Rab1_Sz>
+    <Rab1_Mge info="Rab1->Rabattmenge" type="Float"><![CDATA[]]></Rab1_Mge>
+    <Rab2_Pr info="Rab2->Rabattpreis" type="Float"><![CDATA[]]></Rab2_Pr>
+    <Rab2_Sz info="Rab2->Rabattsatz" type="Float"><![CDATA[]]></Rab2_Sz>
+    <Rab2_Mge info="Rab2->Rabattmenge" type="Float"><![CDATA[]]></Rab2_Mge>
+    <Rab3_Pr info="Rab3->Rabattpreis" type="Float"><![CDATA[]]></Rab3_Pr>
+    <Rab3_Sz info="Rab3->Rabattsatz" type="Float"><![CDATA[]]></Rab3_Sz>
+    <Rab3_Mge info="Rab3->Rabattmenge" type="Float"><![CDATA[]]></Rab3_Mge>
+    </ArtikelAbweichend>
+    <ArtikelAbweichend>
+    <AdrNr info="Adressnummer" type="WideString"><![CDATA[17351]]></AdrNr>
+    <ArtNr info="Artikelnummer" type="WideString"><![CDATA[1808]]></ArtNr>
+    <AbwPr info="Abweichender Preis" type="Float"><![CDATA[10,9944]]></AbwPr>
+    <GspAbDat info="Gesperrt ab Datum" type="Date"><![CDATA[]]></GspAbDat>
+    <GspBisDat info="Gesperrt bis Datum" type="Date"><![CDATA[]]></GspBisDat>
+    <GspKz info="Ist Gesperrt" type="Boolean"><![CDATA[Nein]]></GspKz>
+    <Grp info="Gruppe" type="Integer"><![CDATA[]]></Grp>
+    <ArtBez info="Artikel Bezeichnung" type="Blob"><![CDATA[]]></ArtBez>
+    <PreisMge info="Preise gelten für Menge" type="Float"><![CDATA[1]]></PreisMge>
+    <Rab0_Pr info="Rab0->Rabattpreis" type="Float"><![CDATA[]]></Rab0_Pr>
+    <Rab0_Sz info="Rab0->Rabattsatz" type="Float"><![CDATA[]]></Rab0_Sz>
+    <Rab0_Mge info="Rab0->Rabattmenge" type="Float"><![CDATA[]]></Rab0_Mge>
+    <Rab1_Pr info="Rab1->Rabattpreis" type="Float"><![CDATA[]]></Rab1_Pr>
+    <Rab1_Sz info="Rab1->Rabattsatz" type="Float"><![CDATA[]]></Rab1_Sz>
+    <Rab1_Mge info="Rab1->Rabattmenge" type="Float"><![CDATA[]]></Rab1_Mge>
+    <Rab2_Pr info="Rab2->Rabattpreis" type="Float"><![CDATA[]]></Rab2_Pr>
+    <Rab2_Sz info="Rab2->Rabattsatz" type="Float"><![CDATA[]]></Rab2_Sz>
+    <Rab2_Mge info="Rab2->Rabattmenge" type="Float"><![CDATA[]]></Rab2_Mge>
+    <Rab3_Pr info="Rab3->Rabattpreis" type="Float"><![CDATA[]]></Rab3_Pr>
+    <Rab3_Sz info="Rab3->Rabattsatz" type="Float"><![CDATA[]]></Rab3_Sz>
+    <Rab3_Mge info="Rab3->Rabattmenge" type="Float"><![CDATA[]]></Rab3_Mge>
+    </ArtikelAbweichend>
+    <ArtikelAbweichend>
+    <AdrNr info="Adressnummer" type="WideString"><![CDATA[17484]]></AdrNr>
+    <ArtNr info="Artikelnummer" type="WideString"><![CDATA[1808]]></ArtNr>
+    <AbwPr info="Abweichender Preis" type="Float"><![CDATA[9,9904]]></AbwPr>
+    <GspAbDat info="Gesperrt ab Datum" type="Date"><![CDATA[]]></GspAbDat>
+    <GspBisDat info="Gesperrt bis Datum" type="Date"><![CDATA[]]></GspBisDat>
+    <GspKz info="Ist Gesperrt" type="Boolean"><![CDATA[Nein]]></GspKz>
+    <Grp info="Gruppe" type="Integer"><![CDATA[]]></Grp>
+    <ArtBez info="Artikel Bezeichnung" type="Blob"><![CDATA[]]></ArtBez>
+    <PreisMge info="Preise gelten für Menge" type="Float"><![CDATA[1]]></PreisMge>
+    <Rab0_Pr info="Rab0->Rabattpreis" type="Float"><![CDATA[]]></Rab0_Pr>
+    <Rab0_Sz info="Rab0->Rabattsatz" type="Float"><![CDATA[]]></Rab0_Sz>
+    <Rab0_Mge info="Rab0->Rabattmenge" type="Float"><![CDATA[]]></Rab0_Mge>
+    <Rab1_Pr info="Rab1->Rabattpreis" type="Float"><![CDATA[]]></Rab1_Pr>
+    <Rab1_Sz info="Rab1->Rabattsatz" type="Float"><![CDATA[]]></Rab1_Sz>
+    <Rab1_Mge info="Rab1->Rabattmenge" type="Float"><![CDATA[]]></Rab1_Mge>
+    <Rab2_Pr info="Rab2->Rabattpreis" type="Float"><![CDATA[]]></Rab2_Pr>
+    <Rab2_Sz info="Rab2->Rabattsatz" type="Float"><![CDATA[]]></Rab2_Sz>
+    <Rab2_Mge info="Rab2->Rabattmenge" type="Float"><![CDATA[]]></Rab2_Mge>
+    <Rab3_Pr info="Rab3->Rabattpreis" type="Float"><![CDATA[]]></Rab3_Pr>
+    <Rab3_Sz info="Rab3->Rabattsatz" type="Float"><![CDATA[]]></Rab3_Sz>
+    <Rab3_Mge info="Rab3->Rabattmenge" type="Float"><![CDATA[]]></Rab3_Mge>
+    </ArtikelAbweichend>
+    <ArtikelAbweichend>
+    <AdrNr info="Adressnummer" type="WideString"><![CDATA[11325]]></AdrNr>
+    <ArtNr info="Artikelnummer" type="WideString"><![CDATA[1808]]></ArtNr>
+    <AbwPr info="Abweichender Preis" type="Float"><![CDATA[10,4944]]></AbwPr>
+    <GspAbDat info="Gesperrt ab Datum" type="Date"><![CDATA[]]></GspAbDat>
+    <GspBisDat info="Gesperrt bis Datum" type="Date"><![CDATA[]]></GspBisDat>
+    <GspKz info="Ist Gesperrt" type="Boolean"><![CDATA[Nein]]></GspKz>
+    <Grp info="Gruppe" type="Integer"><![CDATA[]]></Grp>
+    <ArtBez info="Artikel Bezeichnung" type="Blob"><![CDATA[]]></ArtBez>
+    <PreisMge info="Preise gelten für Menge" type="Float"><![CDATA[1]]></PreisMge>
+    <Rab0_Pr info="Rab0->Rabattpreis" type="Float"><![CDATA[]]></Rab0_Pr>
+    <Rab0_Sz info="Rab0->Rabattsatz" type="Float"><![CDATA[]]></Rab0_Sz>
+    <Rab0_Mge info="Rab0->Rabattmenge" type="Float"><![CDATA[]]></Rab0_Mge>
+    <Rab1_Pr info="Rab1->Rabattpreis" type="Float"><![CDATA[]]></Rab1_Pr>
+    <Rab1_Sz info="Rab1->Rabattsatz" type="Float"><![CDATA[]]></Rab1_Sz>
+    <Rab1_Mge info="Rab1->Rabattmenge" type="Float"><![CDATA[]]></Rab1_Mge>
+    <Rab2_Pr info="Rab2->Rabattpreis" type="Float"><![CDATA[]]></Rab2_Pr>
+    <Rab2_Sz info="Rab2->Rabattsatz" type="Float"><![CDATA[]]></Rab2_Sz>
+    <Rab2_Mge info="Rab2->Rabattmenge" type="Float"><![CDATA[]]></Rab2_Mge>
+    <Rab3_Pr info="Rab3->Rabattpreis" type="Float"><![CDATA[]]></Rab3_Pr>
+    <Rab3_Sz info="Rab3->Rabattsatz" type="Float"><![CDATA[]]></Rab3_Sz>
+    <Rab3_Mge info="Rab3->Rabattmenge" type="Float"><![CDATA[]]></Rab3_Mge>
+    </ArtikelAbweichend>
+    <ArtikelAbweichend>
+    <AdrNr info="Adressnummer" type="WideString"><![CDATA[12368]]></AdrNr>
+    <ArtNr info="Artikelnummer" type="WideString"><![CDATA[1808]]></ArtNr>
+    <AbwPr info="Abweichender Preis" type="Float"><![CDATA[9,9904]]></AbwPr>
+    <GspAbDat info="Gesperrt ab Datum" type="Date"><![CDATA[]]></GspAbDat>
+    <GspBisDat info="Gesperrt bis Datum" type="Date"><![CDATA[]]></GspBisDat>
+    <GspKz info="Ist Gesperrt" type="Boolean"><![CDATA[Nein]]></GspKz>
+    <Grp info="Gruppe" type="Integer"><![CDATA[]]></Grp>
+    <ArtBez info="Artikel Bezeichnung" type="Blob"><![CDATA[]]></ArtBez>
+    <PreisMge info="Preise gelten für Menge" type="Float"><![CDATA[1]]></PreisMge>
+    <Rab0_Pr info="Rab0->Rabattpreis" type="Float"><![CDATA[]]></Rab0_Pr>
+    <Rab0_Sz info="Rab0->Rabattsatz" type="Float"><![CDATA[]]></Rab0_Sz>
+    <Rab0_Mge info="Rab0->Rabattmenge" type="Float"><![CDATA[]]></Rab0_Mge>
+    <Rab1_Pr info="Rab1->Rabattpreis" type="Float"><![CDATA[]]></Rab1_Pr>
+    <Rab1_Sz info="Rab1->Rabattsatz" type="Float"><![CDATA[]]></Rab1_Sz>
+    <Rab1_Mge info="Rab1->Rabattmenge" type="Float"><![CDATA[]]></Rab1_Mge>
+    <Rab2_Pr info="Rab2->Rabattpreis" type="Float"><![CDATA[]]></Rab2_Pr>
+    <Rab2_Sz info="Rab2->Rabattsatz" type="Float"><![CDATA[]]></Rab2_Sz>
+    <Rab2_Mge info="Rab2->Rabattmenge" type="Float"><![CDATA[]]></Rab2_Mge>
+    <Rab3_Pr info="Rab3->Rabattpreis" type="Float"><![CDATA[]]></Rab3_Pr>
+    <Rab3_Sz info="Rab3->Rabattsatz" type="Float"><![CDATA[]]></Rab3_Sz>
+    <Rab3_Mge info="Rab3->Rabattmenge" type="Float"><![CDATA[]]></Rab3_Mge>
+    </ArtikelAbweichend>
+    <ArtikelAbweichend>
+    <AdrNr info="Adressnummer" type="WideString"><![CDATA[16975]]></AdrNr>
+    <ArtNr info="Artikelnummer" type="WideString"><![CDATA[1808]]></ArtNr>
+    <AbwPr info="Abweichender Preis" type="Float"><![CDATA[9,9904]]></AbwPr>
+    <GspAbDat info="Gesperrt ab Datum" type="Date"><![CDATA[]]></GspAbDat>
+    <GspBisDat info="Gesperrt bis Datum" type="Date"><![CDATA[]]></GspBisDat>
+    <GspKz info="Ist Gesperrt" type="Boolean"><![CDATA[Nein]]></GspKz>
+    <Grp info="Gruppe" type="Integer"><![CDATA[]]></Grp>
+    <ArtBez info="Artikel Bezeichnung" type="Blob"><![CDATA[]]></ArtBez>
+    <PreisMge info="Preise gelten für Menge" type="Float"><![CDATA[1]]></PreisMge>
+    <Rab0_Pr info="Rab0->Rabattpreis" type="Float"><![CDATA[]]></Rab0_Pr>
+    <Rab0_Sz info="Rab0->Rabattsatz" type="Float"><![CDATA[]]></Rab0_Sz>
+    <Rab0_Mge info="Rab0->Rabattmenge" type="Float"><![CDATA[]]></Rab0_Mge>
+    <Rab1_Pr info="Rab1->Rabattpreis" type="Float"><![CDATA[]]></Rab1_Pr>
+    <Rab1_Sz info="Rab1->Rabattsatz" type="Float"><![CDATA[]]></Rab1_Sz>
+    <Rab1_Mge info="Rab1->Rabattmenge" type="Float"><![CDATA[]]></Rab1_Mge>
+    <Rab2_Pr info="Rab2->Rabattpreis" type="Float"><![CDATA[]]></Rab2_Pr>
+    <Rab2_Sz info="Rab2->Rabattsatz" type="Float"><![CDATA[]]></Rab2_Sz>
+    <Rab2_Mge info="Rab2->Rabattmenge" type="Float"><![CDATA[]]></Rab2_Mge>
+    <Rab3_Pr info="Rab3->Rabattpreis" type="Float"><![CDATA[]]></Rab3_Pr>
+    <Rab3_Sz info="Rab3->Rabattsatz" type="Float"><![CDATA[]]></Rab3_Sz>
+    <Rab3_Mge info="Rab3->Rabattmenge" type="Float"><![CDATA[]]></Rab3_Mge>
+    </ArtikelAbweichend>
+    <ArtikelAbweichend>
+    <AdrNr info="Adressnummer" type="WideString"><![CDATA[10894]]></AdrNr>
+    <ArtNr info="Artikelnummer" type="WideString"><![CDATA[1808]]></ArtNr>
+    <AbwPr info="Abweichender Preis" type="Float"><![CDATA[10,9944]]></AbwPr>
+    <GspAbDat info="Gesperrt ab Datum" type="Date"><![CDATA[]]></GspAbDat>
+    <GspBisDat info="Gesperrt bis Datum" type="Date"><![CDATA[]]></GspBisDat>
+    <GspKz info="Ist Gesperrt" type="Boolean"><![CDATA[Nein]]></GspKz>
+    <Grp info="Gruppe" type="Integer"><![CDATA[]]></Grp>
+    <ArtBez info="Artikel Bezeichnung" type="Blob"><![CDATA[]]></ArtBez>
+    <PreisMge info="Preise gelten für Menge" type="Float"><![CDATA[1]]></PreisMge>
+    <Rab0_Pr info="Rab0->Rabattpreis" type="Float"><![CDATA[]]></Rab0_Pr>
+    <Rab0_Sz info="Rab0->Rabattsatz" type="Float"><![CDATA[]]></Rab0_Sz>
+    <Rab0_Mge info="Rab0->Rabattmenge" type="Float"><![CDATA[]]></Rab0_Mge>
+    <Rab1_Pr info="Rab1->Rabattpreis" type="Float"><![CDATA[]]></Rab1_Pr>
+    <Rab1_Sz info="Rab1->Rabattsatz" type="Float"><![CDATA[]]></Rab1_Sz>
+    <Rab1_Mge info="Rab1->Rabattmenge" type="Float"><![CDATA[]]></Rab1_Mge>
+    <Rab2_Pr info="Rab2->Rabattpreis" type="Float"><![CDATA[]]></Rab2_Pr>
+    <Rab2_Sz info="Rab2->Rabattsatz" type="Float"><![CDATA[]]></Rab2_Sz>
+    <Rab2_Mge info="Rab2->Rabattmenge" type="Float"><![CDATA[]]></Rab2_Mge>
+    <Rab3_Pr info="Rab3->Rabattpreis" type="Float"><![CDATA[]]></Rab3_Pr>
+    <Rab3_Sz info="Rab3->Rabattsatz" type="Float"><![CDATA[]]></Rab3_Sz>
+    <Rab3_Mge info="Rab3->Rabattmenge" type="Float"><![CDATA[]]></Rab3_Mge>
+    </ArtikelAbweichend>
+    <ArtikelAbweichend>
+    <AdrNr info="Adressnummer" type="WideString"><![CDATA[16150]]></AdrNr>
+    <ArtNr info="Artikelnummer" type="WideString"><![CDATA[1808]]></ArtNr>
+    <AbwPr info="Abweichender Preis" type="Float"><![CDATA[11,4944]]></AbwPr>
+    <GspAbDat info="Gesperrt ab Datum" type="Date"><![CDATA[]]></GspAbDat>
+    <GspBisDat info="Gesperrt bis Datum" type="Date"><![CDATA[]]></GspBisDat>
+    <GspKz info="Ist Gesperrt" type="Boolean"><![CDATA[Nein]]></GspKz>
+    <Grp info="Gruppe" type="Integer"><![CDATA[]]></Grp>
+    <ArtBez info="Artikel Bezeichnung" type="Blob"><![CDATA[]]></ArtBez>
+    <PreisMge info="Preise gelten für Menge" type="Float"><![CDATA[1]]></PreisMge>
+    <Rab0_Pr info="Rab0->Rabattpreis" type="Float"><![CDATA[]]></Rab0_Pr>
+    <Rab0_Sz info="Rab0->Rabattsatz" type="Float"><![CDATA[]]></Rab0_Sz>
+    <Rab0_Mge info="Rab0->Rabattmenge" type="Float"><![CDATA[]]></Rab0_Mge>
+    <Rab1_Pr info="Rab1->Rabattpreis" type="Float"><![CDATA[]]></Rab1_Pr>
+    <Rab1_Sz info="Rab1->Rabattsatz" type="Float"><![CDATA[]]></Rab1_Sz>
+    <Rab1_Mge info="Rab1->Rabattmenge" type="Float"><![CDATA[]]></Rab1_Mge>
+    <Rab2_Pr info="Rab2->Rabattpreis" type="Float"><![CDATA[]]></Rab2_Pr>
+    <Rab2_Sz info="Rab2->Rabattsatz" type="Float"><![CDATA[]]></Rab2_Sz>
+    <Rab2_Mge info="Rab2->Rabattmenge" type="Float"><![CDATA[]]></Rab2_Mge>
+    <Rab3_Pr info="Rab3->Rabattpreis" type="Float"><![CDATA[]]></Rab3_Pr>
+    <Rab3_Sz info="Rab3->Rabattsatz" type="Float"><![CDATA[]]></Rab3_Sz>
+    <Rab3_Mge info="Rab3->Rabattmenge" type="Float"><![CDATA[]]></Rab3_Mge>
+    </ArtikelAbweichend>
+  <ArtikelAbweichend>
+    <AdrNr info="Adressnummer" type="WideString"><![CDATA[16405]]></AdrNr>
+    <ArtNr info="Artikelnummer" type="WideString"><![CDATA[1808]]></ArtNr>
+    <AbwPr info="Abweichender Preis" type="Float"><![CDATA[10,4944]]></AbwPr>
+    <GspAbDat info="Gesperrt ab Datum" type="Date"><![CDATA[]]></GspAbDat>
+    <GspBisDat info="Gesperrt bis Datum" type="Date"><![CDATA[]]></GspBisDat>
+    <GspKz info="Ist Gesperrt" type="Boolean"><![CDATA[Nein]]></GspKz>
+    <Grp info="Gruppe" type="Integer"><![CDATA[Pekdemir]]></Grp>
+    <ArtBez info="Artikel Bezeichnung" type="Blob"><![CDATA[]]></ArtBez>
+    <PreisMge info="Preise gelten für Menge" type="Float"><![CDATA[]]></PreisMge>
+    <Rab0_Pr info="Rab0->Rabattpreis" type="Float"><![CDATA[]]></Rab0_Pr>
+    <Rab0_Sz info="Rab0->Rabattsatz" type="Float"><![CDATA[]]></Rab0_Sz>
+    <Rab0_Mge info="Rab0->Rabattmenge" type="Float"><![CDATA[]]></Rab0_Mge>
+    <Rab1_Pr info="Rab1->Rabattpreis" type="Float"><![CDATA[]]></Rab1_Pr>
+    <Rab1_Sz info="Rab1->Rabattsatz" type="Float"><![CDATA[]]></Rab1_Sz>
+    <Rab1_Mge info="Rab1->Rabattmenge" type="Float"><![CDATA[]]></Rab1_Mge>
+    <Rab2_Pr info="Rab2->Rabattpreis" type="Float"><![CDATA[]]></Rab2_Pr>
+    <Rab2_Sz info="Rab2->Rabattsatz" type="Float"><![CDATA[]]></Rab2_Sz>
+    <Rab2_Mge info="Rab2->Rabattmenge" type="Float"><![CDATA[]]></Rab2_Mge>
+    <Rab3_Pr info="Rab3->Rabattpreis" type="Float"><![CDATA[]]></Rab3_Pr>
+    <Rab3_Sz info="Rab3->Rabattsatz" type="Float"><![CDATA[]]></Rab3_Sz>
+    <Rab3_Mge info="Rab3->Rabattmenge" type="Float"><![CDATA[]]></Rab3_Mge>
+  </ArtikelAbweichend>
+  <ArtikelAbweichend>
+    <AdrNr info="Adressnummer" type="WideString"><![CDATA[17230]]></AdrNr>
+    <ArtNr info="Artikelnummer" type="WideString"><![CDATA[1808]]></ArtNr>
+    <AbwPr info="Abweichender Preis" type="Float"><![CDATA[10,4944]]></AbwPr>
+    <GspAbDat info="Gesperrt ab Datum" type="Date"><![CDATA[]]></GspAbDat>
+    <GspBisDat info="Gesperrt bis Datum" type="Date"><![CDATA[]]></GspBisDat>
+    <GspKz info="Ist Gesperrt" type="Boolean"><![CDATA[Nein]]></GspKz>
+    <Grp info="Gruppe" type="Integer"><![CDATA[Pekdemir]]></Grp>
+    <ArtBez info="Artikel Bezeichnung" type="Blob"><![CDATA[]]></ArtBez>
+    <PreisMge info="Preise gelten für Menge" type="Float"><![CDATA[]]></PreisMge>
+    <Rab0_Pr info="Rab0->Rabattpreis" type="Float"><![CDATA[]]></Rab0_Pr>
+    <Rab0_Sz info="Rab0->Rabattsatz" type="Float"><![CDATA[]]></Rab0_Sz>
+    <Rab0_Mge info="Rab0->Rabattmenge" type="Float"><![CDATA[]]></Rab0_Mge>
+    <Rab1_Pr info="Rab1->Rabattpreis" type="Float"><![CDATA[]]></Rab1_Pr>
+    <Rab1_Sz info="Rab1->Rabattsatz" type="Float"><![CDATA[]]></Rab1_Sz>
+    <Rab1_Mge info="Rab1->Rabattmenge" type="Float"><![CDATA[]]></Rab1_Mge>
+    <Rab2_Pr info="Rab2->Rabattpreis" type="Float"><![CDATA[]]></Rab2_Pr>
+    <Rab2_Sz info="Rab2->Rabattsatz" type="Float"><![CDATA[]]></Rab2_Sz>
+    <Rab2_Mge info="Rab2->Rabattmenge" type="Float"><![CDATA[]]></Rab2_Mge>
+    <Rab3_Pr info="Rab3->Rabattpreis" type="Float"><![CDATA[]]></Rab3_Pr>
+    <Rab3_Sz info="Rab3->Rabattsatz" type="Float"><![CDATA[]]></Rab3_Sz>
+    <Rab3_Mge info="Rab3->Rabattmenge" type="Float"><![CDATA[]]></Rab3_Mge>
+  </ArtikelAbweichend>
+  <ArtikelAbweichend>
+    <AdrNr info="Adressnummer" type="WideString"><![CDATA[17330]]></AdrNr>
+    <ArtNr info="Artikelnummer" type="WideString"><![CDATA[1808]]></ArtNr>
+    <AbwPr info="Abweichender Preis" type="Float"><![CDATA[10,4944]]></AbwPr>
+    <GspAbDat info="Gesperrt ab Datum" type="Date"><![CDATA[]]></GspAbDat>
+    <GspBisDat info="Gesperrt bis Datum" type="Date"><![CDATA[]]></GspBisDat>
+    <GspKz info="Ist Gesperrt" type="Boolean"><![CDATA[Nein]]></GspKz>
+    <Grp info="Gruppe" type="Integer"><![CDATA[Pekdemir]]></Grp>
+    <ArtBez info="Artikel Bezeichnung" type="Blob"><![CDATA[]]></ArtBez>
+    <PreisMge info="Preise gelten für Menge" type="Float"><![CDATA[]]></PreisMge>
+    <Rab0_Pr info="Rab0->Rabattpreis" type="Float"><![CDATA[]]></Rab0_Pr>
+    <Rab0_Sz info="Rab0->Rabattsatz" type="Float"><![CDATA[]]></Rab0_Sz>
+    <Rab0_Mge info="Rab0->Rabattmenge" type="Float"><![CDATA[]]></Rab0_Mge>
+    <Rab1_Pr info="Rab1->Rabattpreis" type="Float"><![CDATA[]]></Rab1_Pr>
+    <Rab1_Sz info="Rab1->Rabattsatz" type="Float"><![CDATA[]]></Rab1_Sz>
+    <Rab1_Mge info="Rab1->Rabattmenge" type="Float"><![CDATA[]]></Rab1_Mge>
+    <Rab2_Pr info="Rab2->Rabattpreis" type="Float"><![CDATA[]]></Rab2_Pr>
+    <Rab2_Sz info="Rab2->Rabattsatz" type="Float"><![CDATA[]]></Rab2_Sz>
+    <Rab2_Mge info="Rab2->Rabattmenge" type="Float"><![CDATA[]]></Rab2_Mge>
+    <Rab3_Pr info="Rab3->Rabattpreis" type="Float"><![CDATA[]]></Rab3_Pr>
+    <Rab3_Sz info="Rab3->Rabattsatz" type="Float"><![CDATA[]]></Rab3_Sz>
+    <Rab3_Mge info="Rab3->Rabattmenge" type="Float"><![CDATA[]]></Rab3_Mge>
+  </ArtikelAbweichend>
+    <ArtikelAbweichend>
+    <AdrNr info="Adressnummer" type="WideString"><![CDATA[16473]]></AdrNr>
+    <ArtNr info="Artikelnummer" type="WideString"><![CDATA[1808]]></ArtNr>
+    <AbwPr info="Abweichender Preis" type="Float"><![CDATA[10,6944]]></AbwPr>
+    <GspAbDat info="Gesperrt ab Datum" type="Date"><![CDATA[]]></GspAbDat>
+    <GspBisDat info="Gesperrt bis Datum" type="Date"><![CDATA[]]></GspBisDat>
+    <GspKz info="Ist Gesperrt" type="Boolean"><![CDATA[Nein]]></GspKz>
+    <Grp info="Gruppe" type="Integer"><![CDATA[]]></Grp>
+    <ArtBez info="Artikel Bezeichnung" type="Blob"><![CDATA[]]></ArtBez>
+    <PreisMge info="Preise gelten für Menge" type="Float"><![CDATA[1]]></PreisMge>
+    <Rab0_Pr info="Rab0->Rabattpreis" type="Float"><![CDATA[]]></Rab0_Pr>
+    <Rab0_Sz info="Rab0->Rabattsatz" type="Float"><![CDATA[]]></Rab0_Sz>
+    <Rab0_Mge info="Rab0->Rabattmenge" type="Float"><![CDATA[]]></Rab0_Mge>
+    <Rab1_Pr info="Rab1->Rabattpreis" type="Float"><![CDATA[]]></Rab1_Pr>
+    <Rab1_Sz info="Rab1->Rabattsatz" type="Float"><![CDATA[]]></Rab1_Sz>
+    <Rab1_Mge info="Rab1->Rabattmenge" type="Float"><![CDATA[]]></Rab1_Mge>
+    <Rab2_Pr info="Rab2->Rabattpreis" type="Float"><![CDATA[]]></Rab2_Pr>
+    <Rab2_Sz info="Rab2->Rabattsatz" type="Float"><![CDATA[]]></Rab2_Sz>
+    <Rab2_Mge info="Rab2->Rabattmenge" type="Float"><![CDATA[]]></Rab2_Mge>
+    <Rab3_Pr info="Rab3->Rabattpreis" type="Float"><![CDATA[]]></Rab3_Pr>
+    <Rab3_Sz info="Rab3->Rabattsatz" type="Float"><![CDATA[]]></Rab3_Sz>
+    <Rab3_Mge info="Rab3->Rabattmenge" type="Float"><![CDATA[]]></Rab3_Mge>
+    </ArtikelAbweichend>
+    <ArtikelAbweichend>
+    <AdrNr info="Adressnummer" type="WideString"><![CDATA[17029]]></AdrNr>
+    <ArtNr info="Artikelnummer" type="WideString"><![CDATA[1808]]></ArtNr>
+    <AbwPr info="Abweichender Preis" type="Float"><![CDATA[9,9944]]></AbwPr>
+    <GspAbDat info="Gesperrt ab Datum" type="Date"><![CDATA[]]></GspAbDat>
+    <GspBisDat info="Gesperrt bis Datum" type="Date"><![CDATA[]]></GspBisDat>
+    <GspKz info="Ist Gesperrt" type="Boolean"><![CDATA[Nein]]></GspKz>
+    <Grp info="Gruppe" type="Integer"><![CDATA[]]></Grp>
+    <ArtBez info="Artikel Bezeichnung" type="Blob"><![CDATA[]]></ArtBez>
+    <PreisMge info="Preise gelten für Menge" type="Float"><![CDATA[1]]></PreisMge>
+    <Rab0_Pr info="Rab0->Rabattpreis" type="Float"><![CDATA[]]></Rab0_Pr>
+    <Rab0_Sz info="Rab0->Rabattsatz" type="Float"><![CDATA[]]></Rab0_Sz>
+    <Rab0_Mge info="Rab0->Rabattmenge" type="Float"><![CDATA[]]></Rab0_Mge>
+    <Rab1_Pr info="Rab1->Rabattpreis" type="Float"><![CDATA[]]></Rab1_Pr>
+    <Rab1_Sz info="Rab1->Rabattsatz" type="Float"><![CDATA[]]></Rab1_Sz>
+    <Rab1_Mge info="Rab1->Rabattmenge" type="Float"><![CDATA[]]></Rab1_Mge>
+    <Rab2_Pr info="Rab2->Rabattpreis" type="Float"><![CDATA[]]></Rab2_Pr>
+    <Rab2_Sz info="Rab2->Rabattsatz" type="Float"><![CDATA[]]></Rab2_Sz>
+    <Rab2_Mge info="Rab2->Rabattmenge" type="Float"><![CDATA[]]></Rab2_Mge>
+    <Rab3_Pr info="Rab3->Rabattpreis" type="Float"><![CDATA[]]></Rab3_Pr>
+    <Rab3_Sz info="Rab3->Rabattsatz" type="Float"><![CDATA[]]></Rab3_Sz>
+    <Rab3_Mge info="Rab3->Rabattmenge" type="Float"><![CDATA[]]></Rab3_Mge>
+    </ArtikelAbweichend>
+    <ArtikelAbweichend>
+    <AdrNr info="Adressnummer" type="WideString"><![CDATA[17363]]></AdrNr>
+    <ArtNr info="Artikelnummer" type="WideString"><![CDATA[1808]]></ArtNr>
+    <AbwPr info="Abweichender Preis" type="Float"><![CDATA[10,4944]]></AbwPr>
+    <GspAbDat info="Gesperrt ab Datum" type="Date"><![CDATA[]]></GspAbDat>
+    <GspBisDat info="Gesperrt bis Datum" type="Date"><![CDATA[]]></GspBisDat>
+    <GspKz info="Ist Gesperrt" type="Boolean"><![CDATA[Nein]]></GspKz>
+    <Grp info="Gruppe" type="Integer"><![CDATA[]]></Grp>
+    <ArtBez info="Artikel Bezeichnung" type="Blob"><![CDATA[]]></ArtBez>
+    <PreisMge info="Preise gelten für Menge" type="Float"><![CDATA[1]]></PreisMge>
+    <Rab0_Pr info="Rab0->Rabattpreis" type="Float"><![CDATA[]]></Rab0_Pr>
+    <Rab0_Sz info="Rab0->Rabattsatz" type="Float"><![CDATA[]]></Rab0_Sz>
+    <Rab0_Mge info="Rab0->Rabattmenge" type="Float"><![CDATA[]]></Rab0_Mge>
+    <Rab1_Pr info="Rab1->Rabattpreis" type="Float"><![CDATA[]]></Rab1_Pr>
+    <Rab1_Sz info="Rab1->Rabattsatz" type="Float"><![CDATA[]]></Rab1_Sz>
+    <Rab1_Mge info="Rab1->Rabattmenge" type="Float"><![CDATA[]]></Rab1_Mge>
+    <Rab2_Pr info="Rab2->Rabattpreis" type="Float"><![CDATA[]]></Rab2_Pr>
+    <Rab2_Sz info="Rab2->Rabattsatz" type="Float"><![CDATA[]]></Rab2_Sz>
+    <Rab2_Mge info="Rab2->Rabattmenge" type="Float"><![CDATA[]]></Rab2_Mge>
+    <Rab3_Pr info="Rab3->Rabattpreis" type="Float"><![CDATA[]]></Rab3_Pr>
+    <Rab3_Sz info="Rab3->Rabattsatz" type="Float"><![CDATA[]]></Rab3_Sz>
+    <Rab3_Mge info="Rab3->Rabattmenge" type="Float"><![CDATA[]]></Rab3_Mge>
+    </ArtikelAbweichend>
+    <ArtikelAbweichend>
+    <AdrNr info="Adressnummer" type="WideString"><![CDATA[17370]]></AdrNr>
+    <ArtNr info="Artikelnummer" type="WideString"><![CDATA[1808]]></ArtNr>
+    <AbwPr info="Abweichender Preis" type="Float"><![CDATA[9,9904]]></AbwPr>
+    <GspAbDat info="Gesperrt ab Datum" type="Date"><![CDATA[]]></GspAbDat>
+    <GspBisDat info="Gesperrt bis Datum" type="Date"><![CDATA[]]></GspBisDat>
+    <GspKz info="Ist Gesperrt" type="Boolean"><![CDATA[Nein]]></GspKz>
+    <Grp info="Gruppe" type="Integer"><![CDATA[]]></Grp>
+    <ArtBez info="Artikel Bezeichnung" type="Blob"><![CDATA[]]></ArtBez>
+    <PreisMge info="Preise gelten für Menge" type="Float"><![CDATA[1]]></PreisMge>
+    <Rab0_Pr info="Rab0->Rabattpreis" type="Float"><![CDATA[]]></Rab0_Pr>
+    <Rab0_Sz info="Rab0->Rabattsatz" type="Float"><![CDATA[]]></Rab0_Sz>
+    <Rab0_Mge info="Rab0->Rabattmenge" type="Float"><![CDATA[]]></Rab0_Mge>
+    <Rab1_Pr info="Rab1->Rabattpreis" type="Float"><![CDATA[]]></Rab1_Pr>
+    <Rab1_Sz info="Rab1->Rabattsatz" type="Float"><![CDATA[]]></Rab1_Sz>
+    <Rab1_Mge info="Rab1->Rabattmenge" type="Float"><![CDATA[]]></Rab1_Mge>
+    <Rab2_Pr info="Rab2->Rabattpreis" type="Float"><![CDATA[]]></Rab2_Pr>
+    <Rab2_Sz info="Rab2->Rabattsatz" type="Float"><![CDATA[]]></Rab2_Sz>
+    <Rab2_Mge info="Rab2->Rabattmenge" type="Float"><![CDATA[]]></Rab2_Mge>
+    <Rab3_Pr info="Rab3->Rabattpreis" type="Float"><![CDATA[]]></Rab3_Pr>
+    <Rab3_Sz info="Rab3->Rabattsatz" type="Float"><![CDATA[]]></Rab3_Sz>
+    <Rab3_Mge info="Rab3->Rabattmenge" type="Float"><![CDATA[]]></Rab3_Mge>
+    </ArtikelAbweichend>
+    <ArtikelAbweichend>
+    <AdrNr info="Adressnummer" type="WideString"><![CDATA[14779]]></AdrNr>
+    <ArtNr info="Artikelnummer" type="WideString"><![CDATA[1808]]></ArtNr>
+    <AbwPr info="Abweichender Preis" type="Float"><![CDATA[10,9944]]></AbwPr>
+    <GspAbDat info="Gesperrt ab Datum" type="Date"><![CDATA[]]></GspAbDat>
+    <GspBisDat info="Gesperrt bis Datum" type="Date"><![CDATA[]]></GspBisDat>
+    <GspKz info="Ist Gesperrt" type="Boolean"><![CDATA[Nein]]></GspKz>
+    <Grp info="Gruppe" type="Integer"><![CDATA[]]></Grp>
+    <ArtBez info="Artikel Bezeichnung" type="Blob"><![CDATA[]]></ArtBez>
+    <PreisMge info="Preise gelten für Menge" type="Float"><![CDATA[1]]></PreisMge>
+    <Rab0_Pr info="Rab0->Rabattpreis" type="Float"><![CDATA[]]></Rab0_Pr>
+    <Rab0_Sz info="Rab0->Rabattsatz" type="Float"><![CDATA[]]></Rab0_Sz>
+    <Rab0_Mge info="Rab0->Rabattmenge" type="Float"><![CDATA[]]></Rab0_Mge>
+    <Rab1_Pr info="Rab1->Rabattpreis" type="Float"><![CDATA[]]></Rab1_Pr>
+    <Rab1_Sz info="Rab1->Rabattsatz" type="Float"><![CDATA[]]></Rab1_Sz>
+    <Rab1_Mge info="Rab1->Rabattmenge" type="Float"><![CDATA[]]></Rab1_Mge>
+    <Rab2_Pr info="Rab2->Rabattpreis" type="Float"><![CDATA[]]></Rab2_Pr>
+    <Rab2_Sz info="Rab2->Rabattsatz" type="Float"><![CDATA[]]></Rab2_Sz>
+    <Rab2_Mge info="Rab2->Rabattmenge" type="Float"><![CDATA[]]></Rab2_Mge>
+    <Rab3_Pr info="Rab3->Rabattpreis" type="Float"><![CDATA[]]></Rab3_Pr>
+    <Rab3_Sz info="Rab3->Rabattsatz" type="Float"><![CDATA[]]></Rab3_Sz>
+    <Rab3_Mge info="Rab3->Rabattmenge" type="Float"><![CDATA[]]></Rab3_Mge>
+    </ArtikelAbweichend>
+    <ArtikelAbweichend>
+    <AdrNr info="Adressnummer" type="WideString"><![CDATA[17781]]></AdrNr>
+    <ArtNr info="Artikelnummer" type="WideString"><![CDATA[1808]]></ArtNr>
+    <AbwPr info="Abweichender Preis" type="Float"><![CDATA[10,9904]]></AbwPr>
+    <GspAbDat info="Gesperrt ab Datum" type="Date"><![CDATA[]]></GspAbDat>
+    <GspBisDat info="Gesperrt bis Datum" type="Date"><![CDATA[]]></GspBisDat>
+    <GspKz info="Ist Gesperrt" type="Boolean"><![CDATA[Nein]]></GspKz>
+    <Grp info="Gruppe" type="Integer"><![CDATA[]]></Grp>
+    <ArtBez info="Artikel Bezeichnung" type="Blob"><![CDATA[]]></ArtBez>
+    <PreisMge info="Preise gelten für Menge" type="Float"><![CDATA[1]]></PreisMge>
+    <Rab0_Pr info="Rab0->Rabattpreis" type="Float"><![CDATA[]]></Rab0_Pr>
+    <Rab0_Sz info="Rab0->Rabattsatz" type="Float"><![CDATA[]]></Rab0_Sz>
+    <Rab0_Mge info="Rab0->Rabattmenge" type="Float"><![CDATA[]]></Rab0_Mge>
+    <Rab1_Pr info="Rab1->Rabattpreis" type="Float"><![CDATA[]]></Rab1_Pr>
+    <Rab1_Sz info="Rab1->Rabattsatz" type="Float"><![CDATA[]]></Rab1_Sz>
+    <Rab1_Mge info="Rab1->Rabattmenge" type="Float"><![CDATA[]]></Rab1_Mge>
+    <Rab2_Pr info="Rab2->Rabattpreis" type="Float"><![CDATA[]]></Rab2_Pr>
+    <Rab2_Sz info="Rab2->Rabattsatz" type="Float"><![CDATA[]]></Rab2_Sz>
+    <Rab2_Mge info="Rab2->Rabattmenge" type="Float"><![CDATA[]]></Rab2_Mge>
+    <Rab3_Pr info="Rab3->Rabattpreis" type="Float"><![CDATA[]]></Rab3_Pr>
+    <Rab3_Sz info="Rab3->Rabattsatz" type="Float"><![CDATA[]]></Rab3_Sz>
+    <Rab3_Mge info="Rab3->Rabattmenge" type="Float"><![CDATA[]]></Rab3_Mge>
+    </ArtikelAbweichend>
+  </ArtikelAbweichende>
+  <Dokumente>
+  <Dokument>
+    <DateiName info="Dateiname" type="WideString"><![CDATA[]]></DateiName>
+    <Na info="Name" type="WideString"><![CDATA[1808 - Scampi 31-40 geschält entd. roh 1kg]]></Na>
+    <Ext info="Dateinamenserweiterung" type="WideString"><![CDATA[.pdf]]></Ext>
+    <Sel1 info="WebShop-Kennzeichen" type="Boolean"><![CDATA[Nein]]></Sel1>
+  </Dokument>
+  </Dokumente>
+  <GebindeListe>
+  </GebindeListe>
+</Artikel>
+</ArtikelListe>

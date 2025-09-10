@@ -1,0 +1,79 @@
+{
+  "metadata": {
+    "generated_at": "2025-09-10T23:17:05.880974",
+    "client_number": "15480",
+    "data_source": "BotanBot XML Export"
+  },
+  "client_profile": {
+    "client_number": "15480",
+    "search_term": "BABA ARABIAN",
+    "status": "Kunde",
+    "tax_number": "",
+    "vat_id": "",
+    "is_blocked": false,
+    "price_group": "(Std.-Preis)",
+    "billing_address": {
+      "salutation": "",
+      "name": "Baba Arabian BBQ (Foodtruck)",
+      "name3": "Inh. Azad Al-Batal",
+      "street": "Hans Jürgen Klinker Str. 3",
+      "city": "Schleswig",
+      "postal_code": "24837",
+      "country": "Deutschland",
+      "phone": "(01 74) 23 95 - 9 46",
+      "fax": "",
+      "email": "info@autoverwertung-yoyo.de"
+    },
+    "delivery_address": {
+      "salutation": "",
+      "name": "Baba Arabian BBQ (Foodtruck)",
+      "name3": "Inh. Azad Al-Batal",
+      "street": "Hans Jürgen Klinker Str. 3",
+      "city": "Schleswig",
+      "postal_code": "24837",
+      "country": "Deutschland",
+      "phone": "(01 74) 23 95 - 9 46",
+      "fax": "",
+      "email": "info@autoverwertung-yoyo.de"
+    },
+    "delivery_schedule": {
+      "monday": "",
+      "tuesday": "",
+      "wednesday": "",
+      "thursday": "",
+      "friday": "",
+      "saturday": ""
+    },
+    "settings": {
+      "webshop_enabled": false,
+      "ds_addresses": false,
+      "no_pickup_app": false,
+      "minimum_order_value": null,
+      "articles_not_in_history": ""
+    },
+    "additional_addresses": [
+      {
+        "address_number": "0",
+        "salutation": "",
+        "name": "Baba Arabian BBQ (Foodtruck)",
+        "name3": "Inh. Azad Al-Batal",
+        "street": "Hans Jürgen Klinker Str. 3",
+        "city": "Schleswig",
+        "postal_code": "24837",
+        "country": "Deutschland",
+        "phone": "(01 74) 23 95 - 9 46",
+        "fax": "",
+        "email": "info@autoverwertung-yoyo.de",
+        "is_default_billing": true,
+        "is_default_delivery": true
+      }
+    ]
+  },
+  "order_statistics": {
+    "total_orders": 0,
+    "unique_articles_ordered": 0,
+    "recent_orders_count": 0,
+    "last_order_date": null
+  },
+  "order_history": []
+}

@@ -1,0 +1,94 @@
+{
+  "metadata": {
+    "generated_at": "2025-09-10T23:17:06.136579",
+    "client_number": "16323",
+    "data_source": "BotanBot XML Export"
+  },
+  "client_profile": {
+    "client_number": "16323",
+    "search_term": "HIER BÄCKEREI",
+    "status": "Kunde",
+    "tax_number": "",
+    "vat_id": "",
+    "is_blocked": false,
+    "price_group": "(Std.-Preis)",
+    "billing_address": {
+      "salutation": "",
+      "name": "KALITE GmbH",
+      "name3": "Inh. Riza Erol",
+      "street": "Goosacker 2",
+      "city": "Hamburg",
+      "postal_code": "22549",
+      "country": "Deutschland",
+      "phone": "(01 76) 23 88 32 22",
+      "fax": "",
+      "email": "riza.erol@gmx.de"
+    },
+    "delivery_address": {
+      "salutation": "",
+      "name": "Burger Lounge",
+      "name3": "Inh. Riza Erol",
+      "street": "Lattenkamp 33",
+      "city": "Hamburg",
+      "postal_code": "22299",
+      "country": "Deutschland",
+      "phone": "(01 71) 1 11 16 94",
+      "fax": "",
+      "email": "riza.erol@gmx.de;koca1@freenet.de"
+    },
+    "delivery_schedule": {
+      "monday": "",
+      "tuesday": "",
+      "wednesday": "",
+      "thursday": "",
+      "friday": "",
+      "saturday": ""
+    },
+    "settings": {
+      "webshop_enabled": false,
+      "ds_addresses": false,
+      "no_pickup_app": false,
+      "minimum_order_value": null,
+      "articles_not_in_history": "3009"
+    },
+    "additional_addresses": [
+      {
+        "address_number": "0",
+        "salutation": "",
+        "name": "KALITE GmbH",
+        "name3": "Inh. Riza Erol",
+        "street": "Goosacker 2",
+        "city": "Hamburg",
+        "postal_code": "22549",
+        "country": "Deutschland",
+        "phone": "(01 76) 23 88 32 22",
+        "fax": "",
+        "email": "riza.erol@gmx.de",
+        "is_default_billing": true,
+        "is_default_delivery": false
+      },
+      {
+        "address_number": "1",
+        "salutation": "",
+        "name": "Burger Lounge",
+        "name3": "Inh. Riza Erol",
+        "street": "Lattenkamp 33",
+        "city": "Hamburg",
+        "postal_code": "22299",
+        "country": "Deutschland",
+        "phone": "(01 71) 1 11 16 94",
+        "fax": "",
+        "email": "riza.erol@gmx.de;koca1@freenet.de",
+        "is_default_billing": false,
+        "is_default_delivery": true
+      }
+    ]
+  },
+  "order_statistics": {
+    "total_orders": 0,
+    "unique_articles_ordered": 0,
+    "recent_orders_count": 0,
+    "last_order_date": null
+  },
+  "order_history": []
+}

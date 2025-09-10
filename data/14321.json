@@ -1,0 +1,94 @@
+{
+  "metadata": {
+    "generated_at": "2025-09-10T23:17:05.550953",
+    "client_number": "14321",
+    "data_source": "BotanBot XML Export"
+  },
+  "client_profile": {
+    "client_number": "14321",
+    "search_term": "SYSTEMGASTRONOMIE",
+    "status": "Kunde",
+    "tax_number": "48763902546",
+    "vat_id": "DE294323454",
+    "is_blocked": false,
+    "price_group": "(Std.-Preis)",
+    "billing_address": {
+      "salutation": "",
+      "name": "NEO Catering GmbH",
+      "name3": "",
+      "street": "Kieler Str. 430",
+      "city": "Hamburg",
+      "postal_code": "22525",
+      "country": "Deutschland",
+      "phone": "(04 51) 40 08 33 41",
+      "fax": "",
+      "email": "info@neocatering.de"
+    },
+    "delivery_address": {
+      "salutation": "",
+      "name": "NEO the urban Kitchen & Bar",
+      "name3": "",
+      "street": "Schmiedestr. 24-26",
+      "city": "Lübeck",
+      "postal_code": "23552",
+      "country": "Deutschland",
+      "phone": "(04 51) 40 08 33 41",
+      "fax": "(04 51) 40 08 15 24",
+      "email": "info@neocatering.de"
+    },
+    "delivery_schedule": {
+      "monday": "",
+      "tuesday": "",
+      "wednesday": "",
+      "thursday": "",
+      "friday": "",
+      "saturday": ""
+    },
+    "settings": {
+      "webshop_enabled": false,
+      "ds_addresses": true,
+      "no_pickup_app": false,
+      "minimum_order_value": null,
+      "articles_not_in_history": ""
+    },
+    "additional_addresses": [
+      {
+        "address_number": "0",
+        "salutation": "",
+        "name": "NEO Catering GmbH",
+        "name3": "",
+        "street": "Kieler Str. 430",
+        "city": "Hamburg",
+        "postal_code": "22525",
+        "country": "Deutschland",
+        "phone": "(04 51) 40 08 33 41",
+        "fax": "",
+        "email": "info@neocatering.de",
+        "is_default_billing": true,
+        "is_default_delivery": false
+      },
+      {
+        "address_number": "1",
+        "salutation": "",
+        "name": "NEO the urban Kitchen & Bar",
+        "name3": "",
+        "street": "Schmiedestr. 24-26",
+        "city": "Lübeck",
+        "postal_code": "23552",
+        "country": "Deutschland",
+        "phone": "(04 51) 40 08 33 41",
+        "fax": "(04 51) 40 08 15 24",
+        "email": "info@neocatering.de",
+        "is_default_billing": false,
+        "is_default_delivery": true
+      }
+    ]
+  },
+  "order_statistics": {
+    "total_orders": 0,
+    "unique_articles_ordered": 0,
+    "recent_orders_count": 0,
+    "last_order_date": null
+  },
+  "order_history": []
+}

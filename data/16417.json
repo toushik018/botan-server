@@ -1,0 +1,79 @@
+{
+  "metadata": {
+    "generated_at": "2025-09-10T23:17:06.176129",
+    "client_number": "16417",
+    "data_source": "BotanBot XML Export"
+  },
+  "client_profile": {
+    "client_number": "16417",
+    "search_term": "LANGE REIHE",
+    "status": "Kunde",
+    "tax_number": "46/716/02957",
+    "vat_id": "",
+    "is_blocked": true,
+    "price_group": "(Std.-Preis)",
+    "billing_address": {
+      "salutation": "Farina Di Nonna",
+      "name": "DS Lange Reihe 19UG",
+      "name3": "GF Sohra Schümann",
+      "street": "Lange Reihe 19",
+      "city": "Hamburg",
+      "postal_code": "20099",
+      "country": "Deutschland",
+      "phone": "(0 40) 28 00 38 58",
+      "fax": "",
+      "email": "info@dslangereihe19.de"
+    },
+    "delivery_address": {
+      "salutation": "Farina Di Nonna",
+      "name": "DS Lange Reihe 19UG",
+      "name3": "GF Sohra Schümann",
+      "street": "Lange Reihe 19",
+      "city": "Hamburg",
+      "postal_code": "20099",
+      "country": "Deutschland",
+      "phone": "(0 40) 28 00 38 58",
+      "fax": "",
+      "email": "info@dslangereihe19.de"
+    },
+    "delivery_schedule": {
+      "monday": "",
+      "tuesday": "",
+      "wednesday": "",
+      "thursday": "3",
+      "friday": "",
+      "saturday": ""
+    },
+    "settings": {
+      "webshop_enabled": false,
+      "ds_addresses": true,
+      "no_pickup_app": false,
+      "minimum_order_value": null,
+      "articles_not_in_history": ""
+    },
+    "additional_addresses": [
+      {
+        "address_number": "0",
+        "salutation": "Farina Di Nonna",
+        "name": "DS Lange Reihe 19UG",
+        "name3": "GF Sohra Schümann",
+        "street": "Lange Reihe 19",
+        "city": "Hamburg",
+        "postal_code": "20099",
+        "country": "Deutschland",
+        "phone": "(0 40) 28 00 38 58",
+        "fax": "",
+        "email": "info@dslangereihe19.de",
+        "is_default_billing": true,
+        "is_default_delivery": true
+      }
+    ]
+  },
+  "order_statistics": {
+    "total_orders": 0,
+    "unique_articles_ordered": 0,
+    "recent_orders_count": 0,
+    "last_order_date": null
+  },
+  "order_history": []
+}

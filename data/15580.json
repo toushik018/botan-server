@@ -1,0 +1,79 @@
+{
+  "metadata": {
+    "generated_at": "2025-09-10T23:17:05.907355",
+    "client_number": "15580",
+    "data_source": "BotanBot XML Export"
+  },
+  "client_profile": {
+    "client_number": "15580",
+    "search_term": "LIMITED",
+    "status": "Kunde",
+    "tax_number": "166409887",
+    "vat_id": "GB166409887",
+    "is_blocked": false,
+    "price_group": "(Std.-Preis)",
+    "billing_address": {
+      "salutation": "Firma",
+      "name": "OCI Limited",
+      "name3": "",
+      "street": "9 White Lion Street",
+      "city": "London",
+      "postal_code": "N1 9PD",
+      "country": "Großbritannien und Nordirland",
+      "phone": "",
+      "fax": "",
+      "email": "oc@oci-group.co.uk"
+    },
+    "delivery_address": {
+      "salutation": "Firma",
+      "name": "OCI Limited",
+      "name3": "",
+      "street": "9 White Lion Street",
+      "city": "London",
+      "postal_code": "N1 9PD",
+      "country": "Großbritannien und Nordirland",
+      "phone": "",
+      "fax": "",
+      "email": "oc@oci-group.co.uk"
+    },
+    "delivery_schedule": {
+      "monday": "",
+      "tuesday": "",
+      "wednesday": "",
+      "thursday": "",
+      "friday": "",
+      "saturday": ""
+    },
+    "settings": {
+      "webshop_enabled": false,
+      "ds_addresses": false,
+      "no_pickup_app": false,
+      "minimum_order_value": null,
+      "articles_not_in_history": ""
+    },
+    "additional_addresses": [
+      {
+        "address_number": "0",
+        "salutation": "Firma",
+        "name": "OCI Limited",
+        "name3": "",
+        "street": "9 White Lion Street",
+        "city": "London",
+        "postal_code": "N1 9PD",
+        "country": "Großbritannien und Nordirland",
+        "phone": "",
+        "fax": "",
+        "email": "oc@oci-group.co.uk",
+        "is_default_billing": true,
+        "is_default_delivery": true
+      }
+    ]
+  },
+  "order_statistics": {
+    "total_orders": 0,
+    "unique_articles_ordered": 0,
+    "recent_orders_count": 0,
+    "last_order_date": null
+  },
+  "order_history": []
+}

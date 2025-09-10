@@ -1,0 +1,94 @@
+{
+  "metadata": {
+    "generated_at": "2025-09-10T23:17:04.787074",
+    "client_number": "11546",
+    "data_source": "BotanBot XML Export"
+  },
+  "client_profile": {
+    "client_number": "11546",
+    "search_term": "BURGEREI",
+    "status": "Kunde",
+    "tax_number": "",
+    "vat_id": "",
+    "is_blocked": false,
+    "price_group": "(Std.-Preis)",
+    "billing_address": {
+      "salutation": "Firma",
+      "name": "Burgerei",
+      "name3": "Inh. Alexander Pokorny",
+      "street": "Dreiecksplatz 8",
+      "city": "Kiel",
+      "postal_code": "24105",
+      "country": "Deutschland",
+      "phone": "(0 40) 53 89 74 55",
+      "fax": "(0 40) 53 89 74 56",
+      "email": "info@sanremo-kiel.de"
+    },
+    "delivery_address": {
+      "salutation": "Firma",
+      "name": "Burgerei",
+      "name3": "",
+      "street": "Wilhelmienenstr. 11",
+      "city": "Kiel",
+      "postal_code": "24103",
+      "country": "Deutschland",
+      "phone": "(04 31) 99 04 90 30",
+      "fax": "(01 76) 2 38 57 71 3M IC HA",
+      "email": ""
+    },
+    "delivery_schedule": {
+      "monday": "",
+      "tuesday": "",
+      "wednesday": "",
+      "thursday": "",
+      "friday": "",
+      "saturday": ""
+    },
+    "settings": {
+      "webshop_enabled": false,
+      "ds_addresses": false,
+      "no_pickup_app": false,
+      "minimum_order_value": null,
+      "articles_not_in_history": ""
+    },
+    "additional_addresses": [
+      {
+        "address_number": "0",
+        "salutation": "Firma",
+        "name": "Burgerei",
+        "name3": "Inh. Alexander Pokorny",
+        "street": "Dreiecksplatz 8",
+        "city": "Kiel",
+        "postal_code": "24105",
+        "country": "Deutschland",
+        "phone": "(0 40) 53 89 74 55",
+        "fax": "(0 40) 53 89 74 56",
+        "email": "info@sanremo-kiel.de",
+        "is_default_billing": true,
+        "is_default_delivery": false
+      },
+      {
+        "address_number": "1",
+        "salutation": "Firma",
+        "name": "Burgerei",
+        "name3": "",
+        "street": "Wilhelmienenstr. 11",
+        "city": "Kiel",
+        "postal_code": "24103",
+        "country": "Deutschland",
+        "phone": "(04 31) 99 04 90 30",
+        "fax": "(01 76) 2 38 57 71 3M IC HA",
+        "email": "",
+        "is_default_billing": false,
+        "is_default_delivery": true
+      }
+    ]
+  },
+  "order_statistics": {
+    "total_orders": 0,
+    "unique_articles_ordered": 0,
+    "recent_orders_count": 0,
+    "last_order_date": null
+  },
+  "order_history": []
+}

@@ -1,0 +1,94 @@
+{
+  "metadata": {
+    "generated_at": "2025-09-10T23:17:06.386567",
+    "client_number": "16988",
+    "data_source": "BotanBot XML Export"
+  },
+  "client_profile": {
+    "client_number": "16988",
+    "search_term": "DÄNISCHE SCHULE",
+    "status": "Kunde",
+    "tax_number": "",
+    "vat_id": "",
+    "is_blocked": false,
+    "price_group": "(Std.-Preis)",
+    "billing_address": {
+      "salutation": "Firma",
+      "name": "„Dänisches Schülerwohnheim",
+      "name3": "Ungdomskollegiet e.V. Flensburg",
+      "street": "Merienhölzungsweg 66",
+      "city": "Flensburg",
+      "postal_code": "24393",
+      "country": "Deutschland",
+      "phone": "(04 61) 5 00 27 94",
+      "fax": "",
+      "email": "heikorobin.neufahrt@skoleforeningen.org"
+    },
+    "delivery_address": {
+      "salutation": "Firma",
+      "name": "„Dänisches Schülerwohnheim",
+      "name3": "Ungdomskollegiet e.V. Flensburg",
+      "street": "Merienhölzungsweg 66",
+      "city": "Flensburg",
+      "postal_code": "24393",
+      "country": "Deutschland",
+      "phone": "(04 61) 5 00 27 94",
+      "fax": "",
+      "email": "heikorobin.neufahrt@skoleforeningen.org"
+    },
+    "delivery_schedule": {
+      "monday": "",
+      "tuesday": "",
+      "wednesday": "",
+      "thursday": "",
+      "friday": "",
+      "saturday": ""
+    },
+    "settings": {
+      "webshop_enabled": false,
+      "ds_addresses": false,
+      "no_pickup_app": false,
+      "minimum_order_value": null,
+      "articles_not_in_history": ""
+    },
+    "additional_addresses": [
+      {
+        "address_number": "0",
+        "salutation": "Firma",
+        "name": "„Dänisches Schülerwohnheim",
+        "name3": "Ungdomskollegiet e.V. Flensburg",
+        "street": "Merienhölzungsweg 66",
+        "city": "Flensburg",
+        "postal_code": "24393",
+        "country": "Deutschland",
+        "phone": "(04 61) 5 00 27 94",
+        "fax": "",
+        "email": "heikorobin.neufahrt@skoleforeningen.org",
+        "is_default_billing": true,
+        "is_default_delivery": true
+      },
+      {
+        "address_number": "1",
+        "salutation": "Firma",
+        "name": "Dansk Skoleforening for Sydslesvig e.V.",
+        "name3": "",
+        "street": "Stuhrsallee 22",
+        "city": "2499 Flensburg",
+        "postal_code": "",
+        "country": "Deutschland",
+        "phone": "(04 61) 50 47 - 0",
+        "fax": "",
+        "email": "",
+        "is_default_billing": false,
+        "is_default_delivery": false
+      }
+    ]
+  },
+  "order_statistics": {
+    "total_orders": 0,
+    "unique_articles_ordered": 0,
+    "recent_orders_count": 0,
+    "last_order_date": null
+  },
+  "order_history": []
+}

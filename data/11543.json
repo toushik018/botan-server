@@ -1,0 +1,94 @@
+{
+  "metadata": {
+    "generated_at": "2025-09-10T23:17:04.786074",
+    "client_number": "11543",
+    "data_source": "BotanBot XML Export"
+  },
+  "client_profile": {
+    "client_number": "11543",
+    "search_term": "AKROPOLIS",
+    "status": "Kunde",
+    "tax_number": "",
+    "vat_id": "",
+    "is_blocked": false,
+    "price_group": "(Std.-Preis)",
+    "billing_address": {
+      "salutation": "",
+      "name": "Restaurant Akropolis",
+      "name3": "Inh.: Sezayi Özpolat",
+      "street": "Süderende 12",
+      "city": "Erfde",
+      "postal_code": "24803",
+      "country": "Deutschland",
+      "phone": "(0 43 33) 99 29 39",
+      "fax": "(01 70) 8 70 63 99",
+      "email": "aga-han@hotmail.de"
+    },
+    "delivery_address": {
+      "salutation": "",
+      "name": "Restaurant Akropolis",
+      "name3": "Inh.: Sezayi Özpolat",
+      "street": "Süderende 12",
+      "city": "Erfde",
+      "postal_code": "24803",
+      "country": "Deutschland",
+      "phone": "(0 43 33) 99 29 39",
+      "fax": "(01 70) 8 70 63 99",
+      "email": "aga-han@hotmail.de"
+    },
+    "delivery_schedule": {
+      "monday": "",
+      "tuesday": "",
+      "wednesday": "",
+      "thursday": "",
+      "friday": "5",
+      "saturday": ""
+    },
+    "settings": {
+      "webshop_enabled": false,
+      "ds_addresses": false,
+      "no_pickup_app": false,
+      "minimum_order_value": null,
+      "articles_not_in_history": ""
+    },
+    "additional_addresses": [
+      {
+        "address_number": "0",
+        "salutation": "",
+        "name": "Restaurant Akropolis",
+        "name3": "Inh.: Sezayi Özpolat",
+        "street": "Süderende 12",
+        "city": "Erfde",
+        "postal_code": "24803",
+        "country": "Deutschland",
+        "phone": "(0 43 33) 99 29 39",
+        "fax": "(01 70) 8 70 63 99",
+        "email": "aga-han@hotmail.de",
+        "is_default_billing": true,
+        "is_default_delivery": true
+      },
+      {
+        "address_number": "1",
+        "salutation": "",
+        "name": "",
+        "name3": "",
+        "street": "",
+        "city": "",
+        "postal_code": "",
+        "country": "Deutschland",
+        "phone": "",
+        "fax": "",
+        "email": "",
+        "is_default_billing": false,
+        "is_default_delivery": false
+      }
+    ]
+  },
+  "order_statistics": {
+    "total_orders": 0,
+    "unique_articles_ordered": 0,
+    "recent_orders_count": 0,
+    "last_order_date": null
+  },
+  "order_history": []
+}

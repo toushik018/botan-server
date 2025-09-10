@@ -1,0 +1,79 @@
+{
+  "metadata": {
+    "generated_at": "2025-09-10T23:17:06.807697",
+    "client_number": "75107",
+    "data_source": "BotanBot XML Export"
+  },
+  "client_profile": {
+    "client_number": "75107",
+    "search_term": "BRÜNING",
+    "status": "Lieferant",
+    "tax_number": "",
+    "vat_id": "",
+    "is_blocked": false,
+    "price_group": "(Std.-Preis)",
+    "billing_address": {
+      "salutation": "Firma",
+      "name": "Kai Brüning Obst- und Gemüsegrosshandel GmbH",
+      "name3": "Kd. Nr. 10145",
+      "street": "Gnutzer Str. 15",
+      "city": "Nortorf",
+      "postal_code": "24589",
+      "country": "Deutschland",
+      "phone": "(0 43 92) 92 48 60",
+      "fax": "(0 43 92) 9 24 86 93",
+      "email": "info@bruening-nortorf.de"
+    },
+    "delivery_address": {
+      "salutation": "Firma",
+      "name": "Kai Brüning Obst- und Gemüsegrosshandel GmbH",
+      "name3": "Kd. Nr. 10145",
+      "street": "Gnutzer Str. 15",
+      "city": "Nortorf",
+      "postal_code": "24589",
+      "country": "Deutschland",
+      "phone": "(0 43 92) 92 48 60",
+      "fax": "(0 43 92) 9 24 86 93",
+      "email": "info@bruening-nortorf.de"
+    },
+    "delivery_schedule": {
+      "monday": "",
+      "tuesday": "",
+      "wednesday": "",
+      "thursday": "",
+      "friday": "",
+      "saturday": ""
+    },
+    "settings": {
+      "webshop_enabled": false,
+      "ds_addresses": false,
+      "no_pickup_app": false,
+      "minimum_order_value": null,
+      "articles_not_in_history": ""
+    },
+    "additional_addresses": [
+      {
+        "address_number": "0",
+        "salutation": "Firma",
+        "name": "Kai Brüning Obst- und Gemüsegrosshandel GmbH",
+        "name3": "Kd. Nr. 10145",
+        "street": "Gnutzer Str. 15",
+        "city": "Nortorf",
+        "postal_code": "24589",
+        "country": "Deutschland",
+        "phone": "(0 43 92) 92 48 60",
+        "fax": "(0 43 92) 9 24 86 93",
+        "email": "info@bruening-nortorf.de",
+        "is_default_billing": true,
+        "is_default_delivery": true
+      }
+    ]
+  },
+  "order_statistics": {
+    "total_orders": 0,
+    "unique_articles_ordered": 0,
+    "recent_orders_count": 0,
+    "last_order_date": null
+  },
+  "order_history": []
+}

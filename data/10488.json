@@ -1,0 +1,94 @@
+{
+  "metadata": {
+    "generated_at": "2025-09-10T23:17:04.487493",
+    "client_number": "10488",
+    "data_source": "BotanBot XML Export"
+  },
+  "client_profile": {
+    "client_number": "10488",
+    "search_term": "",
+    "status": "Kunde",
+    "tax_number": "",
+    "vat_id": "",
+    "is_blocked": false,
+    "price_group": "(Std.-Preis)",
+    "billing_address": {
+      "salutation": "Firma",
+      "name": "Früchte Gebhardt",
+      "name3": "",
+      "street": "Edisonstraße 46",
+      "city": "Kiel",
+      "postal_code": "24145",
+      "country": "Deutschland",
+      "phone": "(04 31) 71 81 80",
+      "fax": "",
+      "email": ""
+    },
+    "delivery_address": {
+      "salutation": "Firma",
+      "name": "Früchte Gebhardt",
+      "name3": "",
+      "street": "Edisonstraße 46",
+      "city": "Kiel",
+      "postal_code": "24145",
+      "country": "Deutschland",
+      "phone": "(04 31) 71 81 80",
+      "fax": "",
+      "email": ""
+    },
+    "delivery_schedule": {
+      "monday": "19",
+      "tuesday": "19",
+      "wednesday": "19",
+      "thursday": "19",
+      "friday": "19",
+      "saturday": "19"
+    },
+    "settings": {
+      "webshop_enabled": false,
+      "ds_addresses": false,
+      "no_pickup_app": false,
+      "minimum_order_value": null,
+      "articles_not_in_history": ""
+    },
+    "additional_addresses": [
+      {
+        "address_number": "0",
+        "salutation": "Firma",
+        "name": "Früchte Gebhardt",
+        "name3": "",
+        "street": "Edisonstraße 46",
+        "city": "Kiel",
+        "postal_code": "24145",
+        "country": "Deutschland",
+        "phone": "(04 31) 71 81 80",
+        "fax": "",
+        "email": "",
+        "is_default_billing": true,
+        "is_default_delivery": true
+      },
+      {
+        "address_number": "1",
+        "salutation": "Firma",
+        "name": "FRÜCHTE-GEBHARD",
+        "name3": "",
+        "street": "",
+        "city": "KIEL",
+        "postal_code": "",
+        "country": "Deutschland",
+        "phone": "",
+        "fax": "",
+        "email": "",
+        "is_default_billing": false,
+        "is_default_delivery": false
+      }
+    ]
+  },
+  "order_statistics": {
+    "total_orders": 0,
+    "unique_articles_ordered": 0,
+    "recent_orders_count": 0,
+    "last_order_date": null
+  },
+  "order_history": []
+}

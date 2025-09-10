@@ -1,0 +1,79 @@
+{
+  "metadata": {
+    "generated_at": "2025-09-10T23:17:05.663196",
+    "client_number": "14767",
+    "data_source": "BotanBot XML Export"
+  },
+  "client_profile": {
+    "client_number": "14767",
+    "search_term": "SENOR JALAPENO",
+    "status": "Kunde",
+    "tax_number": "",
+    "vat_id": "",
+    "is_blocked": true,
+    "price_group": "(Std.-Preis)",
+    "billing_address": {
+      "salutation": "",
+      "name": "Senor Jalapeno",
+      "name3": "Inh.: Bayen Teuber",
+      "street": "Preuße Str. 8",
+      "city": "Kiel",
+      "postal_code": "24105",
+      "country": "Deutschland",
+      "phone": "(0 15 73) 9 36 25 31",
+      "fax": "",
+      "email": "jorgebayen@gmail.com"
+    },
+    "delivery_address": {
+      "salutation": "",
+      "name": "Senor Jalapeno",
+      "name3": "Inh.: Bayen Teuber",
+      "street": "Preuße Str. 8",
+      "city": "Kiel",
+      "postal_code": "24105",
+      "country": "Deutschland",
+      "phone": "(0 15 73) 9 36 25 31",
+      "fax": "",
+      "email": "jorgebayen@gmail.com"
+    },
+    "delivery_schedule": {
+      "monday": "",
+      "tuesday": "",
+      "wednesday": "",
+      "thursday": "",
+      "friday": "",
+      "saturday": ""
+    },
+    "settings": {
+      "webshop_enabled": false,
+      "ds_addresses": false,
+      "no_pickup_app": false,
+      "minimum_order_value": null,
+      "articles_not_in_history": ""
+    },
+    "additional_addresses": [
+      {
+        "address_number": "0",
+        "salutation": "",
+        "name": "Senor Jalapeno",
+        "name3": "Inh.: Bayen Teuber",
+        "street": "Preuße Str. 8",
+        "city": "Kiel",
+        "postal_code": "24105",
+        "country": "Deutschland",
+        "phone": "(0 15 73) 9 36 25 31",
+        "fax": "",
+        "email": "jorgebayen@gmail.com",
+        "is_default_billing": true,
+        "is_default_delivery": true
+      }
+    ]
+  },
+  "order_statistics": {
+    "total_orders": 0,
+    "unique_articles_ordered": 0,
+    "recent_orders_count": 0,
+    "last_order_date": null
+  },
+  "order_history": []
+}

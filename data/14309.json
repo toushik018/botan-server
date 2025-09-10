@@ -1,0 +1,79 @@
+{
+  "metadata": {
+    "generated_at": "2025-09-10T23:17:05.547953",
+    "client_number": "14309",
+    "data_source": "BotanBot XML Export"
+  },
+  "client_profile": {
+    "client_number": "14309",
+    "search_term": "HANSE",
+    "status": "Kunde",
+    "tax_number": "",
+    "vat_id": "",
+    "is_blocked": true,
+    "price_group": "(Std.-Preis)",
+    "billing_address": {
+      "salutation": "",
+      "name": "Le Hanse",
+      "name3": "Inh.Schakib Nakibi",
+      "street": "Vizelinstrasse 8b",
+      "city": "Hamburg",
+      "postal_code": "22529",
+      "country": "Deutschland",
+      "phone": "(0 40) 54 75 42 30",
+      "fax": "",
+      "email": "schakibnakibi@hotmail.de"
+    },
+    "delivery_address": {
+      "salutation": "",
+      "name": "Le Hanse",
+      "name3": "Inh.Schakib Nakibi",
+      "street": "Vizelinstrasse 8b",
+      "city": "Hamburg",
+      "postal_code": "22529",
+      "country": "Deutschland",
+      "phone": "(0 40) 54 75 42 30",
+      "fax": "",
+      "email": "schakibnakibi@hotmail.de"
+    },
+    "delivery_schedule": {
+      "monday": "",
+      "tuesday": "",
+      "wednesday": "",
+      "thursday": "",
+      "friday": "",
+      "saturday": ""
+    },
+    "settings": {
+      "webshop_enabled": false,
+      "ds_addresses": false,
+      "no_pickup_app": false,
+      "minimum_order_value": null,
+      "articles_not_in_history": ""
+    },
+    "additional_addresses": [
+      {
+        "address_number": "0",
+        "salutation": "",
+        "name": "Le Hanse",
+        "name3": "Inh.Schakib Nakibi",
+        "street": "Vizelinstrasse 8b",
+        "city": "Hamburg",
+        "postal_code": "22529",
+        "country": "Deutschland",
+        "phone": "(0 40) 54 75 42 30",
+        "fax": "",
+        "email": "schakibnakibi@hotmail.de",
+        "is_default_billing": true,
+        "is_default_delivery": true
+      }
+    ]
+  },
+  "order_statistics": {
+    "total_orders": 0,
+    "unique_articles_ordered": 0,
+    "recent_orders_count": 0,
+    "last_order_date": null
+  },
+  "order_history": []
+}

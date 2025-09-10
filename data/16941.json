@@ -1,0 +1,94 @@
+{
+  "metadata": {
+    "generated_at": "2025-09-10T23:17:06.366568",
+    "client_number": "16941",
+    "data_source": "BotanBot XML Export"
+  },
+  "client_profile": {
+    "client_number": "16941",
+    "search_term": "KÜSTENDIENST",
+    "status": "Kunde",
+    "tax_number": "",
+    "vat_id": "",
+    "is_blocked": false,
+    "price_group": "(Std.-Preis)",
+    "billing_address": {
+      "salutation": "Firma",
+      "name": "KSK Küstendienst GmbH & Co. KG",
+      "name3": "GF: Hauke Klement und Jurek Klement",
+      "street": "Weiholz 6a",
+      "city": "Holzdorf bei Eckernförde",
+      "postal_code": "24364",
+      "country": "Deutschland",
+      "phone": "(0 17) 59 76 20 75",
+      "fax": "",
+      "email": "einkauf@kuestendienst.de"
+    },
+    "delivery_address": {
+      "salutation": "Firma",
+      "name": "KSK Küstendienst GmbH & Co. KG",
+      "name3": "Anlieferung direkt am Wasser",
+      "street": "Am Ahlmannkai 1",
+      "city": "Büdelsdorf",
+      "postal_code": "24782",
+      "country": "Deutschland",
+      "phone": "(0 17) 59 76 20 75",
+      "fax": "",
+      "email": ""
+    },
+    "delivery_schedule": {
+      "monday": "",
+      "tuesday": "2",
+      "wednesday": "",
+      "thursday": "",
+      "friday": "4",
+      "saturday": ""
+    },
+    "settings": {
+      "webshop_enabled": false,
+      "ds_addresses": false,
+      "no_pickup_app": false,
+      "minimum_order_value": null,
+      "articles_not_in_history": ""
+    },
+    "additional_addresses": [
+      {
+        "address_number": "0",
+        "salutation": "Firma",
+        "name": "KSK Küstendienst GmbH & Co. KG",
+        "name3": "GF: Hauke Klement und Jurek Klement",
+        "street": "Weiholz 6a",
+        "city": "Holzdorf bei Eckernförde",
+        "postal_code": "24364",
+        "country": "Deutschland",
+        "phone": "(0 17) 59 76 20 75",
+        "fax": "",
+        "email": "einkauf@kuestendienst.de",
+        "is_default_billing": true,
+        "is_default_delivery": false
+      },
+      {
+        "address_number": "1",
+        "salutation": "Firma",
+        "name": "KSK Küstendienst GmbH & Co. KG",
+        "name3": "Anlieferung direkt am Wasser",
+        "street": "Am Ahlmannkai 1",
+        "city": "Büdelsdorf",
+        "postal_code": "24782",
+        "country": "Deutschland",
+        "phone": "(0 17) 59 76 20 75",
+        "fax": "",
+        "email": "",
+        "is_default_billing": false,
+        "is_default_delivery": true
+      }
+    ]
+  },
+  "order_statistics": {
+    "total_orders": 0,
+    "unique_articles_ordered": 0,
+    "recent_orders_count": 0,
+    "last_order_date": null
+  },
+  "order_history": []
+}

@@ -1,0 +1,79 @@
+{
+  "metadata": {
+    "generated_at": "2025-09-10T23:17:06.846736",
+    "client_number": "75811",
+    "data_source": "BotanBot XML Export"
+  },
+  "client_profile": {
+    "client_number": "75811",
+    "search_term": "RIEBER GERMANY",
+    "status": "Lieferant",
+    "tax_number": "",
+    "vat_id": "",
+    "is_blocked": true,
+    "price_group": "(Std.-Preis)",
+    "billing_address": {
+      "salutation": "Firma",
+      "name": "Rieber & Son Holland B.V.",
+      "name3": "",
+      "street": "Nijverheidsweg 5",
+      "city": "St. Maartensdijk",
+      "postal_code": "4695 ZH",
+      "country": "Niederlande",
+      "phone": "+31 (1 66) 66 36 44",
+      "fax": "+31 (1 66) 66 36 54",
+      "email": "info@rieberson.nl"
+    },
+    "delivery_address": {
+      "salutation": "Firma",
+      "name": "Rieber & Son Holland B.V.",
+      "name3": "",
+      "street": "Nijverheidsweg 5",
+      "city": "St. Maartensdijk",
+      "postal_code": "4695 ZH",
+      "country": "Niederlande",
+      "phone": "+31 (1 66) 66 36 44",
+      "fax": "+31 (1 66) 66 36 54",
+      "email": "info@rieberson.nl"
+    },
+    "delivery_schedule": {
+      "monday": "",
+      "tuesday": "",
+      "wednesday": "",
+      "thursday": "",
+      "friday": "",
+      "saturday": ""
+    },
+    "settings": {
+      "webshop_enabled": false,
+      "ds_addresses": false,
+      "no_pickup_app": false,
+      "minimum_order_value": null,
+      "articles_not_in_history": ""
+    },
+    "additional_addresses": [
+      {
+        "address_number": "0",
+        "salutation": "Firma",
+        "name": "Rieber & Son Holland B.V.",
+        "name3": "",
+        "street": "Nijverheidsweg 5",
+        "city": "St. Maartensdijk",
+        "postal_code": "4695 ZH",
+        "country": "Niederlande",
+        "phone": "+31 (1 66) 66 36 44",
+        "fax": "+31 (1 66) 66 36 54",
+        "email": "info@rieberson.nl",
+        "is_default_billing": true,
+        "is_default_delivery": true
+      }
+    ]
+  },
+  "order_statistics": {
+    "total_orders": 0,
+    "unique_articles_ordered": 0,
+    "recent_orders_count": 0,
+    "last_order_date": null
+  },
+  "order_history": []
+}

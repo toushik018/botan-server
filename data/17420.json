@@ -1,0 +1,94 @@
+{
+  "metadata": {
+    "generated_at": "2025-09-10T23:17:06.554340",
+    "client_number": "17420",
+    "data_source": "BotanBot XML Export"
+  },
+  "client_profile": {
+    "client_number": "17420",
+    "search_term": "YALCINKAYA",
+    "status": "Kunde",
+    "tax_number": "",
+    "vat_id": "",
+    "is_blocked": false,
+    "price_group": "(Std.-Preis)",
+    "billing_address": {
+      "salutation": "",
+      "name": "Ali Yalcinkaya",
+      "name3": "",
+      "street": "Im Bans 4",
+      "city": "Pinneberg",
+      "postal_code": "25421",
+      "country": "Deutschland",
+      "phone": "(0 17) 27 89 72 63",
+      "fax": "",
+      "email": "theyolcu02@gmail.com"
+    },
+    "delivery_address": {
+      "salutation": "Firma",
+      "name": "The Yolcu GmbH",
+      "name3": "",
+      "street": "Billbrookdeich 215",
+      "city": "Hamburg",
+      "postal_code": "22113",
+      "country": "Deutschland",
+      "phone": "(0 17) 27 89 72 63",
+      "fax": "",
+      "email": "theyolcu02@gmail.com"
+    },
+    "delivery_schedule": {
+      "monday": "4",
+      "tuesday": "",
+      "wednesday": "",
+      "thursday": "8",
+      "friday": "",
+      "saturday": ""
+    },
+    "settings": {
+      "webshop_enabled": false,
+      "ds_addresses": false,
+      "no_pickup_app": false,
+      "minimum_order_value": null,
+      "articles_not_in_history": ""
+    },
+    "additional_addresses": [
+      {
+        "address_number": "0",
+        "salutation": "",
+        "name": "Ali Yalcinkaya",
+        "name3": "",
+        "street": "Im Bans 4",
+        "city": "Pinneberg",
+        "postal_code": "25421",
+        "country": "Deutschland",
+        "phone": "(0 17) 27 89 72 63",
+        "fax": "",
+        "email": "theyolcu02@gmail.com",
+        "is_default_billing": true,
+        "is_default_delivery": false
+      },
+      {
+        "address_number": "1",
+        "salutation": "Firma",
+        "name": "The Yolcu GmbH",
+        "name3": "",
+        "street": "Billbrookdeich 215",
+        "city": "Hamburg",
+        "postal_code": "22113",
+        "country": "Deutschland",
+        "phone": "(0 17) 27 89 72 63",
+        "fax": "",
+        "email": "theyolcu02@gmail.com",
+        "is_default_billing": false,
+        "is_default_delivery": true
+      }
+    ]
+  },
+  "order_statistics": {
+    "total_orders": 0,
+    "unique_articles_ordered": 0,
+    "recent_orders_count": 0,
+    "last_order_date": null
+  },
+  "order_history": []
+}

@@ -1,0 +1,79 @@
+{
+  "metadata": {
+    "generated_at": "2025-09-10T23:17:05.912354",
+    "client_number": "15599",
+    "data_source": "BotanBot XML Export"
+  },
+  "client_profile": {
+    "client_number": "15599",
+    "search_term": "AHI",
+    "status": "Kunde",
+    "tax_number": "",
+    "vat_id": "",
+    "is_blocked": true,
+    "price_group": "(Std.-Preis)",
+    "billing_address": {
+      "salutation": "",
+      "name": "American Slider Burger",
+      "name3": "Inh. Mustafa Albadri",
+      "street": "Wasbeker Strasse 64",
+      "city": "Neumünster",
+      "postal_code": "24534",
+      "country": "Deutschland",
+      "phone": "(01 76) 55 00 16 21",
+      "fax": "",
+      "email": "american-slider-burger@gmx.de"
+    },
+    "delivery_address": {
+      "salutation": "",
+      "name": "American Slider Burger",
+      "name3": "Inh. Mustafa Albadri",
+      "street": "Wasbeker Strasse 64",
+      "city": "Neumünster",
+      "postal_code": "24534",
+      "country": "Deutschland",
+      "phone": "(01 76) 55 00 16 21",
+      "fax": "",
+      "email": "american-slider-burger@gmx.de"
+    },
+    "delivery_schedule": {
+      "monday": "",
+      "tuesday": "",
+      "wednesday": "8",
+      "thursday": "",
+      "friday": "",
+      "saturday": ""
+    },
+    "settings": {
+      "webshop_enabled": true,
+      "ds_addresses": false,
+      "no_pickup_app": false,
+      "minimum_order_value": 300.0,
+      "articles_not_in_history": ""
+    },
+    "additional_addresses": [
+      {
+        "address_number": "0",
+        "salutation": "",
+        "name": "American Slider Burger",
+        "name3": "Inh. Mustafa Albadri",
+        "street": "Wasbeker Strasse 64",
+        "city": "Neumünster",
+        "postal_code": "24534",
+        "country": "Deutschland",
+        "phone": "(01 76) 55 00 16 21",
+        "fax": "",
+        "email": "american-slider-burger@gmx.de",
+        "is_default_billing": true,
+        "is_default_delivery": true
+      }
+    ]
+  },
+  "order_statistics": {
+    "total_orders": 0,
+    "unique_articles_ordered": 0,
+    "recent_orders_count": 0,
+    "last_order_date": null
+  },
+  "order_history": []
+}

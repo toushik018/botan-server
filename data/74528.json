@@ -1,0 +1,79 @@
+{
+  "metadata": {
+    "generated_at": "2025-09-10T23:17:06.781658",
+    "client_number": "74528",
+    "data_source": "BotanBot XML Export"
+  },
+  "client_profile": {
+    "client_number": "74528",
+    "search_term": "ERÖZ HYGIENE VERPACKUNGS",
+    "status": "Lieferant",
+    "tax_number": "31458044005",
+    "vat_id": "DE290790971",
+    "is_blocked": false,
+    "price_group": "(Std.-Preis)",
+    "billing_address": {
+      "salutation": "",
+      "name": "Eröz Hygiene u. Verpackungs GmbH & Co.KG",
+      "name3": "",
+      "street": "Oespeler Kirchweg 9",
+      "city": "Dortmund",
+      "postal_code": "44379",
+      "country": "Deutschland",
+      "phone": "(02 31) 79 93 52 77",
+      "fax": "(02 31) 79 93 52 79",
+      "email": "info@eroz-gruppe.de"
+    },
+    "delivery_address": {
+      "salutation": "",
+      "name": "Eröz Hygiene u. Verpackungs GmbH & Co.KG",
+      "name3": "",
+      "street": "Oespeler Kirchweg 9",
+      "city": "Dortmund",
+      "postal_code": "44379",
+      "country": "Deutschland",
+      "phone": "(02 31) 79 93 52 77",
+      "fax": "(02 31) 79 93 52 79",
+      "email": "info@eroz-gruppe.de"
+    },
+    "delivery_schedule": {
+      "monday": "",
+      "tuesday": "",
+      "wednesday": "",
+      "thursday": "",
+      "friday": "",
+      "saturday": ""
+    },
+    "settings": {
+      "webshop_enabled": false,
+      "ds_addresses": false,
+      "no_pickup_app": false,
+      "minimum_order_value": null,
+      "articles_not_in_history": ""
+    },
+    "additional_addresses": [
+      {
+        "address_number": "0",
+        "salutation": "",
+        "name": "Eröz Hygiene u. Verpackungs GmbH & Co.KG",
+        "name3": "",
+        "street": "Oespeler Kirchweg 9",
+        "city": "Dortmund",
+        "postal_code": "44379",
+        "country": "Deutschland",
+        "phone": "(02 31) 79 93 52 77",
+        "fax": "(02 31) 79 93 52 79",
+        "email": "info@eroz-gruppe.de",
+        "is_default_billing": true,
+        "is_default_delivery": true
+      }
+    ]
+  },
+  "order_statistics": {
+    "total_orders": 0,
+    "unique_articles_ordered": 0,
+    "recent_orders_count": 0,
+    "last_order_date": null
+  },
+  "order_history": []
+}

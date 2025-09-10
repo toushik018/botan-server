@@ -1,0 +1,94 @@
+{
+  "metadata": {
+    "generated_at": "2025-09-10T23:17:04.786074",
+    "client_number": "11542",
+    "data_source": "BotanBot XML Export"
+  },
+  "client_profile": {
+    "client_number": "11542",
+    "search_term": "PRIVAT",
+    "status": "Kunde",
+    "tax_number": "",
+    "vat_id": "",
+    "is_blocked": false,
+    "price_group": "(Std.-Preis)",
+    "billing_address": {
+      "salutation": "Firma",
+      "name": "Hafen Grill",
+      "name3": "Inh.: Esra Sajak",
+      "street": "Am Hafen",
+      "city": "Wewelsfleth",
+      "postal_code": "25599",
+      "country": "Deutschland",
+      "phone": "(01 71) 6 56 01 44",
+      "fax": "(0 48 29) 9 02 79 90",
+      "email": ""
+    },
+    "delivery_address": {
+      "salutation": "Firma",
+      "name": "Hafen Grill",
+      "name3": "",
+      "street": "Wiesengrund 42",
+      "city": "Wewelsfleth",
+      "postal_code": "25599",
+      "country": "Deutschland",
+      "phone": "(0 48 29) 9 60 - 4 51",
+      "fax": "",
+      "email": ""
+    },
+    "delivery_schedule": {
+      "monday": "",
+      "tuesday": "",
+      "wednesday": "",
+      "thursday": "",
+      "friday": "",
+      "saturday": ""
+    },
+    "settings": {
+      "webshop_enabled": false,
+      "ds_addresses": false,
+      "no_pickup_app": false,
+      "minimum_order_value": null,
+      "articles_not_in_history": ""
+    },
+    "additional_addresses": [
+      {
+        "address_number": "0",
+        "salutation": "Firma",
+        "name": "Hafen Grill",
+        "name3": "Inh.: Esra Sajak",
+        "street": "Am Hafen",
+        "city": "Wewelsfleth",
+        "postal_code": "25599",
+        "country": "Deutschland",
+        "phone": "(01 71) 6 56 01 44",
+        "fax": "(0 48 29) 9 02 79 90",
+        "email": "",
+        "is_default_billing": true,
+        "is_default_delivery": false
+      },
+      {
+        "address_number": "1",
+        "salutation": "Firma",
+        "name": "Hafen Grill",
+        "name3": "",
+        "street": "Wiesengrund 42",
+        "city": "Wewelsfleth",
+        "postal_code": "25599",
+        "country": "Deutschland",
+        "phone": "(0 48 29) 9 60 - 4 51",
+        "fax": "",
+        "email": "",
+        "is_default_billing": false,
+        "is_default_delivery": true
+      }
+    ]
+  },
+  "order_statistics": {
+    "total_orders": 0,
+    "unique_articles_ordered": 0,
+    "recent_orders_count": 0,
+    "last_order_date": null
+  },
+  "order_history": []
+}

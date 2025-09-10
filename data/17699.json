@@ -1,0 +1,79 @@
+{
+  "metadata": {
+    "generated_at": "2025-09-10T23:17:06.676974",
+    "client_number": "17699",
+    "data_source": "BotanBot XML Export"
+  },
+  "client_profile": {
+    "client_number": "17699",
+    "search_term": "DITTMER",
+    "status": "Kunde",
+    "tax_number": "",
+    "vat_id": "DE173560256",
+    "is_blocked": false,
+    "price_group": "(Std.-Preis)",
+    "billing_address": {
+      "salutation": "",
+      "name": "Dittmer Gastro-Service GmbH",
+      "name3": "",
+      "street": "Lüneburger Schanze 15",
+      "city": "Buxtehude",
+      "postal_code": "21614",
+      "country": "Deutschland",
+      "phone": "(0 41 61) 71 66 10",
+      "fax": "(0 41 61) 71 66 21",
+      "email": "S.Dittmer@Dittmer.de"
+    },
+    "delivery_address": {
+      "salutation": "",
+      "name": "Dittmer Gastro-Service GmbH",
+      "name3": "",
+      "street": "Lüneburger Schanze 15",
+      "city": "Buxtehude",
+      "postal_code": "21614",
+      "country": "Deutschland",
+      "phone": "(0 41 61) 71 66 10",
+      "fax": "(0 41 61) 71 66 21",
+      "email": "S.Dittmer@Dittmer.de"
+    },
+    "delivery_schedule": {
+      "monday": "4",
+      "tuesday": "",
+      "wednesday": "",
+      "thursday": "",
+      "friday": "",
+      "saturday": ""
+    },
+    "settings": {
+      "webshop_enabled": false,
+      "ds_addresses": false,
+      "no_pickup_app": false,
+      "minimum_order_value": null,
+      "articles_not_in_history": ""
+    },
+    "additional_addresses": [
+      {
+        "address_number": "0",
+        "salutation": "",
+        "name": "Dittmer Gastro-Service GmbH",
+        "name3": "",
+        "street": "Lüneburger Schanze 15",
+        "city": "Buxtehude",
+        "postal_code": "21614",
+        "country": "Deutschland",
+        "phone": "(0 41 61) 71 66 10",
+        "fax": "(0 41 61) 71 66 21",
+        "email": "S.Dittmer@Dittmer.de",
+        "is_default_billing": true,
+        "is_default_delivery": true
+      }
+    ]
+  },
+  "order_statistics": {
+    "total_orders": 0,
+    "unique_articles_ordered": 0,
+    "recent_orders_count": 0,
+    "last_order_date": null
+  },
+  "order_history": []
+}

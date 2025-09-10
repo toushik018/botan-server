@@ -1,0 +1,79 @@
+{
+  "metadata": {
+    "generated_at": "2025-09-10T23:17:04.814036",
+    "client_number": "11653",
+    "data_source": "BotanBot XML Export"
+  },
+  "client_profile": {
+    "client_number": "11653",
+    "search_term": "KLEINE STEAKHAUS",
+    "status": "Kunde",
+    "tax_number": "",
+    "vat_id": "",
+    "is_blocked": false,
+    "price_group": "(Std.-Preis)",
+    "billing_address": {
+      "salutation": "",
+      "name": "Das kleine Steakhouse EL TORO",
+      "name3": "Inh. Verica Petrovic",
+      "street": "Altenholzerstr. 6",
+      "city": "Altenholz",
+      "postal_code": "24161",
+      "country": "Deutschland",
+      "phone": "(04 31) 32 32 91",
+      "fax": "",
+      "email": "eltoro4@gmx.de"
+    },
+    "delivery_address": {
+      "salutation": "",
+      "name": "Das kleine Steakhouse EL TORO",
+      "name3": "Inh. Verica Petrovic",
+      "street": "Altenholzerstr. 6",
+      "city": "Altenholz",
+      "postal_code": "24161",
+      "country": "Deutschland",
+      "phone": "(04 31) 32 32 91",
+      "fax": "",
+      "email": "eltoro4@gmx.de"
+    },
+    "delivery_schedule": {
+      "monday": "",
+      "tuesday": "18",
+      "wednesday": "",
+      "thursday": "",
+      "friday": "18",
+      "saturday": ""
+    },
+    "settings": {
+      "webshop_enabled": false,
+      "ds_addresses": false,
+      "no_pickup_app": false,
+      "minimum_order_value": null,
+      "articles_not_in_history": ""
+    },
+    "additional_addresses": [
+      {
+        "address_number": "0",
+        "salutation": "",
+        "name": "Das kleine Steakhouse EL TORO",
+        "name3": "Inh. Verica Petrovic",
+        "street": "Altenholzerstr. 6",
+        "city": "Altenholz",
+        "postal_code": "24161",
+        "country": "Deutschland",
+        "phone": "(04 31) 32 32 91",
+        "fax": "",
+        "email": "eltoro4@gmx.de",
+        "is_default_billing": true,
+        "is_default_delivery": true
+      }
+    ]
+  },
+  "order_statistics": {
+    "total_orders": 0,
+    "unique_articles_ordered": 0,
+    "recent_orders_count": 0,
+    "last_order_date": null
+  },
+  "order_history": []
+}

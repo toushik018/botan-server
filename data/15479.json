@@ -1,0 +1,94 @@
+{
+  "metadata": {
+    "generated_at": "2025-09-10T23:17:05.879974",
+    "client_number": "15479",
+    "data_source": "BotanBot XML Export"
+  },
+  "client_profile": {
+    "client_number": "15479",
+    "search_term": "",
+    "status": "Kunde",
+    "tax_number": "",
+    "vat_id": "DE295959186",
+    "is_blocked": true,
+    "price_group": "(Std.-Preis)",
+    "billing_address": {
+      "salutation": "",
+      "name": "Luca Farina GmbH",
+      "name3": "",
+      "street": "An der Halle 400 #1",
+      "city": "Kiel",
+      "postal_code": "24143",
+      "country": "Deutschland",
+      "phone": "(04 31) 20 07 66 00",
+      "fax": "",
+      "email": "booking@lucafarina.de"
+    },
+    "delivery_address": {
+      "salutation": "",
+      "name": "Luca Farina",
+      "name3": "",
+      "street": "Holtenauerstrasse 152",
+      "city": "Kiel",
+      "postal_code": "24105",
+      "country": "Deutschland",
+      "phone": "(04 31) 88 86 32 88",
+      "fax": "",
+      "email": ""
+    },
+    "delivery_schedule": {
+      "monday": "",
+      "tuesday": "",
+      "wednesday": "",
+      "thursday": "",
+      "friday": "",
+      "saturday": ""
+    },
+    "settings": {
+      "webshop_enabled": false,
+      "ds_addresses": true,
+      "no_pickup_app": false,
+      "minimum_order_value": null,
+      "articles_not_in_history": "9160,9218,D1320"
+    },
+    "additional_addresses": [
+      {
+        "address_number": "0",
+        "salutation": "",
+        "name": "Luca Farina GmbH",
+        "name3": "",
+        "street": "An der Halle 400 #1",
+        "city": "Kiel",
+        "postal_code": "24143",
+        "country": "Deutschland",
+        "phone": "(04 31) 20 07 66 00",
+        "fax": "",
+        "email": "booking@lucafarina.de",
+        "is_default_billing": true,
+        "is_default_delivery": false
+      },
+      {
+        "address_number": "1",
+        "salutation": "",
+        "name": "Luca Farina",
+        "name3": "",
+        "street": "Holtenauerstrasse 152",
+        "city": "Kiel",
+        "postal_code": "24105",
+        "country": "Deutschland",
+        "phone": "(04 31) 88 86 32 88",
+        "fax": "",
+        "email": "",
+        "is_default_billing": false,
+        "is_default_delivery": true
+      }
+    ]
+  },
+  "order_statistics": {
+    "total_orders": 0,
+    "unique_articles_ordered": 0,
+    "recent_orders_count": 0,
+    "last_order_date": null
+  },
+  "order_history": []
+}

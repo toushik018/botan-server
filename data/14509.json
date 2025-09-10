@@ -1,0 +1,79 @@
+{
+  "metadata": {
+    "generated_at": "2025-09-10T23:17:05.598837",
+    "client_number": "14509",
+    "data_source": "BotanBot XML Export"
+  },
+  "client_profile": {
+    "client_number": "14509",
+    "search_term": "KIOSK HOLZBÜTTEL",
+    "status": "Kunde",
+    "tax_number": "",
+    "vat_id": "",
+    "is_blocked": false,
+    "price_group": "(Std.-Preis)",
+    "billing_address": {
+      "salutation": "Firma",
+      "name": "Kiosk Holzbüttel",
+      "name3": "Inh.: Jamshid Nazari",
+      "street": "Hamburger Strasse 103",
+      "city": "Ammersbek",
+      "postal_code": "22949",
+      "country": "Deutschland",
+      "phone": "(01 71) 2 95 95 66",
+      "fax": "",
+      "email": "jamshid_nazari@icloud.com"
+    },
+    "delivery_address": {
+      "salutation": "Firma",
+      "name": "Kiosk Holzbüttel",
+      "name3": "Inh.: Jamshid Nazari",
+      "street": "Hamburger Strasse 103",
+      "city": "Ammersbek",
+      "postal_code": "22949",
+      "country": "Deutschland",
+      "phone": "(01 71) 2 95 95 66",
+      "fax": "",
+      "email": "jamshid_nazari@icloud.com"
+    },
+    "delivery_schedule": {
+      "monday": "",
+      "tuesday": "",
+      "wednesday": "3",
+      "thursday": "",
+      "friday": "",
+      "saturday": ""
+    },
+    "settings": {
+      "webshop_enabled": false,
+      "ds_addresses": false,
+      "no_pickup_app": false,
+      "minimum_order_value": null,
+      "articles_not_in_history": ""
+    },
+    "additional_addresses": [
+      {
+        "address_number": "0",
+        "salutation": "Firma",
+        "name": "Kiosk Holzbüttel",
+        "name3": "Inh.: Jamshid Nazari",
+        "street": "Hamburger Strasse 103",
+        "city": "Ammersbek",
+        "postal_code": "22949",
+        "country": "Deutschland",
+        "phone": "(01 71) 2 95 95 66",
+        "fax": "",
+        "email": "jamshid_nazari@icloud.com",
+        "is_default_billing": true,
+        "is_default_delivery": true
+      }
+    ]
+  },
+  "order_statistics": {
+    "total_orders": 0,
+    "unique_articles_ordered": 0,
+    "recent_orders_count": 0,
+    "last_order_date": null
+  },
+  "order_history": []
+}

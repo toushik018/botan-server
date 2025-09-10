@@ -1,0 +1,94 @@
+{
+  "metadata": {
+    "generated_at": "2025-09-10T23:17:06.759165",
+    "client_number": "74224",
+    "data_source": "BotanBot XML Export"
+  },
+  "client_profile": {
+    "client_number": "74224",
+    "search_term": "BACK",
+    "status": "Lieferant",
+    "tax_number": "",
+    "vat_id": "",
+    "is_blocked": false,
+    "price_group": "(Std.-Preis)",
+    "billing_address": {
+      "salutation": "",
+      "name": "Backring Nord E. May GmbH & Co.KG",
+      "name3": "Kdnr. 60848",
+      "street": "Am Redder 9",
+      "city": "Bargteheide",
+      "postal_code": "22941",
+      "country": "Deutschland",
+      "phone": "(0 45 32) 9 75 23 00",
+      "fax": "(0 45 32) 9 75 - 24 10",
+      "email": "miriam.peschel@backring.de"
+    },
+    "delivery_address": {
+      "salutation": "",
+      "name": "Backring Nord E. May GmbH & Co.KG",
+      "name3": "Kdnr. 60848",
+      "street": "Am Redder 9",
+      "city": "Bargteheide",
+      "postal_code": "22941",
+      "country": "Deutschland",
+      "phone": "(0 45 32) 9 75 23 00",
+      "fax": "(0 45 32) 9 75 - 24 10",
+      "email": "kevin.mueller@backring.de"
+    },
+    "delivery_schedule": {
+      "monday": "",
+      "tuesday": "",
+      "wednesday": "",
+      "thursday": "",
+      "friday": "",
+      "saturday": ""
+    },
+    "settings": {
+      "webshop_enabled": false,
+      "ds_addresses": false,
+      "no_pickup_app": false,
+      "minimum_order_value": null,
+      "articles_not_in_history": ""
+    },
+    "additional_addresses": [
+      {
+        "address_number": "0",
+        "salutation": "",
+        "name": "Backring Nord E. May GmbH & Co.KG",
+        "name3": "Kdnr. 60848",
+        "street": "Am Redder 9",
+        "city": "Bargteheide",
+        "postal_code": "22941",
+        "country": "Deutschland",
+        "phone": "(0 45 32) 9 75 23 00",
+        "fax": "(0 45 32) 9 75 - 24 10",
+        "email": "miriam.peschel@backring.de",
+        "is_default_billing": true,
+        "is_default_delivery": false
+      },
+      {
+        "address_number": "1",
+        "salutation": "",
+        "name": "Backring Nord E. May GmbH & Co.KG",
+        "name3": "Kdnr. 60848",
+        "street": "Am Redder 9",
+        "city": "Bargteheide",
+        "postal_code": "22941",
+        "country": "Deutschland",
+        "phone": "(0 45 32) 9 75 23 00",
+        "fax": "(0 45 32) 9 75 - 24 10",
+        "email": "kevin.mueller@backring.de",
+        "is_default_billing": false,
+        "is_default_delivery": true
+      }
+    ]
+  },
+  "order_statistics": {
+    "total_orders": 0,
+    "unique_articles_ordered": 0,
+    "recent_orders_count": 0,
+    "last_order_date": null
+  },
+  "order_history": []
+}
