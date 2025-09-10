@@ -97,6 +97,7 @@ export class DataAPIService {
                 service: 'BotanBot Data API',
                 version: require('../../package.json').version,
                 environment: config.get('nodeEnv'),
+                domain: 'http://botan.susko.ai',
                 endpoints: {
                     health: `${this.apiPrefix}/health`,
                     products: `${this.apiPrefix}/products`,
@@ -146,8 +147,9 @@ export class DataAPIService {
                         apiPrefix: this.apiPrefix,
                         urls: {
                             local: `http://localhost:${this.port}`,
-                            api: `http://localhost:${this.port}${this.apiPrefix}`,
-                            health: `http://localhost:${this.port}${this.apiPrefix}/health`
+                            domain: `http://botan.susko.ai`,
+                            api: `http://botan.susko.ai${this.apiPrefix}`,
+                            health: `http://botan.susko.ai${this.apiPrefix}/health`
                         }
                     });
                     resolve();

@@ -154,7 +154,13 @@ export const corsOptions = {
         }
 
         // In production, check against allowed origins
-        const allowedOrigins = process.env.CORS_ORIGIN?.split(',') || ['*'];
+        const allowedOrigins = process.env.CORS_ORIGIN?.split(',') || [
+            'http://botan.susko.ai',
+            'https://botan.susko.ai',
+            'http://localhost:3000',
+            'http://localhost:3001'
+        ];
+
         if (allowedOrigins.includes('*') || allowedOrigins.includes(origin)) {
             callback(null, true);
         } else {
