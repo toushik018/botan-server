@@ -137,9 +137,11 @@ export class DataAPIService {
     public async start(): Promise<void> {
         return new Promise((resolve, reject) => {
             try {
-                this.server = this.app.listen(this.port, () => {
+                // Bind to all interfaces (both IPv4 and IPv6)
+                this.server = this.app.listen(this.port, '0.0.0.0', () => {
                     logger.info('Data API server started', {
                         port: this.port,
+                        host: '0.0.0.0',
                         environment: config.get('nodeEnv'),
                         apiPrefix: this.apiPrefix,
                         urls: {

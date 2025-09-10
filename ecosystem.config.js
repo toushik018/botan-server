@@ -30,9 +30,8 @@ module.exports = {
             log_date_format: 'YYYY-MM-DD HH:mm:ss Z',
 
             // Process monitoring
-            kill_timeout: 5000,
-            wait_ready: true,
-            listen_timeout: 10000
+            kill_timeout: 5000
+            // Removed wait_ready and listen_timeout to fix launching issues
         }
     ]
 };
