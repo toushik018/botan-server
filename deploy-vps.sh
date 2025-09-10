@@ -140,6 +140,11 @@ fi
 
 # Set up systemd service for auto-start
 print_status "Setting up systemd service..."
+
+# Find PM2 path
+PM2_PATH=$(which pm2)
+print_status "Found PM2 at: $PM2_PATH"
+
 tee /etc/systemd/system/botan-server.service > /dev/null << EOL
 [Unit]
 Description=BotanBot Data Server
@@ -151,9 +156,9 @@ User=root
 WorkingDirectory=$APP_DIR
 Environment=PATH=/usr/bin:/usr/local/bin
 Environment=NODE_ENV=production
-ExecStart=/usr/local/bin/pm2 start ecosystem.config.js --env production
-ExecReload=/usr/local/bin/pm2 reload ecosystem.config.js --env production
-ExecStop=/usr/local/bin/pm2 delete ecosystem.config.js
+ExecStart=$PM2_PATH start ecosystem.config.js --env production
+ExecReload=$PM2_PATH reload ecosystem.config.js --env production
+ExecStop=$PM2_PATH delete ecosystem.config.js
 Restart=always
 
 [Install]
