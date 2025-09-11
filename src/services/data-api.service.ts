@@ -147,9 +147,9 @@ export class DataAPIService {
                         apiPrefix: this.apiPrefix,
                         urls: {
                             local: `http://localhost:${this.port}`,
-                            domain: `http://botan.susko.ai`,
-                            api: `http://botan.susko.ai${this.apiPrefix}`,
-                            health: `http://botan.susko.ai${this.apiPrefix}/health`
+                            domain: `https://botan.susko.ai`,
+                            api: `https://botan.susko.ai${this.apiPrefix}`,
+                            health: `https://botan.susko.ai${this.apiPrefix}/health`
                         }
                     });
                     resolve();
