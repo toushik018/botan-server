@@ -18,14 +18,14 @@ export const clientNumberSchema = Joi.string()
 
 export const paginationSchema = Joi.object({
     page: Joi.number().integer().min(1).default(1),
-    limit: Joi.number().integer().min(1).max(100).default(20)
+    limit: Joi.number().integer().min(1).optional()
 });
 
 // Product endpoints
 export const productSearchSchema = Joi.object({
     q: Joi.string().min(1).max(100).optional(),
     category: Joi.string().min(1).max(50).optional(),
-    limit: Joi.number().integer().min(1).max(100).default(50),
+    limit: Joi.number().integer().optional(), // Removed min validation too
     page: Joi.number().integer().min(1).default(1)
 });
 

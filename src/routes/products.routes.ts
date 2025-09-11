@@ -28,7 +28,7 @@ router.get(
     validateRequest({ query: productSearchSchema }),
     async (req: Request, res: Response, next: NextFunction): Promise<void> => {
         try {
-            const { q, category, limit = 50, page = 1 } = req.query as any;
+            const { q, category, limit, page = 1 } = req.query as any;
 
             const products = await getProducts();
             let filteredProducts = products.all_products || [];
@@ -51,19 +51,25 @@ router.get(
                 );
             }
 
-            // Apply pagination
-            const startIndex = (page - 1) * limit;
-            const endIndex = startIndex + limit;
-            const paginatedProducts = filteredProducts.slice(startIndex, endIndex);
+            let responseData = filteredProducts;
+
+            // Apply pagination only if limit is specified
+            if (limit) {
+                const startIndex = (page - 1) * limit;
+                const endIndex = startIndex + limit;
+                responseData = filteredProducts.slice(startIndex, endIndex);
+            }
 
             const response: ApiResponse<Product[]> = {
                 success: true,
-                data: paginatedProducts,
+                data: responseData,
                 timestamp: new Date().toISOString()
             };
 
-            // Add pagination metadata
-            if (filteredProducts.length > limit) {
+            // Add pagination metadata only if limit is specified
+            if (limit) {
+                const startIndex = (page - 1) * limit;
+                const endIndex = startIndex + limit;
                 (response as any).pagination = {
                     page,
                     limit,
@@ -177,7 +183,7 @@ router.get(
             searchTerm: Joi.string().min(1).max(100).required()
         }),
         query: Joi.object({
-            limit: Joi.number().integer().min(1).max(100).default(50)
+            limit: Joi.number().integer().min(1).optional() // Removed max limit and default
         })
     }),
     async (req: Request, res: Response, next: NextFunction): Promise<void> => {
@@ -198,7 +204,7 @@ router.get(
 
             const response: ApiResponse<Product[]> = {
                 success: true,
-                data: filteredProducts.slice(0, limit),
+                data: limit ? filteredProducts.slice(0, limit) : filteredProducts,
                 timestamp: new Date().toISOString()
             };
 

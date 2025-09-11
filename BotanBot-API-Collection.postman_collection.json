@@ -142,7 +142,7 @@
                 {
                   "key": "limit",
                   "value": "50",
-                  "description": "Number of products to return (max 100)",
+                  "description": "Optional number of products per page (no maximum limit)",
                   "disabled": true
                 },
                 {
@@ -260,7 +260,7 @@
                 {
                   "key": "limit",
                   "value": "50",
-                  "description": "Maximum number of results to return",
+                  "description": "Optional number of results to return (no maximum limit)",
                   "disabled": true
                 }
               ]
