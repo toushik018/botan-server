@@ -25,18 +25,11 @@ module.exports = {
             max_restarts: 5,
             min_uptime: '10s',
 
-            // Logging configuration
-            log_file: '/opt/botan-server/logs/botan-pm2.log',
-            out_file: '/opt/botan-server/logs/botan-pm2-out.log',
-            error_file: '/opt/botan-server/logs/botan-pm2-error.log',
-            log_date_format: 'YYYY-MM-DD HH:mm:ss Z',
+            // Simple logging configuration
+            output: '/opt/botan-server/logs/out.log',
+            error: '/opt/botan-server/logs/error.log',
             merge_logs: true,
             time: true,
-            log: true,
-            env: {
-                LOG_LEVEL: 'debug',
-                LOG_FILE: '/opt/botan-server/logs/app.log'
-            },
 
             // Process monitoring
             kill_timeout: 5000
