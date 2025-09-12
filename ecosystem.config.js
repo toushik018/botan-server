@@ -31,6 +31,12 @@ module.exports = {
             error_file: '/opt/botan-server/logs/botan-pm2-error.log',
             log_date_format: 'YYYY-MM-DD HH:mm:ss Z',
             merge_logs: true,
+            time: true,
+            log: true,
+            env: {
+                LOG_LEVEL: 'debug',
+                LOG_FILE: '/opt/botan-server/logs/app.log'
+            },
 
             // Process monitoring
             kill_timeout: 5000
