@@ -25,11 +25,19 @@ module.exports = {
             max_restarts: 5,
             min_uptime: '10s',
 
-            // Simple logging configuration
+            // Enhanced logging configuration
             output: '/opt/botan-server/logs/out.log',
             error: '/opt/botan-server/logs/error.log',
+            log: '/opt/botan-server/logs/combined.log',
             merge_logs: true,
             time: true,
+            env: {
+                NODE_ENV: 'production',
+                PORT: 5000,
+                TRUST_PROXY: 'true',
+                DEBUG: '*',
+                LOG_LEVEL: 'debug'
+            },
 
             // Process monitoring
             kill_timeout: 5000
