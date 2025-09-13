@@ -1,7 +1,7 @@
 import { Request, Response, NextFunction } from 'express';
 import Joi from 'joi';
 import { logger } from '../utils';
-import { ValidationError } from '../types';
+import { ValidationError, NotFoundError, AppError } from '../types';
 
 /**
  * Request validation middleware using Joi schemas
@@ -106,11 +106,14 @@ export const errorHandler = (
     let message = 'Internal server error';
 
     // Handle specific error types
-    if (error instanceof ValidationError) {
-        statusCode = error.statusCode;
-        message = error.message;
-    } else if (error.name === 'ValidationError') {
+    if (error instanceof ValidationError || error.name === 'ValidationError') {
         statusCode = 400;
+        message = error.message;
+    } else if (error instanceof NotFoundError || error.name === 'NotFoundError') {
+        statusCode = 404;
+        message = error.message;
+    } else if (error instanceof AppError) {
+        statusCode = error.statusCode;
         message = error.message;
     }
 
